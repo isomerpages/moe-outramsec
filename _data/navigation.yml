@@ -36,3 +36,28 @@ links:
         url: /permalink
       - title: "STAFF ACHIEVEMENTS "
         url: /permalink
+  - title: SCHOOL PROGRAMMES
+    url: /permalink
+    sublinks:
+      - title: "INSTRUCTIONAL PROGRAMMES "
+        url: /permalink
+      - title: ENGLISH LANGUAGE
+        url: /permalink
+      - title: MOTHER TONGUE LANGUAGE
+        url: /permalink
+      - title: MATHEMATICS
+        url: /permalink
+      - title: SCIENCE
+        url: /permalink
+      - title: HUMANITIES
+        url: /permalink
+      - title: CRAFT & TECHNOLOGY
+        url: /permalink
+      - title: BUSINESS AND ENTERPRISE
+        url: /permalink
+      - title: PHYSICAL EDUCATION
+        url: /permalink
+      - title: CCE
+        url: /permalink
+      - title: ASSESSMENT IN OUTRAM
+        url: /permalink
