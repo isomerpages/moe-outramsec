@@ -70,3 +70,12 @@ links:
         url: /permalink
       - title: DIRECT SCHOOL ADMISSION
         url: /permalink
+  - title: LINKS
+    url: /permalink
+    sublinks:
+      - title: TEACHERS
+        url: /permalink
+      - title: STUDENTS
+        url: /permalink
+      - title: PARENTS
+        url: /permalink
