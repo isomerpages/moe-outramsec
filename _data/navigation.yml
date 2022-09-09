@@ -79,3 +79,12 @@ links:
         url: /permalink
       - title: PARENTS
         url: /permalink
+  - title: MEDIA
+    url: /permalink
+    sublinks:
+      - title: PHOTO GALLERY
+        url: /permalink
+      - title: OUTRAM FEATURED IN MEDIA
+        url: /permalink
+      - title: OSS OFFICIAL VIDEOS
+        url: /permalink
