@@ -61,3 +61,12 @@ links:
         url: /permalink
       - title: ASSESSMENT IN OUTRAM
         url: /permalink
+  - title: DISTINCTIVE PROGRAMMES
+    url: /permalink
+    sublinks:
+      - title: APPLIED LEARNING PROGRAMME
+        url: /permalink
+      - title: LEARNING FOR LIFE PROGRAMME
+        url: /permalink
+      - title: DIRECT SCHOOL ADMISSION
+        url: /permalink
