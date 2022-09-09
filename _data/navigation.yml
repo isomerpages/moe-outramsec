@@ -1,6 +1,29 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About us
+    url: /permalink
+    sublinks:
+      - title: PRINCIPAL'S MESSAGE
+        url: /permalink
+      - title: HISTORY
+        url: /permalink
+      - title: VISION MISSION PURPOSE VALUES
+        url: /permalink
+      - title: SCH PHILOSOPHY, MOTTO, BADGE
+        url: /permalink
+      - title: SCHOOL SONG
+        url: /permalink
+      - title: SCHOOL STAFF
+        url: /permalink
+      - title: OUTRAM ALUMNI
+        url: /permalink
+      - title: SCHOOL ADVISORY COMMITTEE
+        url: /permalink
+      - title: PARENT SUPPORT GROUP
+        url: /permalink
+      - title: SCHOOL CALENDAR
+        url: /permalink
+      - title: OUTRAM LUMINARIES
+        url: /permalink
+      - title: CONTACT US
+        url: /permalink
