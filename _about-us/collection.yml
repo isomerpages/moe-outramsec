@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Outram Alumni/Contact Us Alumni.md
       - Outram Alumni/The Chinese Stream Alumni.md
       - Outram Alumni/.keep
       - Parent Support Group.md
