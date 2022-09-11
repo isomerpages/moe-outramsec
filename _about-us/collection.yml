@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Parent Support Group.md
       - School Calendar.md
       - Outram Luminaries.md
       - Contact Us.md
