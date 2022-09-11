@@ -2,4 +2,5 @@ collections:
   distinctive-programmes:
     output: true
     order:
+      - Direct School Admission/Business and Enterprise Selection Criteria.md
       - Direct School Admission/.keep
