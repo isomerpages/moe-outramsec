@@ -2,6 +2,7 @@ collections:
   school-programmes:
     output: true
     order:
+      - Instructional Programmes/Mother Tongue Language.md
       - Instructional Programmes/Mathematics.md
       - Instructional Programmes/Science.md
       - Instructional Programmes/Humanities.md
