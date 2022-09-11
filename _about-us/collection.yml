@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Principals Message.md
       - History.md
       - Vision Mission Purpose and Values.md
       - School Philosophy Motto and Badge.md
