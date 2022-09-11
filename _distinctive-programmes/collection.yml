@@ -2,6 +2,7 @@ collections:
   distinctive-programmes:
     output: true
     order:
+      - Learning for Life Programme/AEM Sports Event Management.md
       - Learning for Life Programme/Outram Futsal League.md
       - Learning for Life Programme/Delta League.md
       - Learning for Life Programme/Values Play, CHIJ Kellok.md
