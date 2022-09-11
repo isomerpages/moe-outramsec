@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - School Philosophy Motto and Badge.md
       - School Song.md
       - School Staff.md
       - School Advisory Committee.md
