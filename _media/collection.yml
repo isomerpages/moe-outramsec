@@ -2,4 +2,5 @@ collections:
   media:
     output: true
     order:
+      - Outram Featured in Media.md
       - OSS Official Videos.md
