@@ -2,6 +2,7 @@ collections:
   school-programmes:
     output: true
     order:
+      - Student Initiated Learning/.keep
       - Co Curricular Activities/Sports.md
       - Co Curricular Activities/Uniformed Groups.md
       - Co Curricular Activities/Aesthetics.md
