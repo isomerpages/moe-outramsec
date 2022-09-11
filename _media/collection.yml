@@ -2,6 +2,7 @@ collections:
   media:
     output: true
     order:
+      - 2019 Photo Gallery/Bicentennial.md
       - 2019 Photo Gallery/Swimming Carnival and Inter House Games.md
       - 2019 Photo Gallery/Cultural Immersion Programme 2019 Chiang Mai
         Thailand.md
