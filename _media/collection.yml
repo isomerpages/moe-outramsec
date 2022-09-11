@@ -2,6 +2,7 @@ collections:
   media:
     output: true
     order:
+      - 2018 Photo Gallery/Fitness Run.md
       - 2018 Photo Gallery/Big Day Out.md
       - 2018 Photo Gallery/Tamil New Year.md
       - 2018 Photo Gallery/National Schools Speed Climbing Championships.md
