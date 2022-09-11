@@ -1,4 +1,5 @@
 collections:
   school-programmes:
     output: true
-    order: []
+    order:
+      - OVERSEAS TRIPS/.keep
