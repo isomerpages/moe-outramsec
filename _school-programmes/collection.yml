@@ -2,6 +2,7 @@ collections:
   school-programmes:
     output: true
     order:
+      - Student Initiated Learning/Parents Information.md
       - Student Initiated Learning/FAQs.md
       - Student Initiated Learning/.keep
       - Co Curricular Activities/Sports.md
