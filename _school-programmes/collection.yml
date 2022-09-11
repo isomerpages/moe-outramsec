@@ -2,6 +2,7 @@ collections:
   school-programmes:
     output: true
     order:
+      - Blended Learning/Technical Assistance.md
       - Blended Learning/.keep
       - Student Initiated Learning/Student Initiated Learning.md
       - Student Initiated Learning/Students Guide to SIL.md
