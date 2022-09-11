@@ -2,6 +2,7 @@ collections:
   school-programmes:
     output: true
     order:
+      - Instructional Programmes/Assessment in Outram.md
       - Instructional Programmes/.keep
       - Sexuality Education.md
       - Blended Learning/Blended Learning.md
