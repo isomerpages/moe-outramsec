@@ -2,6 +2,7 @@ collections:
   school-programmes:
     output: true
     order:
+      - Instructional Programmes/Craft and Technology.md
       - Instructional Programmes/Business and Enterprise.md
       - Instructional Programmes/Physical Education.md
       - Instructional Programmes/CCEs.md
