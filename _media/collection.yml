@@ -2,6 +2,7 @@ collections:
   media:
     output: true
     order:
+      - 2018 Photo Gallery/Hari Raya.md
       - 2018 Photo Gallery/Civica Tales of S Winning Entry.md
       - 2018 Photo Gallery/Overseas Trips.md
       - 2018 Photo Gallery/.keep
