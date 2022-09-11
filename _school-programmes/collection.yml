@@ -2,5 +2,5 @@ collections:
   school-programmes:
     output: true
     order:
-      - Overseas Trips/SHANGHAI, CHINA 2019.md
+      - Overseas Trips/Shanghai, China 2019.md
       - Overseas Trips/.keep
