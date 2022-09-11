@@ -2,6 +2,7 @@ collections:
   distinctive-programmes:
     output: true
     order:
+      - Learning for Life Programme/.keep
       - Direct School Admission/Direct School Admission.md
       - Direct School Admission/Sports Selection Criteria and Framework.md
       - Direct School Admission/Business and Enterprise Selection Criteria.md
