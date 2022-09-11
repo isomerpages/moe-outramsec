@@ -2,6 +2,7 @@ collections:
   school-programmes:
     output: true
     order:
+      - Co Curricular Activities/Aesthetics.md
       - Co Curricular Activities/Clubs and Societies.md
       - Co Curricular Activities/.keep
       - Overseas Trips/Hong Kong 2018.md
