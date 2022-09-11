@@ -2,6 +2,7 @@ collections:
   school-programmes:
     output: true
     order:
+      - Blended Learning/Timetable.md
       - Blended Learning/Instructions.md
       - Blended Learning/Resources for BL.md
       - Blended Learning/Blended Learning Guide.md
