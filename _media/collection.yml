@@ -2,5 +2,6 @@ collections:
   media:
     output: true
     order:
+      - Photo Gallery/.keep
       - Outram Featured in Media.md
       - OSS Official Videos.md
