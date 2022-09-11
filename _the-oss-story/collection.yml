@@ -2,5 +2,6 @@ collections:
   the-oss-story:
     output: true
     order:
+      - School Stories.md
       - Students Achievements.md
       - Staff Achievements.md
