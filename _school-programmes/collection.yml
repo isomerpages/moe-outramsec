@@ -2,6 +2,7 @@ collections:
   school-programmes:
     output: true
     order:
+      - Blended Learning/Resources for BL.md
       - Blended Learning/Blended Learning Guide.md
       - Blended Learning/Technical Assistance.md
       - Blended Learning/.keep
