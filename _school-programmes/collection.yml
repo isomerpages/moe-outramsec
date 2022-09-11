@@ -2,4 +2,5 @@ collections:
   school-programmes:
     output: true
     order:
+      - OVERSEAS TRIPS/SHANGHAI, CHINA 2019.md
       - OVERSEAS TRIPS/.keep
