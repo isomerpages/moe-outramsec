@@ -2,6 +2,7 @@ collections:
   media:
     output: true
     order:
+      - 2019 Photo Gallery/Overseas Experiential Learning Programme Seoul 2019.md
       - 2019 Photo Gallery/Overseas Immersion Programme Shanghai.md
       - 2019 Photo Gallery/National Day.md
       - 2019 Photo Gallery/.keep
