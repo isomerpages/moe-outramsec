@@ -1,4 +1,5 @@
 collections:
   distinctive-programmes:
     output: true
-    order: []
+    order:
+      - Direct School Admission/.keep
