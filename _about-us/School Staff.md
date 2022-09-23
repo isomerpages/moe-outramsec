@@ -47,3 +47,17 @@ description: ""
 |    NA   |    S22 |         Vijaya, Gabriel Fu, Grace Ng (ST)          |
 |   Exp   |    S23 |     Chua Wai Yi, Looi Lay Geok, Damien Ho (CAJT)  |
 |   Exp   |   S24  |                  Casey Lee, Sakthi               |
+
+#### Form Teachers 2022 (Upper Secondary)
+
+| CLASS |        |                   Form Teachers                  |
+|:-----:|:------:|:------------------------------------------------:|
+|   NT  |   S31  |       Gladys Lim,  Nasuha,  Marcus Huang (ST)      |
+|   NA  |   S32  |         Samson Wong,  Haslinda,  Jason Ooi         |
+|   Exp |   S33  |                 Devi, Azaac Tan                   |
+|  Exp  |   S34  |           Chua Yi Ping,  Charmaine Loke           |
+|   NT  |   S41  |  Gloria Ng,  Freddie Chan (LDM),  Charles Yip (ST) |
+|   NA  |   42A  |          Tan Xi Ling,  Wong Heng Yee (ST)         |
+|   Exp |   S43  |               Woo See Wei, Shi Yanwei             |
+|   Exp |   S44  |            Bernard R S Nair,  Wendy Loi           |
+|   NA  |   S51  |                     Vivian Tan                   |
