@@ -44,7 +44,7 @@ If you are interested to join the PSG, click [here.](https://form.gov.sg/61c280
 
     <div>
 
-      <p>TDespite restrictions that were imposed as a result of Covid-19, the parents who turned up for the Outram Parent Support Group’s inaugural meeting did not let that dampen their enthusiasm. The first meeting in March 2021 had a sizeable number of parents showing up, with the view to play an active role in partnering the school to support their children’s well-being and learning. </p>
+      <p>Despite restrictions that were imposed as a result of Covid-19, the parents who turned up for the Outram Parent Support Group’s inaugural meeting did not let that dampen their enthusiasm. The first meeting in March 2021 had a sizeable number of parents showing up, with the view to play an active role in partnering the school to support their children’s well-being and learning. </p>
 			One highlight for the year was how the parents from the PSG collaborated with the Old Outramians’ Association (OOA) to plan for, and decide on a Teachers’ Day token for school staff. Another exciting event that the PSG is planning for year-end would be its first ever PSG Activity Day in November, with breakout workshops and programmes to cater to the wider population of parents in the school. <br>
 				While the work of the PSG might still be in its infancy stage, it is with the hope that this group for parents will grow from strength to strength, and be a bridge between the parent body and the school as a supportive partner in education. <br>
 		<img style="width:70%;height:50%" src="/images/About%20us/Parent%20Support%20Group/41.jpg">Happy parents and teachers at the end of a fruitful Zoom discussion for the year-end PSG Activity Day. <br>
