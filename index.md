@@ -7,7 +7,6 @@ permalink: /
 notification: Welcome to Outram Secondary School!
 sections:
   - hero:
-      background: /images/hero-banner.png
       key_highlights:
         - title: Highlight A
           description: Important highlight A is important
