@@ -85,3 +85,23 @@ description: ""
 | Secondary 2       | Miss Grace Ng (ST/ English)                                                       |
 | Secondary 3       | Mr Charles Yip  (ST/ Mathematics)                                                 |
 | Secondary 4 & 5   | Mr Marcus Huang (ST/ Science)                                                     |
+
+#### Executive and Administrative Staff
+
+|         Name         |                               Appointment                               |
+|:--------------------:|:-----------------------------------------------------------------------:|
+| Mdm Karthigah        |                         Administration Manager                          |
+| Mdm Rebecca Koh      |                            Operations Manager                           |
+|      Ms Julia Tan    | Administration Executive                                                |
+|  Mr Mohammad Faizan  | Corporate Support Officer                                               |
+|      Ms Li Jiayi     |                Senior Allied Educator (Learning & Behavioural Support)  |
+|    Mr Leo Chin Ho    | Student Welfare Officer                                                 |
+| Ms Zahira            | ICT Associate                                                           |
+|      Mr DzulFadli    | Desktop Engineer                                                        |
+| Ms Nurhani Dikin     |                                Librarian                                |
+|      Mdm Asimah      |                            Workshop Instructor                          |
+|      Mdm Santhi      |                                    OSO                                  |
+|     Ms Siti Aisyah   |                                    OSO                                  |
+|   Mdm Lee Bee Hiang  |                                    OSO                                  |
+|      Mr Tagehan      |                                    OSO                                  ||                 |      ||
+| Mr Ong Wee Teck |  OSO |
