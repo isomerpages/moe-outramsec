@@ -34,7 +34,7 @@ If you are interested to join the PSG, click [here.](https://form.gov.sg/61c280
 
 
 
-<ul class="jekyllcodex\_accordion">
+<ul class="jekyllcodex_accordion">
 
   <li>
 
