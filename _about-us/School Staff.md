@@ -61,3 +61,18 @@ description: ""
 |   Exp |   S43  |               Woo See Wei, Shi Yanwei             |
 |   Exp |   S44  |            Bernard R S Nair,  Wendy Loi           |
 |   NA  |   S51  |                     Vivian Tan                   |
+
+#### Level Discipline Masters
+
+|                  |
+|-|
+| Mr Lim Ting Long |
+| Mr Freddie Chan  |
+
+#### Year Heads
+
+|                 |                                 |
+|-|-|
+| Lower Secondary | Mr Alex Tan,  Mr Dawa T. Sherpa  |
+| Upper Secondary |  Mr Oliver Tan,  Mr Roderick Lim |
+
