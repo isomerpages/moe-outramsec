@@ -1,32 +1,32 @@
 logo: /images/isomer-logo.svg
 links:
   - title: About us
-    url: /permalink
+    url: /about-us/About-Us/
     sublinks:
       - title: PRINCIPAL'S MESSAGE
-        url: /permalink
+        url: /about-us/Principals-Message/
       - title: HISTORY
-        url: /permalink
+        url: /about-us/History/
       - title: VISION MISSION PURPOSE VALUES
-        url: /permalink
+        url: /about-us/Vision-Mission-Purpose-and-Values/
       - title: SCH PHILOSOPHY, MOTTO, BADGE
-        url: /permalink
+        url: /about-us/School-Philosophy-Motto-and-Badge/
       - title: SCHOOL SONG
-        url: /permalink
+        url: /about-us/School-Song/
       - title: SCHOOL STAFF
         url: /permalink
       - title: OUTRAM ALUMNI
-        url: /permalink
+        url: /about-us/Outram-Alumni/Outram-Alumni/
       - title: SCHOOL ADVISORY COMMITTEE
-        url: /permalink
+        url: /about-us/School-Advisory-Committee/
       - title: PARENT SUPPORT GROUP
-        url: /permalink
+        url: /about-us/Parent-Support-Group/
       - title: SCHOOL CALENDAR
-        url: /permalink
+        url: /about-us/School-Calendar/
       - title: OUTRAM LUMINARIES
-        url: /permalink
+        url: /about-us/Outram-Luminaries/
       - title: CONTACT US
-        url: /permalink
+        url: /about-us/Contact-us/
   - title: THE OSS STORY
     url: /permalink
     sublinks:
