@@ -30,4 +30,4 @@ Read the [issue of Parent Kit](https://drive.google.com/file/d/1whaysoFGR2H2sFc
 
 **Join us!**
 
-If you are interested to join the PSG, click [**_here_**.](https://form.gov.sg/61c280fd8300910015243a1c)
+If you are interested to join the PSG, click [here.](https://form.gov.sg/61c280fd8300910015243a1c)
