@@ -34,3 +34,16 @@ description: ""
 | Ms Yap Qiu Hong   | Subject Head/ Character & Citizenship Education |
 | Ms Wong Ann Ann   | Level Head/ English                             |
 | Ms Yeo Yang Hong  | Level Head/ Science                             |
+
+#### Form Teachers 2022 (Lower Secondary)
+
+| Class   |        |                  Form Teachers                  |
+|:-------:|:------:|:-----------------------------------------------:|
+|    NT   |  S11   |         Goh Ban Leng, Nadhirah, Abdul (ST)        |
+|    NA   |  S12   |        Lim Teck Ming, Atikah,  Prathivmohan       |
+|   Exp   |   S13  | Hazlan,                 Serene Wong              |
+|    Exp  |   S14  |             Jeremy Lum,  Tan Kim Choo              |
+|    NT   |   S21  |         Norizan, Ismath, Lim Ting Long (LDM)      |
+|    NA   |    S22 |         Vijaya, Gabriel Fu, Grace Ng (ST)          |
+|   Exp   |    S23 |     Chua Wai Yi, Looi Lay Geok, Damien Ho (CAJT)  |
+|   Exp   |   S24  |                  Casey Lee, Sakthi               |
