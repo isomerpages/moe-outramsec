@@ -94,3 +94,50 @@ Prof Koh joined Outram School in the late 1940s after spending a bridging year a
   
 
 “In Outram School, I had good teachers. They were very strict, as compared to today’s standard… The teachers were strict with you but they would sometimes wink at you. So I knew that although they were very tough they actually cared for you.”
+	
+<div>
+
+<div style="float: left">
+
+<img style="width:60%;height:50%" src="/images/About%20us/Outram%20Luminaries/L4.png">
+
+</div><div>
+	
+**Mr Philip Tan Tee Yong** 
+
+**Former MP for Paya Lebar**
+
+  
+
+Mr Philip Tan Tee Yong is the owner and Managing Director of PTMC Outsourcing Pte. Ltd. A Fellow of the Chartered Institute of Management Accountants, he has over 40 years of experience in banking, accounting, finance, marketing and sales, commercial & banking software development, consulting, manufacturing and entrepreneurship. Having worked in MNCs and local companies, he is familiar with the two different management styles. He has also assisted in 3 IPOs and a Rights Issue. 
+Mr Tan was a Member of Parliament (Paya Lebar) from 1984 till 1988.
+	
+<div>
+
+<div style="float: left">
+
+<img style="width:60%;height:50%" src="/images/About%20us/Outram%20Luminaries/L5.png">
+
+</div><div>
+	
+**Mr Koh Cher Siang** 
+
+**Former Commissioner of IRAS**
+
+  
+
+Mr Koh Cher Siang, joined the Administrative Service in 1969 after graduating with a Bachelor of Arts (Honours) degree in Philosophy, Politics and Economics from Oxford University on a President’s Scholarship. He obtained a Master in Public Administration from Harvard University in 1974. Mr Koh occupied various prominent positions in the Administrative Service and became the Commissioner of Inland Revenue and Chief Executive Officer, Inland Revenue Authority of Singapore in 1997. He retired in 2005 and was appointed Deputy Chairman of the Housing and Development Board. 
+
+  
+
+During his time at Outram, Mr Koh was the secretary of both the Commerce Society and the Literary and Drama Society. He once served as Vice-Chairman of SAC for seven years beginning from 1980. In 1962, Mr Koh contributed the following gem to the school annual: 
+
+  
+
+\[extract from full essay\]
+
+It seems that the floods bring nothing but unhappiness and terror. But this is not so. The pupils of Outram Secondary School love floods! Yes, they welcome floods! A rainy day with floods is a welcome deviation from the humdrum routine of everyday school life. Their joy and exuberant spirits are mirrored in their youthful faces when they wade cautiously through the swirling brownish water or balance precariously on the benches ingeniously placed in the tuck-shop to form a dry passage-way. Occasionally, a squeal of laughter, a splash and a cry of exaggerated anguish is heard in the tuck-shop… … All these things are in the game, however, and the pupils take it in good form. The pupils also welcome the opportunity to release their cramped toes from their tight shoes and wade barefeet in the icy-cold water. A very funny sight on rainy days is to be seen in the tuck-shop. Imagine looking at girls and boys standing high up on tables eating and drinking unconcernedly. It is such an awkward and unorthodox position to be in. 
+
+  
+
+\- Koh Cher Siang, Sec. IV A. (Outram Annual, 1962).
