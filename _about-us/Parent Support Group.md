@@ -57,6 +57,14 @@ We were privileged to have Ms Carol Loi, Founder of Village Consultancy, to co
 
 Parents also had fun participating in three breakout room activities – Zumba, Ice-cream-making workshop and Combat Digital Fatigue the TCM way. </p>
 
+<img style="width:70%;height:50%" src="/images/About%20us/Parent%20Support%20Group/psg.png"> </p> 
+
+**Parent Support Group Meeting 2022**
+
+The first PSG meeting was conducted on the 28 January 2022 via Zoom. The introductory session was conducted to share with parents about the work of the PSG and how the PSG can support parents in their parenting journey. During the session, we were honoured to have Ms Angela Oh to share her parenting journey with all of the parents. </p>
+
+![](/images/About%20us/Parent%20Support%20Group/psg%20picture.png) </p>
+
     </div>
 
 </li>  
