@@ -39,3 +39,21 @@ description: ""
 | Mother Tongue           | Tamil Budding Writers and Artists Competition                      | 4th Place                                                      |
 | Business and Enterprise | iFLy challenge by Republic Polytechnic Most Financial Savvy Award  | Most Financial Savvy Award                                     |
 | Business and Enterprise | Design for Change Challenge                                        | Finalist                                                       |
+
+**CCA Achievements**
+
+| CCA          | Type of Competition   | Results              |
+|--------------|-----------------------|----------------------|
+| Concert Band | SYF Arts Presentation | Commendation Award   |
+| Dance        | SYF Arts Presentation | Accomplishment Award |
+
+#### Achievements 2020
+
+
+  
+**Academic Achievements**
+
+| Department        | Type of Competition                                  | Results                                    |
+|-------------------|------------------------------------------------------|--------------------------------------------|
+|  Malay Language   | Pena Emasku National Malay Writing Competition 2020  | 7 Gold Award winners and Top 22nd Position |
+|  English Language | Write for Kindness 2020 (Poetry-Writing Category)    | 1st place, 2nd place                 |
