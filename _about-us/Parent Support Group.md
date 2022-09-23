@@ -87,7 +87,7 @@ Click on the link to register: <a href="https://bit.ly/L2TJul22%20">https://bit
 
       <p><img style="width:100%;height:50%" src="/images/About%20us/Parent%20Support%20Group/psg%20website%202022.jpg"><br>
 
-        <img style="width:70%;height:50%" src="/images/About%20us/Parent%20Support%20Group/EDM%20-%20Triple%20P%20L2%20Teen_Jul%202022.jpg"></p>
+        <img style="width:70%;height:50%" src="/images/About%20us/Parent%20Support%20Group/EDM%20-%20Triple%20P%20L2%20Teen_Jul%202022.jpg">
 
     </div>
 
