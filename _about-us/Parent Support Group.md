@@ -65,9 +65,10 @@ The first PSG meeting was conducted on the 28 January 2022 via Zoom. The introdu
 
 <img style="width:70%;height:50%" src="/images/About%20us/Parent%20Support%20Group/psg%20picture.png">
 
-</div>
+		</div>
 
-</li>  
+</li>
+	
   <li>
 
     <input type="checkbox" id="accordion2">
@@ -93,4 +94,4 @@ Click on the link to register: <a href="https://bit.ly/L2TJul22%20">https://bit
 
   </li>
 
-  <li>
+  <ul>
