@@ -24,7 +24,7 @@ The PSG consists of a group of dedicated parents who partner the school to suppo
 
 Your child has arrived at yet another milestone in their life! During this transition from primary to secondary school, you may be wondering how secondary school life will be like and how your child will adjust to the different environment and routines.  
 
-Read the [issue of Parent Kit](https://drive.google.com/file/d/1whaysoFGR2H2sFcJnXV0kkxdeLcf0g9M/view?usp=sharing) to find out how you can support your child and make the transition to Secondary 1 a smoother one! 
+Read the [Issue of Parent Kit](/files/About%20us/Parent%20Support%20Group/Resource%20Kit%20-%20Parent%20Kit%20-%20Primary%20to%20Secondary%20Transition.pdf) to find out how you can support your child and make the transition to Secondary 1 a smoother one! 
 
 [](https://form.gov.sg/61c280fd8300910015243a1c)
 
