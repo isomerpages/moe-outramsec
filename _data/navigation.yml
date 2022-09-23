@@ -28,14 +28,14 @@ links:
       - title: CONTACT US
         url: /about-us/Contact-us/
   - title: THE OSS STORY
-    url: /permalink
+    url: /the-oss-story/School-Stories/
     sublinks:
       - title: SCHOOL STORIES
-        url: /permalink
+        url: /the-oss-story/School-Stories/
       - title: STUDENT ACHIEVEMENTS
-        url: /permalink
+        url: /the-oss-story/Students-Achievements/
       - title: "STAFF ACHIEVEMENTS "
-        url: /permalink
+        url: /the-oss-story/Staff-Achievements/
   - title: SCHOOL PROGRAMMES
     url: /permalink
     sublinks:
