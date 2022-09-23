@@ -76,3 +76,12 @@ description: ""
 | Lower Secondary | Mr Alex Tan,  Mr Dawa T. Sherpa  |
 | Upper Secondary |  Mr Oliver Tan,  Mr Roderick Lim |
 
+#### Master, Lead and Senior Teachers
+
+|                   |                                                                                   |
+|-|-|
+| Chinese Lanuguage | Mdm Tan Geok Hoon (MTT)                                                           |
+| Secondary 1       | Mr Francis Tang (LT)  Mr Abdul (ST/ Social Studies) Miss Grace Ng (ST/ English)   |
+| Secondary 2       | Miss Grace Ng (ST/ English)                                                       |
+| Secondary 3       | Mr Charles Yip  (ST/ Mathematics)                                                 |
+| Secondary 4 & 5   | Mr Marcus Huang (ST/ Science)                                                     |
