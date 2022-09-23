@@ -11,8 +11,7 @@ description: ""
 
 </div><div>
 	
-**Dr Wee Kim Wee**  
-
+**Dr Wee Kim Wee**
 **Former President of Singapore**
 
   
@@ -52,7 +51,6 @@ In 1927, Dr Wee was a Standard IV student at Outram School. In his book entitled
 
 
 **Mr Wong Kan Seng** 
-
 **Deputy Prime Minister and Minister for Home affairs**
 
   
