@@ -63,7 +63,7 @@ If you are interested to join the PSG, click [here.](https://form.gov.sg/61c280
 
 The first PSG meeting was conducted on the 28 January 2022 via Zoom. The introductory session was conducted to share with parents about the work of the PSG and how the PSG can support parents in their parenting journey. During the session, we were honoured to have Ms Angela Oh to share her parenting journey with all of the parents. <br>
 
-<img style="width:70%;height:50%" src="/images/About%20us/Parent%20Support%20Group/psg%20picture.png"> </p>
+<img style="width:70%;height:50%" src="/images/About%20us/Parent%20Support%20Group/psg%20picture.png">
 
     </div>
 
