@@ -17,4 +17,5 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
+      background: /images/Homepage/HomepageGif.gif
 ---
