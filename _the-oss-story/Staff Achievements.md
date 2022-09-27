@@ -37,3 +37,18 @@ description: ""
 |                   Ms Woo See Wei                  |
 | **Facilitator of Networked Learning Communities** |
 |              Mr Tang Yee Fun Francis              |
+
+|                                                                      |
+|:--------------------------------------------------------------------:|
+|                             **Innovator**                            |
+|                            Mr Abdul Rahman                           |
+|                            Ms Tan Xi Ling                            |
+|                                                                      |
+|           **National Day Award 2021 (Commendation Medal)**           |
+|                           Mrs Lui Ping Xin                           |
+|                                                                      |
+|       **National Day Award 2021 (Long Service Medal 25 Years**       |
+|                           Mr Loh Peng Yeong                          |
+|                                                                      |
+| **National Day Award 2021 The Public Administration Medal (Bronze)** |
+|                            Mr Boo Hian Kok                           |
