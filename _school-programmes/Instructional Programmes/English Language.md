@@ -151,8 +151,10 @@ We are pleased to announce the following good results. Bravo, Outram writers! </
 
 <b>Write for Kindness Competition</br>
 
-![](/images/Instructional%20Programmes/English%20Language/ES07.jpg)
-![](/images/Instructional%20Programmes/English%20Language/The20Upstander20by20Sharvin20Sekar20and20Koh20Chen20Soon.jpg)
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES07.jpg">
+
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/The20Upstander20by20Sharvin20Sekar20and20Koh20Chen20Soon.jpg">
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -179,13 +181,15 @@ We are pleased to announce the following good results. Bravo, Outram writers! </
 </tbody>
 </table>
 
-![](/images/Instructional%20Programmes/English%20Language/ES08.jpg)
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES08.jpg">
 
 <a href="https://www.kindness.sg/news/congratulations-to-the-write-for-kindness-2020-winners/">https://www.kindness.sg/news/congratulations-to-the-write-for-kindness-2020-winners/</a>
 
-![](/images/Instructional%20Programmes/English%20Language/ES09.jpg)
-![](/images/Instructional%20Programmes/English%20Language/ES10.jpg)
-![](/images/Instructional%20Programmes/English%20Language/06.png)
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES09.jpg">
+
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES10.jpg">
+
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/06.png">
 
 
 
