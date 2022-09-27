@@ -215,12 +215,18 @@ Winning Entry from William Wang Silang (Sec 4/4).
 
 <img style="width:40%;height:50%" src="/images/Instructional%20Programmes/English%20Language/E12.jpg">
 
+<b>ICAS Writing Competition (University of New South Wales)</b>  
 
+30 students took part in 2018 and received certificates of Credit, Merit and Participation.  
 
+  
+<b>Oldham Cup (ACJC) 2017</b>  
+  
+The team comprising Zander Widjaja, Nguyen Hai Duong (Sec 4/4) and Shyanne  (Sec 4/5) won 2 rounds out of 8 in their inaugural outing.
 
-      
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/E14.jpg"> </p>
 
-    </div>
+</div>
 
   </li>
 
