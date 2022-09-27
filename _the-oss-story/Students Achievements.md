@@ -57,3 +57,22 @@ description: ""
 |-------------------|------------------------------------------------------|--------------------------------------------|
 |  Malay Language   | Pena Emasku National Malay Writing Competition 2020  | 7 Gold Award winners and Top 22nd Position |
 |  English Language | Write for Kindness 2020 (Poetry-Writing Category)    | 1st place, 2nd place                 |
+
+**CCA Achievements**
+
+|       |                       |                         |
+|-------|-----------------------|-------------------------|
+| CCA   | Type of Competition   |   Results               |
+|  NPCC |   SPF-NPCC Badge 2020 |              4 Awardees |
+
+#### Achievements 2019
+
+**Academic Achievements**
+
+| Department             | Type of Competition                                                                   |       Results                                                 |
+|------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------|
+|  Business & Enterprise | Student Entrepreneurship Challenge 2019                                               |       Champion                                                |
+|  Malay Language        | National Malay Writing Competition 2019 (Saya Boleh Mengarang)                        |       1 Gold Award,       1 Silver Award,       2 Bronze Awards |
+|  English Language      | Write for Kindness 2019                                                               |       2nd prize       Consolation prize                       |
+|  Literature            | National Schools Literature Festival 2019  Book Parade  Debate (Set Poem)             |               Gold Award        Winner                        |
+|  English Language      | Singapore Secondary SchoolsChampionship (SSSDC)                                       |       2 wins of 3        (Preliminary Round)                  |
