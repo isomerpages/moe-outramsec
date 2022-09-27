@@ -232,3 +232,24 @@ The team comprising Zander Widjaja, Nguyen Hai Duong (Sec 4/4) and Shyanne  (Se
 </li>
 
   <li>
+
+<input type="checkbox" id="accordion3">
+
+    <label for="accordion3">Multi-line Folded</label>
+
+    <div>
+
+      <p>
+
+        This is all going
+
+        to become just one line\\n even though there are multiple lines
+
+      </p>
+
+    </div>
+
+  </li>
+
+  <li>
+
