@@ -19,3 +19,21 @@ description: ""
 |                      Mr Koh Swee Thiam Dan                       |
 |                     Mr Krishnan Mathiyalagan                     |
 |                                                                  |
+
+
+|                      **2021**                     |
+|:-------------------------------------------------:|
+|      MOE Service Excellence Award (MSEA) 2021     |
+|                    **Platinum**                   |
+|              Ms Cheong Wenxin Serene              |
+|                     **Silver**                    |
+|                 Mdm Nasuha Rahmat                 |
+|             Mdm Subbu Suba Sakthidevi             |
+|              Mr Ho Rong Xian Jonathan             |
+|              Mr Huang Jianyang Marcus             |
+|              Mr Mathiyalagan Krishnan             |
+|                   Mrs Vivian Tan                  |
+|                Ms Gloria Ng Yu Yan                |
+|                   Ms Woo See Wei                  |
+| **Facilitator of Networked Learning Communities** |
+|              Mr Tang Yee Fun Francis              |
