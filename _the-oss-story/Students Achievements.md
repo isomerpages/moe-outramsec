@@ -157,4 +157,7 @@ description: ""
 | Robotics Club | National Junior Robotics Competition                          |                                                                                    |
 |               | First Lego League Competition 2017                            |  1st Runner Up                                                                     |
 | NPCC          | UOPA 2016                                                     | Silver                                                                             |
-| NCC           | Best Unit Competition 2016                                    | Bronze                                                                             |
+| NCC           | Best Unit Competition 2016                                    | Bronze                                                                             ||                      |                         |                            ||
+| Boys’ Brigade        | BB JM Fraser Award 2016 |                            |
+| Band (Wind Ensemble) | SYF 2017                | Certificate of Distinction |
+| Guzheng Ensemble     | SYF 2017                | Certificate of Accomplish  |
