@@ -189,7 +189,31 @@ We are pleased to announce the following good results. Bravo, Outram writers! </
 
 <img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES10.jpg">
 
-<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/06.png">Andrea Seng Jun Xin (Sec 2/3), Adriana Batrisyia Binte Steve Arifianto (Sec 2/5), Briones Cheyanna Carlyn Javier (Sec 2/5), Diana Hue (Sec 2/5), and Tan Swee Ling (Sec 2/5)
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/06.png">Andrea Seng Jun Xin (Sec 2/3), Adriana Batrisyia Binte Steve Arifianto (Sec 2/5), Briones Cheyanna Carlyn Javier (Sec 2/5), Diana Hue (Sec 2/5), and Tan Swee Ling (Sec 2/5)</br>
+
+
+<b>Singapore Secondary Schools Debating Championships (SSSDC) 2019</b>
+
+
+In our first foray into SSSDC, the team won 2 out of 3 rounds in the preliminaries and Justine Hari Muruga (Sec 4/5) won Best Speaker in Round 2.
+
+Debaters: Maria Reyes (Sec 32), Basil Hia & Brendan Lim (Sec 4/5)
+
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/E6.jpg">
+
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/E7.jpg">
+
+<b>Scrabble Competition 2019</b>
+
+A team of Secondary 4 students took an enjoyable Sunday afternoon out for intense rounds of scrabble at Jurong Green CC.
+
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/E8.jpg">
+
+<b>Tales of ‘S’ (Civica) 2018</b>  
+
+Winning Entry from William Wang Silang (Sec 4/4).
+
+<img style="width:40%;height:50%" src="/images/Instructional%20Programmes/English%20Language/E12.jpg">
 
 
 
