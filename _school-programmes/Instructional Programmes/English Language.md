@@ -189,7 +189,7 @@ We are pleased to announce the following good results. Bravo, Outram writers! </
 
 <img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES10.jpg">
 
-<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/06.png">
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/06.png">Andrea Seng Jun Xin (Sec 2/3), Adriana Batrisyia Binte Steve Arifianto (Sec 2/5), Briones Cheyanna Carlyn Javier (Sec 2/5), Diana Hue (Sec 2/5), and Tan Swee Ling (Sec 2/5)
 
 
 
