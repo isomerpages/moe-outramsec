@@ -125,3 +125,36 @@ description: ""
 | NCC              | Best Unit Competition 2017            | Bronze                     |
 | Concert Band     | Singapore International Band Festival | Bronze                     |
 | Visual Arts Club | SYF                                   | Certificate of Recognition |
+
+**Academic Achievements**
+
+| Department                          | Type of Competition                                                                  | Results                                                            |
+|-------------------------------------|--------------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| Mathematics                         | Singapore and Asian Schools Math Olympiad (SASMO) Competition                        | 1 Gold Award winner, 1 Silver Award winner, 3 Bronze Award winners |
+| English and Literature              | National Schools Literature Festival 2018 Lower Secondary Book Parade (Secondary 2s) | Silver Award                                                       |
+|                                     | 2018 Tales of ‘S’ ebook Competition                                                  | Winning Entry                                                      |
+| Mother Tongue (Malay Language Unit) | Lumbuba 2018                                                                         | Champion                                                           |
+| Craft and Technology                | 2018 SYF Art Exhibition: Artist and Citizenship                                      | Winning Entry for exhibition                                       |
+|                                     | Marine and Offshore Challenge Grand Prix Race                                        | Most Innovative Hull Design Award (Highest score in Payload Award) |
+|                                     | Underwater Challenge                                                                 | Best Workmanship and Aesthetic Award                               |
+
+#### Achievements 2017
+
+**CCA Achievements**
+
+| CCA           | Type of competition                                           | Results                                                                            |
+|---------------|---------------------------------------------------------------|------------------------------------------------------------------------------------|
+| Water Polo    | National B Division Inter-school Water Polo Championship      | Champion                                                                           |
+| Swimming      | National Inter-School Swimming Championships 2017             | 2nd (C Boys, 400m Freestyle), 2nd (C Boys, 100m Butterfly), Overall 5th (B & C Boys) |
+| Rock Climbing | National C Division Girls Schools Speed Climbing Championship | Champion                                                                           |
+|               | National B Division Girls Schools Speed Climbing Championship | Champion                                                                           |
+|               | National B Division Girls Schools Bouldering Championship     | Champion                                                                           |
+| Netball       | South Zone B Division Inter-school Netball Championship       | Top 10                                                                             |
+|               | Sembawang-CSC Netball Carnival – B Division                   |  Champion                                                                          |
+| Basketball    | South Zone C Division Inter-school Basketball Championship    |                                                                                    |
+| Squash        | National B Division Boys Inter-school Squash Championship     | 5th                                                                                |
+|               | National B Division Girls Inter-school Squash Championship    | 5th                                                                                |
+| Robotics Club | National Junior Robotics Competition                          |                                                                                    |
+|               | First Lego League Competition 2017                            |  1st Runner Up                                                                     |
+| NPCC          | UOPA 2016                                                     | Silver                                                                             |
+| NCC           | Best Unit Competition 2016                                    | Bronze                                                                             |
