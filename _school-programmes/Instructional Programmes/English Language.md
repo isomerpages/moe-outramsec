@@ -35,60 +35,61 @@ We are a team of language lovers and enthusiasts raring for literature and langu
 
     <div>
 
-			<p><b>Oral Skills Programme</b>  
+			<p><b>Oral Skills Programme</b><br>
+	
 
-The department’s spirally progressive oral skills programme aims to build confidence in young speakers from Secondary 1 to 3 to represent themselves, represent others and represent issues in fun and collaborative ways:
+The department’s spirally progressive oral skills programme aims to build confidence in young speakers from Secondary 1 to 3 to represent themselves, represent others and represent issues in fun and collaborative ways:<br>
 
-*   Representing Self (Personal voice) through Drama Pedagogies in Secondary 1
-*   Representing Others (Empathy by listening, paraphrasing and summarising) through Broadcast Journalism in Secondary 2
-				*   Representing Issues (Social concerns) through Debate in Secondary 3</br>
+*   Representing Self (Personal voice) through Drama Pedagogies in Secondary 1<br>
+*   Representing Others (Empathy by listening, paraphrasing and summarising) through Broadcast Journalism in Secondary 2<br>
+				*   Representing Issues (Social concerns) through Debate in Secondary 3<br>
 	
 	<img style="width:60%;height:50%" src="/images/Instructional%20Programmes/English%20Language/EP01.jpg">
 	
-##### **Multiliteracies Programme**
+				<b>Multiliteracies Programme</b><br>
 
-In today’s world where technology and media reaches its arms into every aspect of our daily lives, bimodal and multimodal texts (Chan & Chia, 2014) such as advertisements, posters, brochures, billboards, moving pictures, animation, social media platforms such as blogs, facebook, video games, picture books, digital news and the like proliferate at an unprecedented speed. At OSS, students learn to appreciate and review multimodal texts through:
+In today’s world where technology and media reaches its arms into every aspect of our daily lives, bimodal and multimodal texts (Chan & Chia, 2014) such as advertisements, posters, brochures, billboards, moving pictures, animation, social media platforms such as blogs, facebook, video games, picture books, digital news and the like proliferate at an unprecedented speed. At OSS, students learn to appreciate and review multimodal texts through:<br>
 
-*   Principles of Advertising (Bimodal sources) in Secondary 1
-*   Film Review (Multimodal sources) in Secondary 2
-*   Understanding Visual Texts through Mirror Reading and OUI Thinking Frame in Secondary 3</br>
-
-  
-
-  
-
-##### ARP@Outram (Applied Reading Programme)
-
-  
-
-Since 2020, the department embarked on an integrated skills acquisition program named the ARP@Outram. An applied reading program, this department-wide initiative aims to provide a platform for students to share their reading interests with their classmates who will respond to the stories they hear from their peers. Students also learn about pertinent general affairs and topics of relevance through monthly multimodal presentations. These activities throughout the year will activate interest in reading, writing and learning through multimodal media such as videos, images, texts and audio resources.</br>  
+*   Principles of Advertising (Bimodal sources) in Secondary 1<br>
+*   Film Review (Multimodal sources) in Secondary 2<br>
+*   Understanding Visual Texts through Mirror Reading and OUI Thinking Frame in Secondary 3<br>
 
   
 
   
 
-*   <b>Weekly Opening Read</b>  
+				<b>ARP@Outram (Applied Reading Programme)</b>
 
   
 
-*   <b>Monthly News-in-Class Presentations</b>
+Since 2020, the department embarked on an integrated skills acquisition program named the ARP@Outram. An applied reading program, this department-wide initiative aims to provide a platform for students to share their reading interests with their classmates who will respond to the stories they hear from their peers. Students also learn about pertinent general affairs and topics of relevance through monthly multimodal presentations. These activities throughout the year will activate interest in reading, writing and learning through multimodal media such as videos, images, texts and audio resources.<br>  
+
+  
+
+  
+
+*   <b>Weekly Opening Read</b><br>  
+
+  
+
+*   <b>Monthly News-in-Class Presentations</b><br>
 
 <img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ELSnip.png">
 
-*   <b>Creative Writing Activities</b> 
+*   <b>Creative Writing Activities</b><br> 
 
-*   Guided Imagery
-*   Whose Story is it?
+*   Guided Imagery<br>
+*   Whose Story is it?<br>
 
 <img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/Pic201.jpg">
 
-<b>LitE Up!</b> 
+<b>LitE Up!</b><br> 
 
 The Literature and English teams join hands to organize an annual day of fun for the Secondary 1s and 2s. Games include Spelling Bee, Running Idioms, Caption This!, Act Up, Choral Reading and the finale, Character Parade.
 
 <img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/EP02.jpg">
 
-### <b>Learning Journeys</b>
+<b>Learning Journeys</b><br>
 
    
 
@@ -104,16 +105,16 @@ The Literature and English teams join hands to organize an annual day of fun for
 
 <img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/EP05.jpg">
 
-<b>Competitions</b>
+<b>Competitions</b><br>
 
-##### The Queen’s Commonwealth Essay Competition (Anglo-Chinese Junior College) 
+The Queen’s Commonwealth Essay Competition (Anglo-Chinese Junior College) 
 
 
  
 
 The Queen's Commonwealth Essay Competition is the world's oldest international writing competition for schools, established since 1883. For 2021, the Competition theme was Community in the Commonwealth, and the essay topics were centered round the Covid-19 pandemic.
 
-We are pleased to announce the following good results. Bravo, Outram writers! </br>
+We are pleased to announce the following good results. Bravo, Outram writers! <br>
 
 <img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ELSnip2.png">
 
@@ -122,14 +123,14 @@ We are pleased to announce the following good results. Bravo, Outram writers! </
 <img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES01.jpg">
 <img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES02.jpg">
 
-##### National Schools Literature Festival (NSLF)
+				<b>National Schools Literature Festival (NSLF)</b>
 
 <img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES03.jpg">
 <img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES04.jpg">
 <img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES05.jpg">
 <img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES06.jpg">
 
-##### OSS Speakability Award
+				<b>OSS Speakability Award</b>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -147,9 +148,9 @@ We are pleased to announce the following good results. Bravo, Outram writers! </
     <td class="tg-vqm8"><span style="font-weight:normal">Video Link: Overall Winner</span><br><br><a href="https://drive.google.com/file/d/13VKxdbXO1yQ3uWkYELJJgIEEZW1j8gb0/view?usp=sharing"><span style="font-weight:600;text-decoration:none;color:#D70500">https://drive.google.com/file/d/13VKxdbXO1yQ3uWkYELJJgIEEZW1j8gb0/view?usp=sharing</span></a><span style="font-weight:normal"> </span></td>
   </tr>
 </thead>
-</table></br>
+</table><br>
 
-<b>Write for Kindness Competition</br>
+<b>Write for Kindness Competition<br>
 
 <img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES07.jpg">
 
@@ -189,7 +190,7 @@ We are pleased to announce the following good results. Bravo, Outram writers! </
 
 <img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES10.jpg">
 
-<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/06.png">Andrea Seng Jun Xin (Sec 2/3), Adriana Batrisyia Binte Steve Arifianto (Sec 2/5), Briones Cheyanna Carlyn Javier (Sec 2/5), Diana Hue (Sec 2/5), and Tan Swee Ling (Sec 2/5)</br>
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/06.png">Andrea Seng Jun Xin (Sec 2/3), Adriana Batrisyia Binte Steve Arifianto (Sec 2/5), Briones Cheyanna Carlyn Javier (Sec 2/5), Diana Hue (Sec 2/5), and Tan Swee Ling (Sec 2/5)<br>
 
 
 <b>Singapore Secondary Schools Debating Championships (SSSDC) 2019</b>
@@ -197,7 +198,7 @@ We are pleased to announce the following good results. Bravo, Outram writers! </
 
 In our first foray into SSSDC, the team won 2 out of 3 rounds in the preliminaries and Justine Hari Muruga (Sec 4/5) won Best Speaker in Round 2.
 
-Debaters: Maria Reyes (Sec 32), Basil Hia & Brendan Lim (Sec 4/5)
+Debaters: Maria Reyes (Sec 32), Basil Hia & Brendan Lim (Sec 4/5)<br>
 
 <img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/E6.jpg">
 
@@ -222,9 +223,9 @@ Winning Entry from William Wang Silang (Sec 4/4).
   
 <b>Oldham Cup (ACJC) 2017</b>  
   
-The team comprising Zander Widjaja, Nguyen Hai Duong (Sec 4/4) and Shyanne  (Sec 4/5) won 2 rounds out of 8 in their inaugural outing.
+The team comprising Zander Widjaja, Nguyen Hai Duong (Sec 4/4) and Shyanne  (Sec 4/5) won 2 rounds out of 8 in their inaugural outing.<br>
 
-<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/E14.jpg"> </p>
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/E14.jpg"></p>
 
 </div>
 
