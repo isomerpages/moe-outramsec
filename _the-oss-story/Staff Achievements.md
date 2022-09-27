@@ -85,3 +85,29 @@ description: ""
 |                   Mr Hazlan Bin Aris                  ||
 |                **National Day Award 2019:**               |
 |                    Ms Tan Boon Hwee                   |
+
+|                        2018                       |
+|:-------------------------------------------------:|
+| **National Day Awards 2018 (The Commendation Medal)** |
+|              Mr Francis Tang Yee Fun              ||
+|              Mdm Santhi d/o Shanmugham            |
+|      **MOE Service Excellence Award (MSEA) 2018**     |
+|           Mr Abdul Rahman Bin Abdul Rahim         |
+|                Ms Anirda Mohd Anuar               |
+|               Ms Cheong Wenxin Serene             |
+|              Ms Ho Pei Shuan Patricia             |
+|              Mr Huang Jianyang Marcus             |
+|                 Mdm Idah Bte Kasmin               |
+|                Ms Melissa Lim Singh               |
+|                  Ms Tan Boon Hwee                 |
+|              Ms Tan Sok Cheng Julianna            |
+|               Mr Tan Tzei Kea Alex                |
+|                   Ms Woo See Wei                  |
+|                   Ms Yap Qiu Hong                 |
+|           **NIE Caring Teachers Award 2018:**         |
+|               Mdm Cheryl Lim Ming Yuh             |
+|                  Mrs Wong Ann Ann                 |
+|                  Ms Tan Boon Hwee                 |
+|                   Ms Tan Xi Ling                  |
+|            Mdm Hajjah Haslinda Bte Yuso           |
+|                                                   |
