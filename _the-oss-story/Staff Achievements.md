@@ -78,3 +78,10 @@ description: ""
 |  President’s Award for Teachers (PAT) 2020 |
 | Mr Francis Tang Yee Fun                    |
 
+|                          2019                         |
+|:-----------------------------------------------------:|
+|                                                      |
+| **National Day Award 2019 (Long service Medal 25 Years)** |
+|                   Mr Hazlan Bin Aris                  ||
+|                **National Day Award 2019:**               |
+|                    Ms Tan Boon Hwee                   |
