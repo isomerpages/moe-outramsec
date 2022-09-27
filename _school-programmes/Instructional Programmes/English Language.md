@@ -152,7 +152,38 @@ We are pleased to announce the following good results. Bravo, Outram writers! </
 <b>Write for Kindness Competition</br>
 
 ![](/images/Instructional%20Programmes/English%20Language/ES07.jpg)
-![](/images/Instructional%20Programmes/English%20Language/ES08.jpg)
+![](/images/Instructional%20Programmes/English%20Language/The20Upstander20by20Sharvin20Sekar20and20Koh20Chen20Soon.jpg)
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2mff{color:#111;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-64rv{color:#111;font-style:italic;text-align:left;vertical-align:top}
+.tg .tg-lyvw{color:#111;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-2mff">2021</th>
+    <th class="tg-2mff" colspan="2">Poetry writing<br><br><br><span style="font-weight:normal">Write for Kindness is a national creative-writing competition organised by the Singapore Kindness Movement (SKM), with the Singapore Book Council as its programme partner. It is a platform for secondary, junior college, centralised institute, madrasah and international school students to promote kindness to the younger audience by creating age-appropriate and culturally relevant children’s stories, through short stories, poetry, illustrations and songs</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lyvw"> </td>
+    <td class="tg-64rv">‘A Sweet Little Act’ Florence Seah Kah Woon (Sec 2/3) Turmunkh Solongo (Sec 2/3) </td>
+    <td class="tg-64rv">‘The Wounded Wolf and the Warm-hearted Farmer’   Lim Ming Le Jericho Javier (Sec 2/2) Ngim Adriel Daxin Garcia (Sec 2/2) </td>
+  </tr>
+</tbody>
+</table>
+
+<a href="https://www.kindness.sg/news/congratulations-to-the-write-for-kindness-2020-winners/">https://www.kindness.sg/news/congratulations-to-the-write-for-kindness-2020-winners/</a>
+![](/images/Instructional%20Programmes/English%20Language/ES09.jpg)
+![](/images/Instructional%20Programmes/English%20Language/ES10.jpg)
+![](/images/Instructional%20Programmes/English%20Language/06.png)
+
 
 
 
