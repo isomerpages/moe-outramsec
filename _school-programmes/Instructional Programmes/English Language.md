@@ -130,6 +130,30 @@ We are pleased to announce the following good results. Bravo, Outram writers! </
 <img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES06.jpg">
 
 ##### OSS Speakability Award
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vqm8{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-u05r{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-u05r">2021</td>
+    <td class="tg-vqm8"><span style="font-weight:normal">Overall Winner:  </span>Martin Ethan Mina (Sec 3/4)</td>
+    <td class="tg-vqm8"><span style="font-weight:normal">Video Link: Overall Winner</span><br><br><a href="https://drive.google.com/file/d/13VKxdbXO1yQ3uWkYELJJgIEEZW1j8gb0/view?usp=sharing"><span style="font-weight:600;text-decoration:none;color:#D70500">https://drive.google.com/file/d/13VKxdbXO1yQ3uWkYELJJgIEEZW1j8gb0/view?usp=sharing</span></a><span style="font-weight:normal"> </span></td>
+  </tr>
+</thead>
+</table></br>
+
+<b>Write for Kindness Competition</br>
+
+![](/images/Instructional%20Programmes/English%20Language/ES07.jpg)
+![](/images/Instructional%20Programmes/English%20Language/ES08.jpg)
+
 
 
       
