@@ -226,7 +226,7 @@ Winning Entry from William Wang Silang (Sec 4/4).
   
 The team comprising Zander Widjaja, Nguyen Hai Duong (Sec 4/4) and Shyanne  (Sec 4/5) won 2 rounds out of 8 in their inaugural outing.<br>
 
-<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/E14.jpg">
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/E14.jpg"> </p> 
 			
 </div>
 
@@ -267,7 +267,7 @@ The team comprising Zander Widjaja, Nguyen Hai Duong (Sec 4/4) and Shyanne  (Se
     <td class="tg-ojjp"><a href="https://outramsec.moe.edu.sg/qql/slot/u512/Publication_Outram%20Times12%20(2).pdf"><span style="font-weight:600;text-decoration:none;color:#D70500">Outram Times 2015</span></a></td>
   </tr>
 </tbody>
-</table>
+			</table> </p>
 
     </div>
 
@@ -350,4 +350,4 @@ The team comprising Zander Widjaja, Nguyen Hai Duong (Sec 4/4) and Shyanne  (Se
 </tbody>
 </table>
 
-</ul>
+<ul>
