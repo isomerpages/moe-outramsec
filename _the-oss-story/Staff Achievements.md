@@ -114,5 +114,15 @@ description: ""
 
 |                        2017                       |
 |:-------------------------------------------------:|
-| National Day Awards 2017 (The Commendation Medal) ||
+|**National Day Awards 2017 (The Commendation Medal)** ||
 |              Mdm Faith Wong Ching Hun             |
+
+|               2016              |
+|:-------------------------------:|
+|                                 |
+| **NIE Caring Teachers Award 2016:** |
+|           Mr Jason Ooi          |
+| Ms Zaiton Mohamed Punither Basa |
+|        Ms Ng Kah-yi Grace       |
+|          Mdm Teo Li Li          |
+|  Mdm Kiranjit Kaur Tarlok Singh |
