@@ -119,6 +119,19 @@ We are pleased to announce the following good results. Bravo, Outram writers! </
 
 <b>Orator’s Trophy (Anglo-Chinese Junior College)</b>
 
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES01.jpg">
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES02.jpg">
+
+##### National Schools Literature Festival (NSLF)
+
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES03.jpg">
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES04.jpg">
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES05.jpg">
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES06.jpg">
+
+##### OSS Speakability Award
+
+
       
 
     </div>
@@ -126,4 +139,3 @@ We are pleased to announce the following good results. Bravo, Outram writers! </
   </li>
 
   <li>
-
