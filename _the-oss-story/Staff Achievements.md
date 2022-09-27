@@ -126,3 +126,23 @@ description: ""
 |        Ms Ng Kah-yi Grace       |
 |          Mdm Teo Li Li          |
 |  Mdm Kiranjit Kaur Tarlok Singh |
+
+|               2014              |
+|:-------------------------------:|
+|                                 |
+| **NIE Caring Teachers Award 2014:** |
+|      Mr Yeo Eu Gin Terence      |
+| Ms Zaiton Mohamed Punither Basa |
+|       Ms Melissa Lim Singh      |
+|        Ms Ng Kah-yi Grace       |
+|         Ms Yeo Yang Hong        |
+
+|               2012              |
+|:-------------------------------:|
+|                                 |
+| **NIE Caring Teachers Award 2012:** |
+|         Ms Chen Ping Xin        |
+|     Mdm Cheryl Lim Ming Yuh     |
+|     Ms Cheong Wenxin Serene     |
+|          Mdm Teo Li Li          |
+|     Mr Francis Tang Yee Fun     |
