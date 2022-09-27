@@ -179,7 +179,10 @@ We are pleased to announce the following good results. Bravo, Outram writers! </
 </tbody>
 </table>
 
+![](/images/Instructional%20Programmes/English%20Language/ES08.jpg)
+
 <a href="https://www.kindness.sg/news/congratulations-to-the-write-for-kindness-2020-winners/">https://www.kindness.sg/news/congratulations-to-the-write-for-kindness-2020-winners/</a>
+
 ![](/images/Instructional%20Programmes/English%20Language/ES09.jpg)
 ![](/images/Instructional%20Programmes/English%20Language/ES10.jpg)
 ![](/images/Instructional%20Programmes/English%20Language/06.png)
