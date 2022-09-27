@@ -35,7 +35,7 @@ We are a team of language lovers and enthusiasts raring for literature and langu
 
     <div>
 
-			<p><b>Oral Skills Programme</b><br>
+<p><b>Oral Skills Programme</b><br>
 	
 
 The department’s spirally progressive oral skills programme aims to build confidence in young speakers from Secondary 1 to 3 to represent themselves, represent others and represent issues in fun and collaborative ways:<br>
@@ -46,7 +46,7 @@ The department’s spirally progressive oral skills programme aims to build conf
 	
 	<img style="width:60%;height:50%" src="/images/Instructional%20Programmes/English%20Language/EP01.jpg">
 	
-				<b>Multiliteracies Programme</b><br>
+	<b>Multiliteracies Programme</b><br>
 
 In today’s world where technology and media reaches its arms into every aspect of our daily lives, bimodal and multimodal texts (Chan & Chia, 2014) such as advertisements, posters, brochures, billboards, moving pictures, animation, social media platforms such as blogs, facebook, video games, picture books, digital news and the like proliferate at an unprecedented speed. At OSS, students learn to appreciate and review multimodal texts through:<br>
 
@@ -58,7 +58,7 @@ In today’s world where technology and media reaches its arms into every aspect
 
   
 
-				<b>ARP@Outram (Applied Reading Programme)</b>
+	<b>ARP@Outram (Applied Reading Programme)</b>
 
   
 
@@ -123,14 +123,15 @@ We are pleased to announce the following good results. Bravo, Outram writers! <b
 <img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES01.jpg">
 <img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES02.jpg">
 
-				<b>National Schools Literature Festival (NSLF)</b>
+<b>National Schools Literature Festival (NSLF)</b>
 
 <img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES03.jpg">
 <img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES04.jpg">
 <img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES05.jpg">
 <img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES06.jpg">
 
-				<b>OSS Speakability Award</b>
+<b>OSS Speakability Award</b>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -225,9 +226,8 @@ Winning Entry from William Wang Silang (Sec 4/4).
   
 The team comprising Zander Widjaja, Nguyen Hai Duong (Sec 4/4) and Shyanne  (Sec 4/5) won 2 rounds out of 8 in their inaugural outing.<br>
 
-<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/E14.jpg"> </p>
-
-
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/E14.jpg">
+			
 </div>
 
   </li>
@@ -268,8 +268,6 @@ The team comprising Zander Widjaja, Nguyen Hai Duong (Sec 4/4) and Shyanne  (Se
   </tr>
 </tbody>
 </table>
-
-      </p>
 
     </div>
 
@@ -352,10 +350,4 @@ The team comprising Zander Widjaja, Nguyen Hai Duong (Sec 4/4) and Shyanne  (Se
 </tbody>
 </table>
 
-      </p>
-
-    </div>
-
-  </li>
-
-  <li>
+</ul>
