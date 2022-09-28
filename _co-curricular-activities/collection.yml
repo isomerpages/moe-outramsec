@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Sports/Outram Climbing Club.md
       - Sports/Swimming.md
       - Sports/Water polo.md
       - Sports/.keep
