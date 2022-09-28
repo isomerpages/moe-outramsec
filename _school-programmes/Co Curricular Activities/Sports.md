@@ -6,111 +6,89 @@ third_nav_title: Co Curricular Activities
 ---
 
 
-<div>
+<figure>
 
+<a href="/images/Capture.jpg" target = "\_blank"> <img src="/images/Capture.jpg"
 
-<div style="float: left">
+    style="width:100%"></a>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
+<figcaption>
 
-<img src="/images/red%20cross%20logo.png"
+<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
 
-     style="width:50%">
+</figcaption>
 
-</a>
-
-</div>
-
-<div>
-
-</div>
-
-</div>
+</figure>
 
 
 
-<div style="float: left">
+<figure>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
+<a href="/images/Capture.jpg" target = "\_blank"> <img src="/images/Capture.jpg"
 
-<img src="/images/red%20cross%20logo.png"
+    style="width:100%"></a>
 
-     style="width:50%">
+<figcaption>
 
-</a>
+<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
 
-</div>
+</figcaption>
 
-<div>
-
-</div>
-
-</div>
+</figure>
 
 
 
 
 
-<div style="float: left">
+<figure>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
+<a href="/images/Capture.jpg" target = "\_blank"> <img src="/images/Capture.jpg"
 
-<img src="/images/red%20cross%20logo.png"
+    style="width:100%"></a>
 
-     style="width:50%">
+<figcaption>
 
-</a>
+<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
 
-</div>
+</figcaption>
 
-<div>
-
-</div>
-
-</div>
+</figure>
 
 
 
 
 
-<div style="float: left">
+<figure>
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
+<a href="/images/Capture.jpg" target = "\_blank"> <img src="/images/Capture.jpg"
 
-<img src="/images/red%20cross%20logo.png"
+    style="width:100%"></a>
 
-     style="width:50%">
+<figcaption>
 
-</a>
+<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
 
-</div>
+</figcaption>
 
-<div>
-
-</div>
-
-</div>
+</figure>
 
 
 
 
 
+<figure>
 
-<div style="float: left">
+<a href="/images/Capture.jpg" target = "\_blank"> <img src="/images/Capture.jpg"
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
+    style="width:100%"></a>
 
-<img src="/images/red%20cross%20logo.png"
+<figcaption>
 
-     style="width:50%">
+<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
 
-</a>
+</figcaption>
 
-</div>
+</figure>
 
-<div>
 
-</div>
-
-</div>
 
