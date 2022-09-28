@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Aesthetics/Outram Dance Club.md
       - Aesthetics/Visual Arts Club.md
       - Aesthetics/.keep
       - Uniformed Groups/NCCs.md
