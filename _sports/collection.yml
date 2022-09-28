@@ -2,4 +2,5 @@ collections:
   sports:
     output: true
     order:
+      - Swimming.md
       - Water polo.md
