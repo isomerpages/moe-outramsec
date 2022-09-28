@@ -1,4 +1,5 @@
 collections:
   sports:
     output: true
-    order: []
+    order:
+      - Waterpolo.md
