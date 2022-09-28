@@ -2,6 +2,7 @@ collections:
   sports:
     output: true
     order:
+      - Netball.md
       - Outram Climbing Club.md
       - Swimming.md
       - Water polo.md
