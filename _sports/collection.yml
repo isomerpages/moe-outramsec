@@ -1,5 +1,4 @@
 collections:
   sports:
     output: true
-    order:
-      - Basketball.md
+    order: []
