@@ -2,5 +2,6 @@ collections:
   sports:
     output: true
     order:
+      - Outram Climbing Club.md
       - Swimming.md
       - Water polo.md
