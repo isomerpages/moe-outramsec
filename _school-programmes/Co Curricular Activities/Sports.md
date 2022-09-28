@@ -4,81 +4,28 @@ permalink: /school-programmes/Co-Curricular-Activities/Sports/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-<figure>
-
-<a href="/images/Capture.jpg" target = "\_blank"> <img src="/images/Capture.jpg"
-style="width:100%"></a>
-
-<figcaption>
-
-<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
-
-</figcaption>
-
-</figure>
-
-
-
-<figure>
-
-<a href="/images/Capture.jpg" target = "\_blank"> <img src="/images/Capture.jpg"
-style="width:100%"></a>
-
-<figcaption>
-
-<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
-
-</figcaption>
-
-</figure>
 
 
 
 
 
-<figure>
-
-<a href="/images/Capture.jpg" target = "\_blank"> <img src="/images/Capture.jpg"
-style="width:100%"></a>
-
-<figcaption>
-
-<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
-
-</figcaption>
-
-</figure>
+<div>
 
 
+<div style="float: left">
+
+<a href="https://outramsec.moe.edu.sg/school-programmes/co-curricular-activities/sports/basketball">
+
+<img style="width:70%;height:50%" src="/images/School%20Programmes/Co%20Curricular%20Activities/Sports/Water%20Polo/W01.jpg">
 
 
+</a>
 
-<figure>
+</div>
 
-<a href="/cocurricular-activities/Basketball/" target = "\_blank"> <img src="images/School%20Programmes/Co%20Curricular%20Activities/Sports/BasketBall/B05.jpg"
-style="width:100%"></a>
+<div>
 
-<figcaption>
+</div>
 
-<strong> Basketball </strong>
+</div>
 
-</figcaption>
-
-</figure>
-
-
-
-
-
-<figure>
-
-<a href="/images/Capture.jpg" target = "\_blank"> <img src="/images/Capture.jpg"
-style="width:100%"></a>
-
-<figcaption>
-
-<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
-
-</figcaption>
-
-</figure>
