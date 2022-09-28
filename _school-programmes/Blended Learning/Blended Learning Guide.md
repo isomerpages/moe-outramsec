@@ -4,6 +4,9 @@ permalink: /school-programmes/Blended-Learning/Blended-Learning-Guide/
 description: ""
 third_nav_title: Blended Learning
 ---
+[https://www.flipsnack.com/chercheryl/blg-teacher-s-guide-version-5-jan-2022.html](https://www.flipsnack.com/chercheryl/blg-teacher-s-guide-version-5-jan-2022.html)
+
+
 * The Blended Learning Guide (BLG) helps students to get ready for Blended Learning@Home (BL@Home) :  
     and to be a self-directed learner
 
