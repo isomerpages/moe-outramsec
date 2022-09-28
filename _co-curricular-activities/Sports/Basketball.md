@@ -20,10 +20,17 @@ The OSS Basketball team aims to develop the students’ character and to provide
 
     <div>
 
-			<p> <b> Mr. Ang Pow Chew </b><br>
-Text here <br>
+			<p> <b>Teachers in Charge</b><br>
+				
+Mr Lim Teck Ming<br>
+
+Mdm Subbu Suba Sakthidevi<br>
+
+Mr Marcus Huang (ST/Physics)<br>
+
+Mr Lim Wei Sian, Aaron (Coach)<br>
 			
-			Insert video here.</p>
+</p>
 
     </div>
 
@@ -32,13 +39,12 @@ Text here <br>
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">A Message from Our Guest of Honour </label>
+    <label for="accordion2">Schedule </label>
 
     <div>
 
-			<p> Professor Tan Huay Cheem <br> 
-				Text here
-			<br> Insert videos here</p>
+<p>Schedule<br> 
+Monday and Wednesday      2:30 PM – 5:30 PM			<br></p>
 
     </div>
 
@@ -52,11 +58,19 @@ Text here <br>
 
     <div>
 
-			<p><br><b>Title Here</b><br>Text here <br>
-			Insert video here</p>
-
+			<p><br><b>Achievements</b><br>
+SSSC Basketball B Division South Zone Championships 2021<br> 
+				
+SSSC Basketball C Division South Zone Championships 2021<br>  
+  
+SSSC Basketball B Division South Zone Championships 2020<br>
+			</p>
+			
     </div>
 
 </li>
 	
-	<li>
+	
+
+	
+</ul>
