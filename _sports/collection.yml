@@ -2,4 +2,4 @@ collections:
   sports:
     output: true
     order:
-      - Waterpolo.md
+      - Water polo.md
