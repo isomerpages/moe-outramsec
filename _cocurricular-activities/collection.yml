@@ -1,5 +1,0 @@
-collections:
-  cocurricular-activities:
-    output: true
-    order:
-      - Basketball.md
