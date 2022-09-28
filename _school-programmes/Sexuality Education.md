@@ -72,4 +72,54 @@ b. Character and Citizenship Education (CCE)
   
 
 **Secondary 1**
+![](/images/Instructional%20Programmes/Sexuality%20Education/CCESE01.png)
 
+**Secondary 2**
+![](/images/Instructional%20Programmes/Sexuality%20Education/CCESE02.png)
+
+**Secondary 3**
+![](/images/Instructional%20Programmes/Sexuality%20Education/CCESE03.png)
+
+**Secondary 4**
+![](/images/Instructional%20Programmes/Sexuality%20Education/CCESE04.png)
+![](/images/Instructional%20Programmes/Sexuality%20Education/CCESE05.png)
+
+**Secondary 5**
+![](/images/Instructional%20Programmes/Sexuality%20Education/CCESE06.png)
+
+**_eTeens_ Programme:**
+
+  
+
+8\. eTeens is a programme developed by Health Promotion Board, in collaboration with the Ministry of Education, to provide Secondary 3 students with accurate information on STIs, HIV and protection from a health perspective. eTeens is conducted in two segments – a mass talk segment and a classroom-based programme.
+
+  
+
+9\. Students are taught skills such as decision-making, assertiveness and negotiation to say “no” to sex and negative peer pressure. They also learn that the impact of STIs/HIV extends beyond themselves and involves their family. Abstinence and upholding family values are the key messages. The desired outcome of the eTeens programme is that students are mpowered to make wise, informed and sensible decisions.
+
+  
+
+**At Outram Secondary School, the eTeens programme will be implemented as follows in 2022:**
+![](/images/Instructional%20Programmes/Sexuality%20Education/CCESE07.png)
+
+**Information for Parents**
+
+  
+
+10\. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
+
+  
+
+11\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here (please upload parents opt-out form found in Annex **A** and insert a hyperlink for parents to download the form). The completed form is to be submitted by 28/01/2022.
+
+  
+
+12\. Parents who wish to opt their children out of the **_eTeens_ programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here (please upload parents opt-out form found in Annex **B** and insert a hyperlink for parents to download the form).  The completed form is to be submitted by 28/01/2022.
+
+  
+
+13\. Parents can contact the school at [oss@moe.edu.sg](mailto:oss@moe.edu.sg) or 6733 4077 for discussion or to seek clarification about the school’s sexuality education programme.
+
+  
+
+14\. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
