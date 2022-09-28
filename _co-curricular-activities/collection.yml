@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Clubs and Societies/Robotics Club.md
       - Clubs and Societies/Sports and Recreation Club.md
       - Clubs and Societies/.keep
       - Aesthetics/Concert Band.md
