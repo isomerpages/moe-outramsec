@@ -4,7 +4,7 @@ permalink: /school-programmes/Blended-Learning/Resources-for-BL/
 description: ""
 third_nav_title: Blended Learning
 ---
-   **Resources for students** 
+#### **Resources for students** 
 
 *   [A Guide to Learning from Home](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/FHBL/FOR%20STUDENTS_A%20Guide%20to%20Learning%20from%20Home.pdf)
 *   [Weekly Schedule (template)](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/FHBL/FOR%20STUDENTS_Weekly%20Schedule.pdf)
@@ -12,7 +12,7 @@ third_nav_title: Blended Learning
 
   
 
-### **Resources for parents** 
+#### **Resources for parents** 
 
   
 
@@ -21,6 +21,6 @@ third_nav_title: Blended Learning
 
   
 
-### **Resources for teachers**
+#### **Resources for teachers**
 
 *   [Making HBL Accessible for Students with Hearing Loss](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/FHBL/FOR%20TEACHERS_Making%20HBL%20Accessible%20for%20Students%20with%20Hearing%20Loss.pdf)
