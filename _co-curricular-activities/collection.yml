@@ -2,5 +2,6 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Sports/Swimming.md
       - Sports/Water polo.md
       - Sports/.keep
