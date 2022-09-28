@@ -2,6 +2,7 @@ collections:
   co-curricular-activities:
     output: true
     order:
+      - Uniformed Groups/NCCs.md
       - Uniformed Groups/.keep
       - Sports/Basketball.md
       - Sports/Netball.md
