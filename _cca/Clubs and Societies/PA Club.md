@@ -39,7 +39,7 @@ Mdm Thia Li Yun<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-			<p>Daily&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 7.15 AM – 7.40 AM<br>
+			<p>Daily 7.15 AM – 7.40 AM<br>
 
 All event rehearsals and actual events<br> </p>
 
