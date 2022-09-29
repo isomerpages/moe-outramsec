@@ -104,3 +104,89 @@ The 10-hour blended learning workshop aims to introduce the concept of innovatio
 ![](/images/School%20Programmes/Distinctive%20Programmes/ALP/ALP18.png)
 
 ![](/images/School%20Programmes/Distinctive%20Programmes/ALP/ALP19.png)
+
+
+### **Members**
+
+| Ms Serene Cheong    | Head of Department                                 |
+|---------------------|----------------------------------------------------|
+| Mrs Wendy Loi (OIC) | Financial Literacy                                 |
+| Mdm Chua YP         | Financial Literacy                                 |
+| Mr Jeremy Lum       | Financial Literacy                                 |
+| Ms Serene Wong      | Financial Literacy                                 |
+| Mr Gabriel Fu       | Financial Literacy and  Entrepreneurship Programme |
+| Mdm Casey Lee       |  Secondary 2 and 3 Entrepreneurship Programme      |
+| Ms Woo See Wei      | Secondary 2 and 3 Entrepreneurship Programme       |
+| Ms Gladys Lim       | Secondary 2 and 3 Entrepreneurship Programme       |
+
+  
+  
+  
+  
+
+### **Programmes in 2022**
+
+
+  
+
+**January**
+
+·         Business lesson for Lower Secondary
+
+·         Finance Leaders programme for Secondary 2 and 3
+
+**February**
+
+·         Business lesson for Lower Secondary
+
+·         Finance Leaders programme for Secondary 2 and 3
+
+·         Online Bazaar for Business students
+
+·         Secondary 3 Entrepreneurship programme
+
+**March**
+
+·         Business lesson for Lower Secondary
+
+·         Secondary 3 Entrepreneurship programme
+
+·          Lcube game for Secondary 1 students
+
+**April**
+
+·          Business lesson for Lower Secondary (Project Work)
+
+**May**
+
+·         Business lesson for Lower Secondary
+
+·         ALP day for Secondary 1, 2 and 3
+
+·         ALP week for Secondary 4 NT/NA
+
+**June**
+
+·         LCCI External Certification (For selected group of POA students)
+
+·         Project Moolah Fin Lit programme
+
+**July – September**
+
+·         Spirit of Enterprise (SOE) workshop for Secondary 2 Entrepreneurship programme
+
+·          Entrepreneurship first step module organized by Ngee Ann Polytechnic
+
+·         Project Moolah Fin Lit programme
+
+**October - November**
+
+·         Fin Lit Outreach and Publicity Talks to Primary Schools
+
+·         MYM and Cashflow interclass Secondary One and Two competition
+
+·         Design for Change Challenge
+
+### Achievements
+
+![](/images/School%20Programmes/Distinctive%20Programmes/ALP/ALP20.png)
