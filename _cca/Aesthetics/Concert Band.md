@@ -15,3 +15,103 @@ No pre-requisites or theoretical knowledge is required. Fundamental musical skil
 **Leadership Opportunities**
 
 Every musician in Outram Concert Band will eventually understand the Leadership structure within the CCA and have the opportunity to lead and serve members on various platforms. Students will be given responsibilities to organise events within sub-committees for the annual Band Camps, Parents’ Night and Band Investiture. Suitable members who have shown commitment and leadership abilities or interest may be appointed to serve the Executive Committee for a particular year.
+
+<ul class="jekyllcodex_accordion">
+
+  <li>
+
+    <input type="checkbox" id="accordion1">
+
+    <label for="accordion1">Teachers in Charge</label>
+
+    <div>
+
+			<p> <b> Teachers in Charge </b><br>
+Ms Tan Xi Ling<br>  
+
+Mr Charles Yip<br>  
+  
+Mr Gabriel Fu<br></p>
+
+    </div>
+
+</li>
+	<li>
+
+    <input type="checkbox" id="accordion2">
+
+    <label for="accordion2">Schedule </label>
+
+    <div>
+
+			<p> Full Band Practice sessions<br>
+				<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-l2bf"><span style="font-weight:700;color:#000;background-color:transparent">Sec 1</span></th>
+    <th class="tg-tsok"><span style="color:#000;background-color:transparent">Monday, Thursday</span></th>
+    <th class="tg-lygy"><span style="color:#000;background-color:transparent">2.15pm - 5.30pm</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-l2bf"><span style="font-weight:700;color:#000;background-color:transparent">Sec 2-5</span></td>
+    <td class="tg-tsok"><span style="color:#000;background-color:transparent">Monday, Wednesday, Thursday</span></td>
+    <td class="tg-lygy"><span style="color:#000;background-color:transparent">2.15pm - 5.45p</span></td>
+  </tr>
+</tbody>
+</table>
+			</p>
+
+    </div>
+
+</li>
+	
+	<li>
+
+    <input type="checkbox" id="accordion3">
+
+    <label for="accordion3">Achievements</label>
+
+    <div>
+
+			<p> 2020 Unit Recognition Award – Accomplished<br>  
+  
+Best Unit Competition (2017) – Bronze</p>
+
+    </div>
+
+</li>
+	
+	<li>
+
+    <input type="checkbox" id="accordion4">
+
+    <label for="accordion4">Events</label>
+
+    <div>
+
+      <p> Bonding activity between NCC and the National Police Cadet Corps (NPCC) cadets:  
+Beyond the Inter-Uniformed Group games during regular training days, the two units had also spent an entire morning together at Alexandra Canal. Cadets from both units had to complete various tasks such as map reading and fact finding along the canal. These activities drew on themes of environmental awareness and basic topography skills, while providing the cadets the platform to do cooperative learning.<br>  
+  
+Since July 2020, NCC Outram has switched to e-learning platforms in Phase 2 of the Covid-19 situation. With the help, guidance and support of HQ NCC, our cadets are still able to be nurtured as caring and concerned citizens, learning how to keep mentally and physically fit through the videos and modular courses that are made available online.
+			</p>
+
+    </div>
+
+</li>
+	
+	
+
+	
+</ul>
