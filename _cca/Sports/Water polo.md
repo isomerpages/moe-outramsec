@@ -63,11 +63,9 @@ Daily (Except Thursday)			<br></p>
     <div>
 
 			<p><br><b>Achievements</b><br>
-SSSC Basketball B Division South Zone Championships 2021<br> 
-				
-SSSC Basketball C Division South Zone Championships 2021<br>  
-  
-SSSC Basketball B Division South Zone Championships 2020<br>
+National Inter-School Water Polo 'B' Division Championship 2017  
+
+				<b>Champion</b>
 			</p>
 			
     </div>
