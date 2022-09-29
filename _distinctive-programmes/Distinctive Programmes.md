@@ -3,10 +3,9 @@ title: Distinctive Programmes
 permalink: /distinctive-programmes/Distinctive-Programmes/
 description: ""
 ---
+[Applied Learning Program](/distinctive-programmes/Applied-Learning-Programme/)
 
-[Applied Learning Program](https://outramsec-moe-edu-sg-admin.cwp.sg/distinctive-programmes/applied-learning-programme-alp)
-
-[Learning for Life Program](https://outramsec-moe-edu-sg-admin.cwp.sg/distinctive-programmes/learning-for-life-programme-llp)
+[Learning for Life Program](/distinctive-programmes/Learning-for-Life-Programme/Learning-for-Life-Programme/)
 
   
 
