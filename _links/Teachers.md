@@ -33,11 +33,11 @@ description: ""
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">A Message from Our Guest of Honour </label>
+    <label for="accordion2">Resources </label>
 
     <div>
 
-			<p> </p>
+			<p> <a href="https://outramsec-moe-edu-sg-admin.cwp.sg/oss/resources-for-fhbl-for-parents-students-and-teachers">Resources for FHBL</a> </p>
 
     </div>
 
