@@ -45,32 +45,7 @@ Mr Gabriel Fu<br></p>
     <div>
 
 			<p> Full Band Practice sessions<br>
-				<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
-.tg .tg-lygy{background-color:#FFF;color:#222;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-l2bf"><span style="font-weight:700;color:#000;background-color:transparent">Sec 1</span></th>
-    <th class="tg-tsok"><span style="color:#000;background-color:transparent">Monday, Thursday</span></th>
-    <th class="tg-lygy"><span style="color:#000;background-color:transparent">2.15pm - 5.30pm</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-l2bf"><span style="font-weight:700;color:#000;background-color:transparent">Sec 2-5</span></td>
-    <td class="tg-tsok"><span style="color:#000;background-color:transparent">Monday, Wednesday, Thursday</span></td>
-    <td class="tg-lygy"><span style="color:#000;background-color:transparent">2.15pm - 5.45p</span></td>
-  </tr>
-</tbody>
-</table>
+				
 			</p>
 
     </div>
