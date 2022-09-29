@@ -4,6 +4,8 @@ permalink: /cca/Aesthetics/concert-band/
 description: ""
 third_nav_title: Aesthetics
 ---
+<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRM26HFihHplVSY2H50_-MdwUJqe5TIAIT_uCDjsBtfk5xhY3HH7aMueNxMObIrotAersoIP5gD8GRN/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
 The Outram Concert Band is committed to providing a quality music education to all members who start out as our budding musicians. Being a key member in the music ensemble, each member will be expected to be knowledgeable in both theoretical and practical aspects so as to enhance their musicianship as they are nurtured over time in the band. The music ensemble’s is only as strong as its weakest player. Hence, the Concert Band focuses on team building through activities and conversations, providing opportunities for members of the band to work closely together. With perseverance and through teamwork, members can look forward to forging strong friendships with a strong sense of belonging to the ensemble.
 
 **Music Training**
