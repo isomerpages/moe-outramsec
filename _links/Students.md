@@ -43,7 +43,7 @@ description: ""
 
     <div>
 
-			<p> <a href="https://outramsec-moe-edu-sg-admin.cwp.sg/other/booklist-for-2022">Booklists for 2022</a><br> </p>
+			<p> <a href="/Booklists-for-2022/">Booklists for 2022</a><br> </p>
 
     </div>
 
