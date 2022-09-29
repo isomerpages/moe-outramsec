@@ -94,11 +94,51 @@ Lee Xin Yue</p>
 
     <div>
 
-      <p> Spring Festival Concert Performance 2022 (Modern Dance)<br>
-
-School’s Awards Day 2022 (Modern Dance)<br>
-
-Spring Festival Concert Performance 2021 (Hip-Hop Dance)
+      <p> <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vqm8{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-u05r{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-u05r">CCA HOURS (STUDIO TIME)</th>
+    <th class="tg-u05r">SCHOOL EVENTS (PERM/AD-HOC)</th>
+    <th class="tg-u05r">ENRICHMENT</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vqm8">Photography (theory &amp; outdoor shoots)</td>
+    <td class="tg-vqm8">CCA Day / Sec 1 Registration</td>
+    <td class="tg-vqm8">Art Stage Singapore</td>
+  </tr>
+  <tr>
+    <td class="tg-vqm8">Design Skills ( Hands-on)<br>1)    Photoshop<br>2)    Illustrator<br>3)    Canva</td>
+    <td class="tg-vqm8">XCountry / Swim Carnival</td>
+    <td class="tg-vqm8">SG Art Week</td>
+  </tr>
+  <tr>
+    <td class="tg-vqm8">Fine Arts Skills ( Hands- on</td>
+    <td class="tg-vqm8">Speech Day</td>
+    <td class="tg-vqm8">Workshops by Artists</td>
+  </tr>
+  <tr>
+    <td class="tg-vqm8">Fine Arts ( theory )</td>
+    <td class="tg-vqm8">N.E Commemoration Days<br>RHD / NDP</td>
+    <td class="tg-vqm8">On-Site Photography Shoots</td>
+  </tr>
+  <tr>
+    <td class="tg-vqm8"> </td>
+    <td class="tg-vqm8">Teacher’s Day</td>
+    <td class="tg-vqm8">Singapore Art Museum  &amp; National Gallery Learning Journeys</td>
+  </tr>
+</tbody>
+</table>
 			</p>
 
     </div>
