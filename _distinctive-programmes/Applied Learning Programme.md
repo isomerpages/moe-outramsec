@@ -11,7 +11,6 @@ In addition to being recognized as Center of Excellence for Business & Enterpri
 
 At Outram, we design programmes in recognition of the diverse interests and talents in line with supporting the development of multiple peaks of excellence and preparing our students to develop future work skills.  
 
-  
 
 The programme consists of 2 tiers: Tier 1 is a 15 – 20 hours programme for all Secondary and One students while Tier 2 caters to students with the aptitude and interest as part of their talent development.
 
@@ -74,5 +73,34 @@ In semester one, a 20-week business lesson on Financial Literacy and Entreprene
 
 The 2 days OPEL is a consolidation of the year-long VIA/OPEL project. The focus of this OPEL project is about the entrepreneurial and marketing aspects of the product. The showcase will be based on the marketing board and final presentation of the product.
 
+![](/images/School%20Programmes/Distinctive%20Programmes/ALP/ALP10.png)
 
-																																																				 
+**Secondary 2 – Smart technology and Mental Wellness**  
+
+The 2 days OPEL is a consolidation of the year-long VIA/OPEL project. As the theme for S2 OPEL is **Smart Technology**, students work in teams to appify their VIA solutions.
+
+![](/images/School%20Programmes/Distinctive%20Programmes/ALP/ALP11.png)
+
+![](/images/School%20Programmes/Distinctive%20Programmes/ALP/ALP12.png)
+
+![](/images/School%20Programmes/Distinctive%20Programmes/ALP/ALP13.png)
+
+![](/images/School%20Programmes/Distinctive%20Programmes/ALP/ALP14.png)
+
+**Secondary 2 Entrepreneurship Programme**
+
+The 10-hour blended learning workshop aims to introduce the concept of innovation to our students. Students will practise using the Design Thinking methodology and apply to an authentic context, focusing on building empathy towards a user. The outcome of the workshop is to spark inspiration in student to collaborate in championing the sustainable initiatives for school/home communities via Design Thinking methodology.
+
+![](/images/School%20Programmes/Distinctive%20Programmes/ALP/ALP15.png)
+
+**Some samples of students’ prototypes**
+
+![](/images/School%20Programmes/Distinctive%20Programmes/ALP/ALP16.png)
+
+**Overseas Experiential Learning Programme to South Korea**
+
+![](/images/School%20Programmes/Distinctive%20Programmes/ALP/ALP17.jpg)
+
+![](/images/School%20Programmes/Distinctive%20Programmes/ALP/ALP18.png)
+
+![](/images/School%20Programmes/Distinctive%20Programmes/ALP/ALP19.png)
