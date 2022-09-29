@@ -4,13 +4,12 @@ permalink: /school-programmes/Co-Curricular-Activities/Sports/
 description: ""
 third_nav_title: Co Curricular Activities
 ---
-
 <div>
 
 
 <div style="float: left">
 
-<a href="/sports/Basketball/">
+<a href="/cca/Sports/Basketball/">
 	
 <figure>
 <img style="width:70%;height:50%" src="/images/School%20Programmes/Co%20Curricular%20Activities/Sports/BasketBall/B02.jpg">
