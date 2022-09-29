@@ -48,7 +48,7 @@ Mr Azaac Tan<br>
     <div>
 
 <p>Schedule<br> 
-Monday and Wednesday      2:30 PM – 5:30 PM			<br></p>
+Daily (Except Thursday)			<br></p>
 
     </div>
 
