@@ -16,7 +16,7 @@ Apart from their regular training sessions, netballers have a multitude of oppor
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Principal's Foreword</label>
+    <label for="accordion1">Teachers in Charge</label>
 
     <div>
 
