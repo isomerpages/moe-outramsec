@@ -64,11 +64,11 @@ Mr Ooi Jason<br></p>
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">An Expression of Our Gratitude</label>
+    <label for="accordion3">Achievements</label>
 
     <div>
 
-			<p> Achievements<br>  
+			<p> 2020 Unit Recognition Award – Accomplished<br>  
   
 Best Unit Competition (2017) – Bronze</p>
 
