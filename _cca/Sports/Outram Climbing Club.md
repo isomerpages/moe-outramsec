@@ -59,11 +59,46 @@ Monday,Wednesday and Friday      2:30 PM – 5:30 PM			<br></p>
     <div>
 
 			<p><br><b>Achievements</b><br>
-SSSC Basketball B Division South Zone Championships 2021<br> 
-				
-SSSC Basketball C Division South Zone Championships 2021<br>  
-  
-SSSC Basketball B Division South Zone Championships 2020<br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vqm8{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-u05r{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-lr6o{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-u05r">Competition</th>
+    <th class="tg-u05r">Award</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vqm8"><br><br><br>National Schools Bouldering Championship 2019<br></td>
+    <td class="tg-u05r">“B“ Division (Girls) - 2nd position<br><br><br>“C“ Division (Boys) - 2nd position<br></td>
+  </tr>
+  <tr>
+    <td class="tg-lr6o"><span style="color:#222">National Schools Speed Climbing Championship 2019</span></td>
+    <td class="tg-u05r">“C” Division (Girls) - Champion<br>  <br>“B” Division (Girls)- Champion<br><br>“C” Division (Boys)- Champion<br> “B” Division (Boys) - 3rd position      <br></td>
+  </tr>
+  <tr>
+    <td class="tg-lr6o"><span style="color:#222"> National Schools Bouldering Championship 2018  </span></td>
+    <td class="tg-u05r"> “C” Division (Girls) - 2nd position<br><br> “B” Division (Girls) - Champion<br> “C” Division (Boys)- Champion<br> “B” Division (Boys) - 2nd position</td>
+  </tr>
+  <tr>
+    <td class="tg-vqm8">National Schools Speed Climbing Championship 2018<br></td>
+    <td class="tg-u05r"> “C” Division (Girls) - Champion<br> “B” Division (Girls) - Champion<br> “C” Division (Boys) - 2nd position<br> “B” Division (Boys)- Champion  <br></td>
+  </tr>
+  <tr>
+    <td class="tg-vqm8">Asian Cup 2018 </td>
+    <td class="tg-u05r">  Men Bouldering<br>  VEROSIL GERALD BAYO 1st</td>
+  </tr>
+</tbody>
+</table>
 			</p>
 			
     </div>
