@@ -22,13 +22,12 @@ Apart from their regular training sessions, netballers have a multitude of oppor
 
 			<p> <b>Teachers in Charge</b><br>
 				
-Mr Lim Teck Ming<br>
+Ms Gloria Ng<br>  
+  
+Mrs Vivian Tan<br>  
 
-Mdm Subbu Suba Sakthidevi<br>
-
-Mr Marcus Huang (ST/Physics)<br>
-
-Mr Lim Wei Sian, Aaron (Coach)<br>
+  
+Mrs Chua Wai Yi<br>
 			
 </p>
 
@@ -44,7 +43,11 @@ Mr Lim Wei Sian, Aaron (Coach)<br>
     <div>
 
 <p>Schedule<br> 
-Monday and Wednesday      2:30 PM – 5:30 PM			<br></p>
+Monday: 3:45 - 6pm<br>
+
+  
+
+Wednesday & Friday: 2:45 - 6pm    <br></p>
 
     </div>
 
@@ -54,16 +57,47 @@ Monday and Wednesday      2:30 PM – 5:30 PM			<br></p>
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">An Expression of Our Gratitude</label>
+    <label for="accordion3">Achievements</label>
 
     <div>
 
 			<p><br><b>Achievements</b><br>
-SSSC Basketball B Division South Zone Championships 2021<br> 
-				
-SSSC Basketball C Division South Zone Championships 2021<br>  
-  
-SSSC Basketball B Division South Zone Championships 2020<br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vqm8{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-u05r{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-lr6o{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-u05r">Competition</th>
+    <th class="tg-u05r">Award</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lr6o"><span style="color:#222"> South Zone Netball Championships 2020</span></td>
+    <td class="tg-lr6o"><span style="color:#222"> </span>Top 8 for ‘B’ Division</td>
+  </tr>
+  <tr>
+    <td class="tg-lr6o"><span style="color:#222"> South Zone Netball Championships 2019</span><br></td>
+    <td class="tg-u05r">Top 8 for ‘B’ and ‘C’ Divisions</td>
+  </tr>
+  <tr>
+    <td class="tg-lr6o"><span style="color:#222"> South Zone Netball Championships 2018</span></td>
+    <td class="tg-u05r">Top 8 for ‘B’ and ‘C’ Divisions</td>
+  </tr>
+  <tr>
+    <td class="tg-vqm8">Daisy Tan Netball Carnival 2018<br><br></td>
+    <td class="tg-u05r">‘B’ Division – 2nd Runner-up<br>‘C’ Division – 1st</td>
+  </tr>
+</tbody>
+</table>
 			</p>
 			
     </div>
