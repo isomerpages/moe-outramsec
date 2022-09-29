@@ -9,7 +9,7 @@ third_nav_title: Co Curricular Activities
 
 <div style="float: left">
 
-<a href="https://outramsec.moe.edu.sg/school-programmes/co-curricular-activities/sports/basketball">
+<a href="/cca/Aesthetics/concert-band/">
 	
 <figure>
 <img style="width:70%;height:50%" src="/images/School%20Programmes/Co%20Curricular%20Activities/Aesthetics/Concert%20Band/C03.jpg">
@@ -30,7 +30,7 @@ third_nav_title: Co Curricular Activities
 
 <div style="float: left">
 
-<a href="https://outramsec.moe.edu.sg/school-programmes/co-curricular-activities/sports/basketball">
+<a href="/cca/Aesthetics/outram-dance-club/">
 	
 <figure>
 <img style="width:70%;height:50%" src="/images/School%20Programmes/Co%20Curricular%20Activities/Aesthetics/Outram%20Dance%20Club/D02.jpg">
@@ -51,7 +51,7 @@ third_nav_title: Co Curricular Activities
 
 <div style="float: left">
 
-<a href="https://outramsec.moe.edu.sg/school-programmes/co-curricular-activities/sports/basketball">
+<a href="/cca/Aesthetics/visual-arts-club/">
 	
 <figure>
 <img style="width:70%;height:50%" src="/images/School%20Programmes/Co%20Curricular%20Activities/Aesthetics/Visual%20Arts%20Club/V5.jpg">
