@@ -30,7 +30,7 @@ third_nav_title: Co Curricular Activities
 
 <div style="float: left">
 
-<a href="https://outramsec.moe.edu.sg/school-programmes/co-curricular-activities/sports/basketball">
+<a href="/cca/Sports/Netball/">
 	
 <figure>
 <img style="width:70%;height:50%" src="/images/School%20Programmes/Co%20Curricular%20Activities/Sports/Netball/N12.jpg">
@@ -51,7 +51,7 @@ third_nav_title: Co Curricular Activities
 
 <div style="float: left">
 
-<a href="https://outramsec.moe.edu.sg/school-programmes/co-curricular-activities/sports/basketball">
+<a href="/cca/Sports/outram-climbing-club/">
 	
 <figure>
 <img style="width:70%;height:50%" src="/images/School%20Programmes/Co%20Curricular%20Activities/Sports/Outram%20Climbing%20Club/C06.jpg">
@@ -72,7 +72,7 @@ third_nav_title: Co Curricular Activities
 
 <div style="float: left">
 
-<a href="https://outramsec.moe.edu.sg/school-programmes/co-curricular-activities/sports/basketball">
+<a href="/cca/Sports/swimming/">
 	
 <figure>
 <img style="width:70%;height:50%" src="/images/School%20Programmes/Co%20Curricular%20Activities/Sports/Swimming/S01.jpg">
@@ -93,7 +93,7 @@ third_nav_title: Co Curricular Activities
 
 <div style="float: left">
 
-<a href="https://outramsec.moe.edu.sg/school-programmes/co-curricular-activities/sports/basketball">
+<a href="/cca/Sports/water-polo/">
 	
 <figure>
 <img style="width:70%;height:50%" src="/images/School%20Programmes/Co%20Curricular%20Activities/Sports/Water%20Polo/W01.jpg">
