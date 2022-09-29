@@ -48,7 +48,7 @@ Every Wednesday    2.45 PM - 4.45 PM			<br></p>
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">An Expression of Our Gratitude</label>
+    <label for="accordion3">Achievements</label>
 
     <div>
 
