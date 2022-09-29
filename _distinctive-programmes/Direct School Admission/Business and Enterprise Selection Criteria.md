@@ -20,6 +20,7 @@ third_nav_title: Direct School Admission
 
 <figure> <img src="/images/School%20Programmes/Distinctive%20Programmes/DSA/Business%20and%20Enterprise/BE07.jpg"> <figcaption> <strong> Cashflow competition organised by Outram Secondary School </strong> </figcaption> </figure>
 
-![](/images/School%20Programmes/Distinctive%20Programmes/DSA/Business%20and%20Enterprise/BE08.jpg)
+<img style="width:50%;height:50%" src="/images/School%20Programmes/Distinctive%20Programmes/DSA/Business%20and%20Enterprise/BE08.jpg">
 
-![](/images/School%20Programmes/Distinctive%20Programmes/DSA/Business%20and%20Enterprise/BE09.jpg)
+
+<img style="width:50%;height:50%" src="/images/School%20Programmes/Distinctive%20Programmes/DSA/Business%20and%20Enterprise/BE09.jpg">
