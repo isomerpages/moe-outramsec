@@ -32,12 +32,16 @@ Cadets will play a significant role in guiding the newly appointed cadet leaders
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Principal's Foreword</label>
+    <label for="accordion1">Teachers in Charge</label>
 
     <div>
 
-			<p> <b> Mr. Ang Pow Chew </b><br>
- Text here</p>
+			<p> <b> Teachers in Charge </b><br>
+ Ms Nurul<br>
+
+Mr Abdul Rahman<br>
+
+Mr Ooi Jason<br></p>
 
     </div>
 
@@ -46,11 +50,11 @@ Cadets will play a significant role in guiding the newly appointed cadet leaders
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">A Message from Our Guest of Honour </label>
+    <label for="accordion2">Schedule </label>
 
     <div>
 
-			<p> Text here</p>
+			<p> Wednesday                 2:45 PM – 5:45 PM</p>
 
     </div>
 
@@ -64,7 +68,9 @@ Cadets will play a significant role in guiding the newly appointed cadet leaders
 
     <div>
 
-			<p> Text here</p>
+			<p> Achievements<br>  
+  
+Best Unit Competition (2017) – Bronze</p>
 
     </div>
 
