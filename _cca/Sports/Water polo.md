@@ -65,7 +65,9 @@ Daily (Except Thursday)			<br></p>
 			<p><br><b>Achievements</b><br>
 National Inter-School Water Polo 'B' Division Championship 2017  
 
-				<b>Champion</b>
+				
+<b>Champion</b>
+				
 			</p>
 			
     </div>
