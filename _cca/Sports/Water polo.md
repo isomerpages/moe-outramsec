@@ -13,3 +13,68 @@ To accomplish that goal, the CCA focuses on two aspects – resilience and frien
 Even though the National Inter-School Water Polo Championship was cancelled due to the COVID-19 pandemic, the students found ways to conduct CCA online during the circuit breaker period.&nbsp;
 
 Student leaders organized team-bonding activities through the video conferencing tool “Zoom” three times a week.&nbsp; They also collaborated with eleven other CCAs to collect essential items to be donated to different beneficiaries such as migrant workers, needy students and needy families.&nbsp; After three months of hard work, they collected and packed an estimated two thousand care packs which were distributed to the respective beneficiaries.
+
+<ul class="jekyllcodex_accordion">
+
+  <li>
+
+    <input type="checkbox" id="accordion1">
+
+    <label for="accordion1">Teachers in Charge</label>
+
+    <div>
+
+			<p> <b>Teachers in Charge</b><br>
+				
+Mr Tang Yee Fun Francis (LT/PE CCA)<br>  
+
+Mr Jeremy Lum Wei Jian<br>
+
+Ms Gladys Lim<br>
+
+Mr Azaac Tan<br>
+			
+</p>
+
+    </div>
+
+</li>
+	<li>
+
+    <input type="checkbox" id="accordion2">
+
+    <label for="accordion2">Schedule </label>
+
+    <div>
+
+<p>Schedule<br> 
+Monday and Wednesday      2:30 PM – 5:30 PM			<br></p>
+
+    </div>
+
+</li>
+	
+	<li>
+
+    <input type="checkbox" id="accordion3">
+
+    <label for="accordion3">An Expression of Our Gratitude</label>
+
+    <div>
+
+			<p><br><b>Achievements</b><br>
+SSSC Basketball B Division South Zone Championships 2021<br> 
+				
+SSSC Basketball C Division South Zone Championships 2021<br>  
+  
+SSSC Basketball B Division South Zone Championships 2020<br>
+			</p>
+			
+    </div>
+
+</li>
+	
+	
+
+	
+</ul>
