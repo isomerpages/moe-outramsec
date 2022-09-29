@@ -54,7 +54,7 @@ Monday,Wednesday and Friday      2:30 PM – 5:30 PM			<br></p>
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">An Expression of Our Gratitude</label>
+    <label for="accordion3">Achievements</label>
 
     <div>
 
