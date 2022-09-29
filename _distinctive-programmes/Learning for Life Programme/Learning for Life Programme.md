@@ -62,3 +62,10 @@ The PE department approach towards character development through the Sports For 
 
 **_Sports for Life Framework_**
 
+![](/images/School%20Programmes/Distinctive%20Programmes/LLP/LLP01.jpg)
+
+All students will be **exposed** in at least 6 sports throughout their 4/5 years PE lessons in Outram to build a strong foundation for the development of broad-based physical competencies and opportunities for recreational participation. 
+
+Through sport, we want to **enrich** students’ school experiences to build self-esteem, renew interest in learning and develop critical life skills. Students leaders will be **empowered** to lead, plan and organise sport events and run CCA sports camp. Individuals with good performance and demonstrated talent can invest their time and effort in highly specialised and intensive training with national sports organisations to **excel**.
+
+![](/images/School%20Programmes/Distinctive%20Programmes/LLP/LLP02.png)
