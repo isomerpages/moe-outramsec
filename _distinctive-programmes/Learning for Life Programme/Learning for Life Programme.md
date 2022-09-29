@@ -4,3 +4,62 @@ permalink: /distinctive-programmes/Learning-for-Life-Programme/Learning-for-Life
 description: ""
 third_nav_title: Learning for Life Programme
 ---
+#### **'Sports For Life' @ Outram Sec School**
+
+  
+
+  
+
+**Vision**  
+
+
+
+
+
+We Nurture Champions for Sports and Life.
+
+  
+
+**3Is Sports Mission**
+
+**Instil** Life skills
+
+**Inculcate** Life Values
+
+**Inspire** Life-long Learning
+
+Through sports, we aim to instil 21st Century Competencies in each student to better prepare them to thrive in a fast-changing and highly connected world.
+
+  
+
+**Character Development Approach: Head, Heart & Hand**
+
+**_Head: To Know_**
+
+**_Heart: To Feel_**
+
+**_Hand: To Do_**
+
+The PE department approach towards character development through the Sports For Life @ Outram involves teaching the students the school values and equipping them with SEL competencies (To Know) through CCE and providing platforms for students to practice and demonstrate the values (To Feel) through play and competition and encouraging students to adopt the values in their own lives (To Do) in classroom, school and community.
+
+#### 
+
+**Sports for Life Programmes***
+
+         ·         Annual Fitness Run
+
+         ·         Inter-house Swimming cum Sports Carnival
+
+         ·         Sec 3 Outdoor Education Adventure Camp
+
+        ·         Sports Education Programme
+
+        ·         Inter-house / inter-class Games
+
+        ·         Sports AEM (Advanced Elective Module)
+
+   \*Due to the covid-19 pandemic, all sports events were cancelled between 2020 and 2021. A Virtual Run was conducted from 12           April to 9 May.
+
+**_Sports for Life Framework_**
+
+
