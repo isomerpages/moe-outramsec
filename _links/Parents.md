@@ -100,15 +100,14 @@ description: ""
     <div>
 
       	<p> 
-				<a href="files/Links/Parents/Letter%20to%20Parents%202022/2022%20Term%204%20Letter%20to%20Parents%20Final.pdf">Term 4 Letter to Parents 2022</a><br>
-			<a href="files/Links/Parents/Letter%20to%20Parents%202022/Hardcopy%20Letter%20to%20Parents%20and%20Guardians%20Not%20Using%20PG%20-%20%20Sept%20Holidays%2022%20Travel%20Declaration.pdf">Travel Declaration for September Holiday 2022</a><br>
-			<a href="files/Links/Parents/Letter%20to%20Parents%202022/2022%20Term%203%20Letter%20to%20Parents%20Final.pdf">Term 3 Letter to Parents 2022</a><br>
-			<a href="files/Links/Parents/Letter%20to%20Parents%202022/2022%20Term%202%20Letter%20to%20Parents%20Final.pdf">Term 2 Letter to Parents 2022</a><br>
-			<a href="files/Links/Parents/Letter%20to%20Parents%202022/2022%20Term%201%20Letter%20to%20Parents%20Final.pdf">Term 1 Letter to Parents 2022</a><br>
-			<a href="files/Links/Parents/Letter%20to%20Parents%202022/Letter%20to%20Parents%20on%20BLHome%20Schedule%202022.pdf">Letter to Parents on BL@Home Schedule 2022</a><br>
-				<b>2021</b><br>
-				<a href="files/Links/Parents/Letter%20to%20Parents%202022/Advisory%20on%20Travel%20-%20Year%20End%202021%20080921%20-%20for%20Students.pdf">Advisory on Travel for Students 2021</a><br>
-				<a href="files/Links/Parents/Letter%20to%20Parents%202022/2021%20Student%20Travel%20Plans%20Form.pdf">Student Travel Plans Form 2021</a><br></p>
+				<a href="files/Links/Parents/Letter%20to%20Parents%202022/2022%20Term%204%20Letter%20to%20Parents%20Final.pdf">Arrangement for School Reopening in Term 3</a><br>
+			<a href="files/Links/Parents/Letter%20to%20Parents%202022/Hardcopy%20Letter%20to%20Parents%20and%20Guardians%20Not%20Using%20PG%20-%20%20Sept%20Holidays%2022%20Travel%20Declaration.pdf">Information on COVID-19 Vaccination for Students</a><br>
+			<a href="files/Links/Parents/Letter%20to%20Parents%202022/2022%20Term%203%20Letter%20to%20Parents%20Final.pdf">Bonding over the Holidays! (Parent Kit)</a><br>
+			<a href="files/Links/Parents/Letter%20to%20Parents%202022/2022%20Term%202%20Letter%20to%20Parents%20Final.pdf">Parent Kit - Supporting your Child During Full HBL</a><br>
+			<a href="files/Links/Parents/Letter%20to%20Parents%202022/2022%20Term%201%20Letter%20to%20Parents%20Final.pdf">Resources for FHBL</a><br>
+			<a href="files/Links/Parents/Letter%20to%20Parents%202022/Letter%20to%20Parents%20on%20BLHome%20Schedule%202022.pdf">Student Device Information Kit (Acer Service centre)</a><br>
+				<a href="files/Links/Parents/Letter%20to%20Parents%202022/Advisory%20on%20Travel%20-%20Year%20End%202021%20080921%20-%20for%20Students.pdf">Blended Learning@home: Instructions to Students</a><br>
+				<a href="files/Links/Parents/Letter%20to%20Parents%202022/2021%20Student%20Travel%20Plans%20Form.pdf">Parent Handbook I on 1  1 Learning</a><br></p>
 
     </div>
 
