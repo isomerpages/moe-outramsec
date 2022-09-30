@@ -100,14 +100,14 @@ description: ""
     <div>
 
       	<p> 
-				<a href="files/Links/Parents/Letter%20to%20Parents%202022/2022%20Term%204%20Letter%20to%20Parents%20Final.pdf">Arrangement for School Reopening in Term 3</a><br>
-			<a href="files/Links/Parents/Letter%20to%20Parents%202022/Hardcopy%20Letter%20to%20Parents%20and%20Guardians%20Not%20Using%20PG%20-%20%20Sept%20Holidays%2022%20Travel%20Declaration.pdf">Information on COVID-19 Vaccination for Students</a><br>
-			<a href="files/Links/Parents/Letter%20to%20Parents%202022/2022%20Term%203%20Letter%20to%20Parents%20Final.pdf">Bonding over the Holidays! (Parent Kit)</a><br>
-			<a href="files/Links/Parents/Letter%20to%20Parents%202022/2022%20Term%202%20Letter%20to%20Parents%20Final.pdf">Parent Kit - Supporting your Child During Full HBL</a><br>
-			<a href="files/Links/Parents/Letter%20to%20Parents%202022/2022%20Term%201%20Letter%20to%20Parents%20Final.pdf">Resources for FHBL</a><br>
-			<a href="files/Links/Parents/Letter%20to%20Parents%202022/Letter%20to%20Parents%20on%20BLHome%20Schedule%202022.pdf">Student Device Information Kit (Acer Service centre)</a><br>
-				<a href="files/Links/Parents/Letter%20to%20Parents%202022/Advisory%20on%20Travel%20-%20Year%20End%202021%20080921%20-%20for%20Students.pdf">Blended Learning@home: Instructions to Students</a><br>
-				<a href="files/Links/Parents/Letter%20to%20Parents%202022/2021%20Student%20Travel%20Plans%20Form.pdf">Parent Handbook I on 1  1 Learning</a><br></p>
+				<a href="files/Links/Parents/HBL/Arrangement%20for%20School%20Reopening%20in%20Term%203%20for%20Secondary%20Schools.pdf">Arrangement for School Reopening in Term 3</a><br>
+			<a href=" Link ">Information on COVID-19 Vaccination for Students</a><br>
+			<a href="files/Links/Parents/HBL/Parent%20Kit_Bonding%20Over%20the%20Holidays_.pdf">Bonding over the Holidays! (Parent Kit)</a><br>
+			<a href=" Link">Parent Kit - Supporting your Child During Full HBL</a><br>
+			<a href="Link">Resources for FHBL</a><br>
+			<a href="files/Links/Parents/HBL/Appendix%201%20-%20Student%20Device%20Information%20Kit%20Acer%20Service%20Centre%20and%20HelpCentre%20Information.pdf">Student Device Information Kit (Acer Service centre)</a><br>
+				<a href="files/Links/Parents/HBL/Standard%20Instructions%20for%20BLHome.pdf">Blended Learning@home: Instructions to Students</a><br>
+				<a href="files/Links/Parents/HBL/Parent%20Handbook%20I%20on%201_1%20Learning.pdf">Parent Handbook I on 1  1 Learning</a><br></p>
 
     </div>
 
