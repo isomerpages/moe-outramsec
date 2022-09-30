@@ -101,7 +101,7 @@ description: ""
 
       	<p> 
 				<a href="files/Links/Parents/HBL/Arrangement%20for%20School%20Reopening%20in%20Term%203%20for%20Secondary%20Schools.pdf">Arrangement for School Reopening in Term 3</a><br>
-			<a href=" Link ">Information on COVID-19 Vaccination for Students</a><br>
+			<a href="/Information-on-COVID-19-Vaccination-for-Students/ ">Information on COVID-19 Vaccination for Students</a><br>
 			<a href="files/Links/Parents/HBL/Parent%20Kit_Bonding%20Over%20the%20Holidays_.pdf">Bonding over the Holidays! (Parent Kit)</a><br>
 			<a href=" files/Links/Parents/HBL/Parent%20Kit%20-%20Supporting%20your%20child%20during%20Full%20HBL.pdf">Parent Kit - Supporting your Child During Full HBL</a><br>
 			<a href="https://outramsec-moe-edu-sg-admin.cwp.sg/oss/resources-for-fhbl-for-parents-students-and-teachers">Resources for FHBL</a><br>
