@@ -13,8 +13,10 @@ description: ""
 
     <div>
 
-			<p> <a href=/files/Links/Students/202220Student20Handbook_complete20V5.pdf">Student Handbook 2022</a><br>
-			<a href=/files/Links/Students/OSS20Student20Handbook20Revision20Exam20Tips202022.pdf">Daily Revision and Exam Strategies for Students</a><br></p>
+      <p> <a href="files/Links/Students/202220Student20Handbook_complete20V5.pdf">Student Handbook 2022</a><br>
+				<a href="files/Links/Students/OSS20Student20Handbook20Revision20Exam20Tips202022.pdf">Daily Revision and Exam Strategies for Students</a><br>
+
+			</p>
 
     </div>
 
