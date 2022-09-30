@@ -142,7 +142,7 @@ description: ""
     <div>
 
 		<p> 
-				<a href="files/Links/Parents/PDLP%202022/Purchase%20of%20PLD%20Letter%20to%20Parents.pdf">Purchase of PLD Letter to Parents</a><br> </p>
+				<a href="files/Links/Parents/PDLP%202022/Purchase%20of%20PLD%20Letter%20to%20Parents.pdf">Parent Gateway Portal</a><br> </p>
 
     </div>
 
