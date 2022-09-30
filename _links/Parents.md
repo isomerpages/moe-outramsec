@@ -26,7 +26,12 @@ description: ""
 
     <div>
 
-			<p>Text</p>
+			<p> <a href=/files/Links/Parents/Exam%20Timetables/2022%20EOY%20Exam%20Timetable.pdf">End-Of-Year Exam Timetable 2022</a>
+  
+<a href=/files/Links/Parents/Exam%20Timetables/S45%20Prelim%20Exam%20Timetable.pdf">Prelim Exam Timetable (Sec 4 and 5)</a>
+  
+<a href=/files/Links/Parents/Exam%20Timetables/2022%20Mid%20Year%20Exam%20Timetable.pdf">Mid-year Exam Timetable (Sec 4 and 5)</a>
+			</p>
 
     </div>
 
