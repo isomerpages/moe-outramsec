@@ -93,11 +93,11 @@ description: ""
 
     <input type="checkbox" id="accordion7">
 
-    <label for="accordion7">Title</label>
+    <label for="accordion7">Booklists</label>
 
     <div>
 
-			<p> Text </p>
+			<p> <a href="/Booklists-for-2022/">Booklists for 2022</a> </p>
 
     </div>
 
