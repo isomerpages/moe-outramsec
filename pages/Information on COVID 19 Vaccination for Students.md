@@ -11,7 +11,7 @@ General Information
 
   
 
-*   [Parent Kit on Vaccination Exercise for Students](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/FHBL/Resource%202%20Parent%20Kit%20on%20Student%20Vaccination%20Exercise.pdf)
+*   [Parent Kit on Vaccination Exercise for Students](/files/Links/Parents/Info%20on%20COVID%2019%20Vacc/General%20Information/Resource%202%20Parent%20Kit%20on%20Student%20Vaccination%20Exercise.pdf)
 *   [Infographic on 'What to Expect for your Vaccination'](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/Vaccination%20Exercise/Vaccination%20Infographic.jpeg)
 
   
