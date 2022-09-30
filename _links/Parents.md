@@ -45,9 +45,9 @@ description: ""
     <div>
 
 			<p> <b>2022</b><br>
-			<a href="link">text</a>
-			<a href="link">text</a>
-			<a href="link">text</a>
+			<a href="files/Links/Parents/Letter%20to%20Parents%202022/2022%20Term%204%20Letter%20to%20Parents%20Final.pdf">Term 4 Letter to Parents 2022</a>
+			<a href="files/Links/Parents/Letter%20to%20Parents%202022/Hardcopy%20Letter%20to%20Parents%20and%20Guardians%20Not%20Using%20PG%20-%20%20Sept%20Holidays%2022%20Travel%20Declaration.pdf">Travel Declaration for September Holiday 2022</a>
+			<a href="files/Links/Parents/Letter%20to%20Parents%202022/2022%20Term%203%20Letter%20to%20Parents%20Final.pdf">Term 3 Letter to Parents 2022</a>
 			<a href="link">text</a>
 			<a href="link">text</a>
 			<a href="link">text</a>
