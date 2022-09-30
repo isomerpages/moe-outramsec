@@ -26,9 +26,10 @@ description: ""
 
     <div>
 
-			<p> <a href=/files/Links/Parents/Exam%20Timetables/2022%20EOY%20Exam%20Timetable.pdf">End of Year Exam Timetable 2022</a><br>
-				<a href=/files/Links/Parents/Exam%20Timetables/S45%20Prelim%20Exam%20Timetable.pdf">Prelim Exam Timetable (Sec 4 and 5)</a><br>
-				<a href=/files/Links/Parents/Exam%20Timetables/2022%20Mid%20Year%20Exam%20Timetable.pdf">Mid Year Exam Timetable (Sec 4 and 5)</a><br>
+      <p> <a href="files/Links/Parents/Exam%20Timetables/2022%20EOY%20Exam%20Timetable.pdf">End of Year Exam Timetable 2022</a><br>
+				<a href="files/Links/Parents/Exam%20Timetables/S45%20Prelim%20Exam%20Timetable.pdf">Prelim Exam Timetable (Sec 4 and 5)</a><br>
+								<a href="files/Links/Parents/Exam%20Timetables/2022%20Mid%20Year%20Exam%20Timetable.pdf">Mid Year Exam Timetable (Sec 4 and 5)</a><br>
+				
 			</p>
 
     </div>
