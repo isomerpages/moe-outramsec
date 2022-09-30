@@ -81,10 +81,10 @@ description: ""
     <div>
 
 			<p> 
-				<a href="files/Links/Parents/Letter%20to%20Parents%202022/2022%20Term%204%20Letter%20to%20Parents%20Final.pdf">Purchase of PLD Letter to Parents</a><br>
-			<a href="files/Links/Parents/Letter%20to%20Parents%202022/Hardcopy%20Letter%20to%20Parents%20and%20Guardians%20Not%20Using%20PG%20-%20%20Sept%20Holidays%2022%20Travel%20Declaration.pdf">Learning with PLD Outram Secondary School</a><br>
-			<a href="files/Links/Parents/Letter%20to%20Parents%202022/2022%20Term%203%20Letter%20to%20Parents%20Final.pdf">IP2 - Parent Handbook (I) on Learning with a PLD</a><br>
-			<a href="files/Links/Parents/Letter%20to%20Parents%202022/2022%20Term%202%20Letter%20to%20Parents%20Final.pdf">IP3 - Parent Handbook (II) on Learning with a PLD</a><br>
+				<a href="files/Links/Parents/PDLP%202022/Purchase%20of%20PLD%20Letter%20to%20Parents.pdf">Purchase of PLD Letter to Parents</a><br>
+			<a href="files/Links/Parents/PDLP%202022/Learning%20with%20PLD%20Outram%20Secondary%20School.pdf">Learning with PLD Outram Secondary School</a><br>
+			<a href="files/Links/Parents/PDLP%202022/IP2%20-%20Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf">IP2 - Parent Handbook (I) on Learning with a PLD</a><br>
+			<a href="files/Links/Parents/PDLP%202022/IP3%20-%20Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf">IP3 - Parent Handbook (II) on Learning with a PLD</a><br>
 			</p>
 
   </div>
