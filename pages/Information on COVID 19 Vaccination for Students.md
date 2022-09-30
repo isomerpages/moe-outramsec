@@ -21,9 +21,9 @@ Click on the links below to find out more about the nationwide vaccination drive
 
   
 
-*   [Vaccination Information Sheet](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/Vaccination%20Exercise/Pfizer%20VIS%20recipients%20dated%205%20Jun.pdf)
-*   [Pfizer Vaccination Screening Form](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/Vaccination%20Exercise/Pfizer%20Vaccination%20Screening%20Form%205%20Jun.pdf)
-*   [Letter of Consent and Authorisation for COVID-19 Vaccination for Students](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/Vaccination%20Exercise/Letter%20of%20Authorisation%20and%20Consent%205%20Jun.pdf)
+*   [Vaccination Information Sheet](/files/Links/Parents/Info%20on%20COVID%2019%20Vacc/School%20Facilitated%20Block%20Book/Pfizer%20VIS%20recipients%20dated%205%20Jun.pdf)
+*   [Pfizer Vaccination Screening Form](/files/Links/Parents/Info%20on%20COVID%2019%20Vacc/School%20Facilitated%20Block%20Book/Pfizer%20Vaccination%20Screening%20Form%205%20Jun.pdf)
+*   [Letter of Consent and Authorisation for COVID-19 Vaccination for Students](/files/Links/Parents/Info%20on%20COVID%2019%20Vacc/School%20Facilitated%20Block%20Book/Letter%20of%20Authorisation%20and%20Consent%205%20Jun.pdf)
 
 #### **For Secondary 1 to 3 Cohorts**
 
