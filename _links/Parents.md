@@ -59,12 +59,12 @@ description: ""
 				<a href="files/Links/Parents/Letter%20to%20Parents%202022/2021%20Term%204%20Letter%20to%20Parents%20Final%20PG.pdf">2021 Term 4 Letter to Parents</a><br>
 			  <a href="files/Links/Parents/Letter%20to%20Parents%202022/Letter%20to%20Parents%20on%20Further%20Updates%20to%20LOA%20AA%20Policy%20180821.pdf">Letter to parents on Further Updates to LOA AA Policy</a><br>
 				<a href="files/Links/Parents/Letter%20to%20Parents%202022/2021%20Term%203%20Letter%20to%20Parents%20-%20%2025%20June%202021.pdf">2021 Term 3 Letter to Parents</a><br>
-				<a href="link">2021 Term 3 Attachment - Letter to Parents</a><br>
-				<a href="link">LEtter to Parents - End of Term 2</a><br>
-				<a href="link">Letter to Parents on FHBL 19 May 2021</a><br>
-				<a href="link">Letter of Welcome to Sec 1 Parents</a><br>
-				<a href="link">Letter to Parents for PDLP Procurement</a><br>
-				<a href="link">Briefing for Parents Outram</a><br>
+				<a href="files/Links/Parents/Letter%20to%20Parents%202022/2021%20Term%203%20Attachment%20-%20Letter%20to%20Parents%20-%20Updates%20to%20Schools%20LOA%20and%20AA%20Policy.pdf">2021 Term 3 Attachment - Letter to Parents</a><br>
+				<a href="files/Links/Parents/Letter%20to%20Parents%202022/Letter%20to%20Parents-End%20of%20Term%202-280521%20FTs.pdf">LEtter to Parents - End of Term 2</a><br>
+				<a href="files/Links/Parents/Letter%20to%20Parents%202022/Letter%20to%20Parents%20for%20FHBL%2019%20May%202021.pdf">Letter to Parents on FHBL 19 May 2021</a><br>
+				<a href="files/Links/Parents/Letter%20to%20Parents%202022/Letter%20of%20Welcome%20to%20Sec%201%20Parents.pdf">Letter of Welcome to Sec 1 Parents</a><br>
+				<a href="files/Links/Parents/Letter%20to%20Parents%202022/Letter%20to%20Parents%20for%20PDLP%20Procurement%20with%20Annexes%20Final.pdf">Letter to Parents for PDLP Procurement</a><br>
+				<a href="files/Links/Parents/Letter%20to%20Parents%202022/NDLP%20-%20Briefing%20for%20Parents%20Outram%207%20Jan%20-%20Outram%20updated.pdf">Briefing for Parents Outram</a><br>
 				<a href="link">Letters to Parents</a><br>
 			</p>
 
