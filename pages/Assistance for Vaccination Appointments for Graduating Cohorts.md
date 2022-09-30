@@ -21,8 +21,8 @@ LINK: Non-receipt of SMS Invites for Students: [https://form.gov.sg/#!/60b6d952
 
 Please see the following PDF files for more information:
 
-1) [Pfizer Vaccination Information Sheet for Vaccination Recipients](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/FHBL/Pfizer%20VIS%201%20Jun.pdf) 
+1) [Pfizer Vaccination Information Sheet for Vaccination Recipients ](/files/Links/Parents/Assistance%20for%20Vaccination%20App/Pfizer%20VIS%201%20Jun.pdf) 
 
-2) [Pfizer Screening Form](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/FHBL/Pfizer%20Screening%20Form%2020210601.pdf)
+2) [Pfizer Screening Form](/files/Links/Parents/Assistance%20for%20Vaccination%20App/Pfizer%20Screening%20Form%2020210601.pdf)
 
-3) [Letter of Consent and Authorisation](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/Vaccination%20Exercise/Attachment%202%20-%20Revised%20Letter%20of%20Consent%20and%20Authorisation.pdf)
+3) [Letter of Consent and Authorisation](/files/Links/Parents/Assistance%20for%20Vaccination%20App/Attachment%202%20-%20Revised%20Letter%20of%20Consent%20and%20Authorisation.pdf)
