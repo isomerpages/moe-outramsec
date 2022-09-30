@@ -6,8 +6,8 @@ description: ""
 Click on the links below to find out more about the nationwide vaccination drive for students.  
   
 
-General Information
--------------------
+#### **General Information**
+
 
   
 
@@ -16,8 +16,8 @@ General Information
 
   
 
-School Facilitated Block Booking Vaccination
---------------------------------------------
+#### **School Facilitated Block Booking Vaccination**
+
 
   
 
@@ -25,8 +25,8 @@ School Facilitated Block Booking Vaccination
 *   [Pfizer Vaccination Screening Form](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/Vaccination%20Exercise/Pfizer%20Vaccination%20Screening%20Form%205%20Jun.pdf)
 *   [Letter of Consent and Authorisation for COVID-19 Vaccination for Students](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/Vaccination%20Exercise/Letter%20of%20Authorisation%20and%20Consent%205%20Jun.pdf)
 
-For Secondary 1 to 3 Cohorts
-----------------------------
+#### **For Secondary 1 to 3 Cohorts**
+
 
   
 
@@ -35,8 +35,8 @@ For Secondary 1 to 3 Cohorts
 *   [Letter of Consent and Authorisation for COVID-19 Vaccination for Students](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/Vaccination%20Exercise/Attachment%202%20-%20Revised%20Letter%20of%20Consent%20and%20Authorisation.pdf) 
 *   [2021 Sec 3 HMTL GCE Listening Comprehension and Oral Examination Schedule](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/Vaccination%20Exercise/2021%20GCE%20LC%20%20Oral%20Exam%20Note%20on%20OSS%20Website%20for%20Sec%203E%20HMTL%20students%20-%20070621.pdf)
 
-For Graduating Cohorts
-----------------------
+#### **For Graduating Cohorts**
+
 
   
 
