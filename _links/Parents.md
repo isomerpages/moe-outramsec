@@ -65,7 +65,7 @@ description: ""
 				<a href="files/Links/Parents/Letter%20to%20Parents%202022/Letter%20of%20Welcome%20to%20Sec%201%20Parents.pdf">Letter of Welcome to Sec 1 Parents</a><br>
 				<a href="files/Links/Parents/Letter%20to%20Parents%202022/Letter%20to%20Parents%20for%20PDLP%20Procurement%20with%20Annexes%20Final.pdf">Letter to Parents for PDLP Procurement</a><br>
 				<a href="files/Links/Parents/Letter%20to%20Parents%202022/NDLP%20-%20Briefing%20for%20Parents%20Outram%207%20Jan%20-%20Outram%20updated.pdf">Briefing for Parents Outram</a><br>
-				<a href="link">Letters to Parents</a><br>
+				<a href="/Letter-to-Parents/">Letters to Parents</a><br>
 			</p>
 
     </div>
