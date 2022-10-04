@@ -31,7 +31,7 @@ description: ""
 
 <div style="float: left">
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
+<a href="media/Outram-Featured-in-Media">
 
 <img src="/images/Media/Photo%20Gallery/Serene%20ALP.jpg">
 
