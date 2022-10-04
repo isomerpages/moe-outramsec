@@ -2,7 +2,7 @@ collections:
   media:
     output: true
     order:
-      - Photo Gallery.md
+      - Media.md
       - 2019 Photo Gallery/OSS Speech Day 113th Anniversary.md
       - 2019 Photo Gallery/Fitness Run.md
       - 2019 Photo Gallery/Sec 3 Camp.md
