@@ -2,8 +2,9 @@ collections:
   media:
     output: true
     order:
-      - Photo Gallery.md
       - Media.md
+      - Photo Gallery.md
+      - 2019 Photo Gallery/.keep
       - 2019 Photo Gallery/OSS Speech Day 113th Anniversary.md
       - 2019 Photo Gallery/Fitness Run.md
       - 2019 Photo Gallery/Sec 3 Camp.md
@@ -16,7 +17,7 @@ collections:
       - 2019 Photo Gallery/Overseas Experiential Learning Programme Seoul 2019.md
       - 2019 Photo Gallery/Overseas Immersion Programme Shanghai.md
       - 2019 Photo Gallery/National Day.md
-      - 2019 Photo Gallery/.keep
+      - 2018 Photo Gallery/.keep
       - 2018 Photo Gallery/Secondary One Orientation.md
       - 2018 Photo Gallery/O Level Results Release.md
       - 2018 Photo Gallery/Chinese New Year.md
@@ -33,6 +34,5 @@ collections:
       - 2018 Photo Gallery/Hari Raya.md
       - 2018 Photo Gallery/Civica Tales of S Winning Entry.md
       - 2018 Photo Gallery/Overseas Trips.md
-      - 2018 Photo Gallery/.keep
       - Outram Featured in Media.md
       - OSS Official Videos.md
