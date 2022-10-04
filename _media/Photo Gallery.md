@@ -3,13 +3,11 @@ title: Photo Gallery
 permalink: /media/Photo-Gallery/
 description: ""
 ---
-
-
 <div>
 
 <div style="float: left">
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
+<a href="media/2019-Photo-Gallery/OSS-Speech-Day-113th-Anniversary">
 
 <img src="/images/Media/Photo%20Gallery/Photography.png">
 
@@ -48,4 +46,3 @@ description: ""
 </div>
 
 </div>
-
