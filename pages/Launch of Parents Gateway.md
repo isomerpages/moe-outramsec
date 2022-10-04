@@ -13,5 +13,4 @@ description: ""
 
 1.  view the [Step-by-Step Video Guide](https://www.youtube.com/watch?v=tW9jwyuovOo)  
     
-2.  refer to the [Step-by-Step Guide](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/PDF/2019/Information%20for%20new%20Parents%20Gateway.pdf)
-
+2.  refer to the [Step-by-Step Guide](/files/Links/Parents/Launch%20of%20Parents%20Gateway/Information%20for%20new%20Parents%20Gateway.pdf)
