@@ -125,7 +125,7 @@ description: ""
 			<a href="files/Links/Parents/FAS%20Information/MOE%20FAS%20Application%20Form%20Sep%2021%20for%20OSS%20website.pdf">MOE FAS Application Form 2022</a><br>
 			<a href="files/Links/Parents/FAS%20Information/MOE_FAS_Pamphlet_2022.pdf">MOE FAS Scheme 2022</a><br>
 			<a href="MOE-FAS-for-Y2021-is-open-for-application-now">MOE-FAS for Y2021 is open for application now!</a><br>
-			<a href="files/Links/Parents/Letter%20to%20Parents%202022/2022%20Term%201%20Letter%20to%20Parents%20Final.pdf">MOE's Instagram account for parents (@parentingwith.moesg)</a><br>
+			<a href="https://www.instagram.com/parentingwith.moesg">MOE's Instagram account for parents (@parentingwith.moesg)</a><br>
 			<a href="files/Links/Parents/Letter%20to%20Parents%202022/Letter%20to%20Parents%20on%20BLHome%20Schedule%202022.pdf">Applied Learning Program/Learning for Life Program</a><br>
 				<a href="files/Links/Parents/Letter%20to%20Parents%202022/Advisory%20on%20Travel%20-%20Year%20End%202021%20080921%20-%20for%20Students.pdf">MOE FAS Application Form</a><br></p>
 
