@@ -3,33 +3,26 @@ title: Outram Featured in Media
 permalink: /media/Outram-Featured-in-Media/
 description: ""
 ---
-### ![Vivian Lim in ST 002.jpeg](https://outramsec.moe.edu.sg/qql/slot/u512/media/school%20magazine/Vivian%20Lim%20in%20ST%20002.jpeg)
+![](/images/Media/Outram%20Featured%20in%20Media/Vivian%20Lim%20in%20ST%20002.jpg)
 
-  
+ 
+### 2021
 
----
-
-2021
-----
-
-  
-
----
-
-#### 
 
 *   **After Class: Our Utmost (CCAs at OSS)**
 
-  
-  
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/GP4god5IPRg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
+	
 
-*   **Vivian Lim featured in Straits Times article: Looking beyond PSLE scores to pick a secondary school**
+
+**Vivian Lim featured in Straits Times article: Looking beyond PSLE scores to pick a secondary school**
 
 [https://www.straitstimes.com/singapore/parenting-education/looking-beyond-psle-scores-to-pick-a-secondary-school](https://www.straitstimes.com/singapore/parenting-education/looking-beyond-psle-scores-to-pick-a-secondary-school)
 
 *   Fintech firm co-founder among 71 NTU alumni honored at award ceremony
 
-#### https://www.straitstimes.com/singapore/parenting-education/fintech-firm-co-founder-among-71-ntu-alumni-honoured-at-homecoming
+https://www.straitstimes.com/singapore/parenting-education/fintech-firm-co-founder-among-71-ntu-alumni-honoured-at-homecoming
 
   
 
