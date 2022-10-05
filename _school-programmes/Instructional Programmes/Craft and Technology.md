@@ -138,7 +138,7 @@ This year, we embarked on a department wide learning framework. This learning fr
 			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Craft%20and%20Technology/CTA04.jpg">
 			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Craft%20and%20Technology/CTA05.jpg">
 				
-				<b>An animation piece created by a Secondary 2 student using the Personal Learning Device</b><br><br>
+<b>An animation piece created by a Secondary 2 student using the Personal Learning Device</b><br><br>
 			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Craft%20and%20Technology/CTA06.gif">
 				
 <b>ACHIEVEMENTS</b><br><br>
