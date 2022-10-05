@@ -228,124 +228,42 @@ The team comprising Zander Widjaja, Nguyen Hai Duong (Sec 4/4) and Shyanne  (Se
 
 <img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/E14.jpg"> </p> 
 
-    </div>
+   </div>
 
-</li>  
-
-  <li>
-	  <input type="checkbox" id="accordion3">
-
-    <label for="accordion3">Outram Times</label>
-
-    <div>
-
-      <p>
-
-      <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ojjp{background-color:#E8EDFF;color:#D70500;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ojjp"><a href="https://outramsec.moe.edu.sg/qql/slot/u512/Departments/English%20Language/2019/Outram%20Times%20-%20Version%204%20(1).pdf">Outram Times 2018</a></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ojjp"><a href="https://outramsec.moe.edu.sg/qql/slot/u512/Departments/English%20Language/2018/2017%20(Version%204).pdf"><span style="font-weight:600;text-decoration:none;color:#D70500">Outram Times 2017</span></a> </td>
-  </tr>
-  <tr>
-    <td class="tg-ojjp"><a href="https://outramsec.moe.edu.sg/qql/slot/u512/Lateset%20News/outramtimes2.pdf"><span style="font-weight:600;text-decoration:none;color:#D70500">Outram Times 2016</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-ojjp"><a href="https://outramsec.moe.edu.sg/qql/slot/u512/Publication_Outram%20Times12%20(2).pdf"><span style="font-weight:600;text-decoration:none;color:#D70500">Outram Times 2015</span></a></td>
-  </tr>
-</tbody>
-			</table> </p>
-
-    </div>
-
-</li>  
-
-  <li>
-	  <input type="checkbox" id="accordion4">
-
-    <label for="accordion4">English Resources</label>
-
-    <div>
-
-      <p>
-				<b>For Students</b>
-
-  
-<b>Video Resources</b>
+</li>
 	
-      <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-ktyi{background-color:#FFF;text-align:left;vertical-align:top}
-.tg .tg-ko1w{color:#D70500;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-brbm{background-color:#F9F9F9;color:#D70500;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0lax"><img src="https://outramsec.moe.edu.sg/qql/slot/u512/Departments/English%20Language/EL%20page.JPG" alt="EL page.JPG" width="212" height="129"><br></th>
-    <th class="tg-ktyi"><a href="https://www.youtube.com/watch?v=_VatAaGIVV8&t=32s">How to Capture PAC in Reading Aloud O &amp; N Level English Oral</a><br><br><a href="https://www.youtube.com/watch?v=_VatAaGIVV8&t=32s"><span style="background-color:#FFF">Examination</span></a></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><img src="https://outramsec.moe.edu.sg/qql/slot/u512/media/Video%20Links/Pic%201.PNG" alt="Pic 1.PNG" width="213" height="134"></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><br><a href="https://www.youtube.com/watch?v=Nk2zZ0d27OA&t=58s&litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">GCE O &amp; N Level Persuasive Writing Part 1 Overview  English </span></a><br><a href="https://www.youtube.com/watch?v=Nk2zZ0d27OA&t=58s&litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">Language (Argumentative Essay)</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><img src="https://outramsec.moe.edu.sg/qql/slot/u512/media/Video%20Links/Pic%202.PNG" alt="Pic 2.PNG" width="212" height="132"><span style="color:inherit;background-color:transparent"> </span><img src="https://outramsec-moe-edu-sg-admin.cwp.sg/pix/spacer.gif" width="16"></td>
-    <td class="tg-ko1w"><a href="https://www.youtube.com/watch?v=WTTIN9JHx1o&t=50s&litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">Persuasive Writing Part 2 Constructing Arguments &amp; Introduction O &amp; N Level (Argumentative Essay)</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><img src="https://outramsec.moe.edu.sg/qql/slot/u512/media/Video%20Links/pic%203.PNG" alt="pic 3.PNG" width="213" height="122"></td>
-    <td class="tg-brbm"><a href="https://www.youtube.com/watch?v=mI6OZrrTBPI&t=41s&litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">GCE O &amp; N Level Persuasive Writing Part 3 Language Features &amp; Hedging English (Argumentative Essay)</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><img src="https://outramsec.moe.edu.sg/qql/slot/u512/media/Video%20Links/pic%204.PNG" alt="pic 4.PNG" width="216" height="123"></td>
-    <td class="tg-ko1w"><a href="https://www.youtube.com/watch?v=VzoXJ2TEk0M&t=61s&litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">GCE O &amp; N Level Persuasive Writing Part 4 Types of Supporting Material (Argumentative Essay) English</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><img src="https://outramsec.moe.edu.sg/qql/slot/u512/media/Video%20Links/pic%205.PNG" alt="pic 5.PNG" width="216" height="122"></td>
-    <td class="tg-ko1w"><a href="https://www.youtube.com/watch?v=WTzpS43AUSk&t=55s&litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">GCE O &amp; N Level Persuasive Writing Part 5 Checklist &amp; Idea Map (Argumentative Essay) English</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><img src="https://outramsec.moe.edu.sg/qql/slot/u512/Departments/English%20Language/2020/EL%20Video%201.JPG" alt="EL Video 1.JPG"><img src="https://outramsec-moe-edu-sg-admin.cwp.sg/pix/spacer.gif" width="16"><br></td>
-    <td class="tg-0lax"><a href="https://www.youtube.com/watch?v=7XEXW6o6U8A&litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">O &amp; N Level Oral Exam BOAR Oral Thinking Frame Part 1</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><img src="https://outramsec.moe.edu.sg/qql/slot/u512/Departments/English%20Language/2020/EL%20Video%202.JPG" alt="EL Video 2.JPG"></td>
-    <td class="tg-ko1w"><a href="https://www.youtube.com/watch?v=axEba1zjkwc&litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">O &amp; N Level Oral Exam BOAR Oral Thinking Frame Part 2 </span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><img src="https://outramsec.moe.edu.sg/qql/slot/u512/Departments/English%20Language/2020/El%20Video%204.JPG" alt="El Video 4.JPG"><br></td>
-    <td class="tg-cly1"><span style="color:inherit;background-color:transparent"> </span><br><a href="https://www.youtube.com/watch?v=GnFycyyJ5-s&litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">O level English Comprehension Visual Text Purpose &amp; Intended Effect Questions Part 1</span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><img src="https://outramsec.moe.edu.sg/qql/slot/u512/Departments/English%20Language/2020/El%20Video%205.JPG" alt="El Video 5.JPG"></td>
-    <td class="tg-ko1w"><a href="https://www.youtube.com/watch?v=n2KXgNrapKk&litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">Updated O Level English Comprehension Visual Text Purpose &amp; Intended Effect Questions Part 2 </span></a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax"><img src="https://outramsec.moe.edu.sg/qql/slot/u512/Departments/English%20Language/2020/EL%20Video%203.JPG" alt="EL Video 3.JPG"></td>
-    <td class="tg-ko1w"><a href="https://www.youtube.com/watch?v=h_DtNqHfalM&litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">O &amp; N Level English Paper 2 Understanding Visual Text through Mirror Reading</span></a></td>
-  </tr>
-</tbody>
-</table>
+<li>
 
-<ul>
+    <input type="checkbox" id="accordion3">
+
+    <label for="accordion3">Booklists</label>
+
+    <div>
+
+			<p> <a href="/Booklists-for-2022/">Booklists for 2022</a><br> </p>
+
+    </div>
+
+</li>
+	
+<li>
+
+    <input type="checkbox" id="accordion4">
+
+    <label for="accordion4">Resources for HBL</label>
+
+    <div>
+
+      <p> <a href="https://outramsec-moe-edu-sg-admin.cwp.sg/oss/resources-for-fhbl-for-parents-students-and-teachers">Resources for FHBL</a><br>
+				<a href="files/Links/Students/Appendix%201%20-%20Student%20Device%20Information%20Kit%20Acer%20Service%20Centre%20and%20HelpCentre%20Information.pdf">Student Device Information Kit (Acer Service Centre)</a><br>
+				<a href="files/Links/Students/Standard%20Instructions%20for%20BLHome.pdf">Blended Learning@Home: Instructions to Students</a><br>
+			</p>
+
+    </div>
+
+</li>
+	
+	
+
+	
+</ul>
