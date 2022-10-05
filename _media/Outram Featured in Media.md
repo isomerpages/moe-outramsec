@@ -91,19 +91,19 @@ OSS ALP was featured during the evening News broadcast Channel 5, Channel 8 and 
 
   
 
-![](https://outramsec.moe.edu.sg/pix/spacer.gif)
+![](/images/Media/Outram%20Featured%20in%20Media/ALP%20news%20(In%20English).gif)
 
 #### ALP News (Chinese)
 
 
   
 
-![](https://outramsec.moe.edu.sg/pix/spacer.gif)
+![](/images/Media/Outram%20Featured%20in%20Media/ALP%20news%20(In%20Chinese).gif)
 
 #### ALP News (Malay)
 
 
-![](https://outramsec.moe.edu.sg/pix/spacer.gif)
+![](/images/Media/Outram%20Featured%20in%20Media/ALP%20news%20(In%20Malay).gif)
 
 #### 2017
 
