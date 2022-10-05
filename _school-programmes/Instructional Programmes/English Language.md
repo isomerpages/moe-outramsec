@@ -283,7 +283,72 @@ We are pleased to announce the following good results. Bravo, Outram writers!<br
   </tr>
 </tbody>
 </table><br>
-			<b>Orator’s Trophy (Anglo-Chinese Junior College)</b><br></p>
+			<b>Orator’s Trophy (Anglo-Chinese Junior College)</b><br>
+			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES01.jpg">
+			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES02.jpg"><br>
+			<b>National Schools Literature Festival (NSLF)</b><br>
+	<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES03.jpg">
+			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES04.jpg">
+			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES05.jpg">
+			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES06.jpg"><br>
+			<b>OSS Speakability Award</b><br>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vqm8{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-u05r{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-u05r">2021</td>
+    <td class="tg-vqm8"><span style="font-weight:normal">Overall Winner:  </span>Martin Ethan Mina (Sec 3/4)</td>
+    <td class="tg-vqm8"><span style="font-weight:normal">Video Link: Overall Winner</span><br><br><a href="https://drive.google.com/file/d/13VKxdbXO1yQ3uWkYELJJgIEEZW1j8gb0/view?usp=sharing"><span style="font-weight:600;text-decoration:none;color:#D70500">https://drive.google.com/file/d/13VKxdbXO1yQ3uWkYELJJgIEEZW1j8gb0/view?usp=sharing</span></a><span style="font-weight:normal"> </span></td>
+  </tr>
+</thead>
+</table><br>
+			<b>Write for Kindness Competition</b><br>
+			<b>Poetry writing</b><br>
+			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES07.jpg">
+			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/The20Upstander20by20Sharvin20Sekar20and20Koh20Chen20Soon.jpg"><br>
+			<b>'Kindness Makes Us Stronger'
+				Sharvin Sekar (Sec 2/4), Koh Chen Soon (Sec2/4)</b><br>
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2mff{color:#111;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-64rv{color:#111;font-style:italic;text-align:left;vertical-align:top}
+.tg .tg-lyvw{color:#111;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-2mff">2021</th>
+    <th class="tg-2mff" colspan="2">Poetry writing<br><br><br><span style="font-weight:normal">Write for Kindness is a national creative-writing competition organised by the Singapore Kindness Movement (SKM), with the Singapore Book Council as its programme partner. It is a platform for secondary, junior college, centralised institute, madrasah and international school students to promote kindness to the younger audience by creating age-appropriate and culturally relevant children’s stories, through short stories, poetry, illustrations and songs</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lyvw"> </td>
+    <td class="tg-64rv">‘A Sweet Little Act’ Florence Seah Kah Woon (Sec 2/3) Turmunkh Solongo (Sec 2/3) </td>
+    <td class="tg-64rv">‘The Wounded Wolf and the Warm-hearted Farmer’   Lim Ming Le Jericho Javier (Sec 2/2) Ngim Adriel Daxin Garcia (Sec 2/2) <br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-lyvw"> 2020</td>
+    <td class="tg-2mff"><span style="font-weight:700">Poetry writing </span></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table><br>
+			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES08.jpg">
+</p>
 
     </div>
 
