@@ -85,12 +85,14 @@ To develop students’ mathematical thinking and problem solving skills through 
     <div>
 
 <p> 
-<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Mathematics/MP01.jpg">
-			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Mathematics/MP02.jpg">
-			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Mathematics/MP03.jpg">
-			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Mathematics/MP04.jpg">
-			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Mathematics/MP05.jpg">
-			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Mathematics/MP07.jpg">
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Mathematics/MP01.jpg"><br><br>
+			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Mathematics/MP02.jpg"><br><br>
+			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Mathematics/MP03.jpg"><br><br>
+			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Mathematics/MP04.jpg"><br><br>
+			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Mathematics/MP05.jpg"><br><br>
+			<img style="width:70%;height:50%"
+src="/images/Instructional%20Programmes/Mathematics/MP06.jpg"><br><br>
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Mathematics/MP07.jpg"><br><br>
 			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Mathematics/MP08.jpg"></p>
 
     </div>
