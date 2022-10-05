@@ -129,7 +129,28 @@ This year, we embarked on a department wide learning framework. This learning fr
 
     <div>
 
-      <p> </p>
+      <p>  Please <a href="https://sites.google.com/moe.edu.sg/e-learningartoss">Click here</a> to access E-learning Webpage<br><br>
+			
+<b>Artworks by Secondary 1 and 2 students: Active learning using technology to create art on students’ Personal Learning Device. The Artworks were inspired by Vincent Van Gogh.</b><br><br>
+			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Craft%20and%20Technology/CTA01.jpg">
+			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Craft%20and%20Technology/CTA02.jpg">
+			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Craft%20and%20Technology/CTA03.jpg">
+			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Craft%20and%20Technology/CTA04.jpg">
+			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Craft%20and%20Technology/CTA05.jpg">
+				
+				<b>An animation piece created by a Secondary 2 student using the Personal Learning Device</b><br><br>
+			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Craft%20and%20Technology/CTA06.gif">
+				
+<b>ACHIEVEMENTS</b><br><br>
+			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Craft%20and%20Technology/CTA07.jpg">
+			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Craft%20and%20Technology/CTA08.jpg">
+			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Craft%20and%20Technology/CTA09.jpg">
+			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Craft%20and%20Technology/CTA10.jpg">
+			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Craft%20and%20Technology/CTA11.jpg">
+				
+				
+				
+</p>
 
     </div>
 
