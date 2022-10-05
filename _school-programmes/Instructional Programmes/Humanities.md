@@ -192,9 +192,55 @@ Assessment:<br><br>
 	
 <b>Geography Elective (Paper 2)</b><br>
 Assessment:<br><br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-brl1" rowspan="3">Duration – 1hr 40min<br><br>50 marks<br></td>
+    <td class="tg-brl1">Section A<br>(13 marks)</td>
+    <td class="tg-brl1">Two structured questions to Geographical Investigations will be set based on the following topics:<br>-       Global Tourism<br>-       Variable Weather &amp; Changing Climate<br><br>One question will be set on each topic. <br><br>Candidates must answer one question in this section.<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-brl1">Section B<br>(12 marks)<br></td>
+    <td class="tg-brl1">One structured question will be set on the following topic:<br>-       Global Tourism<br><br>Candidates must answer the question in this section.<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-brl1">Section C<br>(25 marks)<br></td>
+    <td class="tg-brl1">Two structured questions will be set based on the following topics:<br>-       Living with Tectonic Hazards<br>-       Variable Weather &amp; Changing Climate<br><br>One question will be set based on a specific topic.  One other question will be set on a combination of topics.<br><br>Candidates must answer one question in this section.</td>
+  </tr>
+</thead>
+</table><br><br>
 	
 <b>History Elective (Paper 2)</b><br>  
 Assessment:<br><br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-brl1" rowspan="2">Duration – 1hr 40min<br><br>50 marks<br></td>
+    <td class="tg-brl1">Section A<br>(30 marks)<br></td>
+    <td class="tg-brl1">One Source-based Question will be set.  There will be 5 sub-questions.<br><br>Candidates must answer the question in this section.<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-brl1">Section B<br>(20 marks)<br></td>
+    <td class="tg-brl1">Two Structured-Essay Questions will be set.<br>Each question has 2 sub-parts:<br>Part (a) requires explanation of events or issues [8m]<br>Part (b) requires evaluation and making judgement on events or issues [12m]<br><br><br>Candidates must answer one question in this section.</td>
+  </tr>
+</thead>
+</table>
 	
 </p>
 
