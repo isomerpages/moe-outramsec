@@ -11,9 +11,8 @@ description: ""
 
 </div><div>
 	
-##### Dr Wee Kim Wee
-
-##### Former President of Singapore
+	Dr Wee Kim Wee
+	Former President of Singapore
 
   
 
@@ -50,10 +49,9 @@ In 1927, Dr Wee was a Standard IV student at Outram School. In his book entitled
 
 </div><div>
 
+	Mr Wong Kan Seng
 
-##### Mr Wong Kan Seng
-
-##### Deputy Prime Minister and Minister for Home affairs
+	Deputy Prime Minister and Minister for Home affairs
 
   
 
@@ -75,9 +73,10 @@ Mr Wong remembers his days at Outram, which was just a short distance away from 
 
 </div><div>
 	
-##### Professor Tommy Koh
 
-##### Ambassador-at-Large
+	Professor Tommy Koh
+
+	Ambassador-at-Large
 
   
 
@@ -103,9 +102,10 @@ Prof Koh joined Outram School in the late 1940s after spending a bridging year a
 
 </div><div>
 	
-##### Mr Philip Tan Tee Yong 
 
-##### Former MP for Paya Lebar
+	Mr Philip Tan Tee Yong 
+
+	Former MP for Paya Lebar
 
   
 
@@ -120,9 +120,11 @@ Mr Tan was a Member of Parliament (Paya Lebar) from 1984 till 1988.
 
 </div><div>
 	
-##### Mr Koh Cher Siang 
 
-##### Former Commissioner of IRAS
+	Mr Koh Cher Siang 
+
+
+	Former Commissioner of IRAS
 
   
 
@@ -146,9 +148,11 @@ It seems that the floods bring nothing but unhappiness and terror. But this is n
 
 </div><div>
 	
-##### Brigadier-General Patrick Choy 
 
-##### Former Ambassador- Designate to Myanmar
+	Brigadier-General Patrick Choy 
+
+
+	Former Ambassador- Designate to Myanmar
 
   
 
@@ -170,9 +174,11 @@ BG Choy was the Guest-of-Honour at the 25th Old Outramians Association Celebrati
 
 </div><div>
 	
-##### Mr Fock Siew Wah
 
-##### Banker and former MRTC Chairman
+	Mr Fock Siew Wah
+
+
+	Banker and former MRTC Chairman
 
   
 
@@ -186,9 +192,10 @@ Mr Fock Siew Wah is a prominent banker who sits on several Board Committees of D
 
 </div><div>
 	
-##### Mr Tommie Goh
 
-##### Entrepreneur, Founder of JIT Electronics Pte Ltd
+	Mr Tommie Goh
+
+	Entrepreneur, Founder of JIT Electronics Pte Ltd
 
   
 
@@ -206,9 +213,11 @@ Besides making a name for himself in business circles, Mr Goh also contributes t
 
 </div><div>
 	
-##### Mr Siew Shaw Her
 
-##### ex-Olympian
+	Mr Siew Shaw Her
+
+
+	ex-Olympian
 
   
 
@@ -230,9 +239,11 @@ Mr Siew was a student at Outram from 1971-1974, and 1976-1977. He has this to sa
 
 </div><div>
 	
-##### Mr Gurmit Singh
 
-##### Actor-Comedian
+	Mr Gurmit Singh
+
+
+	Actor-Comedian
 
   
 
@@ -246,9 +257,11 @@ As the star of Phua Chu Kang the Ch 5 comedy, Mr Gurmit Singh is a well-known fa
 
 </div><div>
 	
-##### Ms Ruby Lim-Yang
 
-##### Co-founder/Director of ACT 3
+	Ms Ruby Lim-Yang
+
+
+	Co-founder/Director of ACT 3
 
   
 
@@ -270,9 +283,11 @@ In Singapore, Act 3 has worked with schools, the Ministry of Education and the N
 
 </div><div>
 	
-##### Mr Bobby Chng 
 
-##### Fashion designer
+	Mr Bobby Chng 
+
+
+	Fashion designer
 
   
 
