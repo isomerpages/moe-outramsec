@@ -444,7 +444,7 @@ The team comprising Zander Widjaja, Nguyen Hai Duong (Sec 4/4) and Shyanne  (Se
   
 
 <b>Video Resources</b><br><br>
-				<style type="text/css">
+<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -469,7 +469,7 @@ The team comprising Zander Widjaja, Nguyen Hai Duong (Sec 4/4) and Shyanne  (Se
     <td class="tg-yp4s"><span style="color:inherit;background-color:transparent"> </span><br><a href="https://www.youtube.com/watch?v=Nk2zZ0d27OA&t=58s&litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">GCE O &amp; N Level Persuasive Writing Part 1 Overview  English </span></a><br><a href="https://www.youtube.com/watch?v=Nk2zZ0d27OA&t=58s&litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">Language (Argumentative Essay)</span></a></td>
   </tr>
   <tr>
- 
+    <td class="tg-lyvw"><img src="https://outramsec.moe.edu.sg/qql/slot/u512/media/Video%20Links/Pic%202.PNG" alt="Pic 2.PNG" width="212" height="132"><span style="color:inherit;background-color:transparent"> </span><img src="https://outramsec-moe-edu-sg-admin.cwp.sg/pix/spacer.gif" width="16"></td>
     <td class="tg-ko1w"><a href="https://www.youtube.com/watch?v=WTTIN9JHx1o&t=50s&litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">Persuasive Writing Part 2 Constructing Arguments &amp; Introduction O &amp; N Level (Argumentative Essay)</span></a></td>
   </tr>
   <tr>
