@@ -282,7 +282,8 @@ We are pleased to announce the following good results. Bravo, Outram writers!<br
     <td class="tg-mcwe">Certificate of Participation</td>
   </tr>
 </tbody>
-</table></p>
+</table><br>
+			<b>Orator’s Trophy (Anglo-Chinese Junior College)</b><br></p>
 
     </div>
 
