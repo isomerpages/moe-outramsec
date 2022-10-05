@@ -53,8 +53,10 @@ Every Wednesday    2.45 PM - 4.45 PM			<br></p>
     <div>
 
 			<p><br><b>Achievements</b><br>
-				<b>Achievements in 2022</b><br>  
-[Live On Festival 2022 – Heidi Teh Elie (Sec 3/3): Award Winner of the Essay Writing Competition](https://outramsec.moe.edu.sg/oss/live-on-festival-2022) <br>  
+				<b>Achievements in 2022</b><br>
+				
+				<a href="link">Live On Festival 2022 – Heidi Teh Elie (Sec 3/3): Award Winner of the Essay Writing Competition</a><br>
+				
 Our Schools, Our Stories 2022 – Participation<br>  
 National Shutterbugs Challenge 2022 – Participation<br>  
 Copyright School Challenge 2022 – Participation<br>  
