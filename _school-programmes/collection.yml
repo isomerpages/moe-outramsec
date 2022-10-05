@@ -2,8 +2,9 @@ collections:
   school-programmes:
     output: true
     order:
-      - Instructional Programmes/English Language.md
+      - Instructional Programmes/.keep
       - Instructional Programmes/Instructional Programmes.md
+      - Instructional Programmes/English Language.md
       - Instructional Programmes/Mother Tongue Language.md
       - Instructional Programmes/Mathematics.md
       - Instructional Programmes/Science.md
@@ -13,7 +14,6 @@ collections:
       - Instructional Programmes/Physical Education.md
       - Instructional Programmes/CCEs.md
       - Instructional Programmes/Assessment in Outram.md
-      - Instructional Programmes/.keep
       - Sexuality Education.md
       - Blended Learning/Blended Learning.md
       - Blended Learning/Timetable.md
