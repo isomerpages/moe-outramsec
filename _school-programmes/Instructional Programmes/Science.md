@@ -86,7 +86,7 @@ The focus of the activities was certainly not on Science alone. As the world bec
 
   
 
-	<b>Inquiry-based learning</b><br>
+<b>Inquiry-based learning</b><br>
 			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Science/SP03.jpg"><br><br>
 			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Science/SP04.jpg"><br><br>
 			
