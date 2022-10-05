@@ -20,7 +20,57 @@ We are a team of language lovers and enthusiasts raring for literature and langu
 
     <div>
 
-      <p> 
+      <p> <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-lyvw{color:#111;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-lyvw">Mrs Cheryl Fan (HOD/EL)</th>
+    <th class="tg-lyvw">Mrs Wong Ann Ann (LH/EL)<br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lyvw">Mr Dawa Tshering Sherpa (AYH) <br></td>
+    <td class="tg-lyvw">Ms Grace Ng Kah-Yi (ST/EL) </td>
+  </tr>
+  <tr>
+    <td class="tg-lyvw">Mr Prathivmohan S/O Chandramohan</td>
+    <td class="tg-lyvw">Ms Zaiton  (HOD/Discipline)</td>
+  </tr>
+  <tr>
+    <td class="tg-lyvw">Ms Yap Qiu Hong (SH/CCE) </td>
+    <td class="tg-lyvw">Ms Woo See Wei<br></td>
+  </tr>
+  <tr>
+    <td class="tg-lyvw">Mrs Chua Wai Yi </td>
+    <td class="tg-lyvw">Mr Ooi Jason <br></td>
+  </tr>
+  <tr>
+    <td class="tg-lyvw">Mrs Poon Yiam Kiau </td>
+    <td class="tg-lyvw">Mr Abdul Rahman Bin Abdul Rahim (ST/SS)<br></td>
+  </tr>
+  <tr>
+    <td class="tg-lyvw">Ms Ng Jia Yi </td>
+    <td class="tg-lyvw">Mr Bernard Roy <br></td>
+  </tr>
+  <tr>
+    <td class="tg-lyvw">Ms Lim Yean Yue Gladys </td>
+    <td class="tg-lyvw">Ms Ismath Banu</td>
+  </tr>
+  <tr>
+    <td class="tg-lyvw">Ms Charmaine Loke Mern Yi</td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
 
 			</p>
 
