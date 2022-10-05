@@ -112,7 +112,7 @@ OSS ALP was featured during the evening News broadcast Channel 5, Channel 8 and 
 
 
 
-Beating obstacles with a dose of fun  
+**Beating obstacles with a dose of fun**  
 
 
 
