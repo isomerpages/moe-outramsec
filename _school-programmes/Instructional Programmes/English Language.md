@@ -430,7 +430,7 @@ The team comprising Zander Widjaja, Nguyen Hai Duong (Sec 4/4) and Shyanne  (Se
 
 </li>
 	
-	<li>
+<li>
 
     <input type="checkbox" id="accordion4">
 
@@ -438,7 +438,11 @@ The team comprising Zander Widjaja, Nguyen Hai Duong (Sec 4/4) and Shyanne  (Se
 
     <div>
 
-      <p> 
+			<p> <b>For Students</b><br><br>
+
+  
+
+				<b>Video Resources</b><br><br>
 			</p>
 
     </div>
