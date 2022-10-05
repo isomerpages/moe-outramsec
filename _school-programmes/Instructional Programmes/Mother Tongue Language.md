@@ -187,7 +187,26 @@ We are proud to share that three of our young writers were awarded as followings
   </tr>
 </tbody>
 </table><br>
-			Alyssa Nur Adriana Bte Md Faizal who achieved Gold with Distinction, qualifies herself in the final round competing among top young writers in Singapore. Results will be announced at the end of the year.
+			Alyssa Nur Adriana Bte Md Faizal who achieved Gold with Distinction, qualifies herself in the final round competing among top young writers in Singapore. Results will be announced at the end of the year.<br><br>
+			
+			![](/images/Instructional%20Programmes/Mother%20Tongue%20Language/MTP04.jpg)
+			![](/images/Instructional%20Programmes/Mother%20Tongue%20Language/MTP05.jpg)
+			<b>Rakan Bahasa Ambassadors</b> (organised by Malay Language Council, Singapore)<br><br>
+			![](/images/Instructional%20Programmes/Mother%20Tongue%20Language/MTP06.jpg)
+			Two of our students, Alya Maisarah and Siti Nur Natalia Bayzureen from Sec 2/2 have been appointed as National Malay Language Ambassadors, Rakan Bahasa 2021 organised by the Malay Language Council Singapore.<br><br>
+
+As part of the national Bulan Bahasa campaign, they are encouraged to use and advocate their appreciation towards Malay Language amongst family and friends.<br><br>
+
+They are also actively involved in various activities and national events to foster a strong community spirit, build cultural identity and instill community pride in the use of the Malay language and culture. Through the programmes participated, they were given opportunities to refine their presentation skills, build confidence and appreciate the Malay culture as a Malay language ambassador.<br><br> 
+
+<b>Tamil Budding Writers & Artists Competition 2021(organised by CPDD & MOE)</b><br><br>
+
+This year, our school participated in the Budding Writer & Budding Artists competition 2021 organised by MOE(CPDD). Selected Sec 3 students (E, NA, and NT) participated in the competition. The competition had over 69 entries. Participants were required to write a script for dramatised reading. The three students in the Budding artists wrote a story and performed it. Our school students persevered, crossed several rounds, and came in fourth in the competition. The students have brought pride to our school.<br><br>
+			![](/images/Instructional%20Programmes/Mother%20Tongue%20Language/MTP07.jpg)
+			<b>2021 National Reading Movement - Read for Books Charity Book Drive</b><br><br>
+
+The Tamil students took part the Read for Books, a charity book drive with the intention of raising awareness of reading and sharing the gift of reading with the less privileged. The students read from 19 to 22 July 2021. NLB will donated one book for every 10 people who read for 15 minutes. 30 Tamil students read for 30 mins and their efforts were paid off when 6 books were donated to WondeRead and Its Raining Raincoats. (beneficiaries for 2021 by NLB)<br><br>
+			![](/images/Instructional%20Programmes/Mother%20Tongue%20Language/MTP08.jpg)
 			</p>
 
     </div>
