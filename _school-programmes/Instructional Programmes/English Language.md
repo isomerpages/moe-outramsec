@@ -122,6 +122,72 @@ Since 2020, the department embarked on an integrated skills acquisition program 
   
 
 				*   <b>Monthly News-in-Class Presentations</b><br>
+			
+			<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vqm8{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-u05r{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-u05r">2020</th>
+    <th class="tg-u05r">2021</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vqm8">Food Innovation</td>
+    <td class="tg-vqm8">Our Digital Life</td>
+  </tr>
+  <tr>
+    <td class="tg-vqm8">Climate Change</td>
+    <td class="tg-vqm8">A K-pop World</td>
+  </tr>
+  <tr>
+    <td class="tg-vqm8">The Virus Within</td>
+    <td class="tg-vqm8">City of the Future</td>
+  </tr>
+  <tr>
+    <td class="tg-vqm8">Popular Culture</td>
+    <td class="tg-vqm8">Mind Your Manners</td>
+  </tr>
+  <tr>
+    <td class="tg-vqm8">Unconventional Hobbies</td>
+    <td class="tg-vqm8">Junk Food in Disguise</td>
+  </tr>
+  <tr>
+    <td class="tg-vqm8">The National Pride</td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
+			
+			*   <b>Creative Writing Activities</b><br> 
+
+*   Guided Imagery<br>
+*   Whose Story is it?<br>
+			
+	<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/Pic201.jpg"> 
+			
+			<b>LitE Up!</b><br>  
+
+The Literature and English teams join hands to organize an annual day of fun for the Secondary 1s and 2s. Games include Spelling Bee, Running Idioms, Caption This!, Act Up, Choral Reading and the finale, Character Parade.<br>
+			
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/EP02.jpg"> 
+			<b>Learning Journeys</b><br>
+
+   
+
+			<b>Selling Dreams Exhibition at the National Library</b><br>
+			
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/EP03.jpg"><br>
+			<b>Watch-a-Play! Drama Appreciation</b><br>
 			</p>
 
     </div>
