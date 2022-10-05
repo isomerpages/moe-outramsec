@@ -278,7 +278,7 @@ The team comprising Zander Widjaja, Nguyen Hai Duong (Sec 4/4) and Shyanne  (Se
 
     <input type="checkbox" id="accordion4">
 
-    <label for="accordion4">Resources for HBL</label>
+    <label for="accordion4">English Resources</label>
 
     <div>
 
