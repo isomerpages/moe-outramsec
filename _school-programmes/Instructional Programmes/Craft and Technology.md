@@ -22,7 +22,7 @@ This year, we embarked on a department wide learning framework. This learning fr
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Student Handbook</label>
+    <label for="accordion1">Members</label>
 
     <div>
 
@@ -80,7 +80,7 @@ This year, we embarked on a department wide learning framework. This learning fr
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Common Links</label>
+    <label for="accordion2">Design and Technology</label>
 
     <div>
 
@@ -94,7 +94,7 @@ This year, we embarked on a department wide learning framework. This learning fr
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Booklists</label>
+    <label for="accordion3">Food and Consumer Education</label>
 
     <div>
 
@@ -108,7 +108,7 @@ This year, we embarked on a department wide learning framework. This learning fr
 
     <input type="checkbox" id="accordion4">
 
-    <label for="accordion4">Resources for HBL</label>
+    <label for="accordion4">Art</label>
 
     <div>
 
