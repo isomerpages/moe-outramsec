@@ -584,7 +584,13 @@ The team comprising Zander Widjaja, Nguyen Hai Duong (Sec 4/4) and Shyanne  (Se
     <td class="tg-g3ny">An award-winning site for learners of English, the BBC website is chock full of resources for students and teachers alike</td>
   </tr>
 </tbody>
-</table>
+</table><br><br>
+			<b>Suggested Reads</b><br><br>
+			<a href="link">text</a>
+			<a href="link">text</a>
+			<a href="link">text</a>
+			<a href="link">text</a>
+			<a href="link">text</a>
 			</p>
 
     </div>
