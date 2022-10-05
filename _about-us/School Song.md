@@ -3,7 +3,7 @@ title: School Song
 permalink: /about-us/School-Song/
 description: ""
 ---
-![](/images/About%20us/School%20Song/schoolsong%20(1).jpg)
+<img style="width:40%;height:50%" src="/images/About%20us/School%20Song/schoolsong%20(1).jpg">
 
 We will go marching on together
 
