@@ -9,6 +9,8 @@ third_nav_title: Instructional Programmes
 
 <iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT4ndjSuuUkwSn00drYOYlbNQyn41_ZU7uVconbWr_dOQQ20zAGYCPqiEMuJk1XmHXPMHCo09zHtCsS/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
+The Mother Tongue Language department strives to make learning fun and enriching for our students. Other than instilling in our students a love for the language and an appreciation of their culture, we are also focusing on inculcating the right values and better understanding of other cultures.
+
 <ul class="jekyllcodex_accordion">
 
   <li>
