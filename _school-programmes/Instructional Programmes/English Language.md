@@ -16,7 +16,7 @@ We are a team of language lovers and enthusiasts raring for literature and langu
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Student Handbook</label>
+    <label for="accordion1">Members</label>
 
     <div>
 
@@ -31,7 +31,7 @@ We are a team of language lovers and enthusiasts raring for literature and langu
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Common Links</label>
+    <label for="accordion2">Programmes</label>
 
     <div>
 
@@ -45,7 +45,7 @@ We are a team of language lovers and enthusiasts raring for literature and langu
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Booklists</label>
+    <label for="accordion3">Outram Times</label>
 
     <div>
 
@@ -59,7 +59,7 @@ We are a team of language lovers and enthusiasts raring for literature and langu
 
     <input type="checkbox" id="accordion4">
 
-    <label for="accordion4">Resources for HBL</label>
+    <label for="accordion4">English Resources</label>
 
     <div>
 
