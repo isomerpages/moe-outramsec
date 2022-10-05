@@ -78,9 +78,58 @@ Social Studies / Literature 2274<br><br>
 
 <b>Social Studies (Paper 1)</b>
  Assessment:<br><br>
+	<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-lyvw{color:#111;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-lyvw">Duration – 1hr 45min<br><br>50 marks<br></th>
+    <th class="tg-lyvw">Section A<br>(35 marks)<br></th>
+    <th class="tg-lyvw">Five Source-based Questions will be set based on the 3 issues:<br>-       Exploring Citizenship and Governance<br>-       Living in a Diverse Society<br>-       Being Part of a Globalised World<br><br>Questions 1 to 4 will be worth 25 marks and Question 5 will be worth 10 marks.<br><br></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lyvw"></td>
+    <td class="tg-lyvw">Section B<br>(15 marks)<br></td>
+    <td class="tg-lyvw">Two Structured-Response Question will be set based on the 3 issues.<br>Question 6 [7 marks]:<br><br>Constructing explanations by giving reasoned argument and/or making recommendation on an issue (multiple strategies/ multi-causal).  Question will require consideration of the issue in the context of Singapore<br><br>Question 7 [8 marks]:<br><br>Constructing explanations of two factors/perspectives on an issue and making judgement on the relative importance of factors or giving balanced conclusion on the issue.</td>
+  </tr>
+</tbody>
+</table><br><br>
 
 <b>Geography Elective (Paper 2)</b><br>
 Assessment:<br><br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-brl1{color:#222;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-brl1" rowspan="3">Duration – 1hr 40min<br><br>50 marks<br></td>
+    <td class="tg-brl1">Section A<br>(13 marks)</td>
+    <td class="tg-brl1">Two structured questions to Geographical Investigations will be set based on the following topics:<br>-       Global Tourism<br>-       Variable Weather &amp; Changing Climate<br><br>One question will be set on each topic.  The question will be set on the geographical skills and investigations related to the topic.<br><br>Candidates must answer one question in this section.<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-brl1">Section B<br>(12 marks)<br></td>
+    <td class="tg-brl1">Two structured questions will be set based on the following topics:<br>-       Global Tourism<br>-       Variable Weather &amp; Changing Climate<br><br>One question will be set based on a specific topic.  One other question will be set on a combination of topics.<br><br>Candidates must answer one question in this section.<br><br></td>
+  </tr>
+  <tr>
+    <td class="tg-brl1">Section C<br>(25 marks)<br></td>
+    <td class="tg-brl1">Two structured questions will be set based on the following topics:<br>-       Living with Tectonic Hazards<br>-       Food Resources<br><br>One question will be set based on a specific topic.  One other question will be set on a combination of topics.<br><br>Candidates must answer one question in this section.</td>
+  </tr>
+</thead>
+</table>
 
 <b>History Elective (Paper 2)</b><br>    
 Assessment:<br><br>
@@ -100,6 +149,7 @@ Assessment:<br><br>
 	
 <b>History Elective (Paper 2)</b><br>  
 Assessment:<br><br>
+	
 </p>
 
     </div>
