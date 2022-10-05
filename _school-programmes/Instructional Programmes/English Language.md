@@ -188,7 +188,101 @@ The Literature and English teams join hands to organize an annual day of fun for
 			
 <img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/EP03.jpg"><br>
 			<b>Watch-a-Play! Drama Appreciation</b><br>
-			</p>
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/EP04.jpg"> 
+			<b>Visit to the State Courts</b><br>
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/EP05.jpg"> 
+			<b>Competitions</b><br>
+
+The Queen’s Commonwealth Essay Competition (Anglo-Chinese Junior College)<br> 
+
+
+ 
+
+The Queen's Commonwealth Essay Competition is the world's oldest international writing competition for schools, established since 1883. For 2021, the Competition theme was Community in the Commonwealth, and the essay topics were centered round the Covid-19 pandemic.<br>
+
+We are pleased to announce the following good results. Bravo, Outram writers!<br>
+			
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-v8tx{background-color:#E8EDFF;color:#222;text-align:right;vertical-align:top}
+.tg .tg-mcwe{background-color:#E8EDFF;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-v8tx">1.            </th>
+    <th class="tg-mcwe">TAN JING YI</th>
+    <th class="tg-mcwe">S3-3</th>
+    <th class="tg-mcwe">Silver Award</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-v8tx">2.            </td>
+    <td class="tg-mcwe">ALYSSA TEO XIN RU</td>
+    <td class="tg-mcwe">S3-4</td>
+    <td class="tg-mcwe">Silver Award</td>
+  </tr>
+  <tr>
+    <td class="tg-v8tx">3.            </td>
+    <td class="tg-mcwe">HO ZI LE ZAEYEA</td>
+    <td class="tg-mcwe">S2-3</td>
+    <td class="tg-mcwe">Bronze Award</td>
+  </tr>
+  <tr>
+    <td class="tg-v8tx">4.            </td>
+    <td class="tg-mcwe">LYON KHOW MAEDA</td>
+    <td class="tg-mcwe">S3-3</td>
+    <td class="tg-mcwe">Bronze Award</td>
+  </tr>
+  <tr>
+    <td class="tg-v8tx">5.            </td>
+    <td class="tg-mcwe">NICHOLAS NGAN WEI HON</td>
+    <td class="tg-mcwe">S3-3</td>
+    <td class="tg-mcwe">Bronze Award</td>
+  </tr>
+  <tr>
+    <td class="tg-v8tx">6.            </td>
+    <td class="tg-mcwe">ALYA MAISARAH BINTE MOHAMMAD ZAZALEE</td>
+    <td class="tg-mcwe">S2-2</td>
+    <td class="tg-mcwe">Certificate of Participation</td>
+  </tr>
+  <tr>
+    <td class="tg-v8tx">7.            </td>
+    <td class="tg-mcwe">SHERLYN ANG XIN YI</td>
+    <td class="tg-mcwe">S2-2</td>
+    <td class="tg-mcwe">Certificate of Participation</td>
+  </tr>
+  <tr>
+    <td class="tg-v8tx">8.            </td>
+    <td class="tg-mcwe">LIM MING LE JERICHO JAVIER</td>
+    <td class="tg-mcwe">S2-2</td>
+    <td class="tg-mcwe">Certificate of Participation</td>
+  </tr>
+  <tr>
+    <td class="tg-v8tx">9.            </td>
+    <td class="tg-mcwe">LEE E YU GRACE</td>
+    <td class="tg-mcwe">S2-3</td>
+    <td class="tg-mcwe">Certificate of Participation</td>
+  </tr>
+  <tr>
+    <td class="tg-v8tx">10.          </td>
+    <td class="tg-mcwe">HO CONG THANH</td>
+    <td class="tg-mcwe">S2-3</td>
+    <td class="tg-mcwe">Certificate of Participation</td>
+  </tr>
+  <tr>
+    <td class="tg-v8tx">11.          </td>
+    <td class="tg-mcwe">JAKOB FOK YING NING</td>
+    <td class="tg-mcwe">S3-3</td>
+    <td class="tg-mcwe">Certificate of Participation</td>
+  </tr>
+</tbody>
+</table></p>
 
     </div>
 
