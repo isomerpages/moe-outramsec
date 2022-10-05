@@ -107,16 +107,16 @@ Keeping to the tradition, the school was decorated with red cloth, couplets, lan
 
 We also ushered in the Year of the Ox with a Card Design Competition, and had our mascot and God of Fortune make rounds in the classrooms, bringing well wishes to the classes<br><br>
 				
-![](/images/Instructional%20Programmes/Mother%20Tongue%20Language/MTP01.jpg)<br>
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Mother%20Tongue%20Language/MTP01.jpg"><br>
 			
 
-				<b>Malay Language Unit</b><br>
+<b>Malay Language Unit</b><br>
 
 The ML unit uses a thematic approach whereby students from different levels and streams explore the different aspects of Malay culture.<br><br>
 
 This year, the theme was The Arts of Malay Music.<br><br>
 				
-			![](/images/Instructional%20Programmes/Mother%20Tongue%20Language/MPT02.jpg)<br><br>
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Mother%20Tongue%20Language/MPT02.jpg"><br><br>
 				During the two weeks, students embark on project-based activities curated specially for them to instil joy of learning while immersing themselves and broadening their knowledge about the Malay Language and Culture.<br><br>  
 
 Lower Sec E/NA – Creating Traditional Instruments<br><br>
@@ -139,7 +139,7 @@ MTL Fortnight activities provides platforms for students to learn Tamil actively
 <b>Sec 3   – Traditional Games</b>  - Aadupuli Aattam, Nondiyaditthal (Hopscotch), Kola kolaya mundirikaa, Kalari (Martial Art), Thaayam (Board Game) & Pallanguli (Congcak)<br><br>
 
 <b>Sec 4   – Folklore</b> - Lullaby songs, Paatu paada vaa (Did u forget the lyrics), Aetram & Kummi songs (Harvest), Games & Work songs, Vandikkaran songs (Bullock Cart Rider Songs)<br><br>
-				![](/images/Instructional%20Programmes/Mother%20Tongue%20Language/MTP03.jpg)
+<img style="width:70%;height:50%" src="images/Instructional%20Programmes/Mother%20Tongue%20Language/MTP03.jpg"><br><br>
 				<b>Peraduan Saya Boleh Mengarang</b>
 				<b>(organised by Edufront Learning Centre Pte. Ltd.)</b><br><br>
 
@@ -189,10 +189,10 @@ We are proud to share that three of our young writers were awarded as followings
 </table><br>
 			Alyssa Nur Adriana Bte Md Faizal who achieved Gold with Distinction, qualifies herself in the final round competing among top young writers in Singapore. Results will be announced at the end of the year.<br><br>
 			
-			![](/images/Instructional%20Programmes/Mother%20Tongue%20Language/MTP04.jpg)
-			![](/images/Instructional%20Programmes/Mother%20Tongue%20Language/MTP05.jpg)
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Mother%20Tongue%20Language/MTP04.jpg">
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Mother%20Tongue%20Language/MTP05.jpg"><br><br>
 			<b>Rakan Bahasa Ambassadors</b> (organised by Malay Language Council, Singapore)<br><br>
-			![](/images/Instructional%20Programmes/Mother%20Tongue%20Language/MTP06.jpg)
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Mother%20Tongue%20Language/MTP06.jpg"><br><br>
 			Two of our students, Alya Maisarah and Siti Nur Natalia Bayzureen from Sec 2/2 have been appointed as National Malay Language Ambassadors, Rakan Bahasa 2021 organised by the Malay Language Council Singapore.<br><br>
 
 As part of the national Bulan Bahasa campaign, they are encouraged to use and advocate their appreciation towards Malay Language amongst family and friends.<br><br>
@@ -202,11 +202,11 @@ They are also actively involved in various activities and national events to fos
 <b>Tamil Budding Writers & Artists Competition 2021(organised by CPDD & MOE)</b><br><br>
 
 This year, our school participated in the Budding Writer & Budding Artists competition 2021 organised by MOE(CPDD). Selected Sec 3 students (E, NA, and NT) participated in the competition. The competition had over 69 entries. Participants were required to write a script for dramatised reading. The three students in the Budding artists wrote a story and performed it. Our school students persevered, crossed several rounds, and came in fourth in the competition. The students have brought pride to our school.<br><br>
-			![](/images/Instructional%20Programmes/Mother%20Tongue%20Language/MTP07.jpg)
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Mother%20Tongue%20Language/MTP07.jpg"><br><br>
 			<b>2021 National Reading Movement - Read for Books Charity Book Drive</b><br><br>
 
 The Tamil students took part the Read for Books, a charity book drive with the intention of raising awareness of reading and sharing the gift of reading with the less privileged. The students read from 19 to 22 July 2021. NLB will donated one book for every 10 people who read for 15 minutes. 30 Tamil students read for 30 mins and their efforts were paid off when 6 books were donated to WondeRead and Its Raining Raincoats. (beneficiaries for 2021 by NLB)<br><br>
-			![](/images/Instructional%20Programmes/Mother%20Tongue%20Language/MTP08.jpg)
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Mother%20Tongue%20Language/MTP08.jpg">
 			</p>
 
     </div>
