@@ -381,6 +381,7 @@ Winning Entry from William Wang Silang (Sec 4/4).<br>
 			<b>Oldham Cup (ACJC) 2017</b><br>  
   
 The team comprising Zander Widjaja, Nguyen Hai Duong (Sec 4/4) and Shyanne  (Sec 4/5) won 2 rounds out of 8 in their inaugural outing.
+			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/E14.jpg">
 			
 			
 </p>
