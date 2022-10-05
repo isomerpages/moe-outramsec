@@ -26,7 +26,52 @@ This year, we embarked on a department wide learning framework. This learning fr
 
     <div>
 
-      <p> </p>
+      <p> <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cid9{color:#111;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-g3ny{color:#111;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-cid9">Design &amp; Technology</th>
+    <th class="tg-g3ny"> Food &amp; Consumer Education</th>
+    <th class="tg-g3ny"><br>Art </th>
+    <th class="tg-g3ny"><br> Music</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-g3ny"> Mr Ong Kok Heng (SH/C&amp;T)</td>
+    <td class="tg-g3ny"> Ms Durga Devi</td>
+    <td class="tg-g3ny"> Ms Wong Ai Fung Serene</td>
+    <td class="tg-g3ny"> Ms Tan Xi Ling</td>
+  </tr>
+  <tr>
+    <td class="tg-g3ny"> Mr Loh Peng Yeong (HOD/ ICT)</td>
+    <td class="tg-g3ny"></td>
+    <td class="tg-g3ny"> </td>
+    <td class="tg-g3ny"></td>
+  </tr>
+  <tr>
+    <td class="tg-g3ny"> Mdm Hajjah Haslinda Bte Yusof </td>
+    <td class="tg-g3ny"> </td>
+    <td class="tg-g3ny"> </td>
+    <td class="tg-g3ny"> </td>
+  </tr>
+  <tr>
+    <td class="tg-g3ny"> </td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table> </p>
 
     </div>
 
