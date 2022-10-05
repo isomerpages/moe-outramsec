@@ -98,7 +98,15 @@ This year, we embarked on a department wide learning framework. This learning fr
 
     <div>
 
-			<p> </p>
+<p> <b>SEC 1 COURSEWORK</b><br><br>
+	<b>Task</b><br>
+	Try and recall what you ate yesterday. Record the type and quantity of food consumed. Exchange your worksheet with a partner; check each other’s records against the recommended number of servings in the Healthy Diet Pyramid. What changes can you make to ensure a healthier diet?<br><br>
+	<b>SEC 2 COURSEWORK</b><br><br>
+	<b>Task</b><br>
+	You would like to buy the latest smartphone model for yourself but you have only $100 as savings. You need $300 more to buy the phone. You need to work through your income and expenses to buy the phone.<br><br>
+	<b>SECONDARY 1 STUDENTS' WORK</b><br><br>
+	
+			</p>
 
     </div>
 
