@@ -132,13 +132,13 @@ Theme: Roots and Routes<br><br>
 
 MTL Fortnight activities provides platforms for students to learn Tamil actively and appreciate its culture. It also provides an authentic opportunity for students to use Tamil and experience the culture to infuse the joy of learning as well. The Tamil unit planned the activities based on a thematic approach. Students were exposed to a wide range of activities during the TL Fortnight in addition to learning and using the language.<br><br>
 
-				<b>Sec 1   – Folk Dance</b>  Kolaattam, Kummi aattam, Karakaattam, Oyilaatam and Folk dance<br><br>
+<b>Sec 1   – Folk Dance</b>  Kolaattam, Kummi aattam, Karakaattam, Oyilaatam and Folk dance<br><br>
 
-				<b>Sec 2   – Traditional Art forms</b> - Flower Tying Art, Henna  Art, Rangoli Art, Madhubani Art 
+<b>Sec 2   – Traditional Art forms</b> - Flower Tying Art, Henna  Art, Rangoli Art, Madhubani Art 
 
-				<b>Sec 3   – Traditional Games</b>  - Aadupuli Aattam, Nondiyaditthal (Hopscotch), Kola kolaya mundirikaa, Kalari (Martial Art),                          Thaayam (Board Game) & Pallanguli (Congcak)
+<b>Sec 3   – Traditional Games</b>  - Aadupuli Aattam, Nondiyaditthal (Hopscotch), Kola kolaya mundirikaa, Kalari (Martial Art), Thaayam (Board Game) & Pallanguli (Congcak)
 
-				<b>Sec 4   – Folklore</b> - Lullaby songs, Paatu paada vaa (Did u forget the lyrics), Aetram & Kummi songs (Harvest), Games &                            Work songs, Vandikkaran songs (Bullock Cart Rider Songs)
+<b>Sec 4   – Folklore</b> - Lullaby songs, Paatu paada vaa (Did u forget the lyrics), Aetram & Kummi songs (Harvest), Games & Work songs, Vandikkaran songs (Bullock Cart Rider Songs)
 			</p>
 
     </div>
