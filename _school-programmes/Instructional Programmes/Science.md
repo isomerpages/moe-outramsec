@@ -75,8 +75,8 @@ third_nav_title: Instructional Programmes
 
 <p> Science, Technology, Engineering, Arts and Mathematics (STEAM) programme puts our learners at the heart of our programme and focuses on real-world issues, teamwork and communications. In the STEAM education in Outram Secondary School, we have provided time and opportunities within the curriculum for our learners to think innovatively, creatively and critically to brainstorm solutions to various real-life issues.<br><br>
 	<b>Design-based learning</b><br>
-			![](/images/Instructional%20Programmes/Science/SP01.jpg)
-			![](/images/Instructional%20Programmes/Science/SP02.jpg)
+			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Science/SP01.jpg"><br><br>
+			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Science/SP02.jpg"><br><br>
 			
 Students work together to explore and investigate scientific principles which they will learn in their lessons. Our Secondary One students were tasked to design a filter to purify dirty water from kitchen waste, a task that is authentic and relevant to the water-scarce Singapore. Our Secondary Two students had to design a prototype to prevent an egg from breaking upon being dropped from the sixth storey.<br><br>
 
@@ -87,8 +87,8 @@ The focus of the activities was certainly not on Science alone. As the world bec
   
 
 	<b>Inquiry-based learning</b><br>
-			![](/images/Instructional%20Programmes/Science/SP03.jpg)
-			![](/images/Instructional%20Programmes/Science/SP04.jpg)
+			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Science/SP03.jpg"><br><br>
+			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Science/SP04.jpg"><br><br>
 			
 Working in groups, students crafted their own research question, hypotheses and designed their own experimental procedures. They were provided with all the apparatus needed.<br><br>
 
@@ -107,7 +107,7 @@ Focusing on the process, our goal is to inculcate the skills and values of scien
   
 
 <b>Coding</b><br>
-			![](/images/Instructional%20Programmes/Science/SP05.jpg)
+			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Science/SP05.jpg"><br><br>
 			
 Students are tasked to design solutions to help make Covid-19-related measures easier to be implemented. Examples of such were count-down timers for washing hands, thermometers, a device that can ensure people keep a minimum distance. With few references available, students are encouraged to be creative with their solutions and are encouraged to take risks and learn from mistakes and failures.<br><br>
 
