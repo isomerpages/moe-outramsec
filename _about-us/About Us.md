@@ -3,10 +3,6 @@ title: About Us
 permalink: /about-us/About-Us/
 description: ""
 ---
-
-
-
-
 <figure>
 
 <a href="/images/Capture.jpg" target = "\_blank"> <img style="width:50%;height:50%" src="/images/About%20us/About%20us/Principal%20Pic.jpg">
@@ -15,7 +11,7 @@ description: ""
 
 <figcaption>
 
-<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+<strong> Principal's Message </strong>
 
 </figcaption>
 
@@ -29,7 +25,7 @@ description: ""
 
 <figcaption>
 
-<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+<strong> History </strong>
 
 </figcaption>
 
@@ -43,7 +39,7 @@ description: ""
 
 <figcaption>
 
-<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+<strong> Vision, Purpose, Values & Mission </strong>
 
 </figcaption>
 
@@ -57,7 +53,7 @@ description: ""
 
 <figcaption>
 
-<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+<strong> Motto, Badge & Philosophy </strong>
 
 </figcaption>
 
@@ -73,7 +69,7 @@ description: ""
 
 <figcaption>
 
-<strong> Celebration Of Pongal Or Indian Harvest Festival </strong>
+<strong> School Song </strong>
 
 </figcaption>
 
