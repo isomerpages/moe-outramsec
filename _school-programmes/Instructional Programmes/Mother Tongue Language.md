@@ -221,7 +221,8 @@ The Tamil students took part the Read for Books, a charity book drive with the i
 
     <div>
 
-			<p> </p>
+<p> 
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Mother%20Tongue%20Language/MTA01.jpg"> </p>
 
     </div>
 
@@ -235,7 +236,7 @@ The Tamil students took part the Read for Books, a charity book drive with the i
 
     <div>
 
-      <p> </p>
+      <p> <img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Mother%20Tongue%20Language/MTA02.jpg"> </p>
 
     </div>
 
