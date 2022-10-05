@@ -30,11 +30,48 @@ To develop students’ mathematical thinking and problem solving skills through 
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Student Handbook</label>
+    <label for="accordion1">Members</label>
 
     <div>
 
-      <p> </p>
+      <p> <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-lyvw{color:#111;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-lyvw">Mr Ajmal Khan (HOD/Mathematics)</th>
+    <th class="tg-lyvw">Mr Tan Hock Kwee Oliver (YH/Upper Secondary)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lyvw">Mr Charles Yip (ST/Mathematics)</td>
+    <td class="tg-lyvw">Mr Huang Jianyang Marcus (ST/Physics)</td>
+  </tr>
+  <tr>
+    <td class="tg-lyvw">Mr Lim Teck Ming</td>
+    <td class="tg-lyvw">Mdm Lee Suet Har Casey</td>
+  </tr>
+  <tr>
+    <td class="tg-lyvw">Mr Lim Ting Long</td>
+    <td class="tg-lyvw">Ms Ng Yu Yan Gloria<br></td>
+  </tr>
+  <tr>
+    <td class="tg-lyvw">Mdm Chua Yi Ping</td>
+    <td class="tg-lyvw">Mr Jeremy Lum Wei Jian<br></td>
+  </tr>
+  <tr>
+    <td class="tg-lyvw">Ms Tan Xi Ling</td>
+    <td class="tg-lyvw">Ms Nurul Nadhirah </td>
+  </tr>
+</tbody>
+</table> </p>
 
     </div>
 
@@ -43,7 +80,7 @@ To develop students’ mathematical thinking and problem solving skills through 
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Common Links</label>
+    <label for="accordion2">Programme</label>
 
     <div>
 
