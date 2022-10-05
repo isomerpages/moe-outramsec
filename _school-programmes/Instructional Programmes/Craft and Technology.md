@@ -105,8 +105,17 @@ This year, we embarked on a department wide learning framework. This learning fr
 	<b>Task</b><br>
 	You would like to buy the latest smartphone model for yourself but you have only $100 as savings. You need $300 more to buy the phone. You need to work through your income and expenses to buy the phone.<br><br>
 	<b>SECONDARY 1 STUDENTS' WORK</b><br><br>
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Craft%20and%20Technology/CTF01.jpg">
+	Done by: Sumayiah and Siti<br><br>
+	<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Craft%20and%20Technology/CTF02.jpg">
+	Done by: Kamil and David<br><br>
+	<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Craft%20and%20Technology/CTF03.jpg">
+	Done by: Yi Lin and Lily<br><br>
+	<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Craft%20and%20Technology/CTF04.jpg">
+	Done by" Rena and Weihui
 	
-			</p>
+	
+</p>
 
     </div>
 
