@@ -8,7 +8,7 @@ third_nav_title: Instructional Programmes
 
 We are a team of language lovers and enthusiasts raring for literature and language to make a difference in the lives of young men and women who pass through the gates of Outram Secondary School. While aiming to sharpen the tools of our learners enough to add value to their academic results at the end of their term with us, we really hope to&nbsp;nurture young people&nbsp;who are confident, articulate and proficient users of the English&nbsp;Language. Find out about us!
 
-<img src="images/Instructional%20Programmes/English%20Language/EL20Pic.jpg" style="width:50%;height:50%">
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/EL20Pic.jpg">
 
 <ul class="jekyllcodex_accordion">
 
