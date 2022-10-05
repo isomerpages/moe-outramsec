@@ -347,7 +347,42 @@ We are pleased to announce the following good results. Bravo, Outram writers!<br
   </tr>
 </tbody>
 </table><br>
-			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES08.jpg">
+			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES08.jpg"><br>
+			<a href="https://www.kindness.sg/news/congratulations-to-the-write-for-kindness-2020-winners/">https://www.kindness.sg/news/congratulations-to-the-write-for-kindness-2020-winners/</a><br>
+			<b>Poetry Writing 2019</b><br>‘A Helping Hand’ - 2nd place ‘A Friend in Need is a Friend Indeed’ - Consolation Prize<br>		
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES09.jpg">
+			<b>2018 Poetry Writing 2018</b><br>‘The power of Kindness’ – Champion  
+‘At the Playground’ – 3rd place<br>
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES10.jpg">
+			<b>Story Writing</b><br>
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/06.png">Andrea Seng Jun Xin (Sec 2/3), Adriana Batrisyia Binte Steve Arifianto (Sec 2/5), Briones Cheyanna Carlyn Javier (Sec 2/5), Diana Hue (Sec 2/5), and Tan Swee Ling (Sec 2/5)<br>
+			<b>Singapore Secondary Schools Debating Championships (SSSDC) 2019</b><br>
+
+In our first foray into SSSDC, the team won 2 out of 3 rounds in the preliminaries and Justine Hari Muruga (Sec 4/5) won Best Speaker in Round 2.<br>
+
+Debaters: Maria Reyes (Sec 32), Basil Hia & Brendan Lim (Sec 4/5)<br>
+			
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/E6.jpg">
+			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/E7.jpg"><br>
+			<b>Scrabble Competition 2019</b><br>
+
+A team of Secondary 4 students took an enjoyable Sunday afternoon out for intense rounds of scrabble at Jurong Green CC.<br>
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/E8.jpg"><br>
+			<b>Tales of ‘S’ (Civica) 2018</b><br>  
+
+Winning Entry from William Wang Silang (Sec 4/4).<br>
+			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/E12.jpg"><br>
+			
+			<b>ICAS Writing Competition (University of New South Wales)</b><br>  
+
+30 students took part in 2018 and received certificates of Credit, Merit and Participation.<br>  
+
+ 
+			<b>Oldham Cup (ACJC) 2017</b><br>  
+  
+The team comprising Zander Widjaja, Nguyen Hai Duong (Sec 4/4) and Shyanne  (Sec 4/5) won 2 rounds out of 8 in their inaugural outing.
+			
+			
 </p>
 
     </div>
