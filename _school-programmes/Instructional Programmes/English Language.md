@@ -505,6 +505,85 @@ The team comprising Zander Widjaja, Nguyen Hai Duong (Sec 4/4) and Shyanne  (Se
     <td class="tg-ko1w"><a href="https://www.youtube.com/watch?v=h_DtNqHfalM&litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">O &amp; N Level English Paper 2 Understanding Visual Text through Mirror Reading</span></a></td>
   </tr>
 </tbody>
+</table><br><br>
+			<b>Website Resources</b><br><br>
+			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ER12.jpg">
+			<b>Online Reading</b><br><br>
+			
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2mff{color:#111;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-g3ny{color:#111;text-align:center;vertical-align:top}
+.tg .tg-vaj6{color:#D70500;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-2mff">Website address</th>
+    <th class="tg-2mff">Description</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vaj6"><a href="http://www.eastoftheweb.com/"><span style="font-weight:600;text-decoration:none;color:#D70500">http://www.eastoftheweb.com/</span></a></td>
+    <td class="tg-g3ny">Short stories for the avid reader.</td>
+  </tr>
+  <tr>
+    <td class="tg-vaj6"><a href="http://www.pagebypagebooks.com/title.html"><span style="font-weight:600;text-decoration:none;color:#D70500">http://www.pagebypagebooks.com/title.html </span></a></td>
+    <td class="tg-g3ny">Read your favourite classic online!</td>
+  </tr>
+</tbody>
+</table><br><br>
+			
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2xud{background-color:#EAEAEA;color:#111;text-align:center;vertical-align:top}
+.tg .tg-k9qq{color:#111;text-align:center;vertical-align:middle}
+.tg .tg-2mff{color:#111;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-g3ny{color:#111;text-align:center;vertical-align:top}
+.tg .tg-vaj6{color:#D70500;font-weight:bold;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-2mff">Website Title</th>
+    <th class="tg-2mff">Description  </th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-g3ny"><br><br><a href="https://www.languagecouncils.sg/goodenglish/resources"><span style="font-weight:600;text-decoration:none;color:#D70500">Speak Good English Movement (SGEM)</span></a><br></td>
+    <td class="tg-2xud"><br>Speak Good English Movement encourages Singaporeans to speak and write standard English and provide resources to learners who wish to improve their English. There are fun quizzes and resources for everyone. Check it out here!<br></td>
+  </tr>
+  <tr>
+    <td class="tg-vaj6"><a href="http://www.learnenglish.org.uk/"><span style="font-weight:600;text-decoration:none;color:#D70500">Learn English</span></a> </td>
+    <td class="tg-k9qq">Learn English is a portal which links to all the British Council's websites for teachers and learners of English </td>
+  </tr>
+  <tr>
+    <td class="tg-g3ny"><a href="http://www.chompchomp.com/">Grammar Bytes</a></td>
+    <td class="tg-g3ny">Grammar Bytes provides notes, worksheets and interactive practices.</td>
+  </tr>
+  <tr>
+    <td class="tg-vaj6"><a href="http://www.ego4u.com/en/cram-up/grammar">English Grammar Online 4 u</a></td>
+    <td class="tg-g3ny">English Grammar Online 4 U focuses on learning and applying grammar rules.</td>
+  </tr>
+  <tr>
+    <td class="tg-vaj6"><a href="http://xn--grammarterrorist-1e6i.blogspot.sg/">Grammar Terrorist</a></td>
+    <td class="tg-g3ny">The Grammar Terrorist Blog</td>
+  </tr>
+  <tr>
+    <td class="tg-vaj6"><a href="http://www.bbc.co.uk/worldservice/learningenglish/language/">BBC English Language</a></td>
+    <td class="tg-g3ny">An award-winning site for learners of English, the BBC website is chock full of resources for students and teachers alike</td>
+  </tr>
+</tbody>
 </table>
 			</p>
 
