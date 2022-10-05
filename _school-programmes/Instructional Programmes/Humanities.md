@@ -66,7 +66,41 @@ third_nav_title: Instructional Programmes
 
     <div>
 
-			<p> </p>
+<p> <b>Combined Humanities O-Level</b><br><br>
+
+Social Studies / Geography 2272<br><br>
+
+Social Studies / History 2273<br><br>
+
+Social Studies / Literature 2274<br><br>
+
+  
+
+<b>Social Studies (Paper 1)</b>
+ Assessment:<br><br>
+
+<b>Geography Elective (Paper 2)</b><br>
+Assessment:<br><br>
+
+<b>History Elective (Paper 2)</b><br>    
+Assessment:<br><br>
+	<b>Combined Humanities N-Level</b><br>
+
+Social Studies / Geography 2175<br>
+
+Social Studies / History 2176<br>
+
+  
+
+<b>Social Studies (Paper 1)</b><br>
+Assessment:<br><br>
+	
+<b>Geography Elective (Paper 2)</b><br>
+Assessment:<br><br>
+	
+<b>History Elective (Paper 2)</b><br>  
+Assessment:<br><br>
+</p>
 
     </div>
 
