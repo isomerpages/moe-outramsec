@@ -25,8 +25,8 @@ For **subject-related** matters, please contact your **Form Teacher and expla
   
 For **general** matters, contact
 
-**General Office  
-**Office                     :      6733 407
+**General Office**  
+**Office**                    :      6733 407
 
 Email                      :      oss@moe.edu.sg  
   
