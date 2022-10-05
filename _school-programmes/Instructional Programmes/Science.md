@@ -69,11 +69,51 @@ third_nav_title: Instructional Programmes
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Common Links</label>
+    <label for="accordion2">Programme</label>
 
     <div>
 
-			<p> </p>
+<p> Science, Technology, Engineering, Arts and Mathematics (STEAM) programme puts our learners at the heart of our programme and focuses on real-world issues, teamwork and communications. In the STEAM education in Outram Secondary School, we have provided time and opportunities within the curriculum for our learners to think innovatively, creatively and critically to brainstorm solutions to various real-life issues.<br><br>
+	<b>Design-based learning</b><br>
+			![](/images/Instructional%20Programmes/Science/SP01.jpg)
+			![](/images/Instructional%20Programmes/Science/SP02.jpg)
+			
+Students work together to explore and investigate scientific principles which they will learn in their lessons. Our Secondary One students were tasked to design a filter to purify dirty water from kitchen waste, a task that is authentic and relevant to the water-scarce Singapore. Our Secondary Two students had to design a prototype to prevent an egg from breaking upon being dropped from the sixth storey.<br><br>
+
+The focus of the activities was certainly not on Science alone. As the world becomes more volatile, uncertain, complex and ambiguous (VUCA), we hope our Outramians will be well-equipped to be able to navigate and contribute positively to this changing landscape.<br><br>
+
+  
+
+  
+
+	<b>Inquiry-based learning</b><br>
+			![](/images/Instructional%20Programmes/Science/SP03.jpg)
+			![](/images/Instructional%20Programmes/Science/SP04.jpg)
+			
+Working in groups, students crafted their own research question, hypotheses and designed their own experimental procedures. They were provided with all the apparatus needed.<br><br>
+
+  
+
+Groups carried out their experiments, analysed their collected data and formed conclusions.<br><br>
+
+  
+
+Students are empowered to choose their own topics and are taught the necessary skills and framework prior to the research. Students are assessed on the ability to execute the scientific process and to reflect on how to modify/improve if results do not turn out as expected.<br><br>
+
+  
+
+Focusing on the process, our goal is to inculcate the skills and values of scientific literacy in our students.<br><br>
+
+  
+
+<b>Coding</b><br>
+			![](/images/Instructional%20Programmes/Science/SP05.jpg)
+			
+Students are tasked to design solutions to help make Covid-19-related measures easier to be implemented. Examples of such were count-down timers for washing hands, thermometers, a device that can ensure people keep a minimum distance. With few references available, students are encouraged to be creative with their solutions and are encouraged to take risks and learn from mistakes and failures.<br><br>
+
+  
+
+With the use of design thinking, we hope that students can build empathy, leverage prior learning and develop further to be life-long learners, innovative leaders and caring contributors of the world.</p>
 
     </div>
 
