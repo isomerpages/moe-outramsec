@@ -42,9 +42,9 @@ Through sports, we aim to instil 21st Century Competencies in each student to b
 
 The PE department approach towards character development through the Sports For Life @ Outram involves teaching the students the school values and equipping them with SEL competencies (To Know) through CCE and providing platforms for students to practice and demonstrate the values (To Feel) through play and competition and encouraging students to adopt the values in their own lives (To Do) in classroom, school and community.
 
-#### 
+ 
 
-**Sports for Life Programmes***
+#### **Sports for Life Programmes***
 
          ·         Annual Fitness Run
 
