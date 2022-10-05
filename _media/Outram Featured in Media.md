@@ -30,21 +30,18 @@ https://www.straitstimes.com/singapore/parenting-education/fintech-firm-co-found
 
 [](https://www.straitstimes.com/singapore/parenting-education/looking-beyond-psle-scores-to-pick-a-secondary-school)
 
-![Poster Mr Francis.jpg](https://outramsec.moe.edu.sg/qql/slot/u512/media/Poster%20Mr%20Francis.jpg)
-----------------------------------------------------------------------------------------------------
+![](/images/Media/Outram%20Featured%20in%20Media/Poster%20Mr%20Francis.jpg)
 
-**2020  
-  
-**
---------------
+### 2020
+
 
 *   **Senior Teacher Francis Tang wins the President’s Award for Teachers**  
     
 
 [https://www.straitstimes.com/singapore/education/seven-teachers-receive-the-highest-honour-in-their-profession-the-presidents](https://www.straitstimes.com/singapore/education/seven-teachers-receive-the-highest-honour-in-their-profession-the-presidents)
 
-2019
-----
+### 2019
+
 
   
 
@@ -64,11 +61,10 @@ https://www.straitstimes.com/singapore/parenting-education/fintech-firm-co-found
 
 [https://www.straitstimes.com/sport/schools/school-sports-outram-secondary-swimmer-ardi-overcomes-illness-to-clinch-b-boys-1500m](https://www.straitstimes.com/sport/schools/school-sports-outram-secondary-swimmer-ardi-overcomes-illness-to-clinch-b-boys-1500m)
 
-2018
-----
+#### 2018
 
-  
-[](https://www.straitstimes.com/sport/school-sports-outram-secondary-the-pick-of-the-crop-at-national-schools-speed-championships)
+
+
 
 *   **AG2018: Sport climber revels in Palembang experience as Olympic dream takes shape**
 
@@ -86,8 +82,8 @@ https://www.straitstimes.com/singapore/parenting-education/fintech-firm-co-found
 
 [https://www.straitstimes.com/sport/school-sports-outram-secondary-the-pick-of-the-crop-at-national-schools-speed-championships](https://www.straitstimes.com/sport/school-sports-outram-secondary-the-pick-of-the-crop-at-national-schools-speed-championships)  
 
-ALP News(English)
------------------
+#### ALP News(English)
+
 
   
 
