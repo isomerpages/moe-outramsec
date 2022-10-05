@@ -55,7 +55,7 @@ Friday: 12.30pm to 3.30pm</p>
 
     <div>
 
-			<p> <b>2021:</b> Financial Literacy for Youth Race @ Republic Polytechnic (Most Financial Savvy Award for FLY Challenge 2021)</b><br>
+			<p> <b>2021:</b> Financial Literacy for Youth Race @ Republic Polytechnic (Most Financial Savvy Award for FLY Challenge 2021)<br>
 		<b>2019:</b>      Financial Literacy for Youth Race @ Republic Polytechnic<br>  
   
 		<b>2018</b>:      National Cashflow Competition<br>  
