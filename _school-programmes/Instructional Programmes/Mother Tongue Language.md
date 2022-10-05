@@ -134,11 +134,60 @@ MTL Fortnight activities provides platforms for students to learn Tamil actively
 
 <b>Sec 1   – Folk Dance</b>  Kolaattam, Kummi aattam, Karakaattam, Oyilaatam and Folk dance<br><br>
 
-<b>Sec 2   – Traditional Art forms</b> - Flower Tying Art, Henna  Art, Rangoli Art, Madhubani Art 
+<b>Sec 2   – Traditional Art forms</b> - Flower Tying Art, Henna  Art, Rangoli Art, Madhubani Art<br><br> 
 
-<b>Sec 3   – Traditional Games</b>  - Aadupuli Aattam, Nondiyaditthal (Hopscotch), Kola kolaya mundirikaa, Kalari (Martial Art), Thaayam (Board Game) & Pallanguli (Congcak)
+<b>Sec 3   – Traditional Games</b>  - Aadupuli Aattam, Nondiyaditthal (Hopscotch), Kola kolaya mundirikaa, Kalari (Martial Art), Thaayam (Board Game) & Pallanguli (Congcak)<br><br>
 
-<b>Sec 4   – Folklore</b> - Lullaby songs, Paatu paada vaa (Did u forget the lyrics), Aetram & Kummi songs (Harvest), Games & Work songs, Vandikkaran songs (Bullock Cart Rider Songs)
+<b>Sec 4   – Folklore</b> - Lullaby songs, Paatu paada vaa (Did u forget the lyrics), Aetram & Kummi songs (Harvest), Games & Work songs, Vandikkaran songs (Bullock Cart Rider Songs)<br><br>
+				![](/images/Instructional%20Programmes/Mother%20Tongue%20Language/MTP03.jpg)
+				<b>Peraduan Saya Boleh Mengarang</b>
+				<b>(organised by Edufront Learning Centre Pte. Ltd.)</b><br><br>
+
+  
+
+This year is the third year our Outramians participated in the National Essay Writing Competition organised by external vendors.<br>  
+
+Our students participated in Saya Boleh Mengarang organised by Edufront Learning Centre (Pusat Nusa). The competition was organised to challenge students’ mind to write creatively and increase students’ confidence in writing.<br>
+
+We are proud to share that three of our young writers were awarded as followings:<br><br>
+				<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-vqm8{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-mbkz{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-u05r{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-mcwe{background-color:#E8EDFF;color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-u05r">Name</th>
+    <th class="tg-mbkz">Class</th>
+    <th class="tg-mbkz">Awards</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vqm8">Alyssa Nur Adriana Bte Md Faizal</td>
+    <td class="tg-mcwe">Sec 2/3</td>
+    <td class="tg-mcwe">Gold with Distinction</td>
+  </tr>
+  <tr>
+    <td class="tg-vqm8">Nur Alizah Bte Abu</td>
+    <td class="tg-mcwe">Sec 1/1</td>
+    <td class="tg-mcwe">Silver</td>
+  </tr>
+  <tr>
+    <td class="tg-vqm8">Nursahirah Bte Sahidan</td>
+    <td class="tg-mcwe">Sec 3/4</td>
+    <td class="tg-mcwe">Silver</td>
+  </tr>
+</tbody>
+</table><br>
+			Alyssa Nur Adriana Bte Md Faizal who achieved Gold with Distinction, qualifies herself in the final round competing among top young writers in Singapore. Results will be announced at the end of the year.
 			</p>
 
     </div>
