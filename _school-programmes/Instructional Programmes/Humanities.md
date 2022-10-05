@@ -12,7 +12,7 @@ third_nav_title: Instructional Programmes
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Student Handbook</label>
+    <label for="accordion1">Members</label>
 
     <div>
 
@@ -25,7 +25,7 @@ third_nav_title: Instructional Programmes
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Common Links</label>
+    <label for="accordion2">Syllabus</label>
 
     <div>
 
