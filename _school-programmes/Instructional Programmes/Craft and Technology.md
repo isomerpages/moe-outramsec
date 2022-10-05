@@ -84,13 +84,13 @@ This year, we embarked on a department wide learning framework. This learning fr
 
     <div>
 
-			<p> </p>
+<p> Please Click <a href="https://sites.google.com/moe.edu.sg/oss-dnt/home">here</a> to link to the D&T Webpage</p>
 
     </div>
 
 </li>
 	
-	<li>
+<li>
 
     <input type="checkbox" id="accordion3">
 
@@ -104,7 +104,7 @@ This year, we embarked on a department wide learning framework. This learning fr
 
 </li>
 	
-	<li>
+<li>
 
     <input type="checkbox" id="accordion4">
 
