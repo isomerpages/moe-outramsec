@@ -344,7 +344,10 @@ The team comprising Zander Widjaja, Nguyen Hai Duong (Sec 4/4) and Shyanne  (Se
     <td class="tg-ko1w"><a href="https://www.youtube.com/watch?v=h_DtNqHfalM&litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">O &amp; N Level English Paper 2 Understanding Visual Text through Mirror Reading</span></a></td>
   </tr>
 </tbody>
-</table>
+</table> <br>
+			<b>Website Resources</b><br>
+<img style="width:70%;height:50%" src="images/Instructional%20Programmes/English%20Language/ER12.jpg"><br>
+			<b>Online Reading</b><br>
 			</p>
 
     </div>
