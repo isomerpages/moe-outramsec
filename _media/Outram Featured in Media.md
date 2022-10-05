@@ -93,28 +93,28 @@ OSS ALP was featured during the evening News broadcast Channel 5, Channel 8 and 
 
 ![](https://outramsec.moe.edu.sg/pix/spacer.gif)
 
-ALP News (Chinese)
-------------------
+#### ALP News (Chinese)
+
 
   
 
 ![](https://outramsec.moe.edu.sg/pix/spacer.gif)
 
-ALP News (Malay)
-----------------
+#### ALP News (Malay)
+
 
 ![](https://outramsec.moe.edu.sg/pix/spacer.gif)
 
-2017
-----
+#### 2017
+
 
   
 
-===
+
 
 Beating obstacles with a dose of fun  
 
-=======================================
+
 
 [https://www.straitstimes.com/singapore/education/beating-obstacles-with-a-dose-of-fun](https://www.straitstimes.com/singapore/education/beating-obstacles-with-a-dose-of-fun)
 
@@ -124,21 +124,19 @@ Beating obstacles with a dose of fun
 
 [](https://www.womensweekly.com.sg/family/irene-ang-shares-best-memories-growing-singapore/)
 
-2016
-----
+#### 2016
+
 
   
 
-===
 
-Persistence and Passion  
 
-==========================
+**Persistence and Passion**  
 
 [https://www.schoolbag.sg/story/persistence-and-passion](https://www.schoolbag.sg/story/persistence-and-passion)
 
-Daring to venture out and make a difference
-===========================================
+**Daring to venture out and make a difference**
+
 
 [https://www.straitstimes.com/business/companies-markets/daring-to-venture-out-and-make-a-difference](https://www.straitstimes.com/business/companies-markets/daring-to-venture-out-and-make-a-difference)
 
@@ -160,31 +158,27 @@ Daring to venture out and make a difference
 
 [](https://www.straitstimes.com/singapore/outram-secondary-splashes-its-way-to-water-polo-summit)
 
-2014
-----
-
-  
-[](https://www.straitstimes.com/singapore/education/outram-secondary-net-link-lets-parents-check-on-students)
+#### 2014
 
 **Aspiring Young Entrepreneurs**  
 
 [http://www2.np.edu.sg/ba/happenings/Pages/20111230NBPChallenge.aspx](http://www2.np.edu.sg/ba/happenings/Pages/20111230NBPChallenge.aspx)
 
- Water Polo: Kingpins ACS(I) reclaim title from Outram
+ **Water Polo: Kingpins ACS(I) reclaim title from Outram**
 
 [https://www.asiaone.com/news/sports/water-polo-kingpins-acsi-reclaim-title-outram](https://www.asiaone.com/news/sports/water-polo-kingpins-acsi-reclaim-title-outram) 
 
   
 
-2013
-----
+#### 2013
+
 
 **Outram new kings of B division**
 
 [https://www.asiaone.com/News/Latest%2BNews/Sports/Story/A1Story20130404-413592.html](https://www.asiaone.com/News/Latest%2BNews/Sports/Story/A1Story20130404-413592.html)
 
-2011
-----
+#### 2011
+
 
   
 
@@ -192,8 +186,8 @@ Daring to venture out and make a difference
 
 [https://www.zaobao.com.sg/lifestyle/education/live/story20110513-22087](https://www.zaobao.com.sg/lifestyle/education/live/story20110513-22087)
 
-2009
-----
+#### 2009
+
 
   
 
@@ -203,10 +197,10 @@ Daring to venture out and make a difference
 
   
 
-2000
-----
+#### 2000
 
-**  
-Outram Secondary: Net link lets parents check on students**  
+
+ 
+**Outram Secondary: Net link lets parents check on students**  
 
 [https://www.straitstimes.com/singapore/education/outram-secondary-net-link-lets-parents-check-on-students](https://www.straitstimes.com/singapore/education/outram-secondary-net-link-lets-parents-check-on-students)
