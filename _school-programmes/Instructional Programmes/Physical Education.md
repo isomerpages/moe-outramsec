@@ -138,7 +138,64 @@ The school believes that sport is a very good platform for values education & ch
 
     <div>
 
-      <p> </p>
+      <p> <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-wyh4{background-color:#E8EDFF;color:#0E1860;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-lr6o{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax"></th>
+    <th class="tg-0lax"></th>
+    <th class="tg-0lax"></th>
+    <th class="tg-0lax"></th>
+    <th class="tg-0lax"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-wyh4">Sec 1</td>
+    <td class="tg-wyh4">Game 1 – Badminton</td>
+    <td class="tg-wyh4"></td>
+    <td class="tg-wyh4">For All</td>
+    <td class="tg-wyh4">Outdoor Education</td>
+  </tr>
+  <tr>
+    <td class="tg-wyh4"></td>
+    <td class="tg-wyh4">Game 2 – Basketball</td>
+    <td class="tg-wyh4"></td>
+    <td class="tg-wyh4"></td>
+    <td class="tg-wyh4">Rock climbing</td>
+  </tr>
+  <tr>
+    <td class="tg-wyh4">Sec 2</td>
+    <td class="tg-wyh4">Game 3 – Floorball</td>
+    <td class="tg-wyh4"></td>
+    <td class="tg-wyh4"></td>
+    <td class="tg-wyh4">Swimming</td>
+  </tr>
+  <tr>
+    <td class="tg-wyh4">Sec 3</td>
+    <td class="tg-wyh4">Game 4 – Volleyball</td>
+    <td class="tg-wyh4"></td>
+    <td class="tg-wyh4"></td>
+    <td class="tg-wyh4">Fitness &amp; Conditioning (weight training)</td>
+  </tr>
+  <tr>
+    <td class="tg-wyh4">Sec 4/5</td>
+    <td class="tg-wyh4">Sport Education Model</td>
+    <td class="tg-wyh4"></td>
+    <td class="tg-wyh4"></td>
+    <td class="tg-lr6o"></td>
+  </tr>
+</tbody>
+</table> </p>
 
     </div>
 
