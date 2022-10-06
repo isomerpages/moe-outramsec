@@ -78,14 +78,12 @@ third_nav_title: Instructional Programmes
 
 Business Studies is assessed through two written papers. It is offered to Upper Secondary Normal Academic/Express students.<br>
 
-	<b>Syllabus guide</b><br><br>
+<b>Syllabus guide</b><br><br>
 	
-	<a href="link">text</a>
+<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2020syllabus/7085\_y20\_sy.pdf">https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2020syllabus/7085\_y20\_sy.pdf</a><br><br>
+ 
 
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2020syllabus/7085\_y20\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2020syllabus/7085_y20_sy.pdf)  
-  
-
-For more information, please email: [**cheong\_wenxin\_serene@moe.edu.sg**](mailto:cheong_wenxin_serene@moe.edu.sg) </p>
+For more information, please email: <a href="cheong\_wenxin\_serene@moe.edu.sg">cheong\_wenxin\_serene@moe.edu.sg</a>  </p>
 
     </div>
 
