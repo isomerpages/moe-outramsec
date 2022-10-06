@@ -103,8 +103,52 @@ third_nav_title: Instructional Programmes
     <label for="accordion2">Programmes</label>
 
     <div>
+ <p> <img style="width:70%;height:50%" src="/images/Instructional%20Programmes/CCE/CCP01.jpg">
+			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/CCE/CCP02.jpg"><br><br>
+			
+<b>Values in Action (VIA)</b><br><br>  
 
-			<p> </p>
+Values in Action (VIA) are learning experiences that support students’ development as socially responsible citizens who contribute meaningfully to the community, through the learning and application of values, knowledge and skills.<br><br>  
+  
+[Please click here to read more...](https://outramsec-moe-edu-sg-admin.cwp.sg/school-programmes/instructional-programmes/character-and-citizenship-education/programme/values-in-action)  
+
+  
+
+<b>Citizenship Education (National Education)</b><br><br>  
+
+*   Total Defence Day at OSS
+*   International Friendship Day at OSS
+*   Racial Harmony Day at OSS
+*   National Day Celebrations at OSS
+
+[Please click here to read more...](https://outramsec-moe-edu-sg-admin.cwp.sg/school-programmes/instructional-programmes/character-and-citizenship-education/programme/citizenship-education-national-education)
+
+  
+
+<b>Cyberwellness</b><br><br>  
+
+  
+
+The Cyber Wellness Framework guides schools in planning for a cyber wellness programme. The Framework focuses on developing the child’s instinct to protect himself and empower him to take responsibility for his own well-being in cyberspace.<br><br> 
+
+  
+
+[Please click here to read more...](https://outramsec-moe-edu-sg-admin.cwp.sg/school-programmes/instructional-programmes/character-and-citizenship-education/programme/cyberwellness)
+
+  
+
+  
+
+  
+
+<b>Sexuality Education</b><br><br>
+
+
+Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.  
+  
+[Please click here to read more...](https://outramsec-moe-edu-sg-admin.cwp.sg/school-programmes/instructional-programmes/character-and-citizenship-education/programme/sexuality-education)
+	 
+			</p>
 
     </div>
 
