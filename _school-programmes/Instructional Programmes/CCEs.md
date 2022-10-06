@@ -121,7 +121,7 @@ Values in Action (VIA) are learning experiences that support students’ develop
 *   Racial Harmony Day at OSS
 *   National Day Celebrations at OSS
 
-<a href="link">Please Click Here to Read More</a>
+<a href="/Citizen-Education-National-Education/">Please Click Here to Read More</a>
 
   
 
