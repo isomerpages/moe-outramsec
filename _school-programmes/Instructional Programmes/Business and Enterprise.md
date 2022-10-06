@@ -113,12 +113,12 @@ POA is offered to Upper Secondary Normal Academic and Express students and is as
 
 <b>Syllabus guide (Normal Academic)</b><br><br>
 
-<a href="files/School%20Programmes/Instructional%20Programmes/Business%20and%20Enterprise/7086_y21_sy.pdf">https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2021syllabus/7086_y21_sy.pdf</a>
+<a href="files/School%20Programmes/Instructional%20Programmes/Business%20and%20Enterprise/POA/7086_y21_sy.pdf">https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2021syllabus/7086_y21_sy.pdf</a>
 
 
 <b>Syllabus guide (Express)</b><br><br>
 
-<a href="link">https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2021syllabus/7087_y21_sy.pdf</a>
+<a href="files/School%20Programmes/Instructional%20Programmes/Business%20and%20Enterprise/POA/7087_y21_sy.pdf">https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2021syllabus/7087_y21_sy.pdf</a>
 
 
 For more information, please email: <a href="Lim_yong_guan_roderick@moe.edu.sg">Lim_yong_guan_roderick@moe.edu.sg</a>  </p>
