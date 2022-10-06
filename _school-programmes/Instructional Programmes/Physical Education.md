@@ -67,7 +67,43 @@ To instill the school values in every Outramian through PE and Sports
 
     <div>
 
-			<p> </p>
+<p> 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-8zwo{font-style:italic;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-amwm">Goal</th>
+    <th class="tg-amwm">Action Plan</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Healthy Outramian</td>
+    <td class="tg-8zwo">To reduce Obesity through<br>Modular PE lesson that cater to different fitness levels of student.<br>Healthy meal in canteen food<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Active &amp; Fit Outramian</td>
+    <td class="tg-8zwo">To increase the physical activity level of students through<br>Participation of various sport events in school such as Sports Carnival, Fitness Run, Swimming Carnival, Inter-house games<br>Booking of futsal court for CCA and students after school<br>Loan of sports equipment to students  during recess &amp; after school<br>Structured play during recess<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">  Engaged Outramian</td>
+    <td class="tg-8zwo">To perform and enjoy a variety of physical activities with understanding through<br>Incorporation of school values &amp; SEL into PE lessons<br>Harnessing segmented approach learning and use of ICT<br>PE assessment<br>Students’ survey on PE lesson<br></td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Confident Outramian</td>
+    <td class="tg-8zwo">To develop water and height confidence in our students through<br>Swimming<br>Rock climbing<br>Outdoor education</td>
+  </tr>
+</tbody>
+</table> </p>
 
     </div>
 
