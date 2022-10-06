@@ -97,25 +97,25 @@ For more information, please email: <a href="cheong\_wenxin\_serene@moe.edu.sg">
 
     <div>
 
-			<p> POA is a practical subject which prepares students for future career developments. The syllabus aims to develop an understanding of the principles and concepts of accounting and their applications in a variety of business situations. POA students will be able to:
+<p> POA is a practical subject which prepares students for future career developments. The syllabus aims to develop an understanding of the principles and concepts of accounting and their applications in a variety of business situations. POA students will be able to:<br><br>
 
-·   Acquire knowledge and understanding of fundamental accounting concepts, principles, and procedures in the context of business aims and activities;
+·   Acquire knowledge and understanding of fundamental accounting concepts, principles, and procedures in the context of business aims and activities;<br>
 
-·  Develop skills in preparing and analysing accounting information;
+·  Develop skills in preparing and analysing accounting information;<br>
 
-·  Develop an understanding of the role of accounting in providing an information system for monitoring and decision making;
+·  Develop an understanding of the role of accounting in providing an information system for monitoring and decision making;<br>
 
-·  Develop skills of numeracy, information technology literacy, communication, inquiry, presentation and interpretation;
+·  Develop skills of numeracy, information technology literacy, communication, inquiry, presentation and interpretation;<br>
 
-·  Develop attitudes of accuracy, orderliness and logical thought and an appreciation of professional ethics.
+·  Develop attitudes of accuracy, orderliness and logical thought and an appreciation of professional ethics.<br>
 
-POA is offered to Upper Secondary Normal Academic and Express students and is assessed through a written exam comprising two papers.
+POA is offered to Upper Secondary Normal Academic and Express students and is assessed through a written exam comprising two papers.<br><br>
 
-**Syllabus guide (Normal Academic)**
+	<b>Syllabus guide (Normal Academic)</b><br><br>
 
 [https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2021syllabus/7086\_y21\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2021syllabus/7086_y21_sy.pdf)
 
-**Syllabus guide (Express)**
+	<b>Syllabus guide (Express)</b><br><br>
 
 [https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2021syllabus/7087\_y21\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2021syllabus/7087_y21_sy.pdf)
 
