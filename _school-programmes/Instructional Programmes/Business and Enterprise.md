@@ -111,15 +111,17 @@ For more information, please email: <a href="cheong\_wenxin\_serene@moe.edu.sg">
 
 POA is offered to Upper Secondary Normal Academic and Express students and is assessed through a written exam comprising two papers.<br><br>
 
-	<b>Syllabus guide (Normal Academic)</b><br><br>
+<b>Syllabus guide (Normal Academic)</b><br><br>
 
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2021syllabus/7086\_y21\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2021syllabus/7086_y21_sy.pdf)
+<a href="files/School%20Programmes/Instructional%20Programmes/Business%20and%20Enterprise/7086_y21_sy.pdf">https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2021syllabus/7086_y21_sy.pdf</a>
 
-	<b>Syllabus guide (Express)</b><br><br>
 
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2021syllabus/7087\_y21\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2021syllabus/7087_y21_sy.pdf)
+<b>Syllabus guide (Express)</b><br><br>
 
-For more information, please email: [**Lim\_yong\_guan\_roderick@moe.edu.sg**](mailto:Lim_yong_guan_roderick@moe.edu.sg) </p>
+<a href="link">https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2021syllabus/7087_y21_sy.pdf</a>
+
+
+For more information, please email: <a href="Lim_yong_guan_roderick@moe.edu.sg">Lim_yong_guan_roderick@moe.edu.sg</a>  </p>
 
     </div>
 
