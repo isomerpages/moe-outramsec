@@ -135,7 +135,22 @@ For more information, please email: <a href="Lim_yong_guan_roderick@moe.edu.sg">
 
     <div>
 
-      <p> </p>
+      <p> This is a 2-year MOE-ITE Applied Subject that aims to equip students with the basic knowledge, skill and values relevant for employment in small, medium to large retail establishments. It covers the functional skills and knowledge in retail operations such as selling products and services, providing customer service, handling and displaying merchandise, managing stock inventory, performing cashier duties and after-sales service.<br><br>
+
+Students will have opportunities to practise retailing skills in simulated retail settings where a service oriented mindset, effective communication skills and teamwork – qualities valued by today’s employers – would be developed. There will be strong emphasis on hands-on learning and practical skills training, and developing professionalism as a retail service provider. Students will also observe and learn from real-world retail practices.<br><br>
+
+RO is offered to Upper Secondary Normal (Technical) students.<br><br>
+
+<b>Syllabus guide</b><br>
+
+<a href="files/School%20Programmes/Instructional%20Programmes/Business%20and%20Enterprise/Retail%20Operations%20(RO)/IT04_2017.pdf">http://www.seab.gov.sg/content/syllabus/nlevel/2017Syllabus/IT04_2017.pdf</a><br><br>				
+
+
+  
+
+For more information, please email:
+<a href="cheong_wenxin_serene@moe.edu.sg">cheong_wenxin_serene@moe.edu.sg</a>				
+ </p>
 
     </div>
 
