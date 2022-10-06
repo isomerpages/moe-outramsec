@@ -66,7 +66,26 @@ third_nav_title: Instructional Programmes
 
     <div>
 
-			<p> </p>
+<p><b>Currently unique to Outram Secondary School, GCE ‘O’ Level Business Studies offers students the opportunity to do the following:</b><br><br>  
+
+·   Apply their knowledge and critical understanding to current issues and problems within business contexts.<br>
+
+·   Develop knowledge and understanding of the major groups and organisations within and outside business.<br>
+
+·   Develop knowledge and understanding of how the main types of business and financial organisations are organised, financed and operated and how their relations with other organisations, consumers, employers, owners and society are regulated.<br>
+
+·   Develop an awareness of the nature and significance of innovation and change within the context of business activities.<br>
+
+Business Studies is assessed through two written papers. It is offered to Upper Secondary Normal Academic/Express students.<br>
+
+	<b>Syllabus guide</b><br><br>
+	
+	<a href="link">text</a>
+
+[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2020syllabus/7085\_y20\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2020syllabus/7085_y20_sy.pdf)  
+  
+
+For more information, please email: [**cheong\_wenxin\_serene@moe.edu.sg**](mailto:cheong_wenxin_serene@moe.edu.sg) </p>
 
     </div>
 
