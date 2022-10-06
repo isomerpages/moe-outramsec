@@ -117,7 +117,14 @@ To instill the school values in every Outramian through PE and Sports
 
     <div>
 
-			<p> </p>
+			<p><b>Learning for Life Programme for Sports @ Outram</b><br><br>   
+  
+
+The school believes that sport is a very good platform for values education & character development. Active involvement in Sports from an early age:<br><br>
+
+*   provide a conducive environment to inculcate good morals, values, social-emotional competencies and has the capacity to teach life skills,<br>
+*   promote psychological well-being, positive social-emotional development, and higher academic & future occupational achievements, and<br>
+*   is a platform for school to engage students in an authentic setting to gain meaningful experiences, builds interest and motivates them to continue active healthy lifestyles. </p>
 
     </div>
 
