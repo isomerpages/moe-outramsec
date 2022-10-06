@@ -164,7 +164,65 @@ For more information, please email:
 
     <div>
 
-      <p> </p>
+<p> <b>January</b><br><br>
+
+·         Business lesson for Lower Secondary<br>
+
+·         Finance Leaders programme for Secondary 2 and 3<br>
+
+  
+
+<b>February</b><br><br>
+
+·         Business lesson for Lower Secondary<br>
+
+·         Finance Leaders programme for Secondary 2 and 3<br>
+
+·         Online Bazaar for Business students<br>
+
+·         Secondary 3 Entrepreneurship programme<br>
+
+<b>March</b><br><br>
+
+·         Business lesson for Lower Secondary<br>
+
+·         Secondary 3 Entrepreneurship programme<br>
+
+·          Lcube game for Secondary 1 students<br>
+
+<b>April</b><br><br>
+
+·          Business lesson for Lower Secondary (Project Work)<br>
+
+<b>May</b><br><br>
+
+·         Business lesson for Lower Secondary<br>
+
+·         ALP day for Secondary 1, 2 and 3<br>
+
+·         ALP week for Secondary 4 NT/NA<br>
+
+	<b>June</b><br><br>
+
+·         LCCI External Certification (For selected group of POA students)<br>
+
+·         Project Moolah Fin Lit programme<br>
+
+<b>July – September</b><br><br>
+
+·         Spirit of Enterprise (SOE) workshop for Secondary 2 Entrepreneurship programme<br>
+
+·          Entrepreneurship first step module organized by Ngee Ann Polytechnic<br>
+
+·         Project Moolah Fin Lit programme<br>
+
+<b>October - November</b><br><br>
+
+·         Fin Lit Outreach and Publicity Talks to Primary Schools<br>
+
+·         MYM and Cashflow interclass Secondary One and Two competition<br>
+
+·         Design for Change Challenge<br> </p>
 
     </div>
 
