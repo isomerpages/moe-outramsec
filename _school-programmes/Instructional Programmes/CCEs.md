@@ -110,7 +110,7 @@ third_nav_title: Instructional Programmes
 
 Values in Action (VIA) are learning experiences that support students’ development as socially responsible citizens who contribute meaningfully to the community, through the learning and application of values, knowledge and skills.<br><br>  
   
-[Please click here to read more...](https://outramsec-moe-edu-sg-admin.cwp.sg/school-programmes/instructional-programmes/character-and-citizenship-education/programme/values-in-action)  
+<a href="link">Please Click Here to Read More</a>  
 
   
 
@@ -121,7 +121,7 @@ Values in Action (VIA) are learning experiences that support students’ develop
 *   Racial Harmony Day at OSS
 *   National Day Celebrations at OSS
 
-[Please click here to read more...](https://outramsec-moe-edu-sg-admin.cwp.sg/school-programmes/instructional-programmes/character-and-citizenship-education/programme/citizenship-education-national-education)
+<a href="link">Please Click Here to Read More</a>
 
   
 
@@ -133,7 +133,7 @@ The Cyber Wellness Framework guides schools in planning for a cyber wellness pro
 
   
 
-[Please click here to read more...](https://outramsec-moe-edu-sg-admin.cwp.sg/school-programmes/instructional-programmes/character-and-citizenship-education/programme/cyberwellness)
+<a href="link">Please Click Here to Read More</a>
 
   
 
@@ -146,7 +146,7 @@ The Cyber Wellness Framework guides schools in planning for a cyber wellness pro
 
 Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters.  
   
-[Please click here to read more...](https://outramsec-moe-edu-sg-admin.cwp.sg/school-programmes/instructional-programmes/character-and-citizenship-education/programme/sexuality-education)
+<a href="link">Please Click Here to Read More</a>
 	 
 </p>
 
