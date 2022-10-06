@@ -236,7 +236,44 @@ For more information, please email:
 
     <div>
 
-      <p> </p>
+      <p> <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2w19{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-ocgt{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-muqq{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-2w19"></th>
+    <th class="tg-0lax"></th>
+    <th class="tg-0lax"></th>
+    <th class="tg-0lax"></th>
+    <th class="tg-0lax"></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">2017</span></td>
+    <td class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">2018</span></td>
+    <td class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">2019</span></td>
+    <td class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">2020</span></td>
+    <td class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">2021</span></td>
+  </tr>
+  <tr>
+    <td class="tg-muqq">Youth Innovation Challenge (<a href="https://iie.smu.edu.sg/YIC2017_winners"><span style="font-weight:600;text-decoration:none;color:#D70500">link</span></a>)<br><br>Best Innovation Award (Business) - Team Zelter<br><br>Best Social Impactr Award - Team Soltrax<br><br>Champion Team - Team Zelter<br><br><br>Financial Literacy Competition (Voice Catergory) <br><br>First Runner-up<br><br></td>
+    <td class="tg-muqq">Biz Wellness Competition (Jan)<br><br>Finalist<br><br>Biz Wellness Competition (Jul)<br><br>Champion<br><br>Youth Innovation Challenge <br><br>Semi-Finalist<br><br>Outram Secondary School Partnership Award with Centre of Financial Literacy<br><br></td>
+    <td class="tg-muqq">Financial Literacy Competition (Lcube) organised by NTU<br><br>Finalists<br><br>Student Entrepreneurship Challenge organised by Mount Faber Safra<br><br>Champion Team<br><br>Design for Change Challenge<br>Finalist<br><br><br><br></td>
+    <td class="tg-muqq">Design for Change Challenge<br><br>Finalist<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td>
+    <td class="tg-muqq">FLY challenge organised by Republic Polytechnic               <br><br>Most Financial Savvy Award<br><br>Design for Change Challenge<br><br>  <br>Finalist<br><br><br><br><br><br><br><br><br><br></td>
+  </tr>
+</tbody>
+</table> </p>
 
     </div>
 
