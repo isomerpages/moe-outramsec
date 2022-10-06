@@ -97,7 +97,29 @@ For more information, please email: <a href="cheong\_wenxin\_serene@moe.edu.sg">
 
     <div>
 
-			<p> </p>
+			<p> POA is a practical subject which prepares students for future career developments. The syllabus aims to develop an understanding of the principles and concepts of accounting and their applications in a variety of business situations. POA students will be able to:
+
+·   Acquire knowledge and understanding of fundamental accounting concepts, principles, and procedures in the context of business aims and activities;
+
+·  Develop skills in preparing and analysing accounting information;
+
+·  Develop an understanding of the role of accounting in providing an information system for monitoring and decision making;
+
+·  Develop skills of numeracy, information technology literacy, communication, inquiry, presentation and interpretation;
+
+·  Develop attitudes of accuracy, orderliness and logical thought and an appreciation of professional ethics.
+
+POA is offered to Upper Secondary Normal Academic and Express students and is assessed through a written exam comprising two papers.
+
+**Syllabus guide (Normal Academic)**
+
+[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2021syllabus/7086\_y21\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/nlevel/2021syllabus/7086_y21_sy.pdf)
+
+**Syllabus guide (Express)**
+
+[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2021syllabus/7087\_y21\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2021syllabus/7087_y21_sy.pdf)
+
+For more information, please email: [**Lim\_yong\_guan\_roderick@moe.edu.sg**](mailto:Lim_yong_guan_roderick@moe.edu.sg) </p>
 
     </div>
 
