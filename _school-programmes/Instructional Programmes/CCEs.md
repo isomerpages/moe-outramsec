@@ -148,7 +148,7 @@ Sexuality Education (SEd) in schools is about enabling students to understand th
   
 [Please click here to read more...](https://outramsec-moe-edu-sg-admin.cwp.sg/school-programmes/instructional-programmes/character-and-citizenship-education/programme/sexuality-education)
 	 
-			</p>
+</p>
 
     </div>
 
