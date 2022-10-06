@@ -67,74 +67,68 @@ During the school year, students will sit for the end-year examination to demons
 
 **Sec 1 Normal Technical**
 
-![1.JPG](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/media/Photo%20Gallery/2022/Programme%202022/1.JPG)  
+![](/images/Instructional%20Programmes/Assessment%20in%20Outram/A01.jpg)  
 
 
 \*Modular: The student will take Design and Technology or Food and Consumer Education in Semester 1 or Semester 2
 
 **Sec 2 Normal Technical**
 
-**![2.JPG](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/media/Photo%20Gallery/2022/Programme%202022/2.JPG)  
-**
+![](/images/Instructional%20Programmes/Assessment%20in%20Outram/A02.jpg)
 
 \*Modular: The student will take Design and Technology or Food and Consumer Education in Semester 1 or Semester 2
 
 **Sec 3 Normal Technical**  
 
-**![3.JPG](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/media/Photo%20Gallery/2022/Programme%202022/3.JPG)  
-**
+![](/images/Instructional%20Programmes/Assessment%20in%20Outram/A03.jpg)
 
-****Sec 4 Normal Technical****
+**Sec 4 Normal Technical**
 
-****![4.JPG](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/media/Photo%20Gallery/2022/Programme%202022/4.JPG)  
-****
+![](/images/Instructional%20Programmes/Assessment%20in%20Outram/A04.jpg)
 
-********Sec 1 Normal Academic****  
-****
+**Sec 1 Normal Academic** 
 
-********![1NA.JPG](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/media/Photo%20Gallery/2022/Programme%202022/1NA.JPG)********
+
+![](/images/Instructional%20Programmes/Assessment%20in%20Outram/A05.jpg)
 
 \*Modular: The student will take Design and Technology or Food and Consumer Education in Semester 1 or Semester 2
 
   
 
-********Sec 2 Normal Academic********
+**Sec 2 Normal Academic**
 
-**![2NA.JPG](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/media/Photo%20Gallery/2022/Programme%202022/2NA.JPG)  
-**
-
-\*Modular: The student will take Design and Technology or Food and Consumer Education in Semester 1 or Semester 2
-
-********Sec 3 Normal Academic********  
-
-********![3NA.JPG](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/media/Photo%20Gallery/2022/Programme%202022/3NA.JPG)  
-********
-
-********Sec 4 Normal Academic********  
-
-********![4NA.JPG](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/media/Photo%20Gallery/2022/Programme%202022/4NA.JPG)********
-
-********Sec 5 Normal Academic********
-
-********![5NA.JPG](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/media/Photo%20Gallery/2022/Programme%202022/5NA.JPG)********
-
-********Sec 1 Express********
-
-********![1E.JPG](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/media/Photo%20Gallery/2022/Programme%202022/1E.JPG)  
-********
+![](/images/Instructional%20Programmes/Assessment%20in%20Outram/A06.jpg)
 
 \*Modular: The student will take Design and Technology or Food and Consumer Education in Semester 1 or Semester 2
 
-********Sec 2 Express********
+**Sec 3 Normal Academic** 
 
-********![2E.JPG](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/media/Photo%20Gallery/2022/Programme%202022/2E.JPG)********
+![](/images/Instructional%20Programmes/Assessment%20in%20Outram/A07.jpg)
+
+**Sec 4 Normal Academic**
+
+![](/images/Instructional%20Programmes/Assessment%20in%20Outram/A08.jpg)
+
+**Sec 5 Normal Academic**
+
+![](/images/Instructional%20Programmes/Assessment%20in%20Outram/A09.jpg)
+
+**Sec 1 Express**
+
+![](/images/Instructional%20Programmes/Assessment%20in%20Outram/A10.jpg)
 
 \*Modular: The student will take Design and Technology or Food and Consumer Education in Semester 1 or Semester 2
 
-********Sec 3 Express********  
+**Sec 2 Express**
 
-********![3E.JPG](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/media/Photo%20Gallery/2022/Programme%202022/3E.JPG)********
+![](/images/Instructional%20Programmes/Assessment%20in%20Outram/A11.jpg)
 
-****************Sec 4 Express****************
+\*Modular: The student will take Design and Technology or Food and Consumer Education in Semester 1 or Semester 2
 
-![4E.JPG](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/media/Photo%20Gallery/2022/Programme%202022/4E.JPG)
+**Sec 3 Express** 
+
+![](/images/Instructional%20Programmes/Assessment%20in%20Outram/A12.jpg)
+
+**Sec 4 Express**
+
+![](/images/Instructional%20Programmes/Assessment%20in%20Outram/A13.jpg)
