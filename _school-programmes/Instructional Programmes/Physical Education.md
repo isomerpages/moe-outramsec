@@ -16,11 +16,45 @@ To instill the school values in every Outramian through PE and Sports
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Student Handbook</label>
+    <label for="accordion1">Members</label>
 
     <div>
 
-      <p> </p>
+      <p> <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-lyvw{color:#111;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-lyvw">Mr Dan Koh (HOD PE/CCA)</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lyvw">Mr Francis Tang (LT PE/CCA)</td>
+  </tr>
+  <tr>
+    <td class="tg-lyvw">Mr Freddie Chan </td>
+  </tr>
+  <tr>
+    <td class="tg-lyvw">Mr Damien Ho </td>
+  </tr>
+  <tr>
+    <td class="tg-lyvw">Mr Wee Teck Lee</td>
+  </tr>
+  <tr>
+    <td class="tg-lyvw">Mr Lim Teck Ming</td>
+  </tr>
+  <tr>
+    <td class="tg-lyvw">Ms Gloria Ng</td>
+  </tr>
+</tbody>
+</table> </p>
 
     </div>
 
@@ -29,7 +63,7 @@ To instill the school values in every Outramian through PE and Sports
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Common Links</label>
+    <label for="accordion2">Directions for 2022</label>
 
     <div>
 
@@ -39,11 +73,11 @@ To instill the school values in every Outramian through PE and Sports
 
 </li>
 	
-	<li>
+<li>
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Booklists</label>
+    <label for="accordion3">LLPLearning for Life Programme for Sports @ Outram</label>
 
     <div>
 
@@ -53,11 +87,11 @@ To instill the school values in every Outramian through PE and Sports
 
 </li>
 	
-	<li>
+<li>
 
     <input type="checkbox" id="accordion4">
 
-    <label for="accordion4">Resources for HBL</label>
+    <label for="accordion4">PE SOW</label>
 
     <div>
 
