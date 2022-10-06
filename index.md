@@ -8,15 +8,14 @@ notification: Welcome to Outram Secondary School!
 sections:
   - hero:
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
+        - title: NEWS & ANNOUNCEMENTS
+          description: VIEW ALL
           url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
+        - title: ACHIEVEMENTS
+          description: VIEW ALL
           url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
+        - title: OSS SUCCESS STORIES
+          description: VIEW ALL
           url: /privacy/
       background: /images/Homepage/HomepageGif.gif
 ---
-
