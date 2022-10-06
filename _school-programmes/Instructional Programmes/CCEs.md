@@ -110,7 +110,7 @@ third_nav_title: Instructional Programmes
 
 Values in Action (VIA) are learning experiences that support students’ development as socially responsible citizens who contribute meaningfully to the community, through the learning and application of values, knowledge and skills.<br><br>  
   
-<a href="link">Please Click Here to Read More</a>  
+<a href="/Values-in-Action/">Please Click Here to Read More</a>  
 
   
 
