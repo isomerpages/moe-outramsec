@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: NEWS & ANNOUNCEMENTS
           description: VIEW ALL
-          url: /News-and-Announcements/
+          url: /News-and-Announcements/News-and-Announcements/
         - title: ACHIEVEMENTS
           description: VIEW ALL
           url: /News-and-Announcements/
