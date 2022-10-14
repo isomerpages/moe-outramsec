@@ -16,6 +16,6 @@ sections:
           url: /News-and-Announcements/
         - title: OSS SUCCESS STORIES
           description: VIEW ALL
-          url: /privacy/
+          url: /OSS-Success-Stories/
       background: /images/Homepage/HomepageGif.gif
 ---
