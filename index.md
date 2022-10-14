@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: NEWS & ANNOUNCEMENTS
           description: VIEW ALL
-          url: https://google.com
+          url: /News-and-Announcements/
         - title: ACHIEVEMENTS
           description: VIEW ALL
           url: https://gmail.com
