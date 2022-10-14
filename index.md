@@ -13,7 +13,7 @@ sections:
           url: /News-and-Announcements/News-and-Announcements/
         - title: ACHIEVEMENTS
           description: VIEW ALL
-          url: /News-and-Announcements/
+          url: /Achievements/Achievements/
         - title: OSS SUCCESS STORIES
           description: VIEW ALL
           url: /OSS-Success-Stories/
