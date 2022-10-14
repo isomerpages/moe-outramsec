@@ -1,4 +1,5 @@
 collections:
   oss-success-stories:
     output: true
-    order: []
+    order:
+      - OSS Success Stories.md
