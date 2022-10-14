@@ -13,7 +13,7 @@ sections:
           url: /News-and-Announcements/
         - title: ACHIEVEMENTS
           description: VIEW ALL
-          url: https://gmail.com
+          url: /News-and-Announcements/
         - title: OSS SUCCESS STORIES
           description: VIEW ALL
           url: /privacy/
