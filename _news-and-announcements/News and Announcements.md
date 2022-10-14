@@ -1,0 +1,92 @@
+---
+title: News and Announcements
+permalink: /News-and-Announcements/
+description: ""
+---
+
+*   [Graduation Day 2022](https://outramsec-moe-edu-sg-admin.cwp.sg/other/graduation-day-2022)
+*   **[OSS featured in SCHOOLBAG: The Education News Site](https://www.schoolbag.edu.sg/story/it-takes-a-village-to-support-a-student)**   
+    
+*   [Travel Declaration for September Holiday 2022](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/PDF/2022/Hardcopy%20Letter%20to%20Parents%20and%20Guardians%20Not%20Using%20PG%20-%20%20Sept%20Holidays%2022%20Travel%20Declaration.pdf)  
+    
+*   [Outram Celebrates National Day](https://outramsec.moe.edu.sg/other/outram-celebrates-national-day)
+*   [OSCARS 2022](https://outramsec.moe.edu.sg/other/oscars-2022) 
+*   [Student Leader Investiture 2022](https://outramsec.moe.edu.sg/other/student-leader-investiture-2022)
+*   [MOE Engagement Deck on Dengue Prevention](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/PDF/2022/Dengue/Dengue%20Attachment%206-Engagement%20Deck%20for%20Secondary%20Schools.pdf)  
+    
+*   [FAQs for Insect Repellent Distribution Exercise](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/PDF/2022/Dengue/Dengue%20Attachment%207-Frequently%20Asked%20Questions%20-%20NEAxTF%20Repellent%20Distribution.pdf)
+*   [2022 Edusave Character Award information](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/PDF/2022/EDUSAVE/2022%20ONLINE%20PUBLICITY%20INFO.pdf) 
+*   [2022 Edusave Character Award nomination form](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/PDF/2022/EDUSAVE/2022%20EDUSAVE%20CH%20AWARD%20nomination%20form.pdf)
+*   [Joint SPF CNB MOE School Advisory for Students (June School Holidays)](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/PDF/2022/Joint%20SPF%20CNB%20MOE%20School%20Advisory%20-%20Jun%202022.pdf)
+*   **[Career Guidance (CG) Day for Sec 4 and 5 students](https://outramsec-moe-edu-sg-admin.cwp.sg/oss/career-guidance-cg-day-for-sec-4-and-5-students)**  
+    
+*   [OSS Sec 3 Camp 2022](https://outramsec-moe-edu-sg-admin.cwp.sg/other/oss-sec-3-camp-2022)  
+    
+*   [Hari Raya Concert 2022](https://outramsec-moe-edu-sg-admin.cwp.sg/other/hari-raya-concert-2022) 
+*   Return of the National Sports Games
+*   [Sec 1 Maths Trail](https://outramsec-moe-edu-sg-admin.cwp.sg/other/sec-1-maths-trail)
+*   **[Release of GCE O-Level and N-Level Results](https://outramsec.moe.edu.sg/other/release-of-gce-o-level-and-n-level-results-1)**
+*   [Chinese New Year Celebrations 2022](https://outramsec-moe-edu-sg-admin.cwp.sg/other/chinese-new-year-2022)
+*   [Sec 1 Orientation Programme 2022](https://outramsec-moe-edu-sg-admin.cwp.sg/other/secondary-one-orientation-programme)
+
+<ul class="jekyllcodex_accordion">
+
+  <li>
+
+    <input type="checkbox" id="accordion1">
+
+    <label for="accordion1">2021</label>
+
+    <div>
+
+      <p> </p>
+
+    </div>
+
+</li>
+	<li>
+
+    <input type="checkbox" id="accordion2">
+
+    <label for="accordion2">2020</label>
+
+    <div>
+
+			<p> </p>
+
+    </div>
+
+</li>
+	
+	<li>
+
+    <input type="checkbox" id="accordion3">
+
+    <label for="accordion3">2019</label>
+
+    <div>
+
+			<p> </p>
+
+    </div>
+
+</li>
+	
+	<li>
+
+    <input type="checkbox" id="accordion4">
+
+    <label for="accordion4">2018</label>
+
+    <div>
+
+      <p> </p>
+
+    </div>
+
+</li>
+	
+	
+
+	
+</ul>
