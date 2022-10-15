@@ -3,8 +3,7 @@ title: News and Announcements
 permalink: /News-and-Announcements/News-and-Announcements/
 description: ""
 ---
-
-
+*   [President's Award for Teachers (PAT) and Outstanding Youth in Education Award (OYEA) 2023](https://outramsec-moe-edu-sg-admin.cwp.sg/other/presidents-award-for-teachers-pat-and-outstanding-youth-in-education-award-oyea-2023)
 *   [Graduation Day 2022](https://outramsec-moe-edu-sg-admin.cwp.sg/other/graduation-day-2022)
 *   **[OSS featured in SCHOOLBAG: The Education News Site](https://www.schoolbag.edu.sg/story/it-takes-a-village-to-support-a-student)**   
     
