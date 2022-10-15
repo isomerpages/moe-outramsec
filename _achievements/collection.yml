@@ -2,5 +2,6 @@ collections:
   achievements:
     output: true
     order:
+      - Most Inspiring Tamil Teachers' Award.md
       - Inspiring Teacher of English Award.md
       - Achievements.md
