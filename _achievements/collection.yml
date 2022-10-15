@@ -2,4 +2,5 @@ collections:
   achievements:
     output: true
     order:
+      - Inspiring Teacher of English Award.md
       - Achievements.md
