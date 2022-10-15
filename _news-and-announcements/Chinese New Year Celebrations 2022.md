@@ -8,3 +8,9 @@ The school ushered in the Year of the Tiger through an exciting CNY celebration.
 The students were also treated to a visit from the god of fortune and other significant characters from the Chinese folklore.
 
 The highlight of the celebration was the CNY concert which was presented in the form of a pre-recorded video. The concert featured a slew of performances and CNY greetings from students, alumni, teachers and staff. A roaring round of applause from students and teachers may have marked the end of the celebration but the Year of the Tiger was just about to begin.
+
+<img style="width:40%;height:50%" src="/images/News%20and%20Announcements/CNY%20Celebrations%202022/CNY01.jpg">
+
+<img style="width:40%;height:50%" src="/images/News%20and%20Announcements/CNY%20Celebrations%202022/CNY02.jpg">
+
+<img style="width:40%;height:50%" src="/images/News%20and%20Announcements/CNY%20Celebrations%202022/CNY03.jpg">
