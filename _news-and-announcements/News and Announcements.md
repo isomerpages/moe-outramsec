@@ -48,7 +48,7 @@ description: ""
 			<a href="files/News%20&%20Announcements/2021/MOE%20FAS%20Scheme%202022/MOE%20FAS%20Scheme%202022.pdf">MOE FAS Scheme 2022</a><br>
 			<a href="link">text</a><br>
 			<a href="link">text</a><br>
-			<a href="link">text</a><br>
+			<a href="files/News%20&%20Announcements/2021/Letter%20to%20Par%20to%20LOA%20AA%20Policy/Letter%20to%20Parents%20on%20Further%20updates%20to%20LOA%20AA%20Policy.pdf">Letter to Parents on Further updates to LOA AA Policy</a><br>
 			<a href="link">text</a><br>
 			<a href="link">text</a><br>
 			<a href="link">text</a><br>
