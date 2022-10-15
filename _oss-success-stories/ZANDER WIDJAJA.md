@@ -3,7 +3,7 @@ title: ZANDER WIDJAJA
 permalink: /oss-success-stories/ZANDER-WIDJAJA/
 description: ""
 ---
-![](/images/OSS%20Success%20Stories/ZANDER%20WIDJAJA/ZANDER.jpg)  
+<img style="width:50%;height:50%" src="/images/OSS%20Success%20Stories/ZANDER%20WIDJAJA/ZANDER.jpg">  
 
 
 
