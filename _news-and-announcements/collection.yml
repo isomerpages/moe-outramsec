@@ -2,6 +2,7 @@ collections:
   news-and-announcements:
     output: true
     order:
+      - Student Leader Investiture 2022.md
       - OSCARS 2022.md
       - Outram Celebrates National Day.md
       - News and Announcements.md
