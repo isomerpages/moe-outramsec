@@ -2,13 +2,13 @@ collections:
   achievements:
     output: true
     order:
-      - Congratulations Outram B Division Netballers!.md
-      - Tamil New Year Celebration and Competition Kim Seng CC.md
-      - "Youth Cop News: Youth and the Law Book Launch.md"
-      - Well done, Frisbee players!.md
-      - Sec 1 Students won Silver in the 5th Text Recital Competition.md
-      - Live On Festival 2022.md
-      - LEAP Award 2022.md
-      - Most Inspiring Tamil Teachers' Award.md
-      - Inspiring Teacher of English Award.md
       - Achievements.md
+      - Inspiring Teacher of English Award.md
+      - Most Inspiring Tamil Teachers' Award.md
+      - LEAP Award 2022.md
+      - Live On Festival 2022.md
+      - Sec 1 Students won Silver in the 5th Text Recital Competition.md
+      - Well done, Frisbee players!.md
+      - "Youth Cop News: Youth and the Law Book Launch.md"
+      - Tamil New Year Celebration and Competition Kim Seng CC.md
+      - Congratulations Outram B Division Netballers!.md
