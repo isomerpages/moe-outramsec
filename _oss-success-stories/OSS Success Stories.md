@@ -3,17 +3,15 @@ title: OSS Success Stories
 permalink: /OSS-Success-Stories/OSS-Success-Stories/
 description: ""
 ---
-
-
-*   [TAN JOVAN](https://outramsec-moe-edu-sg-admin.cwp.sg/modules/oss-success-stories/tan-jovan)
-*   [MUHAMMAD HABIB](https://outramsec-moe-edu-sg-admin.cwp.sg/modules/oss-success-stories/muhammad-habib)
-*   [SHINING ALUMNI](https://outramsec-moe-edu-sg-admin.cwp.sg/modules/oss-success-stories/shining-alumni)
-*   [ARDI THE ACE](https://outramsec-moe-edu-sg-admin.cwp.sg/modules/oss-success-stories/ardi-the-ace)
-*   [TOH ZHI HAO'S TIME TO SHINE](https://outramsec-moe-edu-sg-admin.cwp.sg/modules/oss-success-stories/toh-zhi-haos-time-to-shine)
-*   [ZAIRENA'S ZEST AND ZEAL](https://outramsec-moe-edu-sg-admin.cwp.sg/modules/oss-success-stories/zairenas-zest-and-zeal)
-*   [ZANDER WIDJAJA](https://outramsec-moe-edu-sg-admin.cwp.sg/modules/oss-success-stories/zander-widjaja)
-*   [PATH TO SUCCESS - PUVANASWARAN'S STORY](https://outramsec-moe-edu-sg-admin.cwp.sg/modules/oss-success-stories/path-to-success-puvanaswarans-story)
-*   [CHEN YIRONG](https://outramsec-moe-edu-sg-admin.cwp.sg/modules/oss-success-stories/chen-yirong)
-*   [MOHAMED ABBAS SHEYED EBRAMSA](https://outramsec-moe-edu-sg-admin.cwp.sg/modules/oss-success-stories/mohamed-abbas-sheyed-ebramsa)
-*   [RUZAINI HILMI BIN AHMAD](https://outramsec-moe-edu-sg-admin.cwp.sg/modules/oss-success-stories/ruzaini-hilmi-bin-ahmad)
-*   [DR RON NG](https://outramsec-moe-edu-sg-admin.cwp.sg/modules/oss-success-stories/dr-ron-ng)
+*   [TAN JOVAN](/oss-success-stories/TAN-JOVAN/)
+*   [MUHAMMAD HABIB](/oss-success-stories/MUHAMMAD-HABIB/)
+*   [SHINING ALUMNI](/oss-success-stories/SHINING-ALUMNI/)
+*   [ARDI THE ACE](/oss-success-stories/ARDI-THE-ACE/)
+*   [TOH ZHI HAO'S TIME TO SHINE](/oss-success-stories/TOH-ZHI-HAOS-TIME-TO-SHINE/)
+*   [ZAIRENA'S ZEST AND ZEAL](/oss-success-stories/ZAIRENAS-ZEST-AND-ZEAL/)
+*   [ZANDER WIDJAJA](/oss-success-stories/ZANDER-WIDJAJA/)
+*   [PATH TO SUCCESS PUVANASWARAN'S STORY](/oss-success-stories/PATH-TO-SUCCESS-PUVANASWARAN-STORY/)
+*   [CHEN YIRONG](/oss-success-stories/CHEN-YIRONG/)
+*   [MOHAMED ABBAS SHEYED EBRAMSA](/oss-success-stories/MOHAMED-ABBAS-SHEYED-EBRAMSA/)
+*   [RUZAINI HILMI BIN AHMAD](/oss-success-stories/RUZAINI-HILMI-BIN-AHMAD/)
+*   [DR RON NG](/oss-success-stories/DR-RON-NG/)
