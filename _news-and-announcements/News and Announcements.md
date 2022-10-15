@@ -55,7 +55,7 @@ description: ""
 			<a href="link">text</a><br>
 			<a href="files/News%20&%20Announcements/2021/Bonding%20Holidays!%20(Parent%20Kit)/Bonding%20over%20the%20Holidays!%20(Parent%20Kit).pdf">Bonding over the Holidays! (Parent Kit)</a><br>
 			<a href="files/News%20&%20Announcements/2021/Letter%20to%20Parents%20End%20of%20T%202/Letter%20to%20Parents-End%20of%20Term%202.pdf">Letter to Parents-End of Term 2</a><br>
-			<a href="link">text</a><br>
+			<a href="files/News%20&%20Announcements/2021/2021%20June%20Hols%20Acad%20Cal%20for%2045/2021%20June%20Holidays%20Academic%20Calendar%20for%20Sec%204%20&%205.pdf">2021 June Holidays Academic Calendar for Sec 4 & 5</a><br>
 			<a href="link">text</a><br>
 			<a href="link">text</a><br>
 			<a href="link">text</a><br>
