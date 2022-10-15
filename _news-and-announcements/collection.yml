@@ -2,7 +2,7 @@ collections:
   news-and-announcements:
     output: true
     order:
-      - Graduation Day 2022.md
+      - News and Announcements.md
       - President's Award for Teachers PAT and Outstanding Youth in Education
         Award OYEA 2023.md
-      - News and Announcements.md
+      - Graduation Day 2022.md
