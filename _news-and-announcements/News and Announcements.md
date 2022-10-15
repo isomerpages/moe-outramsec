@@ -57,7 +57,7 @@ description: ""
 			<a href="files/News%20&%20Announcements/2021/Letter%20to%20Parents%20End%20of%20T%202/Letter%20to%20Parents-End%20of%20Term%202.pdf">Letter to Parents-End of Term 2</a><br>
 			<a href="files/News%20&%20Announcements/2021/2021%20June%20Hols%20Acad%20Cal%20for%2045/2021%20June%20Holidays%20Academic%20Calendar%20for%20Sec%204%20&%205.pdf">2021 June Holidays Academic Calendar for Sec 4 & 5</a><br>
 			<a href="files/News%20&%20Announcements/2021/Parent%20Handbook%20(II)%20on%20a%20PLD/Parent%20Handbook%20(II)%20on%20Learning%20with%20a%20PLD.pdf">Parent Handbook (II) on Learning with a PLD</a><br>
-			<a href="link">text</a><br>
+			<a href="files/News%20&%20Announcements/2021/Parent%20Kit%20%20%20Su%20Your%20Child%20HBL/Parent%20Kit%20-%20Supporting%20Your%20Child%20During%20Full%20HBL.pdf">Parent Kit - Supporting Your Child During Full HBL</a><br>
 			<a href="link">text</a><br>
 			<a href="link">text</a><br>
 			<a href="link">text</a><br>
