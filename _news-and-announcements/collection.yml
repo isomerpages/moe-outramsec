@@ -2,13 +2,6 @@ collections:
   news-and-announcements:
     output: true
     order:
-      - Sec 1 Orientation Programme 2022.md
-      - Chinese New Year Celebrations 2022.md
-      - Release of GCE O Level and N Level Results.md
-      - Sec 1 Maths Trail.md
-      - Hari Raya Concert 2022.md
-      - OSS Sec 3 Camp 2022.md
-      - Career Guidance (CG) Day for Sec 4 and 5 students.md
       - News and Announcements.md
       - President's Award for Teachers PAT and Outstanding Youth in Education
         Award OYEA 2023.md
@@ -16,3 +9,10 @@ collections:
       - Outram Celebrates National Day.md
       - OSCARS 2022.md
       - Student Leader Investiture 2022.md
+      - Career Guidance (CG) Day for Sec 4 and 5 students.md
+      - OSS Sec 3 Camp 2022.md
+      - Hari Raya Concert 2022.md
+      - Sec 1 Maths Trail.md
+      - Release of GCE O Level and N Level Results.md
+      - Chinese New Year Celebrations 2022.md
+      - Sec 1 Orientation Programme 2022.md
