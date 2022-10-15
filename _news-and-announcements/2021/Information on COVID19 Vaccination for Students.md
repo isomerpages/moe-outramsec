@@ -28,7 +28,7 @@ For Secondary 1 to 3 Cohorts
 
   
 
-*   [Principal's Letter to Parents of Secondary 1 to 3 Students](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/Vaccination%20Exercise/OSS%20Principals%20Letter%20to%20Sec%201-3%20Parents%20on%20Vaccination%20-%207%20June%2021.pdf)
+*   [Principal's Letter to Parents of Secondary 1 to 3 Students](/files/News%20&%20Announcements/2021/Info%20on%20COVID19%20Vac%20for%20Studen/OSS%20Principals%20Letter%20to%20Sec%201-3%20Parents%20on%20Vaccination%20-%207%20June%2021.pdf)
 *   [Assistance for Vaccination Appointments for P6, S1-3, JC1, PU1-2 Students](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/Vaccination%20Exercise/Assistance%20for%20Vaccination%20Appointments%20for%20S1-%20S3.pdf)
 *   [Letter of Consent and Authorisation for COVID-19 Vaccination for Students](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/Vaccination%20Exercise/Attachment%202%20-%20Revised%20Letter%20of%20Consent%20and%20Authorisation.pdf) 
 *   [2021 Sec 3 HMTL GCE Listening Comprehension and Oral Examination Schedule](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/Vaccination%20Exercise/2021%20GCE%20LC%20%20Oral%20Exam%20Note%20on%20OSS%20Website%20for%20Sec%203E%20HMTL%20students%20-%20070621.pdf)
