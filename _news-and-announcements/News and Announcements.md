@@ -62,7 +62,7 @@ description: ""
 			<a href="files/News%20&%20Announcements/2021/Letter%20to%20Par%20on%20FHBL%20May%202021/Letter%20to%20Parents%20on%20FHBL%2019%20May%202021.pdf">Letter to Parents on FHBL 19 May 2021</a><br>
 			<a href="files/News%20&%20Announcements/2021/Blended%20Learnme%20Ins%20to%20Stud/Blended%20Learning@Homeinstructions%20to%20Students.pdf">Blended Learning@Homeinstructions to Students</a><br>
 			<a href="files/News%20&%20Announcements/2021/Nom%20your%20MTL%20teachers%20today!/Nominate%20your%20MTL%20teachers%20today!.pdf">Nominate your MTL teachers today!</a><br>
-			<a href="link">text</a><br>
+			<a href="files/News%20&%20Announcements/2021/Mid%20Year%20Exam%20Time%20for%202021/Mid-Year%20Examination%20Timetable%20for%202021.pdf">Mid-Year Examination Timetable for 2021</a><br>
 			<a href="link">text</a><br>
 			<a href="link">text</a><br>
 			<a href="link">text</a><br>
