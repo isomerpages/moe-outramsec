@@ -39,6 +39,6 @@ For Graduating Cohorts
   
 
 *   [Principal's Letter to Parents of Secondary 4 and 5 Graduating Students](/files/News%20&%20Announcements/2021/Info%20on%20COVID19%20Vac%20for%20Studen/OSS%20Principals%20Letter%20to%20Grad%20Parents%20on%20Vaccination%20-%202%20June%202021%20FTs.pdf)
-*   [Assistance for Vaccination Appointments for Graduating Cohorts](https://outramsec-moe-edu-sg-admin.cwp.sg/other/assistance-for-vaccination-appointments-for-graduating-cohorts)
+*   [Assistance for Vaccination Appointments for Graduating Cohorts](/Assistance-for-Vaccination-Appointments-for-Graduating-Cohorts/)
 *   [Letter of Consent and Authorisation for COVID-19 Vaccination for Students](/files/News%20&%20Announcements/2021/Info%20on%20COVID19%20Vac%20for%20Studen/Attachment%202%20-%20Revised%20Letter%20of%20Consent%20and%20Authorisation%20(1).pdf) 
 *   [2021 GCE Listening Comprehension and Oral Examination Schedule](/files/News%20&%20Announcements/2021/Info%20on%20COVID19%20Vac%20for%20Studen/2021%20GCE%20Listening%20Comprehension%20and%20Oral%20Examination%20Schedule.pdf)
