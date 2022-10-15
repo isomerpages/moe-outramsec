@@ -44,7 +44,7 @@ Every Wednesday    2.45 PM - 4.45 PM			<br></p>
 
 </li>
 	
-	<li>
+<li>
 
     <input type="checkbox" id="accordion3">
 
@@ -52,16 +52,16 @@ Every Wednesday    2.45 PM - 4.45 PM			<br></p>
 
     <div>
 
-			<p><br><b>Achievements</b><br>
+<p><br><b>Achievements</b><br>
 				<b>Achievements in 2022</b><br>
 				
-				<a href="/Live-on-Festival-2022/">Live On Festival 2022 – Heidi Teh Elie (Sec 3/3): Award Winner of the Essay Writing Competition</a><br>
+<a href="/Live-on-Festival-2022/">Live On Festival 2022 – Heidi Teh Elie (Sec 3/3): Award Winner of the Essay Writing Competition</a><br>
 				
 Our Schools, Our Stories 2022 – Participation<br>  
 National Shutterbugs Challenge 2022 – Participation<br>  
 Copyright School Challenge 2022 – Participation<br>  
   
-				<b>Achievements in 2021</b><br>  
+<b>Achievements in 2021</b><br>  
 Our School, Our Stories Video and Photo Story Contest 2021 - Participation<br>  
 Copyright School Challenge 2021 - Participation<br>
 			</p>
