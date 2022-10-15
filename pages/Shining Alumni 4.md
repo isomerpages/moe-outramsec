@@ -22,3 +22,6 @@ Lynn Lee Pei Yi for winning the Resorts World Sentosa Scholarship 
   
 
 Zhou Xin for attaining the Diploma in Hotel and Hospitality Management with Merit
+
+![](/images/OSS%20Success%20Stories/Shining%20Alumni/J01.png)
+![](/images/OSS%20Success%20Stories/Shining%20Alumni/J02.png)
