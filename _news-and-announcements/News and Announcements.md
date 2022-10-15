@@ -39,15 +39,15 @@ description: ""
 
     <div>
 			
-<a href="link">text</a><br>
+<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
 <a href="files/News%20&%20Announcements/2021/Ad%20on%20Travel%20for%20Students%202021/Advisory%20on%20Travel%20for%20Students%202021.pdf">Advisory on Travel for Students 2021</a><br>
 			<a href="files/News%20&%20Announcements/2021/Student%20Travel%20Plans%20Form%202021/Student%20Travel%20Plans%20Form%202021.pdf">Student Travel Plans Form 2021</a><br>
-			<a href="link">text</a><br>
+			<a href="/news-and-announcements/2021/Why-Vivian-Lim-picked-OSS/">Why Vivian Lim picked OSS</a><br>
 			<a href="files/News%20&%20Announcements/2021/Positive%20Parent%20Programme%202021/Positive%20Parenting%20Programme%202021.pdf">Positive Parenting Programme 2021</a><br>
 			<a href="files/News%20&%20Announcements/2021/MOE%20FAS%20App%20Form%202022/MOE%20FAS%20Application%20Form%202022.pdf">MOE FAS Application Form 2022</a><br>
 			<a href="files/News%20&%20Announcements/2021/MOE%20FAS%20Scheme%202022/MOE%20FAS%20Scheme%202022.pdf">MOE FAS Scheme 2022</a><br>
-			<a href="link">text</a><br>
-			<a href="link">text</a><br>
+			<a href="/news-and-announcements/2021/Thank-you-Teachers/">Thank you, Teachers</a><br>
+			<a href="/news-and-announcements/2021/Outram-Celebrates-Singapores-56th-Birthday-and-Awards-Ceremony-Day/">Outram Celebrates Singapore's 56th Birthday and Awards Ceremony Day</a><br>
 			<a href="files/News%20&%20Announcements/2021/Letter%20to%20Par%20to%20LOA%20AA%20Policy/Letter%20to%20Parents%20on%20Further%20updates%20to%20LOA%20AA%20Policy.pdf">Letter to Parents on Further updates to LOA AA Policy</a><br>
 			<a href="files/News%20&%20Announcements/2021/2021%20Edu%20Character%20Award%20info/2021%20Edusave%20Character%20Award%20info.pdf">2021 Edusave Character Award info</a><br>
 			<a href="files/News%20&%20Announcements/2021/2021%20Edu%20Cha%20Aw%20nom%20form/2021%20Edusave%20Character%20Award%20nomination%20form.pdf">2021 Edusave Character Award nomination form</a><br>
