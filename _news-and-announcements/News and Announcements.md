@@ -53,7 +53,7 @@ description: ""
 			<a href="files/News%20&%20Announcements/2021/2021%20Edu%20Cha%20Aw%20nom%20form/2021%20Edusave%20Character%20Award%20nomination%20form.pdf">2021 Edusave Character Award nomination form</a><br>
 			<a href="files/News%20&%20Announcements/2021/School%20Reopening%20in%20Term%203/School%20Reopening%20in%20Term%203.pdf">School Reopening in Term 3</a><br>
 			<a href="link">text</a><br>
-			<a href="link">text</a><br>
+			<a href="files/News%20&%20Announcements/2021/Bonding%20Holidays!%20(Parent%20Kit)/Bonding%20over%20the%20Holidays!%20(Parent%20Kit).pdf">Bonding over the Holidays! (Parent Kit)</a><br>
 			<a href="link">text</a><br>
 			<a href="link">text</a><br>
 			<a href="link">text</a><br>
