@@ -3,17 +3,17 @@ title: Achievements
 permalink: /Achievements/Achievements/
 description: ""
 ---
-*   [Inspiring Teacher of English Award](https://outramsec-moe-edu-sg-admin.cwp.sg/other/inspiring-teacher-of-english-award)  
+*   [Inspiring Teacher of English Award](/achievements/Inspiring-Teacher-of-English-Award/)  
     
-*   [Most Inspiring Tamil Teachers' Award](https://outramsec-moe-edu-sg-admin.cwp.sg/other/most-inspiring-tamil-teachers-award)
-*   [LEAP Award 2022](https://outramsec-moe-edu-sg-admin.cwp.sg/other/the-leap-award-2022)
-*   [Live On Festival 2022](https://outramsec-moe-edu-sg-admin.cwp.sg/oss/live-on-festival-2022) 
-*   [Sec 1 Students won Silver in the 5th Text Recital Competition](https://outramsec-moe-edu-sg-admin.cwp.sg/other/5th-recital-competition)
-*   [Well done, Frisbee players!](https://outramsec-moe-edu-sg-admin.cwp.sg/other/well-done-frisbee-players)
-*   [Youth Cop News: Youth and the Law Book Launch](https://outramsec-moe-edu-sg-admin.cwp.sg/oss/youth-cop-news-youth-and-the-law-book-launch)  
+*   [Most Inspiring Tamil Teachers' Award](/achievements/Most-Inspiring-Tamil-Teachers-Award/)
+*   [LEAP Award 2022](/achievements/LEAP-Award-2022/)
+*   [Live On Festival 2022](/achievements/Live-On-Festival-2022/) 
+*   [Sec 1 Students won Silver in the 5th Text Recital Competition](/achievements/Sec-1-Students-won-Silver-in-the-5th-Text-Recital-Competition/)
+*   [Well done, Frisbee players!](/achievements/Well-done-Frisbee-players/)
+*   [Youth Cop News: Youth and the Law Book Launch](/achievements/Youth-Cop-News-Youth-and-the-Law-Book-Launch/)  
     
-*   [Tamil New Year Celebration and Competition - Kim Seng CC](https://outramsec-moe-edu-sg-admin.cwp.sg/other/tamil-new-year-celebration-n-competition-2022)
-*   [Congratulations Outram B Division Netballers!](https://outramsec-moe-edu-sg-admin.cwp.sg/other/congratulations-b-division-outram-netballers)
+*   [Tamil New Year Celebration and Competition Kim Seng CC](/achievements/Tamil-New-Year-Celebration-and-Competition-Kim-Seng-CC/)
+*   [Congratulations Outram B Division Netballers!](/achievements/Congratulations-Outram-B-Division-Netballers/)
 
 <ul class="jekyllcodex_accordion">
 
@@ -25,12 +25,12 @@ description: ""
 
     <div>
 
-      <p> <a href="link">text</a><br>
-			<a href="link">text</a><br>
-			<a href="link">text</a><br>
-			<a href="link">text</a><br>
-			<a href="link">text</a><br>
-			<a href="link">text</a><br></p>
+      <p> <a href="/achievements/2021/Outram-wins-at-the-Queen-Commonwealth-Essay-Competition-2021/">Outram wins at the Queen’s Commonwealth Essay Competition 2021</a><br>
+			<a href="/achievements/2021/National-Schools-Literature-Festival-2021/">National Schools Literature Festival 2021</a><br>
+			<a href="/achievements/2021/Tamil-Budding-Writers-and-Artists-Competition-2021/">Tamil Budding Writers & Artists Competition 2021</a><br>
+			<a href="/achievements/2021/Outram-Dance-Club-and-Concert-Band-Shine-at-SYF-2021/">Outram Dance Club and Concert Band Shine at SYF 2021</a><br>
+			<a href="/achievements/2021/The-Singapore-Kindness-Movement-Competition-2021/">The Singapore Kindness Movement Competition 2021</a><br>
+			<a href="/achievements/2021/ThankyouCher-edu-sg/">ThankyouCheredusg</a><br></p>
 
     </div>
 
