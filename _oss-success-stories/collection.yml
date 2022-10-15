@@ -2,6 +2,7 @@ collections:
   oss-success-stories:
     output: true
     order:
+      - OSS Success Stories.md
       - TAN JOVAN.md
       - MUHAMMAD HABIB.md
       - SHINING ALUMNI.md
@@ -14,4 +15,3 @@ collections:
       - MOHAMED ABBAS SHEYED EBRAMSA.md
       - RUZAINI HILMI BIN AHMAD.md
       - DR RON NG.md
-      - OSS Success Stories.md
