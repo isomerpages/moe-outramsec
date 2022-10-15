@@ -60,7 +60,7 @@ description: ""
 			<a href="files/News%20&%20Announcements/2021/Parent%20Kit%20%20%20Su%20Your%20Child%20HBL/Parent%20Kit%20-%20Supporting%20Your%20Child%20During%20Full%20HBL.pdf">Parent Kit - Supporting Your Child During Full HBL</a><br>
 			<a href="https://outramsec-moe-edu-sg-admin.cwp.sg/oss/resources-for-fhbl-for-parents-students-and-teachers">Resources for FHBL for parents, students and teachers</a><br>
 			<a href="files/News%20&%20Announcements/2021/Letter%20to%20Par%20on%20FHBL%20May%202021/Letter%20to%20Parents%20on%20FHBL%2019%20May%202021.pdf">Letter to Parents on FHBL 19 May 2021</a><br>
-			<a href="link">text</a><br>
+			<a href="files/News%20&%20Announcements/2021/Blended%20Learnme%20Ins%20to%20Stud/Blended%20Learning@Homeinstructions%20to%20Students.pdf">Blended Learning@Homeinstructions to Students</a><br>
 			<a href="link">text</a><br>
 			<a href="link">text</a><br>
 			<a href="link">text</a><br>
