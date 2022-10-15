@@ -7,7 +7,7 @@ description: ""
 *   [Graduation Day 2022](https://outramsec-moe-edu-sg-admin.cwp.sg/other/graduation-day-2022)
 *   **[OSS featured in SCHOOLBAG: The Education News Site](https://www.schoolbag.edu.sg/story/it-takes-a-village-to-support-a-student)**   
     
-*   [Travel Declaration for September Holiday 2022](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/PDF/2022/Hardcopy%20Letter%20to%20Parents%20and%20Guardians%20Not%20Using%20PG%20-%20%20Sept%20Holidays%2022%20Travel%20Declaration.pdf)  
+*   [Travel Declaration for September Holiday 2022](/files/News%20&%20Announcements/Travel%20Declaration%20for%202022/Travel%20Declaration%20for%20September%20Holiday%202022.pdf)  
     
 *   [Outram Celebrates National Day](https://outramsec.moe.edu.sg/other/outram-celebrates-national-day)
 *   [OSCARS 2022](https://outramsec.moe.edu.sg/other/oscars-2022) 
