@@ -12,3 +12,11 @@ Former Outramians such as Mr Nelson Ko, Mr Zander Widjaja, Mr Ong Kah Jing, Mr N
   
 
 The finale of the day’s program was no less than an insightful and highly energetic talk by the entrepreneurial people from Lazada. It was certainly a most rewarding morning the students spent, gathering information and planning for their tomorrows.
+
+![](/images/News%20and%20Announcements/Career%20Guidance%20Day%20Sec%204%20&%205/C01.jpg)
+
+![](/images/News%20and%20Announcements/Career%20Guidance%20Day%20Sec%204%20&%205/C02.jpg)
+
+![](/images/News%20and%20Announcements/Career%20Guidance%20Day%20Sec%204%20&%205/C03.jpg)
+
+![](/images/News%20and%20Announcements/Career%20Guidance%20Day%20Sec%204%20&%205/C04.jpg)
