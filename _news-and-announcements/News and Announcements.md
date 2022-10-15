@@ -87,7 +87,7 @@ description: ""
 
 </li>
 	
-	<li>
+<li>
 
     <input type="checkbox" id="accordion3">
 
@@ -101,7 +101,7 @@ description: ""
 
 </li>
 	
-	<li>
+<li>
 
     <input type="checkbox" id="accordion4">
 
