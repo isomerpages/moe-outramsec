@@ -2,4 +2,5 @@ collections:
   oss-success-stories:
     output: true
     order:
+      - DR RON NG.md
       - OSS Success Stories.md
