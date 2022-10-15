@@ -76,25 +76,25 @@ description: ""
     <td class="tg-vqm8">Anderson Junior College</td>
   </tr>
   <tr>
-    <td class="tg-ojjp"><a href="https://outramsec-moe-edu-sg-admin.cwp.sg/oss/oss-alumnis-achievements"><span style="font-weight:600;text-decoration:none;color:#D70500">James Timothius</span></a></td>
+    <td class="tg-ojjp"><a href="/Shining-Alumni-4/"><span style="font-weight:600;text-decoration:none;color:#D70500">James Timothius</span></a></td>
     <td class="tg-vqm8">2017</td>
     <td class="tg-vqm8">Director's List, 2018 Year 1 Semester 1</td>
     <td class="tg-vqm8">Nanyang Polytechnic</td>
   </tr>
   <tr>
-    <td class="tg-ojjp"><a href="https://outramsec-moe-edu-sg-admin.cwp.sg/oss/oss-alumnis-achievements"><span style="font-weight:600;text-decoration:none;color:#D70500">Ng Jing Jie</span></a></td>
+    <td class="tg-ojjp"><a href="/Shining-Alumni-4/"><span style="font-weight:600;text-decoration:none;color:#D70500">Ng Jing Jie</span></a></td>
     <td class="tg-vqm8">2013</td>
     <td class="tg-vqm8">Silver Medal, SAS Institute Inc.</td>
     <td class="tg-vqm8">Nanyang Polytechnic</td>
   </tr>
   <tr>
-    <td class="tg-ojjp"><a href="https://outramsec-moe-edu-sg-admin.cwp.sg/oss/oss-alumnis-achievements"><span style="font-weight:600;text-decoration:none;color:#D70500">Lynn Lee Pei Yi</span></a></td>
+    <td class="tg-ojjp"><a href="/Shining-Alumni-4/"><span style="font-weight:600;text-decoration:none;color:#D70500">Lynn Lee Pei Yi</span></a></td>
     <td class="tg-vqm8">2014</td>
     <td class="tg-vqm8">Resorts World Sentosa Scholarship </td>
     <td class="tg-vqm8">Republic Polytechnic</td>
   </tr>
   <tr>
-    <td class="tg-ojjp"><a href="https://outramsec-moe-edu-sg-admin.cwp.sg/oss/oss-alumnis-achievements"><span style="font-weight:600;text-decoration:none;color:#D70500">Zhou Xin</span></a></td>
+    <td class="tg-ojjp"><a href="/Shining-Alumni-4/"><span style="font-weight:600;text-decoration:none;color:#D70500">Zhou Xin</span></a></td>
     <td class="tg-vqm8">2013</td>
     <td class="tg-vqm8">Diploma in Hotel and Hospitality Management with Merit</td>
     <td class="tg-vqm8">Republic Polytechnic</td>
