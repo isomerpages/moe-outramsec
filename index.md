@@ -16,6 +16,6 @@ sections:
           url: /Achievements/Achievements/
         - title: OSS SUCCESS STORIES
           description: VIEW ALL
-          url: /OSS-Success-Stories/
+          url: /OSS-Success-Stories/OSS-Success-Stories/
       background: /images/Homepage/HomepageGif.gif
 ---
