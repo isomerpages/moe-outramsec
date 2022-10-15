@@ -70,7 +70,7 @@ description: ""
     <td class="tg-vqm8">Ngee Ann Polytechnic</td>
   </tr>
   <tr>
-    <td class="tg-ojjp"><a href="https://outramsec-moe-edu-sg-admin.cwp.sg/oss/congratulations-to-selvie-from-the-class-of-2016"><span style="font-weight:600;text-decoration:none;color:#D70500">Selvie</span></a></td>
+    <td class="tg-ojjp"><a href="/Shining-Alumni-Selvie/"><span style="font-weight:600;text-decoration:none;color:#D70500">Selvie</span></a></td>
     <td class="tg-vqm8">2016</td>
     <td class="tg-vqm8">Four distinctions at GCE “A” Level Examinations</td>
     <td class="tg-vqm8">Anderson Junior College</td>
