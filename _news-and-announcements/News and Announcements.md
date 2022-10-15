@@ -12,7 +12,7 @@ description: ""
 *   [Outram Celebrates National Day](https://outramsec.moe.edu.sg/other/outram-celebrates-national-day)
 *   [OSCARS 2022](https://outramsec.moe.edu.sg/other/oscars-2022) 
 *   [Student Leader Investiture 2022](https://outramsec.moe.edu.sg/other/student-leader-investiture-2022)
-*   [MOE Engagement Deck on Dengue Prevention](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/PDF/2022/Dengue/Dengue%20Attachment%206-Engagement%20Deck%20for%20Secondary%20Schools.pdf)  
+*   [MOE Engagement Deck on Dengue Prevention](/files/News%20&%20Announcements/FAQs%20for%20In%20Repel%20Distri%20Ex/Dengue%20Attachment%207-Frequently%20Asked%20Questions%20-%20NEAxTF%20Repellent%20Distribution.pdf)  
     
 *   [FAQs for Insect Repellent Distribution Exercise](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/PDF/2022/Dengue/Dengue%20Attachment%207-Frequently%20Asked%20Questions%20-%20NEAxTF%20Repellent%20Distribution.pdf)
 *   [2022 Edusave Character Award information](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/PDF/2022/EDUSAVE/2022%20ONLINE%20PUBLICITY%20INFO.pdf) 
