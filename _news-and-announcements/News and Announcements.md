@@ -51,7 +51,7 @@ description: ""
 			<a href="files/News%20&%20Announcements/2021/Letter%20to%20Par%20to%20LOA%20AA%20Policy/Letter%20to%20Parents%20on%20Further%20updates%20to%20LOA%20AA%20Policy.pdf">Letter to Parents on Further updates to LOA AA Policy</a><br>
 			<a href="files/News%20&%20Announcements/2021/2021%20Edu%20Character%20Award%20info/2021%20Edusave%20Character%20Award%20info.pdf">2021 Edusave Character Award info</a><br>
 			<a href="files/News%20&%20Announcements/2021/2021%20Edu%20Cha%20Aw%20nom%20form/2021%20Edusave%20Character%20Award%20nomination%20form.pdf">2021 Edusave Character Award nomination form</a><br>
-			<a href="link">text</a><br>
+			<a href="files/News%20&%20Announcements/2021/School%20Reopening%20in%20Term%203/School%20Reopening%20in%20Term%203.pdf">School Reopening in Term 3</a><br>
 			<a href="link">text</a><br>
 			<a href="link">text</a><br>
 			<a href="link">text</a><br>
