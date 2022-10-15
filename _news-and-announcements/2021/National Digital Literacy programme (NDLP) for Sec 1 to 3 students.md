@@ -7,13 +7,13 @@ third_nav_title: "2021"
 The National Digital Literacy Programme (NDLP) was launched at the end of 2020 for schools to help students strengthen their digital literacy. Secondary school students will own a school-prescribed Personal Learning Device (PLD) in this programme. Students purchase these PLDs at subsidized rates by MOE. This letter provides important information about how you can purchase the PLD for your child/ward as well as the administrative instructions for the use of Edusave grant and the collection of PLD.  
   
   
-Please [](https://outramsec-moe-edu-sg-admin.cwp.sg/other/goog_862520130)click here for [Letter to Parents](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/Letter%20to%20Parents%20for%20PDLP%20Procurement%20with%20Annexes%20Final.pdf) for PLD Procurement 
+Please [Letter to Parents](/files/News%20&%20Announcements/2021/(NDLP)%20for%20Sec%201%20to%203%20students/Letter%20to%20Parents%20for%20PDLP%20Procurement%20with%20Annexes%20Final.pdf) for PLD Procurement 
 
-Please click here for [Briefing Slides for Parents](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/NDLP%20-%20Briefing%20for%20Parents%20Outram%207%20Jan%20-%20Outram%20updated.pdf)   
+Please click here for [Briefing Slides for Parents](/files/News%20&%20Announcements/2021/(NDLP)%20for%20Sec%201%20to%203%20students/NDLP%20-%20Briefing%20for%20Parents%20Outram%207%20Jan%20-%20Outram%20updated.pdf)   
 
-Please click here for [Parent Handbook on 1-to-1 Learning](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/Parent%20Handbook%20I%20on%201_1%20Learning.pdf)
+Please click here for [Parent Handbook on 1-to-1 Learning](/files/News%20&%20Announcements/2021/(NDLP)%20for%20Sec%201%20to%203%20students/Parent%20Handbook%20I%20on%201_1%20Learning.pdf))
 
-Please click here for [Acceptable Use Policy](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/Acceptable_Use_Policy_AUP_Outram.pdf) (This policy will be given to students at a later date) 
+Please click here for [Acceptable Use Policy](/files/News%20&%20Announcements/2021/(NDLP)%20for%20Sec%201%20to%203%20students/Acceptable_Use_Policy_AUP_Outram.pdf) (This policy will be given to students at a later date) 
 
   
 
