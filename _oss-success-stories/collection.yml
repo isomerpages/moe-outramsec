@@ -2,6 +2,7 @@ collections:
   oss-success-stories:
     output: true
     order:
+      - TAN JOVAN.md
       - MUHAMMAD HABIB.md
       - SHINING ALUMNI.md
       - ARDI THE ACE.md
