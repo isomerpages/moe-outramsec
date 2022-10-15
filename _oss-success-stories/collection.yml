@@ -2,6 +2,7 @@ collections:
   oss-success-stories:
     output: true
     order:
+      - MUHAMMAD HABIB.md
       - SHINING ALUMNI.md
       - ARDI THE ACE.md
       - TOH ZHI HAO'S TIME TO SHINE.md
