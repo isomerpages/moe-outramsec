@@ -2,5 +2,6 @@ collections:
   oss-success-stories:
     output: true
     order:
+      - RUZAINI HILMI BIN AHMAD.md
       - DR RON NG.md
       - OSS Success Stories.md
