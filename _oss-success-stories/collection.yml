@@ -2,6 +2,7 @@ collections:
   oss-success-stories:
     output: true
     order:
+      - PATH TO SUCCESS PUVANASWARAN'S STORY.md
       - CHEN YIRONG.md
       - MOHAMED ABBAS SHEYED EBRAMSA.md
       - RUZAINI HILMI BIN AHMAD.md
