@@ -33,6 +33,6 @@ Here is the official announcement on the SKM website:
   
 Click on the links below to check out the poems crafted by our students!  
 
-*   ['Sharing the Limelight' (Winner)](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/achievements/Achievements/2021/Sharing%20the%20Limelight%20-%20Jude%20%20Aryisha%20Version%202.pdf)
-*   ['Helping a Neighbour' (First Runner-up)](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/achievements/Achievements/2021/Helping%20a%20Neighbour%20-%20Danial%20%20Darren.pdf)
-*   ['Newfound Friends'](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/achievements/Achievements/2021/Newfound%20Friends%20-%20Ethan%20%20Layla.pdf)
+*   ['Sharing the Limelight' (Winner)](/files/Achievements/The%20Sg%20Kind%20Move%20Comp%202021/Sharing%20the%20Limelight%20-%20Jude%20%20Aryisha%20Version%202.pdf)
+*   ['Helping a Neighbour' (First Runner-up)](/files/Achievements/The%20Sg%20Kind%20Move%20Comp%202021/Helping%20a%20Neighbour%20-%20Danial%20%20Darren.pdf)
+*   ['Newfound Friends'](/files/Achievements/The%20Sg%20Kind%20Move%20Comp%202021/Newfound%20Friends%20-%20Ethan%20%20Layla.pdf)
