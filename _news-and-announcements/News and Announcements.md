@@ -59,7 +59,7 @@ description: ""
 			<a href="files/News%20&%20Announcements/2021/Parent%20Handbook%20(II)%20on%20a%20PLD/Parent%20Handbook%20(II)%20on%20Learning%20with%20a%20PLD.pdf">Parent Handbook (II) on Learning with a PLD</a><br>
 			<a href="files/News%20&%20Announcements/2021/Parent%20Kit%20%20%20Su%20Your%20Child%20HBL/Parent%20Kit%20-%20Supporting%20Your%20Child%20During%20Full%20HBL.pdf">Parent Kit - Supporting Your Child During Full HBL</a><br>
 			<a href="https://outramsec-moe-edu-sg-admin.cwp.sg/oss/resources-for-fhbl-for-parents-students-and-teachers">Resources for FHBL for parents, students and teachers</a><br>
-			<a href="link">text</a><br>
+			<a href="">text</a><br>
 			<a href="link">text</a><br>
 			<a href="link">text</a><br>
 			<a href="link">text</a><br>
