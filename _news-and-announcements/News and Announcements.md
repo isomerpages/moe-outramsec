@@ -52,7 +52,7 @@ description: ""
 			<a href="files/News%20&%20Announcements/2021/2021%20Edu%20Character%20Award%20info/2021%20Edusave%20Character%20Award%20info.pdf">2021 Edusave Character Award info</a><br>
 			<a href="files/News%20&%20Announcements/2021/2021%20Edu%20Cha%20Aw%20nom%20form/2021%20Edusave%20Character%20Award%20nomination%20form.pdf">2021 Edusave Character Award nomination form</a><br>
 			<a href="files/News%20&%20Announcements/2021/School%20Reopening%20in%20Term%203/School%20Reopening%20in%20Term%203.pdf">School Reopening in Term 3</a><br>
-			<a href="link">text</a><br>
+			<a href="/news-and-announcements/2021/Information-on-COVID-19-Vaccination-for-Students/">Information on COVID19 Vaccination for Students</a><br>
 			<a href="files/News%20&%20Announcements/2021/Bonding%20Holidays!%20(Parent%20Kit)/Bonding%20over%20the%20Holidays!%20(Parent%20Kit).pdf">Bonding over the Holidays! (Parent Kit)</a><br>
 			<a href="files/News%20&%20Announcements/2021/Letter%20to%20Parents%20End%20of%20T%202/Letter%20to%20Parents-End%20of%20Term%202.pdf">Letter to Parents-End of Term 2</a><br>
 			<a href="files/News%20&%20Announcements/2021/2021%20June%20Hols%20Acad%20Cal%20for%2045/2021%20June%20Holidays%20Academic%20Calendar%20for%20Sec%204%20&%205.pdf">2021 June Holidays Academic Calendar for Sec 4 & 5</a><br>
