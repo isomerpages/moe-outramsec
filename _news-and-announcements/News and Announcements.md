@@ -63,13 +63,13 @@ description: ""
 			<a href="files/News%20&%20Announcements/2021/Blended%20Learnme%20Ins%20to%20Stud/Blended%20Learning@Homeinstructions%20to%20Students.pdf">Blended Learning@Homeinstructions to Students</a><br>
 			<a href="files/News%20&%20Announcements/2021/Nom%20your%20MTL%20teachers%20today!/Nominate%20your%20MTL%20teachers%20today!.pdf">Nominate your MTL teachers today!</a><br>
 			<a href="files/News%20&%20Announcements/2021/Mid%20Year%20Exam%20Time%20for%202021/Mid-Year%20Examination%20Timetable%20for%202021.pdf">Mid-Year Examination Timetable for 2021</a><br>
-			<a href="link">text</a><br>
-			<a href="link">text</a><br>
-			<a href="link">text</a><br>
-			<a href="link">text</a><br>
+			<a href="/news-and-announcements/2021/A-Uniquely-Understated-NiuYear-Celebration-2021/">A Uniquely Understated ‘Niu’Year Celebration 2021</a><br>
+			<a href="/news-and-announcements/2021/Secondary-1-Orientation-2021/">Secondary 1 Orientation 2021</a><br>
+			<a href="/news-and-announcements/2021/Release-of-GCE-O-Level-and-N-Level-Results/">Release of GCE O Level and N Level Results</a><br>
+			<a href="/news-and-announcements/2021/Inspiring-Teacher-of-English-Award-2021/">Inspiring Teacher of English Award 2021</a><br>
 			<a href="files/News%20&%20Announcements/2021/Positive%20Parenting%20Programme/Positive%20Parenting%20Programme.pdf">Positive Parenting Programme</a><br>
-			<a href="link">text</a><br>
-			<a href="link">text</a></p>
+			<a href="/news-and-announcements/2021/Parent-Kit-Starting-School-Right/">Parent Kit Starting School Right</a><br>
+			<a href="/news-and-announcements/2021/National-Digital-Literacy-programme-NDLP-for-Sec-1-to-3-students/">National Digital Literacy programme (NDLP) for Sec 1 to 3 students</a></p>
 		
 
     </div>
