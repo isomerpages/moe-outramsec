@@ -2,6 +2,7 @@ collections:
   news-and-announcements:
     output: true
     order:
+      - OSCARS 2022.md
       - Outram Celebrates National Day.md
       - News and Announcements.md
       - President's Award for Teachers PAT and Outstanding Youth in Education
