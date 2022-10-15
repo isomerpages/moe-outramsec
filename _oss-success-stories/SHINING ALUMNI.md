@@ -100,7 +100,7 @@ description: ""
     <td class="tg-vqm8">Republic Polytechnic</td>
   </tr>
   <tr>
-    <td class="tg-ojjp"><a href="https://outramsec-moe-edu-sg-admin.cwp.sg/oss/sp-engineering-scholarship-2019"><span style="font-weight:600;text-decoration:none;color:#D70500">Lim Jun Hui</span></a></td>
+    <td class="tg-ojjp"><a href="/Shining-Alumni-Lim-Jun-Hui/"><span style="font-weight:600;text-decoration:none;color:#D70500">Lim Jun Hui</span></a></td>
     <td class="tg-vqm8">2017</td>
     <td class="tg-vqm8">SP Engineering Scholarship 2019</td>
     <td class="tg-vqm8">Singapore Polytechnic</td>
