@@ -1,5 +1,5 @@
 collections:
-  newss:
+  events:
     output: true
     order:
       - Achievements.md
