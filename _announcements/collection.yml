@@ -2,4 +2,5 @@ collections:
   announcements:
     output: true
     order:
+      - Launch of Parents Gateway.md
       - Assistance for Vaccination Appointments for Graduating Cohorts.md
