@@ -1,5 +1,5 @@
 collections:
-  news-and-announcements:
+  news:
     output: true
     order:
       - News and Announcements.md
