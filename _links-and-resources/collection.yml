@@ -1,5 +1,5 @@
 collections:
-  links:
+  links-and-resources:
     output: true
     order:
       - Teachers.md
