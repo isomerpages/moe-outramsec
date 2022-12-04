@@ -23,14 +23,16 @@ links:
         url: /about-us/Parent-Support-Group/
       - title: SCHOOL CALENDAR
         url: /about-us/School-Calendar/
-      - title: OUTRAM LUMINARIES
-        url: /about-us/Outram-Luminaries/
       - title: CONTACT US
         url: /about-us/Contact-us/
-  - title: THE OSS STORY
+  - title: STORIES AND ACHIEVEMENTS
     url: /the-oss-story/School-Stories/
     sublinks:
-      - title: SCHOOL STORIES
+      - title: OUTRAM LUMINARIES
+        url: /permalink
+      - title: FEATURED ALUMNI
+        url: /permalink
+      - title: OUR STORIES
         url: /the-oss-story/School-Stories/
       - title: STUDENT ACHIEVEMENTS
         url: /the-oss-story/Students-Achievements/
@@ -60,15 +62,15 @@ links:
         url: /distinctive-programmes/Learning-for-Life-Programme/Learning-for-Life-Programme/
       - title: DIRECT SCHOOL ADMISSION
         url: /distinctive-programmes/Direct-School-Admission/Direct-School-Admission/
-  - title: LINKS
+  - title: LINKS AND RESOURCES
     url: /links/Teachers/
     sublinks:
-      - title: TEACHERS
-        url: /links/Teachers/
-      - title: STUDENTS
-        url: /links/Students/
       - title: PARENTS
         url: /links/Parents/
+      - title: STUDENTS
+        url: /links/Students/
+      - title: TEACHERS
+        url: /links/Teachers/
   - title: MEDIA
     url: /media/Media/
     sublinks:
