@@ -18,4 +18,14 @@ sections:
           description: VIEW ALL
           url: /OSS-Success-Stories/OSS-Success-Stories/
       background: /images/Homepage/HomepageGif.gif
+  - infopic:
+      title: Infopic Title
+      subtitle: Infopic Subtitle
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - resources:
+      title: Resources Section Title
+      subtitle: Re1
+      button: Resources Button Name
 ---
