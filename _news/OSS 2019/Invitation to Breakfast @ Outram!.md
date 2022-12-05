@@ -26,7 +26,7 @@ Parents who wish to know more about Triple P and FMS programmes can contact the 
   
 Thus far, parents who have attended the sessions have given positive feedback.
 
-Please register your interest through this [_form_](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/PDF/2019/INVITATION%20TO%20PARENTING%20TALK%20cum%20MATH%20CURRICULUM%20DIALOGUE.pdf) or through the following link.
+Please register your interest through this [form](/files/News%20&%20Announcements/2019/Invitation%20to%20Breakfast/INVITATION%20TO%20PARENTING%20TALK%20cum%20MATH%20CURRICULUM%20DIALOGUE.pdf) or through the following link.
 
 [https://goo.gl/forms/Y6oSaxZ5tA1D4hhC3](https://goo.gl/forms/Y6oSaxZ5tA1D4hhC3)  
 
