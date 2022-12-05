@@ -4,7 +4,7 @@ title: Outram Secondary School
 description: Official Outram Secondary School Website
 image: /images/isomer-logo.svg
 permalink: /
-notification: Welcome to Outram Secondary School!
+notification: ""
 sections:
   - hero:
       key_highlights:
@@ -19,5 +19,3 @@ sections:
           url: /OSS-Success-Stories/OSS-Success-Stories/
       background: /images/Homepage/HomepageGif.gif
 ---
-
-
