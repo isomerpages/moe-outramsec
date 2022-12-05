@@ -18,14 +18,11 @@ sections:
           description: VIEW ALL
           url: /OSS-Success-Stories/OSS-Success-Stories/
       background: /images/Homepage/HomepageGif.gif
-  - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
+  - infobar:
+      subtitle: Infobar Subtitle
+      description: <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.812584519801!2d103.83490231475393!3d1.2865069990616638!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1976f103de97%3A0x882682fbd05898db!2sOutram%20Secondary%20School!5e0!3m2!1sen!2ssg!4v1670209386128!5m2!1sen!2ssg"
+        width="600" height="450" style="border:0;" allowfullscreen=""
+        loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
       button: Button Text
-      alt: Image alt text
-  - resources:
-      title: Resources Section Title
-      subtitle: Re1
-      button: Resources Button Name
 ---
