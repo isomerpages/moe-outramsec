@@ -118,19 +118,19 @@ description: ""
 
     <div>
 
-<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
-			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
-			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
-			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
-			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
-			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
-			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
-			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
-			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
-			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
-			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
-			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
-			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
+<a href="/news/OSS-2019/Overseas-Immersion-Programme-Chiang-Mai-2019/">Overseas Immersion Programme Chiang Mai 2019</a><br>
+			<a href="/news/OSS-2019/Overseas-Immersion-Programme-Penang-2019/">Overseas Immersion Programme Penang 2019</a><br>
+			<a href="/news/OSS-2019/Overseas-Experiential-Learning-Programme-Seoul-2019/">Overseas Experiential Learning Programme Seoul 2019</a><br>
+			<a href="/news/OSS-2019/Overseas-Immersion-Programme-Shanghai-2019/">Overseas Immersion Programme Shanghai 2019</a><br>
+			<a href="/news/OSS-2019/Outstanding-Youth-in-Education-Award-Presidents-Award-for-Teachers-2020/">Outstanding Youth in Education Award & President’s Award for Teachers 2020</a><br>
+			<a href="/news/OSS-2019/Booklist-for-2020-sales-of-school-uniform/">Booklist for 2020 & sales of school uniform</a><br>
+			<a href="/news/OSS-2019/OSS-Open-House-on-16-November-2019/">OSS Open House on 16 November 2019!</a><br>
+			<a href="/news/OSS-2019/The-Chinese-Stream-Alumni-50th-Anniversary-Dinner/">The Chinese Stream Alumni 50th Anniversary Dinner</a><br>
+			<a href="/news/OSS-2019/Bicentennial-2019/">Bicentennial 2019</a><br>
+			<a href="/news/OSS-2019/Teachers-Day-Celebrations-2019/">Teachers' Day Celebrations 2019</a><br>
+			<a href="/news/OSS-2019/SG-Secure-Message/">SG Secure Message</a><br>
+			<a href="/news/OSS-2019/Our-Singapore-Our-Home-Nation/">Our Singapore Our Home & Nation</a><br>
+			<a href="/news/OSS-2019/Swimming-Carnival-Inter-House-Games-2019/">Swimming Carnival & Inter House Games 2019</a><br>
 			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
 			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
 			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
