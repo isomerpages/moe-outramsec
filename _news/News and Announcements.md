@@ -146,11 +146,11 @@ description: ""
 			<a href="files/News%20&%20Announcements/2019/Term%202%20calendar%20of%20events%20&%20Parents%20Letter.pdf">Term 2 calendar of events & Parents Letter</a><br>
 			<a href="/news/OSS-2019/Chinese-New-Year-2019/">Chinese New Year 2019</a><br>
 			<a href="/news/OSS-2019/Launch-of-Parents-Gateway/">Launch of Parents Gateway</a><br>
-			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
-			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
-			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
-			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
-			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a></p>
+			<a href="/news/OSS-2019/Mass-Collection-and-Payment-for-Materials-and-Programs-for-2019/">Mass Collection and Payment for Materials and Programs for 2019</a><br>
+			<a href="/news/OSS-2019/O-levels-Results-Release-2019/">O levels Results Release 2019</a><br>
+			<a href="/news/OSS-2019/NRIC-Registration-for-Students-aged-15/">NRIC Registration for Students aged 15</a><br>
+			<a href="/news/OSS-2019/Secondary-1-Orientation-and-CCA-Exhibition/">Secondary 1 Orientation and CCA Exhibition</a><br>
+			<a href="/news/OSS-2019/Secondary-1-Registration-2019/">Secondary 1 Registration 2019</a></p>
 
     </div>
 
