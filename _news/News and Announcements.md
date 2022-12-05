@@ -89,7 +89,7 @@ description: ""
 			<a href="files/News%20&%20Announcements/2020/Nominate%20our%20deserving%20OSS%20teachers%20for%20PAT%20and%20OYEA%20today!.pdf">Nominate our deserving OSS teachers for PAT and OYEA today!</a><br>
 			<a href="/news/OSS-2020/MOE-FAS-for-Y2021-is-open-for-application-now/">MOE FAS for Y2021 is open for application now!</a><br>
 			<a href="/links/Teachers/">MOE’s Instagram account for parents (@parentingwith.moesg)</a><br>
-			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
+			<a href="files/News%20&%20Announcements/2020/Latest%20Updates%20on%20Covid-19%20Special%20Arrangements%20for%20GCE%20Examinations%202020.pdf">Latest Updates on Covid-19 Special Arrangements for GCE Examinations 2020</a><br>
 			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
 			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
 			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
