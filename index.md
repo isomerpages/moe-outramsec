@@ -8,13 +8,13 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: Events
+        - title: NEWS & ANNOUNCEMENTS
           description: VIEW ALL
           url: /News-and-Announcements/News-and-Announcements/
-        - title: Announcements
+        - title: ACHIEVEMENTS
           description: VIEW ALL
           url: /Achievements/Achievements/
-        - title: Achievements
+        - title: OSS SUCCESS STORIES
           description: VIEW ALL
           url: /OSS-Success-Stories/OSS-Success-Stories/
         - title: Media
