@@ -131,7 +131,7 @@ description: ""
 			<a href="/news/OSS-2019/SG-Secure-Message/">SG Secure Message</a><br>
 			<a href="/news/OSS-2019/Our-Singapore-Our-Home-Nation/">Our Singapore Our Home & Nation</a><br>
 			<a href="/news/OSS-2019/Swimming-Carnival-Inter-House-Games-2019/">Swimming Carnival & Inter House Games 2019</a><br>
-			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
+			<a href="files/News%20&%20Announcements/2019/TRIPLE%20P%20level%202%20Invitation.pdf">TRIPLE P Level 2 Invitation</a><br>
 			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
 			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
 			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
