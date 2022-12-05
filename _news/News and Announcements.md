@@ -93,7 +93,7 @@ description: ""
 			<a href="files/News%20&%20Announcements/2020/Edusave%20Character%20Award%20Information.pdf">Edusave Character Award Information</a><br>
 			<a href="files/News%20&%20Announcements/2020/Edusave%20Character%20Award%20Form%202020.pdf">Edusave Character Award Form 2020</a><br>
 			<a href="files/News%20&%20Announcements/2020/Term%203%20Letter%20to%20Parents.pdf">Term 3 Letter to Parents</a><br>
-			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
+			<a href="/news/OSS-2020/OSS-Chinese-Alumni-Makes-an-Impact/">OSS Chinese Alumni Makes an Impact</a><br>
 			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
 			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
 			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
