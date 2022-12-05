@@ -17,8 +17,10 @@ sections:
         - title: Achievements
           description: VIEW ALL
           url: /OSS-Success-Stories/OSS-Success-Stories/
+        - title: Media
+          description: VIEW ALL
+          url: /media/Media/
       background: /images/Homepage/HomepageGif.gif
   - infobar:
       subtitle: Locate Us
-    
 ---
