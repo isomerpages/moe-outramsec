@@ -132,9 +132,9 @@ description: ""
 			<a href="/news/OSS-2019/Our-Singapore-Our-Home-Nation/">Our Singapore Our Home & Nation</a><br>
 			<a href="/news/OSS-2019/Swimming-Carnival-Inter-House-Games-2019/">Swimming Carnival & Inter House Games 2019</a><br>
 			<a href="files/News%20&%20Announcements/2019/TRIPLE%20P%20level%202%20Invitation.pdf">TRIPLE P Level 2 Invitation</a><br>
-			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
-			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
-			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
+			<a href="files/News%20&%20Announcements/2019/Working%20Together%20to%20Prevent%20Dengue%20Advisory%20Letter%20to%20Parents.pdf">"Working Together to Prevent Dengue" Advisory Letter to Parents</a><br>
+			<a href="/news/OSS-2019/Parenting-in-Digital-Age-talk-for-parents/">'Parenting in Digital Age' talk for parents!</a><br>
+			<a href="/news/OSS-2019/2019-Edusave-Character-Award/">2019 Edusave Character Award</a><br>
 			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
 			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
 			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
