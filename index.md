@@ -20,6 +20,5 @@ sections:
       background: /images/Homepage/HomepageGif.gif
   - infobar:
       subtitle: Locate Us
-      image: https://outramsec.moe.edu.sg/qql/slot/u512/about%20us/Contact%20Us/onemap.PNG
-      url: https://goo.gl/maps/vPXFV2wW4NAwnr8S9
+    
 ---
