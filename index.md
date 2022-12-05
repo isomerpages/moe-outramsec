@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Outram Secondary School
-description: An Isomer site of the Singapore Government
+description: Official Outram Secondary School Website
 image: /images/isomer-logo.svg
 permalink: /
 notification: Welcome to Outram Secondary School!
@@ -19,4 +19,5 @@ sections:
           url: /OSS-Success-Stories/OSS-Success-Stories/
       background: /images/Homepage/HomepageGif.gif
 ---
+
 
