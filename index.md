@@ -14,7 +14,7 @@ sections:
         - title: Announcements
           description: VIEW ALL
           url: /Achievements/Achievements/
-        - title: OSS SUCCESS STORIES
+        - title: News & Achievements
           description: VIEW ALL
           url: /OSS-Success-Stories/OSS-Success-Stories/
       background: /images/Homepage/HomepageGif.gif
