@@ -135,7 +135,7 @@ description: ""
 			<a href="files/News%20&%20Announcements/2019/Working%20Together%20to%20Prevent%20Dengue%20Advisory%20Letter%20to%20Parents.pdf">"Working Together to Prevent Dengue" Advisory Letter to Parents</a><br>
 			<a href="/news/OSS-2019/Parenting-in-Digital-Age-talk-for-parents/">'Parenting in Digital Age' talk for parents!</a><br>
 			<a href="/news/OSS-2019/2019-Edusave-Character-Award/">2019 Edusave Character Award</a><br>
-			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
+			<a href="files/News%20&%20Announcements/2019/Term%203%20Letter%20to%20Parents.pdf">Term 3 Letter to Parents</a><br>
 			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
 			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
 			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
