@@ -41,22 +41,5 @@ third_nav_title: OSS 2019
 </table>
   
 
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
+ 
 For information on sale of Outram Secondary School uniform, please click [here](/files/News%20&%20Announcements/2019/Booklist%20for%202020/20191024150619.pdf).
