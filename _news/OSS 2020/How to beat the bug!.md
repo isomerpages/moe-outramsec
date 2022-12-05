@@ -9,7 +9,7 @@ third_nav_title: OSS 2020
 
 <div style="float: left">
 
-<a href="[https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross](https://www-broadricksec-moe-edu-sg-admin.cwp.sg/cca/uniformed-groups/red-cross)">
+<a href="https://www.facebook.com/moesingapore/videos/120766492517723/">
 
 <img style="width:100%" src="/images/News%20and%20Announcements/2020/How%20to%20beat%20the%20bug!/Bug.png" target = "_blank">
 
