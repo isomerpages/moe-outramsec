@@ -1,9 +1,5 @@
-contact_us: /contact-us/
-show_reach: true
-faq: /faq/
+contact_us: /about-us/Contact-us/
+show_reach: false
 social_media:
-  facebook: https://www.facebook.com/YourFBPage
-  twitter: https://www.twitter.com/YourTwitter
-  youtube: https://www.youtube.com/YourYoutube
-  instagram: https://www.instagram.com/your.insta/
-  linkedin: https://www.linkedin.com/company/YourAgency
+  youtube: https://www.youtube.com/channel/UCz5i6nxlL9373dTpEx_lKrA
+  instagram: https://www.instagram.com/explore/tags/outramsecondaryschool/
