@@ -4,7 +4,7 @@ permalink: /news/OSS-2020/N-Level-Results-Release-2020/
 description: ""
 third_nav_title: OSS 2020
 ---
- **Dear Parents,**
+**Dear Parents,**
 
   
 
@@ -25,7 +25,7 @@ We encourage all students to return to their schools to collect their results. H
 **Useful Weblinks**
 
 
-Click [here](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/PDF/2020/InfoSheet%20for%20Parents%20N%20Level%20Results%20Release%202020.pdf) for Tips and Resources for parents in supporting your teens upon results release.
+Click [here](/files/News%20&%20Announcements/2020/N%20Level%20Results%20Release%202020/InfoSheet%20for%20Parents%20N%20Level%20Results%20Release%202020.pdf) for Tips and Resources for parents in supporting your teens upon results release.
 
 Click [here](https://go.gov.sg/selresforparents) for Social and Emotional Learning resources for parents.
 
