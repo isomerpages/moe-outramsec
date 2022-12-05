@@ -69,7 +69,7 @@ description: ""
 			<a href="/news-and-announcements/2021/Inspiring-Teacher-of-English-Award-2021/">Inspiring Teacher of English Award 2021</a><br>
 			<a href="files/News%20&%20Announcements/2021/Positive%20Parenting%20Programme/Positive%20Parenting%20Programme.pdf">Positive Parenting Programme</a><br>
 			<a href="/news-and-announcements/2021/Parent-Kit-Starting-School-Right/">Parent Kit Starting School Right</a><br>
-			<a href="/news-and-announcements/2021/National-Digital-Literacy-programme-NDLP-for-Sec-1-to-3-students/">National Digital Literacy programme (NDLP) for Sec 1 to 3 students</a></p>
+			<a href="/news-and-announcements/2021/National-Digital-Literacy-programme-NDLP-for-Sec-1-to-3-students/">National Digital Literacy programme (NDLP) for Sec 1 to 3 students</a>
 		
 
     </div>
@@ -104,7 +104,7 @@ description: ""
 			<a href="files/News%20&%20Announcements/2020/Budget%202020%20Quiz.pdf">Budget 2020 Quiz</a><br>
 			<a href="/news/OSS-2020/Secondary-1-CCA-Exhibition-2020/">Secondary 1 CCA Exhibition 2020</a><br>
 			<a href="files/News%20&%20Announcements/2020/Term%201%20Letter%20to%20Parents.pdf">Term 1 Letter to Parents</a><br>
-			<a href="/news/OSS-2020/Secondary-One-Registration-Exercise-2020/">Secondary 1 Registration Exercise 2020 (Information)</a></p>
+			<a href="/news/OSS-2020/Secondary-One-Registration-Exercise-2020/">Secondary 1 Registration Exercise 2020 (Information)</a>
 
     </div>
 
@@ -150,7 +150,7 @@ description: ""
 			<a href="/news/OSS-2019/O-levels-Results-Release-2019/">O levels Results Release 2019</a><br>
 			<a href="/news/OSS-2019/NRIC-Registration-for-Students-aged-15/">NRIC Registration for Students aged 15</a><br>
 			<a href="/news/OSS-2019/Secondary-1-Orientation-and-CCA-Exhibition/">Secondary 1 Orientation and CCA Exhibition</a><br>
-			<a href="/news/OSS-2019/Secondary-1-Registration-2019/">Secondary 1 Registration 2019</a></p>
+			<a href="/news/OSS-2019/Secondary-1-Registration-2019/">Secondary 1 Registration 2019</a>
 
     </div>
 
@@ -164,7 +164,7 @@ description: ""
 
     <div>
 
-<a href="/news/Open-House-2018/">Open House 2018</a></p>
+<a href="/news/Open-House-2018/">Open House 2018</a>
 
     </div>
 
