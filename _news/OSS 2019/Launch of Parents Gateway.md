@@ -4,6 +4,11 @@ permalink: /news/OSS-2019/Launch-of-Parents-Gateway/
 description: ""
 third_nav_title: OSS 2019
 ---
+<img style="width:40%;height:50%" src="/images/News%20and%20Announcements/2019/Launch%20of%20Parents%20Gateway/P2.jpeg">
+
+<img style="width:50%;height:50%" src="/images/News%20and%20Announcements/2019/Launch%20of%20Parents%20Gateway/P1.png">
+
+
 **Please download Parents Gateway [here](https://pg.moe.edu.sg/).**  
 
 **For assistance to download the Parents Gateway Mobile Application, you may**  
