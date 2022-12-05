@@ -164,7 +164,7 @@ description: ""
 
     <div>
 
-<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a></p>
+<a href="/news/Open-House-2018/">Open House 2018</a></p>
 
     </div>
 
