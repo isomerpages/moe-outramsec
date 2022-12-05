@@ -29,13 +29,13 @@ third_nav_title: OSS 2019
     <td class="tg-ko1w"><a href="files/News%20&%20Announcements/2019/Booklist%20for%202020/20191024150428.pdf"><span style="font-weight:600;text-decoration:none;color:#D70500">Secondary Two</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ko1w"><a href="https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/BOOKLIST/2020/20191024150503.pdf"><span style="font-weight:600;text-decoration:none;color:#D70500">Secondary Three </span></a></td>
+    <td class="tg-ko1w"><a href="files/News%20&%20Announcements/2019/Booklist%20for%202020/20191024150503.pdf"><span style="font-weight:600;text-decoration:none;color:#D70500">Secondary Three </span></a></td>
   </tr>
   <tr>
-    <td class="tg-ko1w"><a href="https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/BOOKLIST/2020/20191024150533.pdf"><span style="font-weight:600;text-decoration:none;color:#D70500">Secondary Four</span></a></td>
+    <td class="tg-ko1w"><a href="files/News%20&%20Announcements/2019/Booklist%20for%202020/20191024150533.pdf"><span style="font-weight:600;text-decoration:none;color:#D70500">Secondary Four</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ko1w"><a href="https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/BOOKLIST/2020/20191024150604.pdf"><span style="font-weight:600;text-decoration:none;color:#D70500">Secondary Five </span></a></td>
+    <td class="tg-ko1w"><a href="files/News%20&%20Announcements/2019/Booklist%20for%202020/20191024150604.pdf"><span style="font-weight:600;text-decoration:none;color:#D70500">Secondary Five </span></a></td>
   </tr>
 </tbody>
 </table>
@@ -59,4 +59,4 @@ third_nav_title: OSS 2019
 
   
 
-For information on sale of Outram Secondary School uniform, please click [here](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/BOOKLIST/2020/20191024150619.pdf).
+For information on sale of Outram Secondary School uniform, please click [here](/files/News%20&%20Announcements/2019/Booklist%20for%202020/20191024150619.pdf).
