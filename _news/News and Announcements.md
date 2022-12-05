@@ -102,9 +102,9 @@ description: ""
 			<a href="https://sweetspot.straitstimes.com/nemation/student-belowaverage/">Your Vote Matters! Re: N.Emation! 2020 (Please vote before 10th Feb)</a><br>
 			<a href="/news/OSS-2020/How-to-beat-the-bug/">How to beat the bug!</a><br>
 			<a href="files/News%20&%20Announcements/2020/Budget%202020%20Quiz.pdf">Budget 2020 Quiz</a><br>
-			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
-			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
-			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a></p>
+			<a href="/news/OSS-2020/Secondary-1-CCA-Exhibition-2020/">Secondary 1 CCA Exhibition 2020</a><br>
+			<a href="files/News%20&%20Announcements/2020/Term%201%20Letter%20to%20Parents.pdf">Term 1 Letter to Parents</a><br>
+			<a href="/news/OSS-2020/Secondary-One-Registration-Exercise-2020/">Secondary 1 Registration Exercise 2020 (Information)</a></p>
 
     </div>
 
