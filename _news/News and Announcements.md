@@ -91,7 +91,7 @@ description: ""
 			<a href="/links/Teachers/">MOE’s Instagram account for parents (@parentingwith.moesg)</a><br>
 			<a href="files/News%20&%20Announcements/2020/Latest%20Updates%20on%20Covid-19%20Special%20Arrangements%20for%20GCE%20Examinations%202020.pdf">Latest Updates on Covid-19 Special Arrangements for GCE Examinations 2020</a><br>
 			<a href="files/News%20&%20Announcements/2020/Edusave%20Character%20Award%20Information.pdf">Edusave Character Award Information</a><br>
-			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
+			<a href="files/News%20&%20Announcements/2020/Edusave%20Character%20Award%20Form%202020.pdf">Edusave Character Award Form 2020</a><br>
 			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
 			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
 			<a href="/news-and-announcements/2021/Recognising-Strengths-in-Diversity-in-Outram/">Recognising ‘Strengths in Diversity in Outram</a><br>
