@@ -18,10 +18,4 @@ sections:
           description: VIEW ALL
           url: /OSS-Success-Stories/OSS-Success-Stories/
       background: /images/Homepage/HomepageGif.gif
-  - infopic:
-      title: Locate Us
-      description: Outram Secondary School
-      button: Click Here for Interactive Map
-      url: https://www.onemap.gov.sg/main/v2/?lat=1.28651406161832&lng=103.83712733566
-      image: /images/Homepage/School_onemap.png
 ---
