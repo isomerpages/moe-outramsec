@@ -1,6 +1,0 @@
-collections:
-  test:
-    output: true
-    order:
-      - Test Page Two.md
-      - Test Page One.md
