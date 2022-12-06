@@ -12,7 +12,6 @@ We are a team of language lovers and enthusiasts raring for literature and langu
 
 <ul class="jekyllcodex_accordion">
 
-  <li>
 
     <input type="checkbox" id="accordion1">
 
@@ -54,13 +53,10 @@ We are a team of language lovers and enthusiasts raring for literature and langu
     <td class="tg-lyvw">Mr Ooi Jason <br></td>
   </tr>
   <tr>
-    <td class="tg-lyvw">Mrs Poon Yiam Kiau </td>
+    <td class="tg-lyvw">Mr Bernard Roy </td>
     <td class="tg-lyvw">Mr Abdul Rahman Bin Abdul Rahim (ST/SS)<br></td>
   </tr>
-  <tr>
-    <td class="tg-lyvw">Ms Ng Jia Yi </td>
-    <td class="tg-lyvw">Mr Bernard Roy <br></td>
-  </tr>
+  
   <tr>
     <td class="tg-lyvw">Ms Lim Yean Yue Gladys </td>
     <td class="tg-lyvw">Ms Ismath Banu</td>
@@ -72,12 +68,7 @@ We are a team of language lovers and enthusiasts raring for literature and langu
 </tbody>
 </table>
 
-			</p>
 
-    </div>
-
-</li>
-	<li>
 
     <input type="checkbox" id="accordion2">
 
@@ -85,7 +76,7 @@ We are a team of language lovers and enthusiasts raring for literature and langu
 
     <div>
 
-			<p>  <b>Oral Skills Programme</b><br> 
+  <b>Oral Skills Programme</b><br> 
 
 The department’s spirally progressive oral skills programme aims to build confidence in young speakers from Secondary 1 to 3 to represent themselves, represent others and represent issues in fun and collaborative ways:<br>
 
