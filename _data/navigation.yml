@@ -71,3 +71,5 @@ links:
         url: /links/Students/
       - title: TEACHERS
         url: /links/Teachers/
+  - title: Media
+    collection: media
