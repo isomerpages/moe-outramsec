@@ -4,7 +4,7 @@ permalink: /school-programmes/Instructional-Programmes/English-Language/
 description: ""
 third_nav_title: Instructional Programmes
 ---
-<center><iframe allowfullscreen="true" height="720" width="1280" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRebHixLvAYOr8gaTqwFqRXM_wioFpG1Jb_wFRaFBt5cbthVz3kEsgzP_M3U3CCU0zNNQvZtK-Myksi/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
+<center><iframe allowfullscreen="true" height="720" width="1080" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRebHixLvAYOr8gaTqwFqRXM_wioFpG1Jb_wFRaFBt5cbthVz3kEsgzP_M3U3CCU0zNNQvZtK-Myksi/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
 
 We are a team of language lovers and enthusiasts raring for literature and language to make a difference in the lives of young men and women who pass through the gates of Outram Secondary School. While aiming to sharpen the tools of our learners enough to add value to their academic results at the end of their term with us, we really hope to&nbsp;nurture young people&nbsp;who are confident, articulate and proficient users of the English&nbsp;Language. Find out about us!
 
