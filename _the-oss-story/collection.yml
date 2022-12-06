@@ -1,5 +1,5 @@
 collections:
-  stories-and-achievements:
+  the-oss-story:
     output: true
     order:
       - School Stories.md
