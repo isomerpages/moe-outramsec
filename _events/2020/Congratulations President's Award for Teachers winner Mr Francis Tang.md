@@ -18,7 +18,7 @@ When invited to provide words of motivation to future generations of Outramians,
 
 <img src="/images/Achievements/2020/Teachers%20winner%20Mr%20Tang/F1.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Ever a smiling and affable face to eager students </strong> </figcaption>
 
 </figure>
 
@@ -26,7 +26,7 @@ When invited to provide words of motivation to future generations of Outramians,
 
 <img src="/images/Achievements/2020/Teachers%20winner%20Mr%20Tang/F2.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Always willing to share best practices! </strong> </figcaption>
 
 </figure>
 
@@ -34,7 +34,7 @@ When invited to provide words of motivation to future generations of Outramians,
 
 <img src="/images/Achievements/2020/Teachers%20winner%20Mr%20Tang/F3.png">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Attending a virtual ceremony </strong> </figcaption>
 
 </figure>
 
@@ -42,7 +42,6 @@ When invited to provide words of motivation to future generations of Outramians,
 
 <img src="/images/Achievements/2020/Teachers%20winner%20Mr%20Tang/F4.jpg">
 
-<figcaption> <strong> Courtesy of Mr Koh Kim Chay </strong> </figcaption>
+<figcaption> <strong> Moments of camaraderie with the Water Polo lads </strong> </figcaption>
 
 </figure>
-
