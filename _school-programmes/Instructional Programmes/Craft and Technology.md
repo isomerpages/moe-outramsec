@@ -4,7 +4,7 @@ permalink: /school-programmes/Instructional-Programmes/Craft-and-Technology/
 description: ""
 third_nav_title: Instructional Programmes
 ---
-<iframe allowfullscreen="true" height="400" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTa-5k-_LHMKpXihmVSaOim9N9VkNz5RU3Jz-3LmqbKc4JH9JZ6j0Wjg9EgdpGlUltF2GrMV46NR5Kn/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<center><iframe allowfullscreen="true" height="400" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTa-5k-_LHMKpXihmVSaOim9N9VkNz5RU3Jz-3LmqbKc4JH9JZ6j0Wjg9EgdpGlUltF2GrMV46NR5Kn/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
 
 This year, we embarked on a department wide learning framework. This learning framework encompasses the different processes taken in Food and Consumer Education, Design & Technology, Art and Music. This is the building block behind the department mission.
 
