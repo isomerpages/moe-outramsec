@@ -4,7 +4,7 @@ permalink: /school-programmes/Instructional-Programmes/Humanities/
 description: ""
 third_nav_title: Instructional Programmes
 ---
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vROSWzqRbHXa3BuED4nVGrgj73q8zvxCkKnn7sIOmoOYbj550SCfFOW4rzJJEhKJAIDZNoTr8CIZHj-/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="400" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vROSWzqRbHXa3BuED4nVGrgj73q8zvxCkKnn7sIOmoOYbj550SCfFOW4rzJJEhKJAIDZNoTr8CIZHj-/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 <ul class="jekyllcodex_accordion">
 
