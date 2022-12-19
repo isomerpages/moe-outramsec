@@ -4,7 +4,7 @@ permalink: /school-programmes/Instructional-Programmes/CCEs/
 description: ""
 third_nav_title: Instructional Programmes
 ---
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQdOv8qLJIGhhsoXINFZFewUtTAJ9Y2imaYJFe64O1cTktmeZcWxFzHIK64X_g9EpwT5iNQ3AHK1tYt/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="400" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQdOv8qLJIGhhsoXINFZFewUtTAJ9Y2imaYJFe64O1cTktmeZcWxFzHIK64X_g9EpwT5iNQ3AHK1tYt/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 <ul class="jekyllcodex_accordion">
 
