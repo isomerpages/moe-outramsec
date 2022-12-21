@@ -9,7 +9,7 @@ description: ""
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Principal's Foreword</label>
+    <label for="accordion1">Common Links</label>
 
     <div>
 
