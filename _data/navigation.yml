@@ -27,14 +27,10 @@ links:
         url: about-us/Outram-Luminaries/
       - title: CONTACT US
         url: /about-us/Contact-us/
-  - title: The OSS Story
+  - title: The OSS STORY
     url: /the-oss-story/School-Stories/
     sublinks:
-      - title: OUTRAM LUMINARIES
-        url: about-us/Outram-Luminaries/
-      - title: FEATURED ALUMNI
-        url: OSS-Success-Stories/OSS-Success-Stories/
-      - title: OUR STORIES
+      - title: SCHOOL STORIES
         url: /the-oss-story/School-Stories/
       - title: STUDENT ACHIEVEMENTS
         url: /the-oss-story/Students-Achievements/
