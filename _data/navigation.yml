@@ -63,11 +63,11 @@ links:
   - title: LINKS AND RESOURCES
     url: /links/Teachers/
     sublinks:
+      - title: TEACHERS
+        url: /links/Teachers/
       - title: PARENTS
         url: /links/Parents/
       - title: STUDENTS
         url: /links/Students/
-      - title: TEACHERS
-        url: /links/Teachers/
   - title: Media
     collection: media
