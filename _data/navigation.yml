@@ -15,17 +15,19 @@ links:
         url: /about-us/School-Song/
       - title: SCHOOL STAFF
         url: /about-us/School-Staff/
-      - title: OUTRAM ALUMNI
-        url: /about-us/Outram-Alumni/Outram-Alumni/
       - title: SCHOOL ADVISORY COMMITTEE
         url: /about-us/School-Advisory-Committee/
+      - title: OUTRAM ALUMNI
+        url: /about-us/Outram-Alumni/Outram-Alumni/
       - title: PARENT SUPPORT GROUP
         url: /about-us/Parent-Support-Group/
       - title: SCHOOL CALENDAR
         url: /about-us/School-Calendar/
+      - title: OUTRAM LUMINARIES
+        url: about-us/Outram-Luminaries/
       - title: CONTACT US
         url: /about-us/Contact-us/
-  - title: STORIES AND ACHIEVEMENTS
+  - title: The OSS Story
     url: /the-oss-story/School-Stories/
     sublinks:
       - title: OUTRAM LUMINARIES
