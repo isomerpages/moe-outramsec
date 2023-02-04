@@ -3,19 +3,51 @@ title: Staff Achievements
 permalink: /the-oss-story/Staff-Achievements/
 description: ""
 ---
-|                               2022                               |
-|:----------------------------------------------------------------:|
-|            **Most Inspiring Tamil Teachers' Award #**            |
-|                     Mdm Subbu Suba Sakthidevi                    ||
-|                        **LEAP Award 2022**                       |
-|                      Ms Gladys Lim Yean Yue                      ||
-|      **National Day Awards 2022 (The Commendation Medal)**      |
-|                  Mr Abdul Rahman Bin Abdul Rahim                 ||
-| **National Day Awards 2022 (The Long Service Medal 25 Years)** |
-|                      Mr Tan Hock Kwee Oliver                     |
-|                      Mr Koh Swee Thiam Dan                       |
-|                     Mr Krishnan Mathiyalagan                     |
-|                                                                  |
+| 2022 |
+|:---:|
+| **MOE Service Excellence Award (MSEA) 2021Gold**  |
+| Abdul Rahman B Abdul Rahim |
+|  Charles Yip Wai Kit |
+|  Cheong Suet Fun Vivian |
+|  Cheryl Lim Ming Yuh |
+|  Chin Ann Ann |
+|  Grace Ng Kah Yi |
+| Huang Jianyang  Marcus |
+|  Li Jia Yi |
+| Lim Ting Long  |
+| Nasuha Bin Rahmat  |
+|  Ng Yu Yan Gloria |
+|  Norizan Bte Mohamed Nor |
+|  Subbu Suba Sakthidevi |
+|  Tan Boon Hwee |
+|  Tan Lay Geok |
+| Tan Xi Ling  |
+|  Tan Yee Fun Francis<br><br>Wong Ching Hun Faith |
+| Woo See Wei  |
+| Yeo Yang Hong<br><br>Gladys Lim Yean Yue |   |
+| **Facilitator of Networked Learning Communities**  |
+|  <br>Dawa Tshering Sherpa<br> Tang Yee Fun Francis  |   |
+| **Facilitator of Workshops** |
+| Lim Yong Guan Roderick   |  |
+|  **Innovator** |
+| Cheong Wenxin Serene   |
+| Cheryl Lim Ming Yuh  |
+| Chin Ann Ann   |   |
+| **Associate of AST Award Recipients 2022** [Executive & Administrative Staff and Allied Educators] |
+|  Li Jiayi |   |
+|  **Inspiring Teacher of English Award** |
+|  Ms Gladys Lim Yean Yue |   |
+| **Most Inspiring Tamil Teachers' Award**  |
+| Mdm Subbu Suba Sakthidevi |   |
+| **LEAP Award 2022** |
+| Ms Gladys Lim Yean Yue |  |
+|  **National Day Awards 2022 (The Commendation Medal)** |
+|  Mr Abdul Rahman Bin Abdul Rahim ||
+|   **National Day Awards 2022 (The Long Service Medal 25 Years)** |
+| Mr Tan Hock Kwee Oliver |
+| Mr Koh Swee Thiam Dan  |
+| Mr Krishnan Mathiyalagan  |
+|   |
 
 
 |                      **2021**                     |
