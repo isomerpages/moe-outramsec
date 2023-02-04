@@ -12,6 +12,7 @@ We are a team of language lovers and enthusiasts raring for literature and langu
 
 <ul class="jekyllcodex_accordion">
 
+  <li>
 
     <input type="checkbox" id="accordion1">
 
@@ -68,7 +69,7 @@ We are a team of language lovers and enthusiasts raring for literature and langu
 </tbody>
 </table>
 
-
+  <li>
 
     <input type="checkbox" id="accordion2">
 
@@ -381,7 +382,7 @@ The team comprising Zander Widjaja, Nguyen Hai Duong (Sec 4/4) and Shyanne  (Se
 
 </li>
 	
-   <li>
+  <li>
 
     <input type="checkbox" id="accordion3">
 
