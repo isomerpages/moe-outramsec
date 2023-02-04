@@ -10,11 +10,12 @@ description: ""
 
 **Academic Achievements**
 
-| Department        | Type of Competition                                      | Results                                    |
-|-------------------|----------------------------------------------------------|--------------------------------------------|
-| Tamil Language    | Tamil New Year Celebration & Competition - Kim Seng CC   | 2nd Place                                  |
-|  Mathematics      | Singapore and Asian Schools Maths Olympiad (SASMO) 2022  | 2 Silver, 8 Bronze, 4 Honourable Mentions  |
-| Chinese Language  | 5th Text Recital Competition                             | Silver                                     |
+| Department | Type of Competition | Results |
+|---|---|---|
+| English Language | Queen's Commonwealth Essay Competition 2022 | 1 Gold, 1 Silver and 6 Bronze winners  |
+| Tamil Language | Tamil New Year Celebration & Competition - Kim Seng CC | 2nd Place  |
+|  Mathematics | Singapore and Asian Schools Maths Olympiad (SASMO) 2022  | 2 Silver, 8 Bronze,<br>4 Honourable Mentions  |
+| Chinese Language  | 5th Text Recital Competition | Silver  |                                  |
 
 **CCA Achievements**
 
