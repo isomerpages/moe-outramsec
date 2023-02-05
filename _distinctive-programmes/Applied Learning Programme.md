@@ -13,6 +13,8 @@ description: ""
 
 ![](/images/School%20Programmes/Distinctive%20Programmes/ALP/A4NEW.jpg)
 
+The school has established partnership with Ngee Ann Polytechnic, The Sandbox, Pearson Education South Asia Pte Ltd, Singapore Management University -The Accounting Society, and Spirit of Enterprise (SOE) to leverage their expertise to develop ALP curriculum and programs with the emphasis of Financial Literacy and Entrepreneurship.
+
 
 **Financial Literacy with Project Moolah**
 
