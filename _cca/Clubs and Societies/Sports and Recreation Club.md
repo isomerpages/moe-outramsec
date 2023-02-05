@@ -23,12 +23,30 @@ In recent years, SRC has started taking part in Frisbee competitions to broaden 
 
 			<p> <b>Teachers in Charge</b><br>
 				
-Ms Gloria Ng<br>  
-Mr Lim Ting Long<br>  
-Mr Hazlan Bin M. Aris<br>  
-Mdm Norizan Binte Mohamad Nor<br>   
-				Ms Ismath<br>
-			
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-lyvw{color:#111;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">Mr Lim Ting Long</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Mr Hazlan Bin M. Aris</td>
+  </tr>
+  <tr>
+    <td class="tg-lyvw"><span style="color:#111">Mdm Norizan Binte Mohamad Nor</span><br></td>
+  </tr>
+</tbody>
+</table>			
 </p>
 
     </div>
