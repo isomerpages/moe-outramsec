@@ -20,15 +20,34 @@ The OSS Basketball team aims to develop the students’ character and to provide
 
     <div>
 
-			<p> <b>Teachers in Charge</b><br>
+<p> <b>Teachers in Charge</b><br>
 				
-Mr Lim Teck Ming<br>
-
-Mdm Subbu Suba Sakthidevi<br>
-
-Mr Marcus Huang (ST/Physics)<br>
-
-Mr Lim Wei Sian, Aaron (Coach)<br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">Mr Lim Teck Ming</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Mdm Subbu Suba Sakthidevi</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mr Samson Wong</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mr Lim Wei Sian, Aaron (Coach)</td>
+  </tr>
+</tbody>
+</table>
 			
 </p>
 
