@@ -22,7 +22,7 @@ As for members of SRC Dance, they learn traditional folklore dances and get the 
 
     <div>
 
-			<p> <b>Teachers in Charge</b><br>
+<p> <b>Teachers in Charge</b><br>
 				
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -62,7 +62,23 @@ As for members of SRC Dance, they learn traditional folklore dances and get the 
     <div>
 
 <p>Schedule<br> 
-Monday, Wednesday, Friday 2.30PM - 5.30PM</p>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-lyvw{color:#111;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-lyvw">Thursday</td>
+    <td class="tg-lyvw">2.30 PM – 5.30 PM</td>
+  </tr>
+</thead>
+</table>
+			</p>
 
     </div>
 
