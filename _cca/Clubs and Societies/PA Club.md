@@ -18,14 +18,32 @@ The Outram Secondary School Public Addressing (PA) Club has been an integral mem
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-			<p> <b> Teachers in Charge </b><br>
-				Mdm Singaram Vijayalakshmi<br>
+<p> <b> Teachers in Charge </b><br>
 
-Ms Durga Devi d/o V Jagarajan<br>
 
-Mdm Tan Kim Choo<br>
-
-Mdm Thia Li Yun<br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">Mdm Singaram Vijayalakshmi</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Ms Durga Devi</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mdm Tan Kim Choo</td>
+  </tr>
+</tbody>
+</table>				
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
@@ -39,9 +57,29 @@ Mdm Thia Li Yun<br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-			<p>Daily 7.15 AM – 7.40 AM<br>
-
-All event rehearsals and actual events<br> </p>
+<p><style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">Wednesday</th>
+    <th class="tg-0lax">2.30 PM – 4.30 PM</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">All event rehearsals and actual events</td>
+    <td class="tg-0lax"></td>
+  </tr>
+</tbody>
+</table>
+	</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
