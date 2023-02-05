@@ -58,7 +58,23 @@ The Multimedia Communications Club (MCC) is an info-comm club for language and m
     <div>
 
 <p>Schedule<br> 
-Every Wednesday    2.45 PM - 4.45 PM			<br></p>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-0lax">Every Wednesday</td>
+    <td class="tg-0lax">2.45 PM - 5.00 PM</td>
+  </tr>
+</thead>
+</table>
+			</p>
 
     </div>
 
