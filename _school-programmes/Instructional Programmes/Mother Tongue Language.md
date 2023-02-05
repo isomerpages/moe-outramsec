@@ -29,7 +29,6 @@ The Mother Tongue Language department strives to make learning fun and enriching
 .tg .tg-2mff{color:#111;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-lyvw{color:#111;text-align:left;vertical-align:top}
 .tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
@@ -43,22 +42,22 @@ The Mother Tongue Language department strives to make learning fun and enriching
   <tr>
     <td class="tg-lyvw">Mrs Lui Ping Xin (HOD MTL)</td>
     <td class="tg-lyvw">Mr Cheliyan (SSD, TL Coordinator)</td>
-    <td class="tg-lyvw"> Ms Atikah (ML Coordinator)<br></td>
+    <td class="tg-lyvw">Ms Norizan Md Nor<br>(ML Coordinator)<br></td>
   </tr>
   <tr>
     <td class="tg-lyvw">Mrs Faith Tan (HOD CCE)</td>
     <td class="tg-lyvw">Mdm Sakthi<br></td>
-    <td class="tg-lyvw">  Mr Hazlan</td>
+    <td class="tg-lyvw">Mr Hazlan Bin Aris</td>
   </tr>
   <tr>
     <td class="tg-tsok">Mdm Tan Geok Hoon (MTT)<br></td>
     <td class="tg-lyvw"> </td>
-    <td class="tg-lyvw"> Ms Norizan</td>
+    <td class="tg-lyvw">Ms Nasuha Bte Rahmat</td>
   </tr>
   <tr>
     <td class="tg-lyvw">Mdm Tan Kim Choo</td>
     <td class="tg-lyvw"> </td>
-    <td class="tg-lyvw"> Ms Nasuha</td>
+    <td class="tg-lyvw">Ms Nur Atikah Bte Kamsani    (Acting SH/CCE)</td>
   </tr>
   <tr>
     <td class="tg-lyvw">Mrs Looi Lay Geok</td>
@@ -66,7 +65,7 @@ The Mother Tongue Language department strives to make learning fun and enriching
     <td class="tg-lyvw"> </td>
   </tr>
   <tr>
-    <td class="tg-lyvw">Mr Wen Zhiguang</td>
+    <td class="tg-lyvw">Mr Ken Lim (flexi-adjunct)</td>
     <td class="tg-lyvw"> </td>
     <td class="tg-lyvw"> </td>
   </tr>
@@ -76,9 +75,14 @@ The Mother Tongue Language department strives to make learning fun and enriching
     <td class="tg-lyvw"> </td>
   </tr>
   <tr>
-    <td class="tg-lyvw">Mr Chen Tat Kwang (flexi-adjunct)</td>
-    <td class="tg-0lax"></td>
-    <td class="tg-0lax"></td>
+    <td class="tg-lyvw">Mr Chen Tat Kwang (flexi-adjunct)<br></td>
+    <td class="tg-lyvw"> </td>
+    <td class="tg-lyvw"> </td>
+  </tr>
+  <tr>
+    <td class="tg-lyvw"> </td>
+    <td class="tg-lyvw"> </td>
+    <td class="tg-lyvw"> </td>
   </tr>
 </tbody>
 </table> </p>
