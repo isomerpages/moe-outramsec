@@ -2,20 +2,20 @@ collections:
   news:
     output: true
     order:
-      - 2022/Hari Raya Concert 2022.md
-      - 2022/Chinese New Year Celebrations 2022.md
-      - 2022/Sec 1 Orientation Programme 2022.md
-      - 2022/Sec 1 Maths Trail.md
-      - 2022/Release of GCE O Level and N Level Results.md
-      - 2022/OSS Sec 3 Camp 2022.md
-      - 2022/Career Guidance (CG) Day for Sec 4 and 5 students.md
-      - 2022/Student Leader Investiture 2022.md
+      - 2022/.keep
+      - 2022/President's Award for Teachers PAT and Outstanding Youth in
+        Education Award OYEA 2023.md
       - 2022/Graduation Day 2022.md
       - 2022/Outram Celebrates National Day.md
       - 2022/OSCARS 2022.md
-      - 2022/President's Award for Teachers PAT and Outstanding Youth in
-        Education Award OYEA 2023.md
-      - 2022/.keep
+      - 2022/Student Leader Investiture 2022.md
+      - 2022/Career Guidance (CG) Day for Sec 4 and 5 students.md
+      - 2022/OSS Sec 3 Camp 2022.md
+      - 2022/Hari Raya Concert 2022.md
+      - 2022/Sec 1 Maths Trail.md
+      - 2022/Release of GCE O Level and N Level Results.md
+      - 2022/Chinese New Year Celebrations 2022.md
+      - 2022/Sec 1 Orientation Programme 2022.md
       - Test Page News.md
       - News and Announcements.md
       - 2021/.keep
