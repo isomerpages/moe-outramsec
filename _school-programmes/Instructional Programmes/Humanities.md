@@ -23,6 +23,7 @@ third_nav_title: Instructional Programmes
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-lyvw{color:#111;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
@@ -38,19 +39,19 @@ third_nav_title: Instructional Programmes
   </tr>
   <tr>
     <td class="tg-lyvw">Mr Dawa Tshering Sherpa (HOD/SEN)<br></td>
-    <td class="tg-lyvw">Mr Ooi Jason</td>
+    <td class="tg-lyvw">Mr Bernard Roy<br></td>
   </tr>
   <tr>
-    <td class="tg-lyvw">Ms Yap Qiu Hong (SH/CCE)</td>
-    <td class="tg-lyvw">Mr Prathivmohan</td>
+    <td class="tg-lyvw">Mr Prathivmohan<br></td>
+    <td class="tg-lyvw">Mr Gabriel Fu<br></td>
   </tr>
   <tr>
     <td class="tg-lyvw">Mr Abdul Rahman Bin Abdul Rahim (ST/SS)</td>
-    <td class="tg-lyvw">Mr Bernard Roy</td>
+    <td class="tg-lyvw"></td>
   </tr>
   <tr>
     <td class="tg-lyvw">Mdm Wong Heng Yee (ST/ Geography)</td>
-    <td class="tg-lyvw">Mr Gabriel Fu</td>
+    <td class="tg-0lax"></td>
   </tr>
 </tbody>
 </table> </p>
