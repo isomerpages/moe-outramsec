@@ -20,7 +20,7 @@ Due to the COVID-19 pandemic this year, CCA activities were suspended from April
 
     <div>
 
-			<p> <b> Teachers in Charge </b><br>
+<p> <b> Teachers in Charge </b><br>
 Mrs Wendy Loi<br>
 
 Mdm Casey Lee<br>
@@ -38,16 +38,28 @@ Mdm Chua Yi Ping<br></p>
 
     <div>
 
-			<p> Monday, Wednesday, Thursday: 1.15pm to 4.00pm<br>  
-  
-
-Friday: 12.30pm to 3.30pm</p>
+<p> <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <td class="tg-0lax">Monday, Wednesday, Thursday: 2.30pm to 5.00pm</td>
+  </tr>
+</thead>
+</table>
+			</p>
 
     </div>
 
 </li>
 	
-	<li>
+<li>
 
     <input type="checkbox" id="accordion3">
 
@@ -55,26 +67,26 @@ Friday: 12.30pm to 3.30pm</p>
 
     <div>
 
-			<p> <b>2021:</b> Financial Literacy for Youth Race @ Republic Polytechnic (Most Financial Savvy Award for FLY Challenge 2021)<br>
+<p> <b>2021:</b> Financial Literacy for Youth Race @ Republic Polytechnic (Most Financial Savvy Award for FLY Challenge 2021)<br>
 		<b>2019:</b>      Financial Literacy for Youth Race @ Republic Polytechnic<br>  
   
-		<b>2018</b>:      National Cashflow Competition<br>  
+<b>2018</b>:      National Cashflow Competition<br>  
   
                 RP Hospitality Race<br>  
   
                 Digital Business Challenge<br>
 
-		<b>2017</b>:      Youth Innovation Challenge<br>
+<b>2017</b>:      Youth Innovation Challenge<br>
 
                 Digital Business Challenge – Participation Award<br>
 
                 National Cashflow Competition<br>
 
-		<b>2016</b>:      National Pushcart Challenge – Merit Award<br>
+<b>2016</b>:      National Pushcart Challenge – Merit Award<br>
 
                 National Financial Literacy Challenge 2016 (school) – Second position<br>  
 
-		<b>2015</b>:      National Financial Literacy Competition<br></p>
+<b>2015</b>:      National Financial Literacy Competition<br></p>
 
    </div>
 
