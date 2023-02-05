@@ -110,44 +110,33 @@ Since 2020, the department embarked on an integrated skills acquisition program 
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-vqm8{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:top}
-.tg .tg-u05r{background-color:#E8EDFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-fe2z{background-color:#F9CB9C;color:#111;text-align:left;vertical-align:top}
+.tg .tg-acp0{background-color:#F9CB9C;color:#111;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-u05r">2020</th>
-    <th class="tg-u05r">2021</th>
+    <th class="tg-acp0"><span style="font-weight:700;color:#000;background-color:transparent">2020</span></th>
+    <th class="tg-fe2z"><span style="color:#000;background-color:transparent">Food Innovation</span><br><span style="color:#000;background-color:transparent">Climate Change</span><br><span style="color:#000;background-color:transparent">The Virus Within</span><br><span style="color:#000;background-color:transparent">Popular Culture</span><br><span style="color:#000;background-color:transparent">Unconventional Hobbies</span><br><span style="color:#000;background-color:transparent">The National Pride </span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-vqm8">Food Innovation</td>
-    <td class="tg-vqm8">Our Digital Life</td>
+    <td class="tg-acp0"><span style="font-weight:700;color:#000;background-color:transparent">2021</span></td>
+    <td class="tg-fe2z"><span style="color:#000;background-color:transparent">Our Digital Life</span><br><span style="color:#000;background-color:transparent">A K-pop World </span><br><span style="color:#000;background-color:transparent">City of the Future</span><br><span style="color:#000;background-color:transparent">Mind Your Manners</span><br><span style="color:#000;background-color:transparent">Junk Food in Disguise</span></td>
   </tr>
   <tr>
-    <td class="tg-vqm8">Climate Change</td>
-    <td class="tg-vqm8">A K-pop World</td>
+    <td class="tg-acp0" rowspan="6"><span style="font-weight:700;color:#000;background-color:transparent">2022</span></td>
+    <td class="tg-acp0"><span style="font-weight:700;color:#000;background-color:transparent">S1</span><br><span style="color:#000;background-color:transparent">Food Innovation </span><br><span style="color:#000;background-color:transparent">Climate Change</span><br><span style="color:#000;background-color:transparent">Pop Culture</span><br><span style="color:#000;background-color:transparent">Unconventional Hobbies</span></td>
   </tr>
   <tr>
-    <td class="tg-vqm8">The Virus Within</td>
-    <td class="tg-vqm8">City of the Future</td>
+    <td class="tg-acp0"><span style="font-weight:700;color:#000;background-color:transparent">S2</span><br><span style="color:#000;background-color:transparent">Pop Culture -  Kpop, Kdrama, Hallyu (Korean Wave) </span><br><span style="color:#000;background-color:transparent">IT - Digital Life, Online Footprint ,Gaming</span><br><span style="color:#000;background-color:transparent">Famous Sports Celebrities</span><br><span style="color:#000;background-color:transparent">Healthy Lifestyle – Junk Food in Disguise</span></td>
   </tr>
   <tr>
-    <td class="tg-vqm8">Popular Culture</td>
-    <td class="tg-vqm8">Mind Your Manners</td>
-  </tr>
-  <tr>
-    <td class="tg-vqm8">Unconventional Hobbies</td>
-    <td class="tg-vqm8">Junk Food in Disguise</td>
-  </tr>
-  <tr>
-    <td class="tg-vqm8">The National Pride</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-acp0"><span style="font-weight:700;color:#000;background-color:transparent">S3</span><br><span style="color:#000;background-color:transparent">Inspirational People</span><br><span style="color:#000;background-color:transparent">TT - IT/ Gaming</span><br><span style="color:#000;background-color:transparent">Career Guidance - Unique Occupations</span><br><span style="color:#000;background-color:transparent">Local Enterprise/ Business</span><br><span style="color:#000;background-color:transparent">TT - Sports</span></td>
   </tr>
 </tbody>
-</table>
+</table><br><br>
 			
 *   <b>Creative Writing Activities</b><br> 
 
@@ -155,7 +144,16 @@ Since 2020, the department embarked on an integrated skills acquisition program 
 *   Whose Story is it?<br>
 			
 	<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/Pic201.jpg"> 
+	
+<b>Outram Ink Blog</b>
+
+  
+
+Read our students’ published works on the students’ blog:  <a href="https://cheryllimmingyuh.wixsite.com/outram-writes">Outram Ink</a>
 			
+			
+			
+
 <b>LitE Up!</b><br>  
 
 The Literature and English teams join hands to organize an annual day of fun for the Secondary 1s and 2s. Games include Spelling Bee, Running Idioms, Caption This!, Act Up, Choral Reading and the finale, Character Parade.<br>
