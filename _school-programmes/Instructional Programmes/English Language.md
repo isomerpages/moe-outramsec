@@ -145,14 +145,12 @@ Since 2020, the department embarked on an integrated skills acquisition program 
 			
 	<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/Pic201.jpg"> 
 	
-<b>Outram Ink Blog</b>
+<b>Outram Ink Blog</b><br><br>
 
   
-
-Read our students’ published works on the students’ blog:  <a href="https://cheryllimmingyuh.wixsite.com/outram-writes">Outram Ink</a>
+Read our students’ published works on the students’ blog:  <a href="https://cheryllimmingyuh.wixsite.com/outram-writes">Outram Ink</a><br><br>
 			
-			
-			
+<img style="width:100%;height:50%" src="/images/Instructional%20Programmes/English%20Language/E1NEW.png"><br><br>		
 
 <b>LitE Up!</b><br>  
 
