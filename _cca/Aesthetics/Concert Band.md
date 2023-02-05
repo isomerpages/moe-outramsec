@@ -26,12 +26,31 @@ Every musician in Outram Concert Band will eventually understand the Leadership 
 
     <div>
 
-			<p> <b> Teachers in Charge </b><br>
-Ms Tan Xi Ling<br>  
-
-Mr Charles Yip<br>  
-  
-Mr Gabriel Fu<br></p>
+<p> <b> Teachers in Charge </b><br>
+	
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">Mdm Wong Heng Yee</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Mr Marcus Huang</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mdm Chua Yi Ping</td>
+  </tr>
+</tbody>
+</table></p>
 
     </div>
 
@@ -44,9 +63,33 @@ Mr Gabriel Fu<br></p>
 
     <div>
 
-			<p> Full Band Practice sessions     
+<p> Full Band Practice sessions     
 
-<table style="margin: 0px; outline: 0px; padding: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; color: rgb(34, 34, 34); font-family: arial, helvetica, sans-serif; font-size: small; background-color: rgb(255, 255, 255); border: none; border-collapse: collapse;"><tbody style="margin: 0px; outline: 0px; padding: 0px;"><tr style="margin: 0px; outline: 0px; padding: 0px; height: 42px;"><td style="margin: 0px; outline: 0px; padding: 10px; font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif; vertical-align: top; border-width: 1px; border-style: solid; border-color: rgb(158, 158, 158);"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Sec 1</span></p></td><td style="margin: 0px; outline: 0px; padding: 10px; font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif; vertical-align: top; border-width: 1px; border-style: solid; border-color: rgb(158, 158, 158);"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Monday, Thursday</span></p></td><td style="margin: 0px; outline: 0px; padding: 10px; font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif; vertical-align: top; border-width: 1px; border-style: solid; border-color: rgb(158, 158, 158);"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">2.15pm - 5.30pm</span></p></td></tr><tr style="margin: 0px; outline: 0px; padding: 0px; height: 42px;"><td style="margin: 0px; outline: 0px; padding: 10px; font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif; vertical-align: top; border-width: 1px; border-style: solid; border-color: rgb(158, 158, 158);"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Sec 2-5</span></p></td><td style="margin: 0px; outline: 0px; padding: 10px; font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif; vertical-align: top; border-width: 1px; border-style: solid; border-color: rgb(158, 158, 158);"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Monday, Wednesday, Thursday</span></p></td><td style="margin: 0px; outline: 0px; padding: 10px; font-family: Roboto, RobotoDraft, Helvetica, Arial, sans-serif; vertical-align: top; border-width: 1px; border-style: solid; border-color: rgb(158, 158, 158);"><p dir="ltr" style="margin: 0pt 0px; outline: 0px; padding: 0px; line-height: 1.2; text-align: center;"><span style="margin: 0px; outline: 0px; padding: 0px; font-size: 10pt; font-family: Arial; color: rgb(0, 0, 0); background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">2.15pm - 5.45p</span></p></td></tr></tbody></table></p>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ketu{background-color:#FFF;color:#111;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-l96s{background-color:#FFF;color:#111;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-l2bf"><span style="color:#000;background-color:transparent">Monday and </span>Thursday</th>
+    <th class="tg-ketu"><span style="color:#000;background-color:transparent">2.45pm - 5.30pm</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-l96s"><span style="color:#000;background-color:transparent">Wednesday </span></td>
+    <td class="tg-ketu"><span style="color:#000;background-color:transparent">2.15pm - 5.30pm</span></td>
+  </tr>
+</tbody>
+</table>
+			</p>
 
     </div>
 
