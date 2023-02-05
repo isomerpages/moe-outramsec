@@ -4,7 +4,7 @@ permalink: /cca/Sports/water-polo/
 description: ""
 third_nav_title: Sports
 ---
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSo2axQnFt_OXJ_4t76kXvHTfs_Bu6pLH2z8QqO6kP1qTFh-8RHFxBmr7QZMdCNnbFJdj2lSwg99xDN/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRuzrGHUWwAXE0Ix4OiVAkx0IOY4apiJ1-qliCMVWemhGzVg9hBl2IN7UAQFLqsWdYAQxlOn54p7kCX/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 At Water Polo, members are constantly reminded of the purpose of joining a CCA - to build stronger character and friendships.
 
@@ -16,13 +16,13 @@ Student leaders organized team-bonding activities through the video conferencing
 
 <ul class="jekyllcodex_accordion">
 
-  <li>
+&nbsp;&nbsp;<li>
 
-    <input type="checkbox" id="accordion1">
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion1" type="checkbox">
 
-    <label for="accordion1">Teachers in Charge</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Teachers in Charge</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 			<p> <b>Teachers in Charge</b><br>
 				
@@ -36,31 +36,31 @@ Mr Azaac Tan<br>
 			
 </p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	<li>
 
-    <input type="checkbox" id="accordion2">
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion2" type="checkbox">
 
-    <label for="accordion2">Schedule </label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Schedule </label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p>Schedule<br> 
 Daily (Except Thursday)			<br></p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
 	<li>
 
-    <input type="checkbox" id="accordion3">
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion3" type="checkbox">
 
-    <label for="accordion3">Achievements</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Achievements</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 			<p><br><b>Achievements</b><br>
 National Inter-School Water Polo 'B' Division Championship 2017  
@@ -70,7 +70,7 @@ National Inter-School Water Polo 'B' Division Championship 2017
 				
 			</p>
 			
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
