@@ -5,12 +5,12 @@ description: ""
 ---
 *   [Secondary 3 Camp 2023](/news/Secondary-3-Camp-2023/)
 *   [Outram at Chingay NE Show 2023](/news/Outram-at-Chingay-NE-Show-2023/)
-*   [MOE Sexuality Education Form 2023](https://outramsec.moe.edu.sg/qql/slot/u512/PDF/2023/2023%20Info%20on%20SEd%20for%20schs%20website%20Secondary%20Schools%2017-19.pdf)  
+*   [MOE Sexuality Education Form 2023](/files/News%20&%20Announcements/2023/2023%20Info%20on%20SEd%20for%20schs%20website%20Secondary%20Schools%2017-19.pdf) 
     
-*   [2022 O-Level Results Release Message and Information Sheet for Parents](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/PDF/2023/2022%20O-Level%20Results%20Release%20Message%20and%20Information%20Sheet%20for%20Parents_final.pdf)  
+*   [2022 O-Level Results Release Message and Information Sheet for Parents](/files/News%20&%20Announcements/2023/2022%20O-Level%20Results%20Release%20Message%20and%20Information%20Sheet%20for%20Parents_final.pdf)
     
-*   [Secondary One Orientation 2023](https://outramsec-moe-edu-sg-admin.cwp.sg/other/sec-1-orientation-2023)
-*   [Term 1 Letter to Parents 2023](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/PDF/2023%20Term%201%20Letter%20to%20Parents%20Final.pdf)
+*   [Secondary One Orientation 2023](/news/Secondary-1-Orientation-2023/)
+*   [Term 1 Letter to Parents 2023](/files/News%20&%20Announcements/2023/2023%20Term%201%20Letter%20to%20Parents%20Final.pdf)
 
 <ul class="jekyllcodex_accordion">
 
