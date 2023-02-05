@@ -43,7 +43,7 @@ description: ""
 	<a href="/files/News%20&%20Announcements/2022%20Edu%20Ch%20Aw%20nomination%20form/2022%20Edusave%20Character%20Award%20nomination%20form.pdf">2022 Edusave Character Award nomination form</a><br>
 	<a href="/files/News%20&%20Announcements/Joint%20SPF%20CNB%20MOE%20Sch/Joint%20SPF%20CNB%20MOE%20School%20Advisory%20for%20Students%20(June%20School%20Holidays).pdf">Joint SPF CNB MOE School Advisory for Students (June School Holidays)</a><br>
 	<a href="/news-and-announcements/Career-Guidance-CG-Day-for-Sec-4-and-5-students/">Career Guidance (CG) Day for Sec 4 and 5 students</a><br>
-	<a href="Link">Title</a><br>
+	<a href="/news-and-announcements/OSS-Sec-3-Camp-2022/">OSS Sec 3 Camp 2022</a><br>
 	<a href="Link">Title</a><br>
 	<a href="Link">Title</a><br>
 	<a href="Link">Title</a><br>
