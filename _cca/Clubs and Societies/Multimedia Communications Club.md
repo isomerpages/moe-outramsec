@@ -18,11 +18,31 @@ The Multimedia Communications Club (MCC) is an info-comm club for language and m
 
     <div>
 
-			<p> <b>Teachers in Charge</b><br>
+<p> <b>Teachers in Charge</b><br>
 				
-Ms Charmaine Loke Mern Yi<br>  
-Mrs Poon Yiam Kiau<br>  
-Mr Prathivmohan<br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">Ms Charmaine Loke Mern Yi</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Mr Prathivmohan</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Ms Wong Ann Ann</td>
+  </tr>
+</tbody>
+</table>
 			
 </p>
 
