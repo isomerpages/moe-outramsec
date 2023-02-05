@@ -116,7 +116,7 @@ The 10-hour blended learning workshop aims to introduce the concept of innovatio
   
   
 
-### **Programmes in 2022**
+### **Programmes in 2023**
 
 
   
@@ -133,9 +133,11 @@ The 10-hour blended learning workshop aims to introduce the concept of innovatio
 
 ·         Finance Leaders programme for Secondary 2 and 3
 
-·         Online Bazaar for Business students
+·         Bazaar for Business students
 
 ·         Secondary 3 Entrepreneurship programme
+
+·         Project Moolah Fin Lit programme 
 
 **March**
 
@@ -143,19 +145,27 @@ The 10-hour blended learning workshop aims to introduce the concept of innovatio
 
 ·         Secondary 3 Entrepreneurship programme
 
-·          Lcube game for Secondary 1 students
+·         ApLM for Upper Secondary \[Normal Acad/Express\] Students 
 
 **April**
 
-·          Business lesson for Lower Secondary (Project Work)
+·         Business lesson for Lower Secondary
+
+·         Lcube game for Secondary 1 students
+
+·         Project Moolah Fin Lit programme
+
+·         Spirit of Enterprise (SOE) workshop for Secondary 2 Entrepreneurship programme
 
 **May**
 
 ·         Business lesson for Lower Secondary
 
-·         ALP day for Secondary 1, 2 and 3
+·         Business day for all students
 
-·         ALP week for Secondary 4 NT/NA
+·         Spirit of Enterprise (SOE) workshop for Secondary 2 Entrepreneurship programme 
+
+  
 
 **June**
 
@@ -165,19 +175,21 @@ The 10-hour blended learning workshop aims to introduce the concept of innovatio
 
 **July – September**
 
-·         Spirit of Enterprise (SOE) workshop for Secondary 2 Entrepreneurship programme
-
-·          Entrepreneurship first step module organized by Ngee Ann Polytechnic
+·         Entrepreneurship first step module organized by Ngee Ann Polytechnic
 
 ·         Project Moolah Fin Lit programme
+
+·         Sec 2 Entrepreneurship programme \[For selected students\]
+
+  
 
 **October - November**
 
 ·         Fin Lit Outreach and Publicity Talks to Primary Schools
 
-·         MYM and Cashflow interclass Secondary One and Two competition
+·         Sec 2 Entrepreneurship programme \[For selected students\]
 
-·         Design for Change Challenge
+·         National Financial Literacy Competition organized by OSS
 
 ### Achievements
 
