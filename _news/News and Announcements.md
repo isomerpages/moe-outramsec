@@ -34,7 +34,7 @@ description: ""
 	<a href="/news-and-announcements/Graduation-Day-2022/">Graduation Day 2022</a><br>
 	<a href="https://www.schoolbag.edu.sg/story/it-takes-a-village-to-support-a-student">OSS featured in SCHOOLBAG: The Education News Site</a><br>
 	<a href="/files/News%20&%20Announcements/Travel%20Declaration%20for%202022/Travel%20Declaration%20for%20September%20Holiday%202022.pdf">Travel Declaration for September Holiday 2022</a><br>
-	<a href="Link">Title</a><br>
+	<a href="/news-and-announcements/Outram-Celebrates-National-Day/">Outram Celebrates National Day</a><br>
 	<a href="Link">Title</a><br>
 	<a href="Link">Title</a><br>
 	<a href="Link">Title</a><br>
