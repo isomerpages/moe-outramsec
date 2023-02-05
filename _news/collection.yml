@@ -2,6 +2,7 @@ collections:
   news:
     output: true
     order:
+      - 2022/Hari Raya Concert 2022.md
       - 2022/Chinese New Year Celebrations 2022.md
       - 2022/Sec 1 Orientation Programme 2022.md
       - 2022/Sec 1 Maths Trail.md
