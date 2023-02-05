@@ -147,7 +147,7 @@ Cadets will play a significant role in guiding the newly appointed cadet leaders
 
 </li>
 	
-	<li>
+<li>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion4" type="checkbox">
 
