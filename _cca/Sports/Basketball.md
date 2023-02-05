@@ -69,7 +69,7 @@ Monday and Wednesday      2:30 PM – 5:30 PM			<br></p>
 
 </li>
 	
-	<li>
+<li>
 
     <input type="checkbox" id="accordion3">
 
@@ -77,9 +77,10 @@ Monday and Wednesday      2:30 PM – 5:30 PM			<br></p>
 
     <div>
 
-			<p><br><b>Achievements</b><br>
-SSSC Basketball B Division South Zone Championships 2021<br> 
-				
+<p><br><b>Achievements</b><br>
+  
+SSSC Basketball B Division South Zone Championships 2021<br>
+  
 SSSC Basketball C Division South Zone Championships 2021<br>  
   
 SSSC Basketball B Division South Zone Championships 2020<br>
