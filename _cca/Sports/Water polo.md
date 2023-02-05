@@ -102,13 +102,45 @@ Student leaders organized team-bonding activities through the video conferencing
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-			<p><br><b>Achievements</b><br>
-National Inter-School Water Polo 'B' Division Championship 2017  
+<p><br><b>Achievements</b><br>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">2019:</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">B-Division: 4th</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2018:</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">B-Division: 4th</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">2017:</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">B-Division: Champion</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">C-Division: 4th</td>
+  </tr>
+</tbody>
+</table>
 				
-<b>Champion</b>
-				
-			</p>
+</p>
 			
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
