@@ -27,7 +27,6 @@ We are a team of language lovers and enthusiasts raring for literature and langu
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-lyvw{color:#111;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
@@ -38,7 +37,7 @@ We are a team of language lovers and enthusiasts raring for literature and langu
 </thead>
 <tbody>
   <tr>
-    <td class="tg-lyvw">Mr Dawa Tshering Sherpa (AYH) <br></td>
+    <td class="tg-lyvw">Mr Dawa Tshering Sherpa (HOD/SEN) <br></td>
     <td class="tg-lyvw">Ms Grace Ng Kah-Yi (ST/EL) </td>
   </tr>
   <tr>
@@ -46,25 +45,20 @@ We are a team of language lovers and enthusiasts raring for literature and langu
     <td class="tg-lyvw">Ms Zaiton  (HOD/Discipline)</td>
   </tr>
   <tr>
-    <td class="tg-lyvw">Ms Yap Qiu Hong (SH/CCE) </td>
+    <td class="tg-lyvw">Ms Diana Bte Othman</td>
     <td class="tg-lyvw">Ms Woo See Wei<br></td>
   </tr>
   <tr>
     <td class="tg-lyvw">Mrs Chua Wai Yi </td>
-    <td class="tg-lyvw">Mr Ooi Jason <br></td>
-  </tr>
-  <tr>
-    <td class="tg-lyvw">Mr Bernard Roy </td>
     <td class="tg-lyvw">Mr Abdul Rahman Bin Abdul Rahim (ST/SS)<br></td>
   </tr>
-  
   <tr>
-    <td class="tg-lyvw">Ms Lim Yean Yue Gladys </td>
-    <td class="tg-lyvw">Ms Ismath Banu</td>
+    <td class="tg-lyvw">Ms Lim Yean Yue Gladys <br></td>
+    <td class="tg-lyvw">Mr Bernard Roy <br></td>
   </tr>
   <tr>
-    <td class="tg-lyvw">Ms Charmaine Loke Mern Yi</td>
-    <td class="tg-0lax"></td>
+    <td class="tg-lyvw">Ms Charmaine Loke Mern Yi<br></td>
+    <td class="tg-lyvw">Ms Ismath Banu</td>
   </tr>
 </tbody>
 </table>
@@ -87,7 +81,7 @@ The department’s spirally progressive oral skills programme aims to build conf
 		
 	<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/EP01.jpg"><br>
 			
-				<b>Multiliteracies Programme</b><br>
+	<b>Multiliteracies Programme</b><br>
 
 In today’s world where technology and media reaches its arms into every aspect of our daily lives, bimodal and multimodal texts (Chan & Chia, 2014) such as advertisements, posters, brochures, billboards, moving pictures, animation, social media platforms such as blogs, facebook, video games, picture books, digital news and the like proliferate at an unprecedented speed. At OSS, students learn to appreciate and review multimodal texts through:<br>
 
@@ -99,7 +93,7 @@ In today’s world where technology and media reaches its arms into every aspect
 
   
 
-				<b>ARP@Outram (Applied Reading Programme)</b><br>
+	<b>ARP@Outram (Applied Reading Programme)</b><br>
 
   
 
@@ -109,13 +103,13 @@ Since 2020, the department embarked on an integrated skills acquisition program 
 
   
 
-				*   <b>Weekly Opening Read</b><br>  
+*   <b>Weekly Opening Read</b><br>  
 
   
 
-				*   <b>Monthly News-in-Class Presentations</b><br>
+*   <b>Monthly News-in-Class Presentations</b><br>
 			
-			<style type="text/css">
+<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -160,14 +154,14 @@ Since 2020, the department embarked on an integrated skills acquisition program 
 </tbody>
 </table>
 			
-			*   <b>Creative Writing Activities</b><br> 
+*   <b>Creative Writing Activities</b><br> 
 
 *   Guided Imagery<br>
 *   Whose Story is it?<br>
 			
 	<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/Pic201.jpg"> 
 			
-			<b>LitE Up!</b><br>  
+<b>LitE Up!</b><br>  
 
 The Literature and English teams join hands to organize an annual day of fun for the Secondary 1s and 2s. Games include Spelling Bee, Running Idioms, Caption This!, Act Up, Choral Reading and the finale, Character Parade.<br>
 			
@@ -176,7 +170,7 @@ The Literature and English teams join hands to organize an annual day of fun for
 
    
 
-			<b>Selling Dreams Exhibition at the National Library</b><br>
+<b>Selling Dreams Exhibition at the National Library</b><br>
 			
 <img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/EP03.jpg"><br>
 			<b>Watch-a-Play! Drama Appreciation</b><br>
@@ -365,12 +359,12 @@ A team of Secondary 4 students took an enjoyable Sunday afternoon out for intens
 Winning Entry from William Wang Silang (Sec 4/4).<br>
 			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/E12.jpg"><br>
 			
-			<b>ICAS Writing Competition (University of New South Wales)</b><br>  
+<b>ICAS Writing Competition (University of New South Wales)</b><br>  
 
 30 students took part in 2018 and received certificates of Credit, Merit and Participation.<br>  
 
  
-			<b>Oldham Cup (ACJC) 2017</b><br>  
+<b>Oldham Cup (ACJC) 2017</b><br>  
   
 The team comprising Zander Widjaja, Nguyen Hai Duong (Sec 4/4) and Shyanne  (Sec 4/5) won 2 rounds out of 8 in their inaugural outing.
 			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/E14.jpg">
@@ -390,7 +384,7 @@ The team comprising Zander Widjaja, Nguyen Hai Duong (Sec 4/4) and Shyanne  (Se
 
     <div>
 
-			<p> 
+<p> 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -430,7 +424,7 @@ The team comprising Zander Widjaja, Nguyen Hai Duong (Sec 4/4) and Shyanne  (Se
 
     <div>
 
-			<p> 
+<p> 
 <b>For Students</b><br><br>
 
   
