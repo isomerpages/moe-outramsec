@@ -37,8 +37,8 @@ description: ""
 	<a href="/news-and-announcements/Outram-Celebrates-National-Day/">Outram Celebrates National Day</a><br>
 	<a href="/news-and-announcements/oscar-2022/">OSCARS 2022</a><br>
 	<a href="/news-and-announcements/Student-Leader-Investiture-2022/">Student Leader Investiture 2022</a><br>
-	<a href="Link">MOE Engagement Deck on Dengue Prevention</a><br>
-	<a href="Link">Title</a><br>
+	<a href="/files/News%20&%20Announcements/MOE%20Eng%20Deck%20Dengue%20Prevention/Dengue%20Attachment%206-Engagement%20Deck%20for%20Secondary%20Schools.pdf)">MOE Engagement Deck on Dengue Prevention</a><br>
+	<a href="/files/News%20&%20Announcements/FAQs%20for%20In%20Repel%20Distri%20Ex/Dengue%20Attachment%207-Frequently%20Asked%20Questions%20-%20NEAxTF%20Repellent%20Distribution.pdf">FAQs for Insect Repellent Distribution Exercise</a><br>
 	<a href="Link">Title</a><br>
 	<a href="Link">Title</a><br>
 	<a href="Link">Title</a><br>
