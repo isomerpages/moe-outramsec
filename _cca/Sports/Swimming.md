@@ -58,15 +58,36 @@ Once again 2021 has been a trying year for sports CCAs with various challenges d
     <div>
 
 <p>Schedule<br> 
-Monday - Wednesday            2:00 PM – 4:00 PM<br>
-
-Friday                                        1:00 PM – 3:00 PM		<br></p>
+	
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">Tuesday</th>
+    <th class="tg-0lax">2:30 PM – 5:00 PM</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Friday</td>
+    <td class="tg-0lax">1:00 PM – 3:00 PM</td>
+  </tr>
+</tbody>
+</table>
+			</p>
 
     </div>
 
 </li>
 	
-	<li>
+<li>
 
     <input type="checkbox" id="accordion3">
 
@@ -74,7 +95,7 @@ Friday                                        1:00 PM – 3:
 
     <div>
 
-			<p><br><b>Achievements</b><br>
+<p><br><b>Achievements</b><br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
