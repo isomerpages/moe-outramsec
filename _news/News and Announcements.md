@@ -3,8 +3,6 @@ title: News and Announcements
 permalink: /News-and-Announcements/News-and-Announcements/
 description: ""
 ---
-
-
 <ul class="jekyllcodex_accordion">
 
 	
@@ -12,7 +10,7 @@ description: ""
 
     <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Booklists</label>
+    <label for="accordion1">2022</label>
 
     <div>
 
