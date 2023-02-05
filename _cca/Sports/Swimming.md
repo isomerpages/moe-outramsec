@@ -18,13 +18,31 @@ Once again 2021 has been a trying year for sports CCAs with various challenges d
 
     <div>
 
-			<p> <b>Teachers in Charge</b><br>
+<p> <b>Teachers in Charge</b><br>
 				
-Mr Freddie Chan Zhi Yang<br>  
-
-Ms Nasuha Rahmat<br>
-
-Mr Damien Ho (Sem1)<br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">Ms Nasuha Binte Rahmat</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Mr Damien Ho</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mdm Lee Ai Li</td>
+  </tr>
+</tbody>
+</table>
 			
 </p>
 
