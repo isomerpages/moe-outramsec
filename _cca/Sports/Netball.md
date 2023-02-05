@@ -42,12 +42,13 @@ Mrs Chua Wai Yi<br>
 
     <div>
 
-<p>Schedule<br> 
-Monday: 3:45 - 6pm<br>
+<p>Schedule<br><br>
+	
 
-  
+<b>Monday:</b> 2:45 - 6pm<br><br>
 
-Wednesday & Friday: 2:45 - 6pm    <br></p>
+<b>Wednesday & Friday:</b> 2:45 - 6pm
+</p>
 
     </div>
 
@@ -61,7 +62,7 @@ Wednesday & Friday: 2:45 - 6pm    <br></p>
 
     <div>
 
-			<p><br><b>Achievements</b><br>
+<p><br><b>Achievements</b><br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -80,6 +81,14 @@ Wednesday & Friday: 2:45 - 6pm    <br></p>
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td class="tg-lr6o"><span style="color:#222"> South Zone National School Games (NSG) B Division</span></td>
+    <td class="tg-u05r">4th Position</td>
+  </tr>
+  <tr>
+    <td class="tg-lr6o"><span style="color:#222"> South Zone National School Games (NSG) C Division</span></td>
+    <td class="tg-u05r"> Top 8</td>
+  </tr>
   <tr>
     <td class="tg-lr6o"><span style="color:#222"> South Zone Netball Championships 2020</span></td>
     <td class="tg-lr6o"><span style="color:#222"> </span>Top 8 for ‘B’ Division</td>
