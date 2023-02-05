@@ -70,17 +70,17 @@ We are a team of language lovers and enthusiasts raring for literature and langu
     <label for="accordion2">Programmes</label>
 
     <div>
+			
+We are a team of language lovers and enthusiasts raring for literature and language to make a difference in the lives of young men and women who pass through the gates of Outram Secondary School. While aiming to sharpen the tools of our learners enough to add value to their academic results at the end of their term with us, we really hope to nurture young people who are confident, articulate and proficient users of the English Language. Find out about us!<br><br>
 
-  <b>Oral Skills Programme</b><br> 
-
+  <b>Oral Skills Programme</b><br>
+			
 The department’s spirally progressive oral skills programme aims to build confidence in young speakers from Secondary 1 to 3 to represent themselves, represent others and represent issues in fun and collaborative ways:<br>
 
 *   Representing Self (Personal voice) through Drama Pedagogies in Secondary 1<br>
 *   Representing Others (Empathy by listening, paraphrasing and summarising) through Broadcast Journalism in Secondary 2<br>
-*   Representing Issues (Social concerns) through Debate in Secondary 3<br>
-		
-	<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/EP01.jpg"><br>
-			
+*   Representing Issues (Social concerns) through Debate in Secondary 3<br><br>
+
 	<b>Multiliteracies Programme</b><br>
 
 In today’s world where technology and media reaches its arms into every aspect of our daily lives, bimodal and multimodal texts (Chan & Chia, 2014) such as advertisements, posters, brochures, billboards, moving pictures, animation, social media platforms such as blogs, facebook, video games, picture books, digital news and the like proliferate at an unprecedented speed. At OSS, students learn to appreciate and review multimodal texts through:<br>
@@ -89,15 +89,10 @@ In today’s world where technology and media reaches its arms into every aspect
 *   Film Review (Multimodal sources) in Secondary 2<br>
 *   Understanding Visual Texts through Mirror Reading and OUI Thinking Frame in Secondary 3<br>
 
-  
+	<b>ARP@Outram (Applied Reading Programme)</b><br><br>
 
-  
-
-	<b>ARP@Outram (Applied Reading Programme)</b><br>
-
-  
-
-Since 2020, the department embarked on an integrated skills acquisition program named the ARP@Outram. An applied reading program, this department-wide initiative aims to provide a platform for students to share their reading interests with their classmates who will respond to the stories they hear from their peers. Students also learn about pertinent general affairs and topics of relevance through monthly multimodal presentations. These activities throughout the year will activate interest in reading, writing and learning through multimodal media such as videos, images, texts and audio resources.<br>  
+ 
+Since 2020, the department embarked on an integrated skills acquisition program named the ARP@Outram. An applied reading program, this department-wide initiative aims to provide a platform for students to share their reading interests with their classmates who will respond to the stories they hear from their peers. Students also learn about pertinent general affairs and topics of relevance through monthly multimodal presentations. These activities throughout the year will activate interest in reading, writing and learning through multimodal media such as videos, images, texts and audio resources.<br><br> 
 
   
 
