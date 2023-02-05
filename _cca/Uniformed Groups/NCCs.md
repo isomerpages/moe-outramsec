@@ -104,9 +104,44 @@ Cadets will play a significant role in guiding the newly appointed cadet leaders
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-			<p> 2020 Unit Recognition Award – Accomplished<br>  
-  
-Best Unit Competition (2017) – Bronze</p>
+<p> <style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">2021</th>
+    <th class="tg-0lax">Unit</th>
+    <th class="tg-0lax">Recognition</th>
+    <th class="tg-0lax">Award</th>
+    <th class="tg-0lax">-</th>
+    <th class="tg-0lax">Distinction</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">2020</td>
+    <td class="tg-0lax">Unit</td>
+    <td class="tg-0lax">Recognition</td>
+    <td class="tg-0lax">Award</td>
+    <td class="tg-0lax">–</td>
+    <td class="tg-0lax">Accomplished</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Best</td>
+    <td class="tg-0lax">Unit</td>
+    <td class="tg-0lax">Competition</td>
+    <td class="tg-0lax">(2017)</td>
+    <td class="tg-0lax">–</td>
+    <td class="tg-0lax">Bronze</td>
+  </tr>
+</tbody>
+</table></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
