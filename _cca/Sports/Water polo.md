@@ -63,8 +63,32 @@ Student leaders organized team-bonding activities through the video conferencing
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-<p>Schedule<br> 
-Daily (Except Thursday)			<br></p>
+<p>Schedule<br>
+	
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-s2rg{color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-vo25{color:#222;text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-s2rg">Days</th>
+    <th class="tg-s2rg">Time</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-vo25">Tuesday -Thursday</td>
+    <td class="tg-vo25">2.30pm – 5.30pm</td>
+  </tr>
+</tbody>
+</table>
+	</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
