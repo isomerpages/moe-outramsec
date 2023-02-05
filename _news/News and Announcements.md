@@ -47,8 +47,8 @@ description: ""
 	<a href="/news-and-announcements/Hari-Raya-Concert-2022/">Hari Raya Concert 2022</a><br>
 Return of the National Sports Games<br>
 	<a href="/news-and-announcements/Sec-1-Maths-Trail/">Sec 1 Maths Trail</a><br>
-	<a href="Link">Title</a><br>
-	<a href="Link">Title</a><br>
+	<a href="/news-and-announcements/Release-of-GCE-O-Level-and-N-Level-Results/">Release of GCE O Level and N Level Results</a><br>
+	<a href="/news-and-announcements/Chinese-New-Year-Celebrations-2022/">Chinese New Year Celebrations 2022</a><br>
 
 </p>
 
