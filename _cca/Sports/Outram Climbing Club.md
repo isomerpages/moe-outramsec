@@ -22,13 +22,29 @@ Prior to the yearly National Schools Bouldering Championship and National School
 
 			<p> <b>Teachers in Charge</b><br>
 				
-Mdm Nur Atikah Kamsani<br>
-
-Ms Woo See Wei<br>
-
-Ms Yeo Yang Hong<br>
-
-Mr Bernard Roy<br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">Ms Nur Atikah Binte Kamsani</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Mr Bernard Roy</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mr Ong Kok Heng (SH, C&amp;T)</td>
+  </tr>
+</tbody>
+</table>
 			
 </p>
 
