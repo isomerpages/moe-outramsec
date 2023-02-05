@@ -28,8 +28,8 @@ description: ""
 	<a href="https://sites.google.com/view/osseopenhouse/welcome-to-oss">e-Open House 2022</a><br>
 	<a href="/files/News%20&%20Announcements/2022%20NEW/SLS%20Updated%20Login-27Oct2022%20SecJCCI.pdf)">Updated Loging Procedure for SLS</a><br>
 	<a href="/news/2022/SEN-Carnival-2022/">SEN Carnival 2022</a><br>
-	<a href="Link">Title</a><br>
-	<a href="Link">Title</a><br>
+	<a href="/files/News%20&%20Announcements/2022%20NEW/Joint%20Advisory%20Year%20End%202022.pdf">Singapore Police Force Joint Advisory Year End 2022</a><br>
+	<a href="/files/News%20&%20Announcements/2022%20NEW/HPB%20HSA%20advisory%20on%20vaping.pdf">HPHHAS Advisory on Vaping 2022</a><br>
 	<a href="Link">Title</a><br>
 	<a href="Link">Title</a><br>
 	<a href="Link">Title</a><br>
