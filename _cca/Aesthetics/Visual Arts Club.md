@@ -18,10 +18,31 @@ Visual Art Club (VAC) comprises of a group of students who have various interest
 
     <div>
 
-			<p> <b> Teachers in Charge </b><br>
-Ms Serene Wong<br>  
-
-Mdm Wong Heng Yee<br></p>
+<p> <b> Teachers in Charge </b><br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">Ms Serene Wong</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Ms Jolin Yong</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mrs Yeo Yang Hong (SH, Sci)</td>
+  </tr>
+</tbody>
+</table>
+			</p>
 
     </div>
 
