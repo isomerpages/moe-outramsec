@@ -84,7 +84,7 @@ As for members of SRC Dance, they learn traditional folklore dances and get the 
 
 </li>
 	
-	<li>
+<li>
 
     <input type="checkbox" id="accordion3">
 
