@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Teachers.md
-      - Parents.md
       - Students.md
+      - Parents.md
