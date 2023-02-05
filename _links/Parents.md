@@ -137,6 +137,8 @@ description: ""
     <div>
 
 <p>
+	
+<a href="files/Links/Parents/FAS%20Information/MOE%20FAS%20Application%20Form%20Sep%2021%20for%20OSS%20website.pdf">MOE FAS Application Form 2022</a><br>
 			<a href="files/Links/Parents/FAS%20Information/MOE%20FAS%20Application%20Form%20Sep%2021%20for%20OSS%20website.pdf">MOE FAS Application Form 2022</a><br>
 			<a href="files/Links/Parents/FAS%20Information/MOE_FAS_Pamphlet_2022.pdf">MOE FAS Scheme 2022</a><br>
 			<a href="MOE-FAS-for-Y2021-is-open-for-application-now">MOE-FAS for Y2021 is open for application now!</a><br>
