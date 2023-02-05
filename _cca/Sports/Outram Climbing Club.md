@@ -95,24 +95,16 @@ Prior to the yearly National Schools Bouldering Championship and National School
 </thead>
 <tbody>
   <tr>
+    <td class="tg-lr6o"><span style="color:#222"> Inter Schools Bouldering Championship 2022</span></td>
+    <td class="tg-lr6o"><span style="color:#222"> </span>“C“ Division (Boys) - 2nd position</td>
+  </tr>
+  <tr>
     <td class="tg-vqm8"><br><br><br>National Schools Bouldering Championship 2019<br></td>
     <td class="tg-u05r">“B“ Division (Girls) - 2nd position<br><br><br>“C“ Division (Boys) - 2nd position<br></td>
   </tr>
   <tr>
     <td class="tg-lr6o"><span style="color:#222">National Schools Speed Climbing Championship 2019</span></td>
-    <td class="tg-u05r">“C” Division (Girls) - Champion<br>  <br>“B” Division (Girls)- Champion<br><br>“C” Division (Boys)- Champion<br> “B” Division (Boys) - 3rd position      <br></td>
-  </tr>
-  <tr>
-    <td class="tg-lr6o"><span style="color:#222"> National Schools Bouldering Championship 2018  </span></td>
-    <td class="tg-u05r"> “C” Division (Girls) - 2nd position<br><br> “B” Division (Girls) - Champion<br> “C” Division (Boys)- Champion<br> “B” Division (Boys) - 2nd position</td>
-  </tr>
-  <tr>
-    <td class="tg-vqm8">National Schools Speed Climbing Championship 2018<br></td>
-    <td class="tg-u05r"> “C” Division (Girls) - Champion<br> “B” Division (Girls) - Champion<br> “C” Division (Boys) - 2nd position<br> “B” Division (Boys)- Champion  <br></td>
-  </tr>
-  <tr>
-    <td class="tg-vqm8">Asian Cup 2018 </td>
-    <td class="tg-u05r">  Men Bouldering<br>  VEROSIL GERALD BAYO 1st</td>
+    <td class="tg-u05r">“C” Division (Girls) - Champion<br>  <br>“B” Division (Girls)- Champion<br><br>“C” Division (Boys)- Champion<br> “B” Division (Boys) - 3rd position   </td>
   </tr>
 </tbody>
 </table>
