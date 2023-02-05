@@ -72,20 +72,28 @@ b. Character and Citizenship Education (CCE)
   
 
 **Secondary 1**
-![](/images/Instructional%20Programmes/Sexuality%20Education/CCESE01.png)
+![](/images/Instructional%20Programmes/Sexuality%20Education/SE1NEW.png)
+![](/images/Instructional%20Programmes/Sexuality%20Education/SE2NEW.png)
+
 
 **Secondary 2**
-![](/images/Instructional%20Programmes/Sexuality%20Education/CCESE02.png)
+![](/images/Instructional%20Programmes/Sexuality%20Education/SE3NEW.png)
+![](/images/Instructional%20Programmes/Sexuality%20Education/SE4NEW.png)
+![](/images/Instructional%20Programmes/Sexuality%20Education/SE5NEW.png)
 
 **Secondary 3**
-![](/images/Instructional%20Programmes/Sexuality%20Education/CCESE03.png)
+![](/images/Instructional%20Programmes/Sexuality%20Education/SE6NEW.png)
+![](/images/Instructional%20Programmes/Sexuality%20Education/SE7NEW.png)
+
 
 **Secondary 4**
-![](/images/Instructional%20Programmes/Sexuality%20Education/CCESE04.png)
-![](/images/Instructional%20Programmes/Sexuality%20Education/CCESE05.png)
+![](/images/Instructional%20Programmes/Sexuality%20Education/SE8NEW.png)
+![](/images/Instructional%20Programmes/Sexuality%20Education/SE9NEW.png)
+![](/images/Instructional%20Programmes/Sexuality%20Education/SE10NEW.png)
+
 
 **Secondary 5**
-![](/images/Instructional%20Programmes/Sexuality%20Education/CCESE06.png)
+![](/images/Instructional%20Programmes/Sexuality%20Education/SE11NEW.png)
 
 **_eTeens_ Programme:**
 
@@ -99,8 +107,8 @@ b. Character and Citizenship Education (CCE)
 
   
 
-**At Outram Secondary School, the eTeens programme will be implemented as follows in 2022:**
-![](/images/Instructional%20Programmes/Sexuality%20Education/CCESE07.png)
+**At Outram Secondary School, the eTeens programme will be implemented as follows in 2023:**
+![](/images/Instructional%20Programmes/Sexuality%20Education/SE12NEW.png)
 
 **Information for Parents**
 
