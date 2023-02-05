@@ -24,15 +24,31 @@ Student leaders organized team-bonding activities through the video conferencing
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-			<p> <b>Teachers in Charge</b><br>
+<p> <b>Teachers in Charge</b><br>
 				
-Mr Tang Yee Fun Francis (LT/PE CCA)<br>  
-
-Mr Jeremy Lum Wei Jian<br>
-
-Ms Gladys Lim<br>
-
-Mr Azaac Tan<br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">Mr Neo Sian Lee</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Mr Azaac Tan</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Ms Gladys Lim</td>
+  </tr>
+</tbody>
+</table>
 			
 </p>
 
