@@ -102,16 +102,14 @@ The 10-hour blended learning workshop aims to introduce the concept of innovatio
 
 ### **Members**
 
-| Ms Serene Cheong    | Head of Department                                 |
-|---------------------|----------------------------------------------------|
-| Mrs Wendy Loi (OIC) | Financial Literacy                                 |
-| Mdm Chua YP         | Financial Literacy                                 |
-| Mr Jeremy Lum       | Financial Literacy                                 |
-| Ms Serene Wong      | Financial Literacy                                 |
-| Mr Gabriel Fu       | Financial Literacy and  Entrepreneurship Programme |
-| Mdm Casey Lee       |  Secondary 2 and 3 Entrepreneurship Programme      |
-| Ms Woo See Wei      | Secondary 2 and 3 Entrepreneurship Programme       |
-| Ms Gladys Lim       | Secondary 2 and 3 Entrepreneurship Programme       |
+| Ms Serene Cheong | Head of Department |
+|---|---|
+| Mrs Wendy Loi (OIC) | Financial Literacy |
+| Mdm Chua YP | Financial Literacy |
+| Mdm Casey Lee | Financial Literacy |
+| Mr Gabriel Fu | Entrepreneurship Programme |
+| Ms Serene Wong | Entrepreneurship Programme |
+| Ms Gladys Lim  | Entrepreneurship Programme |
 
   
   
