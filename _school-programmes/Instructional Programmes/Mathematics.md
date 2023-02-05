@@ -41,6 +41,7 @@ To develop students’ mathematical thinking and problem solving skills through 
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-lyvw{color:#111;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
@@ -51,24 +52,24 @@ To develop students’ mathematical thinking and problem solving skills through 
 </thead>
 <tbody>
   <tr>
-    <td class="tg-lyvw">Mr Charles Yip (ST/Mathematics)</td>
-    <td class="tg-lyvw">Mr Huang Jianyang Marcus (ST/Physics)</td>
-  </tr>
-  <tr>
-    <td class="tg-lyvw">Mr Lim Teck Ming</td>
+    <td class="tg-lyvw">Ms Yong Li Zhuang Jolin (SH/Mathematics)</td>
     <td class="tg-lyvw">Mdm Lee Suet Har Casey</td>
   </tr>
   <tr>
-    <td class="tg-lyvw">Mr Lim Ting Long</td>
+    <td class="tg-lyvw">Mr Lim Teck Ming</td>
     <td class="tg-lyvw">Ms Ng Yu Yan Gloria<br></td>
   </tr>
   <tr>
-    <td class="tg-lyvw">Mdm Chua Yi Ping</td>
-    <td class="tg-lyvw">Mr Jeremy Lum Wei Jian<br></td>
+    <td class="tg-lyvw">Mr Lim Ting Long</td>
+    <td class="tg-lyvw">Ms Nurul Nadhirah <br></td>
   </tr>
   <tr>
-    <td class="tg-lyvw">Ms Tan Xi Ling</td>
-    <td class="tg-lyvw">Ms Nurul Nadhirah </td>
+    <td class="tg-lyvw">Mdm Chua Yi Ping</td>
+    <td class="tg-lyvw"></td>
+  </tr>
+  <tr>
+    <td class="tg-lyvw">Mr Neo Sian Lee</td>
+    <td class="tg-0lax"></td>
   </tr>
 </tbody>
 </table> </p>
