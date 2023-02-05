@@ -36,12 +36,32 @@ Cadets will play a significant role in guiding the newly appointed cadet leaders
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-			<p> <b> Teachers in Charge </b><br>
- Ms Nurul<br>
+<p> <b> Teachers in Charge </b><br>
 
-Mr Abdul Rahman<br>
-
-Mr Ooi Jason<br></p>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0lax">Ms Nurul Nadhirah Binte Abdul Hafiz</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Ms Diana Bte Othman</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Mr Abdul Rahman (ST)</td>
+  </tr>
+</tbody>
+</table>	
+	</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
