@@ -157,7 +157,7 @@ Read our students’ published works on the students’ blog:  <a href="https:/
 The Literature and English teams join hands to organize an annual day of fun for the Secondary 1s and 2s. Games include Spelling Bee, Running Idioms, Caption This!, Act Up, Choral Reading and the finale, Character Parade.<br>
 			
 <img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/EP02.jpg"> 
-			<b>Learning Journeys</b><br>
+			<b>Enrichment and Learning Journeys</b><br>
 
    
 
