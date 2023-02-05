@@ -92,7 +92,7 @@ As for members of SRC Dance, they learn traditional folklore dances and get the 
 
     <div>
 
-			<p><br><b>Achievements</b><br>
+<p><br><b>Achievements</b><br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
