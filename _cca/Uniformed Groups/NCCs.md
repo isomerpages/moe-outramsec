@@ -155,10 +155,8 @@ Cadets will play a significant role in guiding the newly appointed cadet leaders
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> Bonding activity between NCC and the National Police Cadet Corps (NPCC) cadets:  
-Beyond the Inter-Uniformed Group games during regular training days, the two units had also spent an entire morning together at Alexandra Canal. Cadets from both units had to complete various tasks such as map reading and fact finding along the canal. These activities drew on themes of environmental awareness and basic topography skills, while providing the cadets the platform to do cooperative learning.<br>  
-  
-Since July 2020, NCC Outram has switched to e-learning platforms in Phase 2 of the Covid-19 situation. With the help, guidance and support of HQ NCC, our cadets are still able to be nurtured as caring and concerned citizens, learning how to keep mentally and physically fit through the videos and modular courses that are made available online.
+<p>  
+Core Key events that NCC take part in include Total Defence Commemoration, National Day Observance Ceremony and Remembrance Day.
 			</p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
