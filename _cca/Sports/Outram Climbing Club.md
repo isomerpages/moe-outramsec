@@ -60,13 +60,14 @@ Prior to the yearly National Schools Bouldering Championship and National School
     <div>
 
 <p>Schedule<br> 
-Monday,Wednesday and Friday      2:30 PM – 5:30 PM			<br></p>
+	
+<table class="ives_tab_kosong" style="margin: 0px; outline: 0px; padding: 0px; border-collapse: collapse; border: 1px solid transparent; table-layout: fixed; color: rgb(17, 17, 17); font-family: &quot;Open Sans&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; height: 20px;"><tbody class="" style="margin: 0px; outline: 0px; padding: 0px;"><tr class="" style="margin: 0px; outline: 0px; padding: 0px;"><td width="227" class="" style="margin: 0px; outline: 0px; padding: 7px; vertical-align: top;"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">Monday, Wednesday, Friday</span></p></td><td width="163" class="" style="margin: 0px; outline: 0px; padding: 7px; vertical-align: top;"><p class="" style="margin: 0px 0px 1em; outline: 0px; padding: 0px; line-height: 22.4px;"><span class="" style="margin: 0px; outline: 0px; padding: 0px;">2.30 PM – 5.00 PM</span></p></td></tr></tbody></table></p>
 
     </div>
 
 </li>
 	
-	<li>
+<li>
 
     <input type="checkbox" id="accordion3">
 
@@ -74,7 +75,7 @@ Monday,Wednesday and Friday      2:30 PM – 5:30 PM			<br></p>
 
     <div>
 
-			<p><br><b>Achievements</b><br>
+<p><br><b>Achievements</b><br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
