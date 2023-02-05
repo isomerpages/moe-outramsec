@@ -4,7 +4,7 @@ permalink: /cca/Uniformed-Groups/nccs/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-<iframe allowfullscreen="true" height="299" width="480" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSBlFd_TAlTnomMX0ng4HvpdO9Uo0jAFWuFDHULfe-9qapGRkluQn44y-9h8RZ4HhGw5wrflpq48zKt/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTE2L9pwBZyr0kQoM7t_IYVhD_Yy_40IBSSrk8LYqBCQTDGAaMkBXFoFIkMkzFbMctBNT7yxPVOX722/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 The National Cadet Corp (NCC) is a CCA unlike any other. NCC promises perspiration, involves inspiration and teaches values. In NCC, cadets are groomed to become compassionate student leaders, who contribute to the development of self, unit, school and nation, through fun and challenging military activities.  
   
@@ -28,13 +28,13 @@ Cadets will play a significant role in guiding the newly appointed cadet leaders
 
 <ul class="jekyllcodex_accordion">
 
-  <li>
+&nbsp;&nbsp;<li>
 
-    <input type="checkbox" id="accordion1">
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion1" type="checkbox">
 
-    <label for="accordion1">Teachers in Charge</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Teachers in Charge</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 			<p> <b> Teachers in Charge </b><br>
  Ms Nurul<br>
@@ -43,54 +43,54 @@ Mr Abdul Rahman<br>
 
 Mr Ooi Jason<br></p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	<li>
 
-    <input type="checkbox" id="accordion2">
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion2" type="checkbox">
 
-    <label for="accordion2">Schedule </label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Schedule </label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-			<p> Wednesday                 2:45 PM – 5:45 PM</p>
+			<p> Wednesday&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2:45 PM – 5:45 PM</p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
 	<li>
 
-    <input type="checkbox" id="accordion3">
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion3" type="checkbox">
 
-    <label for="accordion3">Achievements</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Achievements</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 			<p> 2020 Unit Recognition Award – Accomplished<br>  
   
 Best Unit Competition (2017) – Bronze</p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
 	<li>
 
-    <input type="checkbox" id="accordion4">
+&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion4" type="checkbox">
 
-    <label for="accordion4">Events</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">Events</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-      <p> Bonding activity between NCC and the National Police Cadet Corps (NPCC) cadets:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> Bonding activity between NCC and the National Police Cadet Corps (NPCC) cadets:  
 Beyond the Inter-Uniformed Group games during regular training days, the two units had also spent an entire morning together at Alexandra Canal. Cadets from both units had to complete various tasks such as map reading and fact finding along the canal. These activities drew on themes of environmental awareness and basic topography skills, while providing the cadets the platform to do cooperative learning.<br>  
   
 Since July 2020, NCC Outram has switched to e-learning platforms in Phase 2 of the Covid-19 situation. With the help, guidance and support of HQ NCC, our cadets are still able to be nurtured as caring and concerned citizens, learning how to keep mentally and physically fit through the videos and modular courses that are made available online.
 			</p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
