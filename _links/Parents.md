@@ -36,9 +36,23 @@ description: ""
 
 </li>
 	
-	<li>
+  <li>
 
     <input type="checkbox" id="accordion3">
+
+    <label for="accordion1">Booklists</label>
+
+    <div>
+
+<p> </p>
+
+    </div>
+
+</li>
+	
+	<li>
+
+    <input type="checkbox" id="accordion4">
 
     <label for="accordion3">Letter to Parents 2022</label>
 
@@ -74,7 +88,7 @@ description: ""
 	
 	<li>
 
-    <input type="checkbox" id="accordion4">
+    <input type="checkbox" id="accordion5">
 
     <label for="accordion4">PDLP 2022</label>
 
@@ -93,7 +107,7 @@ description: ""
 	
 <li>
 
-    <input type="checkbox" id="accordion5">
+    <input type="checkbox" id="accordion6">
 
     <label for="accordion5"> HBL </label>
 
@@ -115,7 +129,7 @@ description: ""
 	
 <li>
 
-    <input type="checkbox" id="accordion6">
+    <input type="checkbox" id="accordion7">
 
     <label for="accordion6">FAS Information</label>
 
@@ -135,7 +149,7 @@ description: ""
 	
 <li>
 
-    <input type="checkbox" id="accordion7">
+    <input type="checkbox" id="accordion8">
 
     <label for="accordion7">Parent Gateway</label>
 
