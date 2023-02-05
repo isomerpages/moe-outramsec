@@ -40,11 +40,12 @@ description: ""
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion1">Booklists</label>
+    <label for="accordion1">Letter to Parents 2023</label>
 
     <div>
 
-<p> </p>
+<p> <a href="/files/Links/Parents/Letter%20to%20Parents%202023/2023%20Term%201%20Letter%20to%20Parents%20Final.pdf">Term 1 Letter to Parents 2023</a>
+			</p>
 
     </div>
 
