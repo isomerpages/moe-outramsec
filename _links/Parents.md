@@ -13,7 +13,7 @@ description: ""
 
     <div>
 
-			<p> <a href="/Booklists-for-2022/">Booklists for 2022</a> </p>
+<p> <a href="/Booklists-for-2022/">Booklists for 2022</a> </p>
 
     </div>
 
@@ -30,7 +30,7 @@ description: ""
 				<a href="files/Links/Parents/Exam%20Timetables/S45%20Prelim%20Exam%20Timetable.pdf">Prelim Exam Timetable (Sec 4 and 5)</a><br>
 								<a href="files/Links/Parents/Exam%20Timetables/2022%20Mid%20Year%20Exam%20Timetable.pdf">Mid Year Exam Timetable (Sec 4 and 5)</a><br>
 				
-			</p>
+</p>
 
     </div>
 
@@ -50,7 +50,7 @@ description: ""
 
 </li>
 	
-	<li>
+<li>
 
     <input type="checkbox" id="accordion4">
 
@@ -58,8 +58,8 @@ description: ""
 
     <div>
 
-			<p> <b>2022</b><br>
-				<a href="files/Links/Parents/Letter%20to%20Parents%202022/2022%20Term%204%20Letter%20to%20Parents%20Final.pdf">Term 4 Letter to Parents 2022</a><br>
+<p> <b>2022</b><br>
+<a href="files/Links/Parents/Letter%20to%20Parents%202022/2022%20Term%204%20Letter%20to%20Parents%20Final.pdf">Term 4 Letter to Parents 2022</a><br>
 			<a href="files/Links/Parents/Letter%20to%20Parents%202022/Hardcopy%20Letter%20to%20Parents%20and%20Guardians%20Not%20Using%20PG%20-%20%20Sept%20Holidays%2022%20Travel%20Declaration.pdf">Travel Declaration for September Holiday 2022</a><br>
 			<a href="files/Links/Parents/Letter%20to%20Parents%202022/2022%20Term%203%20Letter%20to%20Parents%20Final.pdf">Term 3 Letter to Parents 2022</a><br>
 			<a href="files/Links/Parents/Letter%20to%20Parents%202022/2022%20Term%202%20Letter%20to%20Parents%20Final.pdf">Term 2 Letter to Parents 2022</a><br>
@@ -86,7 +86,7 @@ description: ""
 
 </li>
 	
-	<li>
+<li>
 
     <input type="checkbox" id="accordion5">
 
@@ -94,7 +94,7 @@ description: ""
 
     <div>
 
-			<p> 
+<p> 
 				<a href="files/Links/Parents/PDLP%202022/Purchase%20of%20PLD%20Letter%20to%20Parents.pdf">Purchase of PLD Letter to Parents</a><br>
 			<a href="files/Links/Parents/PDLP%202022/Learning%20with%20PLD%20Outram%20Secondary%20School.pdf">Learning with PLD Outram Secondary School</a><br>
 			<a href="files/Links/Parents/PDLP%202022/IP2%20-%20Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf">IP2 - Parent Handbook (I) on Learning with a PLD</a><br>
@@ -135,7 +135,7 @@ description: ""
 
     <div>
 
-			<p>
+<p>
 			<a href="files/Links/Parents/FAS%20Information/MOE%20FAS%20Application%20Form%20Sep%2021%20for%20OSS%20website.pdf">MOE FAS Application Form 2022</a><br>
 			<a href="files/Links/Parents/FAS%20Information/MOE_FAS_Pamphlet_2022.pdf">MOE FAS Scheme 2022</a><br>
 			<a href="MOE-FAS-for-Y2021-is-open-for-application-now">MOE-FAS for Y2021 is open for application now!</a><br>
@@ -155,7 +155,7 @@ description: ""
 
     <div>
 
-		<p> 
+<p> 
 				<a href="Launch-of-Parents-Gateway">Parent Gateway Portal</a><br> </p>
 
     </div>
