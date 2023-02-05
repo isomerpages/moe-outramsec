@@ -5,22 +5,14 @@ description: ""
 ---
 <img style="width:30%;height:50%" src="/images/School%20Programmes/Distinctive%20Programmes/ALP/ALP01.jpg">
 
-In addition to being recognized as Center of Excellence for Business & Enterprise in 2010, Outram Secondary School’s Business and Enterprise (B&E) has been recognised as an Applied Learning Programme (ALP) since 2014. This affirms the department’s aim and vision of providing a quality education in Business & Enterprise within school and reaching out to other students at a national level.
+![](/images/School%20Programmes/Distinctive%20Programmes/ALP/A1NEW.jpg)
 
-  
+![](/images/School%20Programmes/Distinctive%20Programmes/ALP/A2NEW.jpg)
 
-At Outram, we design programmes in recognition of the diverse interests and talents in line with supporting the development of multiple peaks of excellence and preparing our students to develop future work skills.  
+![](/images/School%20Programmes/Distinctive%20Programmes/ALP/A3NEW.jpg)
 
+![](/images/School%20Programmes/Distinctive%20Programmes/ALP/A4NEW.jpg)
 
-The programme consists of 2 tiers: Tier 1 is a 15 – 20 hours programme for all Secondary and One students while Tier 2 caters to students with the aptitude and interest as part of their talent development.
-
-![](/images/School%20Programmes/Distinctive%20Programmes/ALP/ALP02.png)
-
-![](/images/School%20Programmes/Distinctive%20Programmes/ALP/ALP03.png)
-
-The school has established partnership with Ngee Ann Polytechnic, The Sandbox, Pearson Education South Asia Pte Ltd, Singapore Management University -The Accounting Society, and Spirit of Enterprise (SOE) to leverage their expertise to develop ALP curriculum and programs with the emphasis of Financial Literacy and Entrepreneurship. 
-
-  
 
 **Financial Literacy with Project Moolah**
 
