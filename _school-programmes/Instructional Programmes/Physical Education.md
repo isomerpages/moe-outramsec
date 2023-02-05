@@ -31,27 +31,24 @@ To instill the school values in every Outramian through PE and Sports
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-lyvw">Mr Dan Koh (HOD PE/CCA)</th>
+    <th class="tg-lyvw">Mr Freddie Chan (Acting SH/PE &amp;CCA)</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-lyvw">Mr Francis Tang (LT PE/CCA)</td>
+    <td class="tg-lyvw">Mr Damien Ho <br></td>
   </tr>
   <tr>
-    <td class="tg-lyvw">Mr Freddie Chan </td>
+    <td class="tg-lyvw">Mr Wee Teck Lee<br></td>
   </tr>
   <tr>
-    <td class="tg-lyvw">Mr Damien Ho </td>
+    <td class="tg-lyvw">Mr Lim Teck Ming<br></td>
   </tr>
   <tr>
-    <td class="tg-lyvw">Mr Wee Teck Lee</td>
+    <td class="tg-lyvw">Ms Gloria Ng<br></td>
   </tr>
   <tr>
-    <td class="tg-lyvw">Mr Lim Teck Ming</td>
-  </tr>
-  <tr>
-    <td class="tg-lyvw">Ms Gloria Ng</td>
+    <td class="tg-lyvw">Mr Neo Sian Lee</td>
   </tr>
 </tbody>
 </table> </p>
