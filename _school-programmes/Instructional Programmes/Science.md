@@ -41,11 +41,11 @@ third_nav_title: Instructional Programmes
   </tr>
   <tr>
     <td class="tg-lyvw">Mr Huang Jianyang Marcus (ST/Physics)</td>
-    <td class="tg-lyvw">Mr Jeremy Lum Wei Jian<br></td>
+    <td class="tg-lyvw">Ms Diana Bte Othman<br></td>
   </tr>
   <tr>
     <td class="tg-lyvw">Mr Tan Tzei Kea (YH/Lower Secondary)</td>
-    <td class="tg-lyvw">Mr Krishnan Mathiyalagan<br></td>
+    <td class="tg-lyvw">Ms Lee Ai Li<br></td>
   </tr>
   <tr>
     <td class="tg-lyvw">Mr Azaac Tan Wei En</td>
