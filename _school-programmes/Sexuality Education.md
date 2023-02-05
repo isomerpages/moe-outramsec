@@ -67,7 +67,7 @@ b. Character and Citizenship Education (CCE)
 
   
 
-**At Outram Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2022:**
+**At Outram Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2023:**
 
   
 
