@@ -40,15 +40,15 @@ third_nav_title: Instructional Programmes
   </tr>
   <tr>
     <td class="tg-2mff">CCE SH</td>
-    <td class="tg-lyvw">Mrs. Yap Qiu Hong</td>
+    <td class="tg-lyvw">Ms. Nur Atikah Kamsani</td>
   </tr>
   <tr>
     <td class="tg-2mff">Specialised CCE Teachers (SCT):</td>
-    <td class="tg-lyvw">Mrs. Faith Tan<br>Mrs. Yap Qiu Hong<br>Mr. Charles Yip<br>Mr. Abdul Rahman Rahim<br><br></td>
+    <td class="tg-lyvw">Mrs. Faith Tan<br>Ms. Nurul Nadhirah<br>Ms. Ismath Banu Yaseen<br>Mr. Abdul Rahman Rahim<br><br><br><br></td>
   </tr>
   <tr>
     <td class="tg-2mff">Full Time School Counsellor</td>
-    <td class="tg-lyvw">Ms. Isabella<br></td>
+    <td class="tg-lyvw">Ms. Isabella Lee<br></td>
   </tr>
   <tr>
     <td class="tg-2mff">AED (SWO)</td>
@@ -64,15 +64,15 @@ third_nav_title: Instructional Programmes
   </tr>
   <tr>
     <td class="tg-2mff">CCE Team Leaders<br></td>
-    <td class="tg-lyvw">Ms. Nur Atikah Kamsani<br><br>Ms. Ismath<br>Mrs.Chua Wai Yi<br>Ms. Nurul Nadhirah<br><br></td>
+    <td class="tg-lyvw">Mrs. Chua Wai Yi<br><br>Ms. Nurul Nadhirah<br><br>Ms. Devi Durga</td>
   </tr>
   <tr>
     <td class="tg-2mff">Citizenship (NE) Coordinator</td>
-    <td class="tg-lyvw">Mrs.Yap Qiu Hong                     </td>
+    <td class="tg-lyvw">Ms. Nur Atikah Kamsani                </td>
   </tr>
   <tr>
     <td class="tg-2mff">Citizenship (NE) Committee Members</td>
-    <td class="tg-lyvw">Mrs.Yap Qiu Hong<br><br>Mrs. Chua Wai Yi<br>Ms.Ismath<br>Ms. Nur Atikah Kamsani<br>Ms. Devi Durga<br>Ms. Nurul Nadhirah<br><br></td>
+    <td class="tg-lyvw">Mrs. Chua Wai Yi<br><br>Ms. Ismath Banu Yaseen<br>Ms. Nur Atikah Kamsani<br>Ms. Devi Durga<br>Ms. Nurul Nadhirah<br><br></td>
   </tr>
   <tr>
     <td class="tg-2mff">Sexuality Education Coordinator</td>
@@ -83,8 +83,8 @@ third_nav_title: Instructional Programmes
     <td class="tg-lyvw">Mrs. Vivian Tan &amp; Ms. Nur  Atikah Kamsani</td>
   </tr>
   <tr>
-    <td class="tg-2mff">Career Guidance Coordinator<br><span style="color:#222"> </span><br>Career Guidance Counsellor<br><br><span style="color:#222"> </span></td>
-    <td class="tg-lyvw">Mrs. Vivian Tan &amp; Mrs. Wendy  Loi<br> <br>Ms. Zen Kua Yen Peng</td>
+    <td class="tg-2mff">Education and Career Guidance Coordinator<br><span style="color:#222"> </span><br>Education and Career Guidance Counsellor<br><br><span style="color:#222"> </span></td>
+    <td class="tg-lyvw">Mrs. Vivian Tan &amp; Mrs. Wendy  Loi<br> <br>Mr. Kenny Tan</td>
   </tr>
   <tr>
     <td class="tg-2mff">Environment (Green/Class Cleanliness) /Kindness</td>
