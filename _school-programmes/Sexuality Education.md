@@ -33,7 +33,7 @@ for more information on MOE Sexuality Education.
 
   
 
-**Overview of Outram Secondary School’s Sexuality Education Programme for 2022**
+**Overview of Outram Secondary School’s Sexuality Education Programme for 2023**
 
   
 
