@@ -61,7 +61,7 @@ Return of the National Sports Games<br>
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion1">2021</label>
+    <label for="accordion2">2021</label>
 
     <div>
 			
@@ -105,7 +105,7 @@ Return of the National Sports Games<br>
 
     <input type="checkbox" id="accordion3">
 
-    <label for="accordion2">2020</label>
+    <label for="accordion3">2020</label>
 
     <div>
 
@@ -140,7 +140,7 @@ Return of the National Sports Games<br>
 
     <input type="checkbox" id="accordion4">
 
-    <label for="accordion3">2019</label>
+    <label for="accordion4">2019</label>
 
     <div>
 
@@ -186,7 +186,7 @@ Return of the National Sports Games<br>
 
     <input type="checkbox" id="accordion5">
 
-    <label for="accordion4">2018</label>
+    <label for="accordion5">2018</label>
 
     <div>
 
