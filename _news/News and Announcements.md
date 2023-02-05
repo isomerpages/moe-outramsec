@@ -32,7 +32,7 @@ description: ""
 	<a href="/files/News%20&%20Announcements/2022%20NEW/HPB%20HSA%20advisory%20on%20vaping.pdf">HPHHAS Advisory on Vaping 2022</a><br>
 	<a href="/news-and-announcements/President-Award-for-Teachers-and-Outstanding-Youth-in-Education-Award-2023/">President's Award for Teachers (PAT) and Outstanding Youth in Education Award (OYEA) 2023)</a><br>
 	<a href="/news-and-announcements/Graduation-Day-2022/">Graduation Day 2022</a><br>
-	<a href="Link">Title</a><br>
+	<a href="https://www.schoolbag.edu.sg/story/it-takes-a-village-to-support-a-student">OSS featured in SCHOOLBAG: The Education News Site</a><br>
 	<a href="Link">Title</a><br>
 	<a href="Link">Title</a><br>
 	<a href="Link">Title</a><br>
