@@ -112,8 +112,12 @@ As for members of SRC Dance, they learn traditional folklore dances and get the 
 </thead>
 <tbody>
   <tr>
-    <td class="tg-vqm8"> Inter-School Ultimate Frisbee Competition 2019<br></td>
-    <td class="tg-u05r"> ‘C’ Division – 3rd Position<br> ‘B’ Division – 4th Position</td>
+    <td class="tg-vqm8"> Inter-School Ultimate Frisbee Competition 2022<br></td>
+    <td class="tg-u05r"> 'B' Division - 4th Position</td>
+  </tr>
+  <tr>
+    <td class="tg-lr6o"><span style="color:#222"> Inter-School Ultimate Frisbee Competition 2019</span></td>
+    <td class="tg-lr6o"><span style="color:#222"> </span>‘C’ Division – 3rd Position<br> ‘B’ Division – 4th Position</td>
   </tr>
   <tr>
     <td class="tg-lr6o"><span style="color:#222"> Inter-School Ultimate Frisbee Competition 2018</span></td>
