@@ -41,7 +41,7 @@ description: ""
 	<a href="/files/News%20&%20Announcements/FAQs%20for%20In%20Repel%20Distri%20Ex/Dengue%20Attachment%207-Frequently%20Asked%20Questions%20-%20NEAxTF%20Repellent%20Distribution.pdf">FAQs for Insect Repellent Distribution Exercise</a><br>
 	<a href="/files/News%20&%20Announcements/2022%20Edu%20Char%20Awa%20information/2022%20Edusave%20Character%20Award%20information.pdf">2022 Edusave Character Award information</a><br>
 	<a href="/files/News%20&%20Announcements/2022%20Edu%20Ch%20Aw%20nomination%20form/2022%20Edusave%20Character%20Award%20nomination%20form.pdf">2022 Edusave Character Award nomination form</a><br>
-	<a href="Link">Title</a><br>
+	<a href="/files/News%20&%20Announcements/Joint%20SPF%20CNB%20MOE%20Sch/Joint%20SPF%20CNB%20MOE%20School%20Advisory%20for%20Students%20(June%20School%20Holidays).pdf">Joint SPF CNB MOE School Advisory for Students (June School Holidays)</a><br>
 	<a href="Link">Title</a><br>
 	<a href="Link">Title</a><br>
 	<a href="Link">Title</a><br>
