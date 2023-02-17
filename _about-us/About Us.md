@@ -5,7 +5,7 @@ description: ""
 ---
 <figure>
 
-<a href="/about-us/Principals-Message/" target = "\_blank"> <img style="width:50%;height:50%" src="/images/About%20us/About%20us/Principal%20Pic.jpg">
+<a href="/about-us/Principals-Message/" target = "\_blank"> <img style="width:50%;height:50%" src="/images/About%20us/About%20us/PrincipalNEW.png">
 
 </a>
 
