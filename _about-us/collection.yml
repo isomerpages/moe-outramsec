@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - test.md
       - About Us.md
       - Principals Message.md
       - History.md
