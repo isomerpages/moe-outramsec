@@ -49,7 +49,7 @@ You may click [here](https://go.gov.sg/moe-sexuality-education) for more infor
 
 5\. The subjects that incorporate topics on sexuality include:
 
-a.  Science  
+a.  Science
 b. Character and Citizenship Education (CCE)
 
   
@@ -147,20 +147,10 @@ b. Character and Citizenship Education (CCE)
 
   
 
-10\. Parents may opt their children out of the Sexuality Education lessons, eTeens and/or supplementary sexuality education programmes by MOE-approved external providers.
+10\. Parents may opt their children out of the Sexuality Education lessons, _eTeens_ and/or supplementary sexuality education programmes                by MOE-approved external providers.
 
-  
+11\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be                      distributed to parents at the start of the year and is also downloadable [here](https://outramsec.moe.edu.sg/qql/slot/u512/PDF/2023/2023%20Info%20on%20SEd%20for%20schs%20website%20Secondary%20Schools%20Annex%20A.pdf). The completed form is to be submitted by 03/02/2023.
 
-11\. Parents who wish to opt their children out of the **Sexuality Education lessons** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here (please upload parents opt-out form found in Annex **A** and insert a hyperlink for parents to download the form). The completed form is to be submitted by 28/01/2022.
+12\. Parents who wish to opt their children out of the **_eTeens_** **programme** need to complete an opt-out form. This form will be distributed to              parents at the start of the year and is also downloadable [here](https://outramsec.moe.edu.sg/qql/slot/u512/PDF/2023/2023%20Info%20on%20SEd%20for%20schs%20website%20Secondary%20Schools%20Annex%20B.pdf). The completed form is to be submitted by 03/02/2023.
 
-  
-
-12\. Parents who wish to opt their children out of the **_eTeens_ programme** need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable here (please upload parents opt-out form found in Annex **B** and insert a hyperlink for parents to download the form).  The completed form is to be submitted by 28/01/2022.
-
-  
-
-13\. Parents can contact the school at [oss@moe.edu.sg](mailto:oss@moe.edu.sg) or 6733 4077 for discussion or to seek clarification about the school’s sexuality education programme.
-
-  
-
-14\. Parents, who wish to attend the school sexuality education programmes, should contact the school to make the necessary arrangements.
+13\. Parents can contact the school at (67334077 or outramsec@moe.edu.sg) for discussion or to seek clarification about the school’s Sexuality        Education programme.
