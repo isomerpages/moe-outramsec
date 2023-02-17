@@ -3,6 +3,7 @@ title: News and Announcements
 permalink: /News-and-Announcements/News-and-Announcements/
 description: ""
 ---
+* [Release of 2022 GCE 'O' Level Results](/news/Release-of-2022-GCE-O-Level-Results/)
 *   [Secondary 3 Camp 2023](/news/Secondary-3-Camp-2023/)
 *   [Outram at Chingay NE Show 2023](/news/Outram-at-Chingay-NE-Show-2023/)
 *   [MOE Sexuality Education Form 2023](/files/News%20&%20Announcements/2023/2023%20Info%20on%20SEd%20for%20schs%20website%20Secondary%20Schools%2017-19.pdf) 
