@@ -17,5 +17,5 @@ sections:
         - title: OSS SUCCESS STORIES
           description: VIEW ALL
           url: /OSS-Success-Stories/OSS-Success-Stories/
-      background: /images/Homepage/homebanner1.jpg
+      background: /images/Homepage/homebannerAnimated01.gif
 ---
