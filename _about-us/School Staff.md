@@ -3,7 +3,9 @@ title: School Staff
 permalink: /about-us/School-Staff/
 description: ""
 ---
-#### School Leaders
+```
+
+```#### School Leaders
 
 | Name | Appointment |
 |---|---|
@@ -96,7 +98,7 @@ description: ""
 |  Ms Li Jiayi<br><br><br>Ms Isabella Lee |             Senior Allied Educator<br>      (Learning & Behavioural Support) <br>           Allied Educator (Counsellor) |
 |  Mr Leo Chin Ho  | Student Welfare Officer  |
 | Ms Zahira | ICT Associate  |
-|  Mr DzulFadli<br> Mr Jufahizan | Desktop Engineer  |
+|  Mr Sasee<br> Mr Jufahizan | Desktop Engineer  |
 | Ms Nurhani Dikin | Librarian  |
 |  Mdm Asimah  |  Workshop Instructor |
 |  Mdm Santhi  |  OSO |
