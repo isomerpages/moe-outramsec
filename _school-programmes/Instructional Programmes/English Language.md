@@ -361,7 +361,7 @@ The team comprising Zander Widjaja, Nguyen Hai Duong (Sec 4/4) and Shyanne  (Se
 			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/E14.jpg">
 			
 			
-</p>
+
 
     </div>
 
@@ -573,8 +573,3 @@ The team comprising Zander Widjaja, Nguyen Hai Duong (Sec 4/4) and Shyanne  (Se
     </div>
 
 </li>
-	
-	
-
-	
-</ul>
