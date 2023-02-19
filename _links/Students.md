@@ -13,7 +13,7 @@ description: ""
 
     <div>
 
-      <p> <a href="/files/Links/Students/2023%20Student%20Handbook_final.pdf">Student Handbook 2022</a><br>
+      <p> <a href="/files/Links/Students/2023%20Student%20Handbook_final.pdf">Student Handbook 2023</a><br>
 				<a href="/files/Links/Students/OSS20Student20Handbook20Revision20Exam20Tips202022.pdf">Daily Revision and Exam Strategies for Students</a><br>
 
 			</p>
