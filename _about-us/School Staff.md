@@ -3,9 +3,9 @@ title: School Staff
 permalink: /about-us/School-Staff/
 description: ""
 ---
-```
 
-```#### School Leaders
+
+#### School Leaders
 
 | Name | Appointment |
 |---|---|
