@@ -3,8 +3,6 @@ title: School Staff
 permalink: /about-us/School-Staff/
 description: ""
 ---
-
-
 #### School Leaders
 
 | Name | Appointment |
@@ -55,15 +53,15 @@ description: ""
 
 | CLASS |  | Form Teachers |
 |:---:|:---:|:---:|
-| NT | S31 | <br>Ms Norizan Md Nor<br><br>Ms Ismath Banu<br><br>Lim Ting Long (LDM)<br> |
+| NT | S31 | Ms Norizan Md Nor<br>Ms Ismath Banu<br>Lim Ting Long (LDM)<br> |
 | NA | S32 | Ms Casey Lee<br>Mr Hazlan Bin Aris<br> |
-|  Exp |  S33 | <br>Mrs Chua Wai Yi<br><br>Mrs Looi Lay Geok<br><br>Mr Damien Ho (CAJT)<br><br> |
-|  Exp  |  S34 | Mdm Subbu Suba Sakthidevi<br><br>Ms Lee Ai Li |
-|  NT |   S41  | <br>Ms Gladys Lim<br><br>Ms Nasuha Binte Rahmat |
+|  Exp |  S33 | Mrs Chua Wai Yi<br>Mrs Looi Lay Geok<br>Mr Damien Ho (CAJT)<br><br> |
+|  Exp  |  S34 | Mdm Subbu Suba Sakthidevi<br>Ms Lee Ai Li |
+|  NT |   S41  | Ms Gladys Lim<br>Ms Nasuha Binte Rahmat |
 |  NA | S42 | <br>Mr Samson Wong<br>Mdm Hajjah Haslinda |
-|  Exp |  S43 | <br><br>Ms Durga Devi<br>Mr Azaac Tan |
+|  Exp |  S43 | Ms Durga Devi<br>Mr Azaac Tan |
 |  Exp |    S44  | Ms Chua Yi Ping<br><br>Ms Charmaine Loke |
-|  NA |    S51 | <br><br>Mdm Wong Heng Yee |
+|  NA |    S51 | Mdm Wong Heng Yee |
 
 #### Level Discipline Masters
 
