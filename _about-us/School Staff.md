@@ -44,8 +44,8 @@ description: ""
 | NA | S12  | Mr Gabriel Fu<br>Ms Diana Binte Othman |
 | Exp  |  S13 |              Mdm Singaram Vijayalakshmi         |
 |  Exp |  S14 | Mr Neo Sian Lee<br>Mr Prathivmohan S/O Chandramohan |
-| NT |    S21  | <br><br>Ms Goh Ban Leng<br>Ms Nurul Nadhirah  |
-| NA |    S22 | <br>Mr Lim Teck Ming<br>Ms Nur Atikah Bte Kamsani |
+| NT |    S21  | Ms Goh Ban Leng<br>Ms Nurul Nadhirah  |
+| NA |    S22 | Mr Lim Teck Ming<br>Ms Nur Atikah Bte Kamsani |
 | Exp |     S23 | <br><br>Ms Serene Wong<br>Ms Vivian Tan |
 | Exp |      S24  | <br><br>Mdm Tan Kim Choo<br>Mrs Wendy Loi |
 
