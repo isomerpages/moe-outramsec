@@ -1,0 +1,4 @@
+collections:
+  mtl-teachers-activities:
+    output: true
+    order: []
