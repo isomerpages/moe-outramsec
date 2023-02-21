@@ -1,0 +1,4 @@
+collections:
+  mtl-student-activities:
+    output: true
+    order: []
