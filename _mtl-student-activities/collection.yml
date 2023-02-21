@@ -2,6 +2,7 @@ collections:
   mtl-student-activities:
     output: true
     order:
+      - 2015.md
       - 2014.md
       - 2013.md
       - 2012.md
