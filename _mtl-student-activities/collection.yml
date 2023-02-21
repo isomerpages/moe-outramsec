@@ -2,4 +2,5 @@ collections:
   mtl-student-activities:
     output: true
     order:
+      - 2006.md
       - 2005.md
