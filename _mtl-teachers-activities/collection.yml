@@ -2,5 +2,6 @@ collections:
   mtl-teachers-activities:
     output: true
     order:
+      - 2005.md
       - 2004.md
       - 2003.md
