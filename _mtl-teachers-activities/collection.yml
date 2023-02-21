@@ -1,4 +1,5 @@
 collections:
   mtl-teachers-activities:
     output: true
-    order: []
+    order:
+      - 2003.md
