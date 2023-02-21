@@ -8,14 +8,17 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: News and announcements
-          description: VIEW ALL
+        - title: News and Announcements
+          description: VIEW
           url: /News-and-Announcements/News-and-Announcements/
-        - title: ACHIEVEMENTS
-          description: VIEW ALL
+        - title: Recent Events
+          description: VIEW
           url: /Achievements/Achievements/
-        - title: OSS SUCCESS STORIES
-          description: VIEW ALL
+        - title: Congratulatory Messages
+          description: VIEW
           url: /OSS-Success-Stories/OSS-Success-Stories/
+        - title: Links for Teachers
+          description: VIEW
+          url: ""
       background: /images/Homepage/homebannerAnimated01.gif
 ---
