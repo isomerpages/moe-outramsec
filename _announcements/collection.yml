@@ -2,7 +2,6 @@ collections:
   announcements:
     output: true
     order:
-      - Communication Workshop for Parents by HPB.md
       - Letter to Parents.md
       - Booklists for 2022.md
       - MOE FAS for Y2021 is open for application now.md
