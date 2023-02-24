@@ -80,7 +80,7 @@ Business Studies is assessed through two written papers. It is offered to Upper 
 
 <b>Syllabus guide</b><br><br>
 	
-<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2020syllabus/7085\_y20\_sy.pdf">https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2020syllabus/7085\_y20\_sy.pdf</a><br><br>
+<a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2023syllabus/7085\_y23\_sy.pdf</a><br><br>
  
 
 For more information, please email: <a href="cheong\_wenxin\_serene@moe.edu.sg">cheong\_wenxin\_serene@moe.edu.sg</a>  </p>
