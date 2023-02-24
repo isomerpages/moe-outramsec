@@ -13,13 +13,11 @@ At the end four/five years in Outram, Outramians should be
 
 **3.       A self-directed learner (self-directed, confident person)**
 
-### 
+
 
 #### **School’s CCE Mission: To nurture individuals with a true Outramian SPIRIT**
 
-### 
 
-### 
 
 #### **VIA Goals:**
 
