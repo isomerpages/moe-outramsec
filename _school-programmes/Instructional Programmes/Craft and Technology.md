@@ -128,7 +128,7 @@ This year, we embarked on a department wide learning framework. This learning fr
 
     <div>
 
-      <p>  Please <a href="https://sites.google.com/moe.edu.sg/e-learningartoss">Click here</a> to access E-learning Webpage<br><br>
+     
 			
 <b>Artworks by Secondary 1 and 2 students: Active learning using technology to create art on students’ Personal Learning Device. The Artworks were inspired by Vincent Van Gogh.</b><br><br>
 			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Craft%20and%20Technology/CTA01.jpg"><br>
