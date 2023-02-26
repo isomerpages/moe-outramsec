@@ -563,11 +563,11 @@ The team comprising Zander Widjaja, Nguyen Hai Duong (Sec 4/4) and Shyanne  (Se
 </tbody>
 </table><br><br>
 			<b>Suggested Reads</b><br><br>
-			<a href="files/School%20Programmes/Instructional%20Programmes/English%20Language/South_S1_LR.pdf">Sec 1</a>
-			<a href="files/School%20Programmes/Instructional%20Programmes/English%20Language/South_S2_LR.pdf">Sec 2</a>
-			<a href="files/School%20Programmes/Instructional%20Programmes/English%20Language/South_S3_LR.pdf">Sec 3</a>
-			<a href="files/School%20Programmes/Instructional%20Programmes/English%20Language/South_S4_LR.pdf">Sec 4</a>
-			<a href="files/School%20Programmes/Instructional%20Programmes/English%20Language/South_S5_LR.pdf">Sec 5</a>
+			<a href="/files/School%20Programmes/Instructional%20Programmes/English%20Language/South_S1_LR.pdf">Sec 1</a>
+			<a href="/files/School%20Programmes/Instructional%20Programmes/English%20Language/South_S2_LR.pdf">Sec 2</a>
+			<a href="/files/School%20Programmes/Instructional%20Programmes/English%20Language/South_S3_LR.pdf">Sec 3</a>
+			<a href="/files/School%20Programmes/Instructional%20Programmes/English%20Language/South_S4_LR.pdf">Sec 4</a>
+			<a href="/files/School%20Programmes/Instructional%20Programmes/English%20Language/South_S5_LR.pdf">Sec 5</a>
 			</p>
 
     </div>
