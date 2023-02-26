@@ -84,8 +84,3 @@ O n 1st January 1954, Outram ceased to be a purely Primary School and was conver
 2018 - The school began its re-envisioning exercise in response to the changing educational needs in the new century. Together with the school staff, the following changes were made:
 
 *   New vision: Lifelong Learners . Innovative Leaders . Caring Contributors
-
-
-
-
-
