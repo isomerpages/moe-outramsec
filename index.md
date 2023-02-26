@@ -20,5 +20,5 @@ sections:
         - title: Links for Teachers
           description: VIEW
           url: ""
-      background: /images/Homepage/homebannerAnimated01.gif
+      background: /images/Homepage/homebannerAnimated02.gif
 ---
