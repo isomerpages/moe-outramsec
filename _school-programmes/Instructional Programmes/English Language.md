@@ -387,18 +387,18 @@ The team comprising Zander Widjaja, Nguyen Hai Duong (Sec 4/4) and Shyanne  (Se
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-ojjp"><a href="files/School%20Programmes/Instructional%20Programmes/English%20Language/Outram%20Times%20-%20Version%204%20(1)%20(1).pdf">Outram Times 2018</a></th>
+    <th class="tg-ojjp"><a href="/files/School%20Programmes/Instructional%20Programmes/English%20Language/Outram%20Times%20-%20Version%204%20(1)%20(1).pdf">Outram Times 2018</a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-ojjp"><a href="files/School%20Programmes/Instructional%20Programmes/English%20Language/2017%20(Version%204).pdf"><span style="font-weight:600;text-decoration:none;color:#D70500">Outram Times 2017</span></a> </td>
+    <td class="tg-ojjp"><a href="/files/School%20Programmes/Instructional%20Programmes/English%20Language/2017%20(Version%204).pdf"><span style="font-weight:600;text-decoration:none;color:#D70500">Outram Times 2017</span></a> </td>
   </tr>
   <tr>
-    <td class="tg-ojjp"><a href="files/School%20Programmes/Instructional%20Programmes/English%20Language/outramtimes2.pdf"><span style="font-weight:600;text-decoration:none;color:#D70500">Outram Times 2016</span></a></td>
+    <td class="tg-ojjp"><a href="/files/School%20Programmes/Instructional%20Programmes/English%20Language/outramtimes2.pdf"><span style="font-weight:600;text-decoration:none;color:#D70500">Outram Times 2016</span></a></td>
   </tr>
   <tr>
-    <td class="tg-ojjp"><a href="files/School%20Programmes/Instructional%20Programmes/English%20Language/Publication_Outram%20Times12%20(2).pdf"><span style="font-weight:600;text-decoration:none;color:#D70500">Outram Times 2015</span></a></td>
+    <td class="tg-ojjp"><a href="/files/School%20Programmes/Instructional%20Programmes/English%20Language/Publication_Outram%20Times12%20(2).pdf"><span style="font-weight:600;text-decoration:none;color:#D70500">Outram Times 2015</span></a></td>
   </tr>
 </tbody>
 </table> </p>
