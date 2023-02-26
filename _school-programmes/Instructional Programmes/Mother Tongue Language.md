@@ -244,21 +244,22 @@ Students were engaged and enjoyed the gamification part on the SLS. The hands-on
 	
 <b>Archive</b>
 	
-<a href="link">2017</a><br>
-	<a href="link">2016</a><br>
-<a href="link">2015</a><br>
-<a href="link">2014</a><br>
-<a href="link">2013</a><br>
-<a href="link">2012</a><br>
-<a href="link">2011</a><br>
-<a href="link">2010</a><br>
-<a href="link">2009</a><br>
-<a href="link">2008</a><br>
-<a href="link">2007</a><br>
-<a href="link">2006</a><br>
-<a href="link">2005</a><br>
+<a href="/mtl-student-activities/2018/">2018</a><br>
+<a href="/mtl-student-activities/2017/">2017</a><br>
+	<a href="/mtl-student-activities/2016/">2016</a><br>
+<a href="/mtl-student-activities/2015/">2015</a><br>
+<a href="/mtl-student-activities/2014/">2014</a><br>
+<a href="/mtl-student-activities/2013/">2013</a><br>
+<a href="/mtl-student-activities/2012/">2012</a><br>
+<a href="/mtl-student-activities/2011/">2011</a><br>
+<a href="/mtl-student-activities/2010/">2010</a><br>
+<a href="/mtl-student-activities/2009/">2009</a><br>
+<a href="/mtl-student-activities/2008/">2008</a><br>
+<a href="/mtl-student-activities/2007/">2007</a><br>
+<a href="/mtl-student-activities/2006/">2006</a><br>
+<a href="/mtl-student-activities/2005/">2005</a><br>
 
-	</p>
+</p>
 
 </div>
 
