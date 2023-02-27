@@ -35,7 +35,7 @@ Visual Art Club (VAC) comprises of a group of students who have various interest
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">Ms Jolin Yong</td>
+    <td class="tg-0lax">Ms Jolin Yong (SH, Maths)</td>
   </tr>
   <tr>
     <td class="tg-0lax">Mrs Yeo Yang Hong (SH, Sci)</td>
