@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Outram Community Network.md
       - About Us.md
       - Principal's Message.md
       - History.md
@@ -11,6 +10,7 @@ collections:
       - School Song.md
       - School Staff.md
       - School Advisory Committee.md
+      - Outram Community Network.md
       - Outram Alumni/.keep
       - Outram Alumni/Outram Alumni.md
       - Outram Alumni/Old Outramians Association.md
