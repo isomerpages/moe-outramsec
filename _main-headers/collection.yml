@@ -1,0 +1,4 @@
+collections:
+  main-headers:
+    output: true
+    order: []
