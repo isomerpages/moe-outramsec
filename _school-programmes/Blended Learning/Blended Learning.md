@@ -14,6 +14,10 @@ Blended Learning is a system of learning initiated by the MOE, where students w
 
 **BL@School** refers to the time they learn when they are in school.
 
-Please see the 2022 schedule for BL@Home under the tab TIMETABLE
+
+
+
+
+
 
 Please also visit the INSTRUCTIONS, RESOURCES and TECHNICAL ASSISTANCE tabs for more details, assistance and resources on Blended Learning.
