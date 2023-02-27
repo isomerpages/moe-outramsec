@@ -1,0 +1,4 @@
+collections:
+  highlight-menu:
+    output: true
+    order: []
