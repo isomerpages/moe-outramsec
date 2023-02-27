@@ -1,5 +1,5 @@
 collections:
-  the-oss-story:
+  the-outram-story:
     output: true
     order:
       - School Stories.md
