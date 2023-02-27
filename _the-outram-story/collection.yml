@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - School Stories.md
-      - Students Achievements.md
+      - Student Achievements.md
       - Staff Achievements.md
