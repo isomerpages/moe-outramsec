@@ -3,6 +3,15 @@ title: Outram Featured in Media
 permalink: /media/Outram-Featured-in-Media/
 description: ""
 ---
+#### **2022**
+
+
+*    [Most Inspiring Tamil Teacher Award 2022 Mdm Subbu Suba Sakthidevi](https://youtu.be/jZLtQdmbdSM)
+
+  
+
+*    [Inspiring Teacher of English Award 2022 (Teaching Award) Lim Yean Yue, Gladys](https://youtu.be/f8pYphpr9CM)
+
 ![](/images/Media/Outram%20Featured%20in%20Media/Vivian%20Lim%20in%20ST%20002.jpg)
 
  
