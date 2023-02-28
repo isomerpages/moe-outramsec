@@ -1,4 +1,4 @@
 collections:
-  main-header-menu:
+  top-header-menu:
     output: true
     order: []
