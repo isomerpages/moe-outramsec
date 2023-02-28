@@ -35,7 +35,6 @@ The theme of this year’s challenge was Fostering a Sustainable Hawker Culture 
 
 Our team consisting of Chiang Hoe Siang (S3/4), Satidsawat Podtakon (S3/4), Ong Bing Xuan (S3/4), presented their financially savvy ideas and practices against 8 other teams during the final challenge. The team emerged victorious, winning the Most Financial Savvy Award for FLY Challenge 2021. The experience gained during this challenge was enriching and invaluable for all the participants.  
 
-Link to students’ video: Click [Here](https://drive.google.com/file/d/1miZ07n7rM_nOsU4jFPO7wlI0tUvZbaIR/view?usp=sharing)
 
   
 
