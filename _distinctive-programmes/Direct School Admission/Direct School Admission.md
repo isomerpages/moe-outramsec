@@ -36,8 +36,8 @@ Ms Cheong Wenxin, Serene Tel: 6733 4077 ext.212 Email: cheong\_wenxin\_serene
 
   
 For more information on Sports Related DSA, please contact the following:  
-Mr Dan Koh (HOD PE/CCA)  
+Mr Freddie Chan (Acting Subject Head/ PE and CCA)  
 Tel: 6733 4077 ext.215  
-Email: [dan\_koh@moe.edu.sg](mailto:dan_koh@moe.edu.sg)
+Email: [freddie@moe.edu.sg](mailto:dan_koh@moe.edu.sg)
 
 ![](/images/School%20Programmes/Distinctive%20Programmes/DSA/DSA02.png)
