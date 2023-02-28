@@ -383,23 +383,22 @@ description: ""
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-2w19{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:top}
 .tg .tg-aaqb{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:middle}
-.tg .tg-8s0f{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-muqq{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-h9r6{background-color:#1F8CE4;color:#F2F9FF;text-align:left;vertical-align:middle}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-8s0f"><span style="color:#F2F9FF;background-color:#1F8CE4">Name</span></th>
-    <th class="tg-8s0f"><span style="color:#F2F9FF;background-color:#1F8CE4">Appointment</span></th>
+    <th class="tg-h9r6"><span style="color:#F2F9FF;background-color:#1F8CE4">Name</span></th>
+    <th class="tg-h9r6"><span style="color:#F2F9FF;background-color:#1F8CE4">Appointment</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-muqq">Mdm Karthigah </td>
+    <td class="tg-2w19">Mdm Karthigah </td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Administration Manager </span></td>
   </tr>
   <tr>
-    <td class="tg-muqq">Mr SelvaRaja Rajoo</td>
+    <td class="tg-2w19">Mr SelvaRaja Rajoo</td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Operations Manager</span></td>
   </tr>
   <tr>
@@ -419,7 +418,7 @@ description: ""
     <td class="tg-2w19">Student Welfare Officer<span style="color:#222;background-color:#F2F9FF"> </span></td>
   </tr>
   <tr>
-    <td class="tg-muqq">Ms Zahira<br></td>
+    <td class="tg-2w19">Ms Zahira<br></td>
     <td class="tg-2w19">ICT Associate<span style="color:#222;background-color:#F2F9FF"> </span></td>
   </tr>
   <tr>
@@ -427,7 +426,7 @@ description: ""
     <td class="tg-2w19">Desktop Engineer<span style="color:#222;background-color:#F2F9FF"> </span></td>
   </tr>
   <tr>
-    <td class="tg-muqq">Ms Nurhani Dikin</td>
+    <td class="tg-2w19">Ms Nurhani Dikin</td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Librarian </span></td>
   </tr>
   <tr>
