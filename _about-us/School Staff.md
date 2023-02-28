@@ -422,7 +422,7 @@ description: ""
     <td class="tg-da8v">ICT Associate<span style="color:#222;background-color:#F2F9FF"> </span></td>
   </tr>
   <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> </span>Mr DzulFadli<br> Mr Jufahizan</td>
+    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> </span>Mr SaseeKumar<br> Mr Jufahizan</td>
     <td class="tg-da8v">Desktop Engineer<span style="color:#222;background-color:#F2F9FF"> </span></td>
   </tr>
   <tr>
@@ -441,10 +441,7 @@ description: ""
     <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> </span>Ms Siti Aisyah</td>
     <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> OSO</span></td>
   </tr>
-  <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> </span>Mdm Lee Bee Hiang </td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> OSO</span></td>
-  </tr>
+  
   <tr>
     <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> </span>Mr Tagehan </td>
     <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> OSO</span></td>
