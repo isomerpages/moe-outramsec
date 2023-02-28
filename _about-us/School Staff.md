@@ -394,60 +394,60 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-da8v">Mdm Karthigah </td>
+    <td class="tg-i38w">Mdm Karthigah </td>
     <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Administration Manager </span></td>
   </tr>
   <tr>
-    <td class="tg-da8v">Mr SelvaRaja Rajoo</td>
+    <td class="tg-i38w">Mr SelvaRaja Rajoo</td>
     <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Operations Manager</span></td>
   </tr>
   <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> </span>Ms Julia Tan</td>
+    <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF"> </span>Ms Julia Tan</td>
     <td class="tg-da8v">Administration Executive<span style="color:#222;background-color:#F2F9FF"> </span></td>
   </tr>
   <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> </span>Mr Mohammad Faizan </td>
+    <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF"> </span>Mr Mohammad Faizan </td>
     <td class="tg-da8v">Corporate Support Officer<span style="color:#222;background-color:#F2F9FF"> </span></td>
   </tr>
   <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> </span>Ms Li Jiayi<br><br><br>Ms Isabella Lee</td>
-    <td class="tg-da8v">            Senior Allied Educator<br>      (Learning &amp; Behavioural Support) <br>           Allied Educator (Counsellor)</td>
+    <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF"> </span>Ms Li Jiayi<br><br><br>Ms Isabella Lee</td>
+    <td class="tg-da8v">            Senior Allied Educator<br>      (Learning &amp; Behavioural Support) <br><br>           Allied Educator (Counsellor)</td>
   </tr>
   <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> </span>Mr Leo Chin Ho </td>
+    <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF"> </span>Mr Leo Chin Ho </td>
     <td class="tg-da8v">Student Welfare Officer<span style="color:#222;background-color:#F2F9FF"> </span></td>
   </tr>
   <tr>
-    <td class="tg-da8v">Ms Zahira<br></td>
+    <td class="tg-i38w">Ms Zahira<br></td>
     <td class="tg-da8v">ICT Associate<span style="color:#222;background-color:#F2F9FF"> </span></td>
   </tr>
   <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> </span>Mr SaseeKumar<br> Mr Jufahizan</td>
+    <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF"> </span>Mr SaseeKumar<br> Mr Jufahizan</td>
     <td class="tg-da8v">Desktop Engineer<span style="color:#222;background-color:#F2F9FF"> </span></td>
   </tr>
   <tr>
-    <td class="tg-da8v">Ms Nurhani Dikin</td>
+    <td class="tg-i38w">Ms Nurhani Dikin</td>
     <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">Librarian </span></td>
   </tr>
   <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> </span>Mdm Asimah </td>
+    <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF"> </span>Mdm Asimah </td>
     <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> Workshop Instructor</span></td>
   </tr>
   <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> </span>Mdm Santhi </td>
+    <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF"> </span>Mdm Santhi </td>
     <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> OSO</span></td>
   </tr>
   <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> </span>Ms Siti Aisyah</td>
+    <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF"> </span>Ms Siti Aisyah</td>
     <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> OSO</span></td>
   </tr>
   
   <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> </span>Mr Tagehan </td>
+    <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF"> </span>Mr Tagehan </td>
     <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> OSO</span></td>
   </tr>
   <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> </span>Mr Ong Wee Teck</td>
+    <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF"> </span>Mr Ong Wee Teck</td>
     <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> OSO</span></td>
   </tr>
 </tbody>
