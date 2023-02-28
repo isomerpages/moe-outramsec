@@ -180,33 +180,33 @@ description: ""
   </tr>
   <tr>
     <td class="tg-i38w">Exp </td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> </span>S13</td>
+    <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF"> </span>S13</td>
     <td class="tg-da8v">             Mdm Singaram Vijayalakshmi        </td>
   </tr>
   <tr>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> </span>Exp</td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF"> </span>S14</td>
-    <td class="tg-da8v"><br>Mr Neo Sian Lee<br><br><span style="color:#222;background-color:#F2F9FF">Mr Prathivmohan S/O Chandramohan</span><br></td>
+    <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF"> </span>Exp</td>
+    <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF"> </span>S14</td>
+    <td class="tg-da8v">Mr Neo Sian Lee<br><span style="color:#222;background-color:#F2F9FF">Mr Prathivmohan S/O Chandramohan</span><br></td>
   </tr>
   <tr>
     <td class="tg-i38w">NT</td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">   </span>S21<span style="color:#222;background-color:#F2F9FF"> </span></td>
-    <td class="tg-da8v"><br><br>Ms Goh Ban Leng<br>Ms Nurul Nadhirah </td>
+    <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF">   </span>S21<span style="color:#222;background-color:#F2F9FF"> </span></td>
+    <td class="tg-da8v">Ms Goh Ban Leng<br>Ms Nurul Nadhirah </td>
   </tr>
   <tr>
     <td class="tg-i38w">NA</td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">   </span>S22</td>
-    <td class="tg-da8v"><br>Mr Lim Teck Ming<br>Ms Nur Atikah Bte Kamsani<br></td>
+    <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF">   </span>S22</td>
+    <td class="tg-da8v">Mr Lim Teck Ming<br>Ms Nur Atikah Bte Kamsani<br></td>
   </tr>
   <tr>
     <td class="tg-i38w">Exp</td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">    </span>S23</td>
-    <td class="tg-da8v"><br><br>Ms Serene Wong<br>Ms Vivian Tan</td>
+    <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF">    </span>S23</td>
+    <td class="tg-da8v">Ms Serene Wong<br>Ms Vivian Tan</td>
   </tr>
   <tr>
     <td class="tg-i38w">Exp</td>
-    <td class="tg-r129"><span style="color:#222;background-color:#F2F9FF">    </span> S24<span style="color:#222;background-color:#F2F9FF"> </span></td>
-    <td class="tg-da8v"><br><br>Mdm Tan Kim Choo<br>Mrs Wendy Loi</td>
+    <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF">    </span> S24<span style="color:#222;background-color:#F2F9FF"> </span></td>
+    <td class="tg-da8v">Mdm Tan Kim Choo<br>Mrs Wendy Loi</td>
   </tr>
 </tbody>
 </table>
