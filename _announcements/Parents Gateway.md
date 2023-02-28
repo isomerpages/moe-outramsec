@@ -3,7 +3,6 @@ title: Parents Gateway
 permalink: /Launch-of-Parents-Gateway/
 description: ""
 ---
-
 **Parents Gateway**
 
 ![](/images/Links/Launch%20of%20Parents%20Gateway/PG.jpg)
