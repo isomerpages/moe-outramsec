@@ -20,20 +20,25 @@ description: ""
   <tr>
     <th class="tg-8s0f"><span style="color:#F2F9FF;background-color:#1F8CE4">Name</span></th>
     <th class="tg-8s0f"><span style="color:#F2F9FF;background-color:#1F8CE4">Appointment</span></th>
+		<th class="tg-8s0f"><span style="color:#F2F9FF;background-color:#1F8CE4">Email</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-muqq">Mr Keith Tan</td>
-    <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Principal</span></td>
+    <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Principal </span></td>
+		 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">keith_tan@schools.gov.sg </span></td>
+		
   </tr>
   <tr>
     <td class="tg-muqq">Ms Guinieve Yeo<br></td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Vice Principal</span></td>
+		 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">guinieve_yeo@schools.gov.sg </span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Mrs Elaine Toh -Tan<br></td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Vice Principal </span></td>
+		 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">tan_yee_lin_elaine@schools.gov.sg </span></td>
   </tr>
 </tbody>
 </table>
@@ -133,7 +138,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-muqq">Mr Freddie Chan </td>
-    <td class="tg-muqq"><span style="color:#222;background-color:#F2F9FF">Acting Subject Head/ PE and CCA </span></td>
+    <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Acting Subject Head/ PE and CCA </span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Ms Nur Atikah Bte Kamsani<span style="color:#222;background-color:#F2F9FF"> </span></td>
