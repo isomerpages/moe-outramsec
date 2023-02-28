@@ -318,13 +318,13 @@ description: ""
 <thead>
   <tr>
     <th class="tg-muqq">Lower Secondary</th>
-    <th class="tg-2w19">Mr Alex Tan<br><br>Mr Dawa T. Sherpa<br></th>
+    <th class="tg-2w19">Mr Alex Tan<br>Mr Dawa T. Sherpa<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-muqq">Upper Secondary</td>
-    <td class="tg-2w19"><br>Mr Oliver Tan <br>Mr Roderick Lim</td>
+    <td class="tg-2w19">Mr Oliver Tan <br>Mr Roderick Lim</td>
   </tr>
 </tbody>
 </table>
