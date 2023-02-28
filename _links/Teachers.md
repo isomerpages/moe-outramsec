@@ -37,7 +37,7 @@ description: ""
 
     <div>
 
-			<p> <a href="https://outramsec-moe-edu-sg-admin.cwp.sg/oss/resources-for-fhbl-for-parents-students-and-teachers">Resources for FHBL</a> </p>
+			
 
     </div>
 
