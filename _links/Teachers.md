@@ -13,7 +13,7 @@ description: ""
 
     <div>
 
-			<p> <a href="https://scmobile.moe.edu.sg/">SC Mobile</a><br>
+<p> <a href="https://scmobile.moe.edu.sg/">SC Mobile</a><br>
 			<a href="https://idp.mims.moe.gov.sg/nidp/saml2/sso">MIMS Portal</a><br>
 				<a href="https://intranet.moe.gov.sg/my-workspace-admin/Pages/applications/index.aspx">MOE Intranet Services (VPN Login Required)</a><br>
 				<a href="https://www.hrp.gov.sg/hrp/#/">HRP Portal</a><br>
