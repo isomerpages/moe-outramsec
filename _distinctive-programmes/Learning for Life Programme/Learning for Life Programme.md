@@ -58,7 +58,6 @@ The PE department approach towards character development through the Sports For 
 
         ·         Sports AEM (Advanced Elective Module)
 
-   \*Due to the covid-19 pandemic, all sports events were cancelled between 2020 and 2021. A Virtual Run was conducted from 12           April to 9 May.
 
 **_Sports for Life Framework_**
 
