@@ -1,5 +1,4 @@
 collections:
   top-header-menu:
     output: true
-    order:
-      - About Us/.keep
+    order: []
