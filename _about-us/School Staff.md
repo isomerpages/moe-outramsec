@@ -36,7 +36,7 @@ description: ""
 		 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">guinieve_yeo@schools.gov.sg </span></td>
   </tr>
   <tr>
-    <td class="tg-muqq">Mrs Elaine Toh -Tan<br></td>
+    <td class="tg-muqq">Mrs Elaine Toh-Tan<br></td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Vice Principal </span></td>
 		 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">tan_yee_lin_elaine@schools.gov.sg </span></td>
   </tr>
@@ -235,47 +235,47 @@ description: ""
   <tr>
     <td class="tg-muqq">NT</td>
     <td class="tg-muqq">S31</td>
-    <td class="tg-2w19"><br>Ms Norizan Md Nor<br><br>Ms Ismath Banu<br><br>Lim Ting Long (LDM)<br><br></td>
+    <td class="tg-2w19">Ms Norizan Md Nor<br>Ms Ismath Banu<br>Lim Ting Long (LDM)<br></td>
   </tr>
   <tr>
     <td class="tg-muqq">NA</td>
     <td class="tg-muqq">S32</td>
-    <td class="tg-2w19">Ms Casey Lee<br>Mr Hazlan<span style="color:black"> Bin Aris</span><br><br></td>
+    <td class="tg-2w19">Ms Casey Lee<br>Mr Hazlan<span style="color:black"> Bin Aris</span><br></td>
   </tr>
   <tr>
     <td class="tg-muqq"> Exp</td>
     <td class="tg-muqq"> S33</td>
-    <td class="tg-2w19"><br>Mrs Chua Wai Yi<br><br>Mrs Looi Lay Geok<br><br>Mr Damien Ho (CAJT)<br><br><br></td>
+    <td class="tg-2w19">Mrs Chua Wai Yi<br>Mrs Looi Lay Geok<br>Mr Damien Ho (CAJT)<br></td>
   </tr>
   <tr>
     <td class="tg-muqq"> Exp </td>
     <td class="tg-muqq"> S34</td>
-    <td class="tg-2w19"><span style="color:#222;background-color:#F2F9FF">Mdm Subbu Suba Sakthidevi</span><br><br><span style="color:#222;background-color:#F2F9FF">Ms Lee Ai Li</span></td>
+    <td class="tg-2w19"><span style="color:#222;background-color:#F2F9FF">Mdm Subbu Suba Sakthidevi</span><br><span style="color:#222;background-color:#F2F9FF">Ms Lee Ai Li</span></td>
   </tr>
   <tr>
     <td class="tg-muqq"> NT</td>
     <td class="tg-muqq">  S41 </td>
-    <td class="tg-2w19"><br><span style="color:#222;background-color:#F2F9FF">Ms Gladys Lim</span><br><br><span style="color:#222;background-color:#F2F9FF">Ms Nasuha Binte Rahmat</span></td>
+    <td class="tg-2w19"><span style="color:#222;background-color:#F2F9FF">Ms Gladys Lim</span><br><span style="color:#222;background-color:#F2F9FF">Ms Nasuha Binte Rahmat</span></td>
   </tr>
   <tr>
     <td class="tg-muqq"> NA</td>
     <td class="tg-muqq">S42</td>
-    <td class="tg-2w19"><br>Mr Samson Wong<br>Mdm Hajjah Haslinda</td>
+    <td class="tg-2w19">Mr Samson Wong<br>Mdm Hajjah Haslinda</td>
   </tr>
   <tr>
     <td class="tg-muqq"> Exp</td>
     <td class="tg-muqq"> S43</td>
-    <td class="tg-2w19"><br><br>Ms Durga Devi<br>Mr Azaac Tan</td>
+    <td class="tg-2w19">Ms Durga Devi<br>Mr Azaac Tan</td>
   </tr>
   <tr>
     <td class="tg-muqq"> Exp</td>
     <td class="tg-muqq">   S44 </td>
-    <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Ms Chua Yi Ping</span><br><br>Ms Charmaine Loke</td>
+    <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Ms Chua Yi Ping</span><br>Ms Charmaine Loke</td>
   </tr>
   <tr>
     <td class="tg-muqq"> NA</td>
     <td class="tg-muqq">   S51</td>
-    <td class="tg-2w19"><br><br>Mdm Wong Heng Yee</td>
+    <td class="tg-2w19">Mdm Wong Heng Yee</td>
   </tr>
 </tbody>
 </table>
