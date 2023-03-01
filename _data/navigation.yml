@@ -69,12 +69,3 @@ links:
         url: /links/Parents/
       - title: Students
         url: /links/Students/
-  - title: Media
-    url: /media/Media/
-    sublinks:
-      - title: Photo Gallery
-        url: /media/Photo-Gallery/
-      - title: Outram Featured in Media
-        url: /media/Outram-Featured-in-Media/
-      - title: OSS Official Videos
-        url: /media/OSS-Official-Videos/
