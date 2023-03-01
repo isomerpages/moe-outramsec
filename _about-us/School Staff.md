@@ -441,10 +441,7 @@ description: ""
     <td class="tg-muqq"><span style="color:#222;background-color:#F2F9FF"> </span>Ms Siti Aisyah</td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF"> OSO</span></td>
   </tr>
-  <tr>
-    <td class="tg-muqq"><span style="color:#222;background-color:#F2F9FF"> </span>Mdm Lee Bee Hiang </td>
-    <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF"> OSO</span></td>
-  </tr>
+  
   <tr>
     <td class="tg-muqq"><span style="color:#222;background-color:#F2F9FF"> </span>Mr Tagehan </td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF"> OSO</span></td>
