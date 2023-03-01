@@ -411,7 +411,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-muqq"><span style="color:#222;background-color:#F2F9FF"> </span>Ms Li Jiayi<br><br><br>Ms Isabella Lee</td>
-    <td class="tg-2w19">            Senior Allied Educator<br>      (Learning &amp; Behavioural Support) <br>           Allied Educator (Counsellor)</td>
+    <td class="tg-2w19">            Senior Allied Educator<br>      (Learning &amp; Behavioural Support) <br><br>           Allied Educator (Counsellor)</td>
   </tr>
   <tr>
     <td class="tg-muqq"><span style="color:#222;background-color:#F2F9FF"> </span>Mr Leo Chin Ho </td>
@@ -424,6 +424,7 @@ description: ""
   <tr>
     <td class="tg-muqq"><span style="color:#222;background-color:#F2F9FF"> </span>Mr Saseekumar<br> Mr Jufahizan</td>
     <td class="tg-2w19">Desktop Engineer<span style="color:#222;background-color:#F2F9FF"> </span></td>
+		
   </tr>
   <tr>
     <td class="tg-muqq">Ms Nurhani Dikin</td>
