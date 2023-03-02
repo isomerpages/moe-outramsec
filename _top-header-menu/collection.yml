@@ -2,5 +2,4 @@ collections:
   top-header-menu:
     output: true
     order:
-      - The Outram Story/.keep
       - About Us/.keep
