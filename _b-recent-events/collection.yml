@@ -1,5 +1,5 @@
 collections:
-  recent-events-f:
+  b-recent-events:
     output: true
     order:
       - Achievements.md
