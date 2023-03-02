@@ -1,5 +1,5 @@
 collections:
-  announcements:
+  announcements-f:
     output: true
     order:
       - Letter to Parents.md
