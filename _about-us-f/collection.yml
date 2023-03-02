@@ -1,5 +1,5 @@
 collections:
-  about-us:
+  about-us-f:
     output: true
     order:
       - Outram Community Network/Outram Community Network.md
