@@ -2,5 +2,6 @@ collections:
   top-header-menu:
     output: true
     order:
+      - School Programmes/.keep
       - The Outram Story/.keep
       - About Us/.keep
