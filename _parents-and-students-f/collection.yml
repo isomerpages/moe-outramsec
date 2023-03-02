@@ -1,5 +1,5 @@
 collections:
-  parents-and-students:
+  parents-and-students-f:
     output: true
     order:
       - Teachers.md
