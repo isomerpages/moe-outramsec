@@ -1,5 +1,5 @@
 collections:
-  distinctive-programmes:
+  distinctive-programmes-f:
     output: true
     order:
       - Distinctive Programmes.md
