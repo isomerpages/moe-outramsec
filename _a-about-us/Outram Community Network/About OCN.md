@@ -8,7 +8,8 @@ Outram Community Network (OCN) is a platform to reconnect members from the Outra
 
 The OCN community includes past and present members from the following groups:
 
-1. Outram Alumni
-2. School Advisory Committee
-3. Parent Teacher Association / Parent Support Group
-4. Staff
+1. [Outram Alumni](/about-us/Outram-Alumni/Outram-Alumni/)
+2. [School Advisory Committee](/about-us/School-Advisory-Committee/)
+3. [Parent Teacher Association / Parent Support Group](/about-us/Parent-Support-Group/)
+4. [School Staff](/about-us/School-Staff/)
+
