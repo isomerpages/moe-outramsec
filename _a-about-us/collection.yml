@@ -2,6 +2,7 @@ collections:
   a-about-us:
     output: true
     order:
+      - Outram Community Network/About OCN.md
       - Outram Community Network/Outram Community Network.md
       - Outram Community Network/.keep
       - About Us.md
