@@ -1,5 +1,5 @@
 collections:
-  school-programmes:
+  school-programmes-f:
     output: true
     order:
       - Instructional Programmes/.keep
