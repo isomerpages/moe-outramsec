@@ -2,7 +2,6 @@ collections:
   top-header-menu:
     output: true
     order:
-      - Parents and Students/.keep
       - Distinctive Programmes/.keep
       - School Programmes/.keep
       - The Outram Story/.keep
