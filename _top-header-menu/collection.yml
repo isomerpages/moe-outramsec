@@ -2,7 +2,6 @@ collections:
   top-header-menu:
     output: true
     order:
-      - Media/.keep
       - Parents and Students/.keep
       - Distinctive Programmes/.keep
       - School Programmes/.keep
