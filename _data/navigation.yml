@@ -1,28 +1,28 @@
 logo: /images/Homepage/Homepagelogo.png
 links:
   - title: About us
-    url: /a-about-us/About-Us/
+    url: /about-us/About-Us/
     sublinks:
       - title: Principal's Message
-        url: /a-about-us/Principals-Message/
+        url: /about-us/Principals-Message/
       - title: History
-        url: /a-about-us/History/
+        url: /about-us/History/
       - title: Vision Mission Purpose Values
-        url: /a-about-us/Vision-Mission-Purpose-and-Values/
+        url: /about-us/Vision-Mission-Purpose-and-Values/
       - title: Sch Philosophy, Motto, Badge
-        url: /a-about-us/School-Philosophy-Motto-and-Badge/
+        url: /about-us/School-Philosophy-Motto-and-Badge/
       - title: School Song
-        url: /a-about-us/School-Song/
+        url: /about-us/School-Song/
       - title: School Staff
-        url: /a-about-us/School-Staff/
+        url: /about-us/School-Staff/
       - title: School Calendar
-        url: /a-about-us/School-Calendar/
+        url: /about-us/School-Calendar/
       - title: Outram Community Network
-        url: /a-about-us/Outram-Community-Network/permalink/
+        url: /about-us/Outram-Community-Network/permalink/
       - title: Outram Luminaries
-        url: /a-about-us/Outram-Luminaries/
+        url: /about-us/Outram-Luminaries/
       - title: Contact Us
-        url: /a-about-us/Contact-us/
+        url: /about-us/Contact-us/
   - title: The Outram Story
     url: /the-oss-story/School-Stories/
     sublinks:
