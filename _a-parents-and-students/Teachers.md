@@ -37,7 +37,7 @@ description: ""
 
     <div>
 
-<p> <a href="https://scmobile.moe.edu.sg/">Resources for FHBL</a></p>
+<p> <a href="/Resources-for-FHBL/">Resources for FHBL</a></p>
 
     </div>
 
