@@ -59,7 +59,7 @@ description: ""
 
     <div>
 
-<p> <a href="https://outramsec-moe-edu-sg-admin.cwp.sg/oss/resources-for-fhbl-for-parents-students-and-teachers">Resources for FHBL</a><br>
+<p> <a href="/Resources-for-FHBL/">Resources for FHBL</a><br>
 				<a href="/files/Links/Students/Appendix%201%20-%20Student%20Device%20Information%20Kit%20Acer%20Service%20Centre%20and%20HelpCentre%20Information.pdf">Student Device Information Kit (Acer Service Centre)</a><br>
 				<a href="/files/Links/Students/Standard%20Instructions%20for%20BLHome.pdf">Blended Learning@Home: Instructions to Students</a><br>
 			</p>
