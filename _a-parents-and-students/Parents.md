@@ -65,7 +65,7 @@ description: ""
 			<a href="/Information-on-COVID-19-Vaccination-for-Students/ ">Information on COVID-19 Vaccination for Students</a><br>
 			<a href="/files/Links/Parents/HBL/Parent%20Kit_Bonding%20Over%20the%20Holidays_.pdf">Bonding over the Holidays! (Parent Kit)</a><br>
 			<a href="/files/Links/Parents/HBL/Parent%20Kit%20-%20Supporting%20your%20child%20during%20Full%20HBL.pdf">Parent Kit - Supporting your Child During Full HBL</a><br>
-			<a href="https://outramsec-moe-edu-sg-admin.cwp.sg/oss/resources-for-fhbl-for-parents-students-and-teachers">Resources for FHBL</a><br>
+			<a href="/Resources-for-FHBL/">Resources for FHBL</a><br>
 			<a href="/files/Links/Parents/HBL/Appendix%201%20-%20Student%20Device%20Information%20Kit%20Acer%20Service%20Centre%20and%20HelpCentre%20Information.pdf">Student Device Information Kit (Acer Service centre)</a><br>
 				<a href="/files/Links/Parents/HBL/Standard%20Instructions%20for%20BLHome.pdf">Blended Learning@home: Instructions to Students</a><br>
 				<a href="/files/Links/Parents/HBL/Parent%20Handbook%20I%20on%201_1%20Learning.pdf">Parent Handbook I on 1  1 Learning</a><br></p>
