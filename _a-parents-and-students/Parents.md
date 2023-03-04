@@ -18,21 +18,11 @@ description: ""
     </div>
 
 </li>
-	<li>
+  <li>
 
     <input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Exam Timetables</label>
-
-    
-
-</li>
-	
-  <li>
-
-    <input type="checkbox" id="accordion3">
-
-    <label for="accordion1">Letter to Parents 2023</label>
+    <label for="accordion2">Letter to Parents 2023</label>
 
     <div>
 
@@ -45,19 +35,9 @@ description: ""
 	
 <li>
 
-    <input type="checkbox" id="accordion4">
+    <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Letter to Parents 2022</label>
-
-   
-
-</li>
-	
-<li>
-
-    <input type="checkbox" id="accordion5">
-
-    <label for="accordion4">PDLP 2023</label>
+    <label for="accordion3">PDLP 2023</label>
 
     <div>
 
@@ -74,9 +54,9 @@ description: ""
 	
 <li>
 
-    <input type="checkbox" id="accordion6">
+    <input type="checkbox" id="accordion4">
 
-    <label for="accordion5"> HBL </label>
+    <label for="accordion4"> HBL </label>
 
     <div>
 
@@ -96,9 +76,9 @@ description: ""
 	
 <li>
 
-    <input type="checkbox" id="accordion7">
+    <input type="checkbox" id="accordion5">
 
-    <label for="accordion6">FAS Information</label>
+    <label for="accordion5">FAS Information</label>
 
     <div>
 
@@ -118,9 +98,9 @@ description: ""
 	
 <li>
 
-    <input type="checkbox" id="accordion8">
+    <input type="checkbox" id="accordion6">
 
-    <label for="accordion7">Parent Gateway</label>
+    <label for="accordion6">Parent Gateway</label>
 
     <div>
 
