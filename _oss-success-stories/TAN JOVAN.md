@@ -1,0 +1,24 @@
+---
+title: TAN JOVAN
+permalink: /oss-success-stories/TAN-JOVAN/
+description: ""
+---
+**Dynamic Innovator, Visionary Leader.**  
+
+‘When the going gets tough, the tough gets going’. Tan Jovan is the quintessence of this commonly used expression. Through his educational journey at Outram from 2007 to 2011, he encountered life-changing experiences that spurred him to be the outstanding academician and entrepreneur that he is today.
+
+13 years ago, the young teenage boy could not have envisioned his future self achieving the successes in his career and academic pursuits today. Scrawny, and often the target of bullying, Jovan did not have a smooth-sailing secondary school life. Beyond school hours, Jovan took up part-time jobs to supplement the household income as his family was beset by financial difficulties. It was an uphill struggle as Jovan juggled both work and studies throughout his secondary school days. To meet his primary concern of assisting his family financially, Jovan’s studies took a back seat. Furthermore, having to cope with the negative encounters with peers in school did not make life easier. As a result, his grades were inevitably unremarkable.
+
+![](/images/OSS%20Success%20Stories/TAN%20JOVAN/JOVAN1.jpg)
+
+It took two major sparks in his upper secondary school years to steer him back on track. The first beacon of light was his exposure to Business Studies in Secondary Three. A successful businessman in the past, Jovan’s father had a significant influence on his ardent interest in Business Studies. His passion for the subject was the main driver for his academic endeavours not only in his upper secondary school years, but also later on in his university days, and it continued to fuel his entrepreneurial pursuits after graduation.
+
+Alas, having passion alone is not enough to guarantee one’s success. As he gradually caught up on his studies in his final year in OSS, Jovan continued to be bogged down by the need to make ends meet. When asked what gave him strength and wisdom to plough his way through the challenging times and eventually securing a place in Singapore Polytechnic after his O-Levels, Jovan said in all sincerity, “I couldn’t have done it without my teachers, especially my NCC teacher, Mr Samson Wong.” He recalled with gratitude, the times when Mr Wong offered to guide him one-on-one unhesitatingly on several occasions, sometimes even on weekends, to help him with his revision. In the months leading up to the O-levels, Mr Wong’s kind gestures and motivating advice further spurred him on to invest greater effort and time in his studies, instead of attending to his financial concerns. “I am immensely thankful for Mr Wong’s intervention during that period of time,” Jovan emphasised in the interview.
+
+Fast forward to today, 26-year-old Jovan is currently pursuing a Doctor of Philosophy (PhD) with the National University of Singapore. He is also a Chief Evangelist at TRIA, a company that specialises in sustainable packaging, where he is in charge of championing the company’s cause and supporting its growth. Largely shaped by his degree in Innovation and Entrepreneurship and his past ventures as an entrepreneur, his PhD research interests include concepts such as Restorative Innovation, Circular Economy and Sustainable Development. Notably, Jovan’s passion for developing a sustainable environment and creditable research aptitude impressed his university professor, who then gave him the opportunity to write a chapter on innovation in circular economy for a university text. Harbouring the aspiration to become a university lecturer and academician, Jovan strongly believes in the importance of educating the younger generation and pushing the frontiers of knowledge to inspire more generations after him to innovate and contribute to society.
+
+![](/images/OSS%20Success%20Stories/TAN%20JOVAN/JOVAN2.jpg)
+
+Jovan’s mantra for life and learning has always been ‘start somewhere, stay focused and accumulate knowledge along the way’. This has guided him towards the various achievements in his life today. Beneath his cloak of success, Jovan remains a modest and resilient individual, who continues to lead a frugal lifestyle and has an insatiable hunger for knowledge. His achievements thus far are commendable, but his never-say-die spirit and fervour in life are his defining characteristics, making him a remarkable exemplar for current and future Outramians to emulate.
+
+In Jovan’s words, ‘As students, sometimes the path towards the ultimate goal may seem daunting and filled with constraints, but savour the process and view each obstacle as a lesson to learn in life. Every aspect of life comes with a lesson. Brave the storm in the present, but don’t forget what the future has in store.’

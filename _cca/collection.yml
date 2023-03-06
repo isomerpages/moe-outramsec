@@ -1,0 +1,22 @@
+collections:
+  cca:
+    output: true
+    order:
+      - Sports/.keep
+      - Sports/Basketball.md
+      - Sports/Netball.md
+      - Sports/Outram Climbing Club.md
+      - Sports/Swimming.md
+      - Sports/Water polo.md
+      - Uniformed Groups/.keep
+      - Uniformed Groups/NCCs.md
+      - Aesthetics/.keep
+      - Aesthetics/Concert Band.md
+      - Aesthetics/Outram Dance Club.md
+      - Aesthetics/Visual Arts Club.md
+      - Clubs and Societies/.keep
+      - Clubs and Societies/Entrepreneur Club.md
+      - Clubs and Societies/Multimedia Communications Club.md
+      - Clubs and Societies/PA Club.md
+      - Clubs and Societies/Robotics Club.md
+      - Clubs and Societies/Sports and Recreation Club.md

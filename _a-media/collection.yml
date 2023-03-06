@@ -1,0 +1,39 @@
+collections:
+  a-media:
+    output: true
+    order:
+      - Example TitleTest.md
+      - Media.md
+      - Photo Gallery.md
+      - 2019 Photo Gallery/.keep
+      - 2019 Photo Gallery/OSS Speech Day 113th Anniversary.md
+      - 2019 Photo Gallery/Fitness Run.md
+      - 2019 Photo Gallery/Sec 3 Camp.md
+      - 2019 Photo Gallery/Teachers Day Celebration and Bond Over Breakfast.md
+      - 2019 Photo Gallery/Bicentennial.md
+      - 2019 Photo Gallery/Swimming Carnival and Inter House Games.md
+      - 2019 Photo Gallery/Cultural Immersion Programme 2019 Chiang Mai
+        Thailand.md
+      - 2019 Photo Gallery/Overseas Immersion Programme 2019 Penang Malaysia.md
+      - 2019 Photo Gallery/Overseas Experiential Learning Programme Seoul 2019.md
+      - 2019 Photo Gallery/Overseas Immersion Programme Shanghai.md
+      - 2019 Photo Gallery/National Day.md
+      - 2018 Photo Gallery/.keep
+      - 2018 Photo Gallery/Secondary One Orientation.md
+      - 2018 Photo Gallery/O Level Results Release.md
+      - 2018 Photo Gallery/Chinese New Year.md
+      - 2018 Photo Gallery/Fitness Run.md
+      - 2018 Photo Gallery/Big Day Out.md
+      - 2018 Photo Gallery/Tamil New Year.md
+      - 2018 Photo Gallery/National Schools Speed Climbing Championships.md
+      - 2018 Photo Gallery/Speech Day.md
+      - 2018 Photo Gallery/National Day.md
+      - 2018 Photo Gallery/Mother Tongue Activities.md
+      - 2018 Photo Gallery/National Schools Literature Festival.md
+      - 2018 Photo Gallery/Robotics Competition.md
+      - 2018 Photo Gallery/Happy Teachers Day.md
+      - 2018 Photo Gallery/Hari Raya.md
+      - 2018 Photo Gallery/Civica Tales of S Winning Entry.md
+      - 2018 Photo Gallery/Overseas Trips.md
+      - Outram Featured in Media.md
+      - OSS Official Videos.md

@@ -1,0 +1,6 @@
+collections:
+  a-parents-and-students:
+    output: true
+    order:
+      - Parents.md
+      - Students.md

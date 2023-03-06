@@ -1,0 +1,5 @@
+collections:
+  b-links-for-teachers:
+    output: true
+    order:
+      - Teachers.md

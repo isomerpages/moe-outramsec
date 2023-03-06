@@ -1,0 +1,18 @@
+---
+title: PATH TO SUCCESS PUVANASWARAN'S STORY
+permalink: /oss-success-stories/PATH-TO-SUCCESS-PUVANASWARAN-STORY/
+description: ""
+---
+![](/images/OSS%20Success%20Stories/PUVANASWARAN'S%20STORY/PUVANASWARAN.jpg)
+
+  
+
+His friends from primary school were shocked when Puvanaswaran s/o Manikam became a student councillor at the end of secondary one. He was once a familiar figure in the Discipline Master’s office. But even as he counted improved conduct as one of his biggest gains in secondary school, it proved to be just one of the many surprising transformations his friends were to witness.  
+
+Winner of the 2018 Lee Kuan Yew (LKY) Model Student Award and finalist of the 2017 National Young Leader Award, Puvanaswaran loves running. He likens his life to races and journeys where one never loses, but always gains. As the unassuming 18-year-old puts it, “Many people think that failure is the end, but for me, it is the stepping stone to a successful journey.” Indeed, through his four years in Outram Secondary School, Puvanaswaran has proven that a tenacious spirit and a positive mindset paves the way to success.
+
+With a T-score of 132, Puvanaswaran was placed in the Normal (Technical) stream and was quickly recognised for his positive spirit. He was given leadership positions, first as the class chairperson and then the school councillor. The strategic move by his form teacher protected him from engaging in playful acts that had often landed him in disciplinary trouble. He began to grow into his position of responsibility and learnt to relate to different people during school camps and events. Slowly, he transformed from a reticent boy to an outspoken and respected Assistant Head Prefect, rallying juniors and peers to serve the school and the community. Puvanaswaran’s passion for service also developed him into an active member of the Kampong Chai Chee Youth Executive Committee today.
+
+Puvanaswaran’s academic journey was also filled with changing landscapes. At the end of secondary one, he did well enough to be promoted to the Normal (Academic) course in secondary two. Not stopping there, he performed above expectations and was offered a place in the Express course at secondary three. Thus, he traversed three streams of education in a short four years. Through the moves, Puvanaswaran kept before his eyes the goal of entering Polytechnic, a dream that he shared with his mother. Yet, the demands of the course proved daunting. Puvanaswaran’s O level results, in particular English, fell short of the entry requirements of the Polytechnic. He was admitted to the ITE in 2016. Although temporarily thwarted, Puvanaswaran did not languish in what others believed to be ‘the end’.  At the advice of his form teacher, he took up the Nitec course in Applied Food Science and flourished to achieve a cumulative GPA of 3.9 out of 4, leading to the receipt of the LKY Model Student Award. The student councillor also won the ITE CCA medal for his contributions in cross-country running.
+
+Now serving his national service, Puvanaswaran reads nightly to improve his English as he prepares to enter Republic Polytechnic on the LKY scholarship to read the Diploma in Integrated Events Management. Back on track to achieving his parents’ dreams, Puvanaswaran has this advice for youths coming after him, “Go for your dream. Be yourself and give your 100% to everything. Don’t be afraid of failures. Just pick yourself up to try again.” Indeed, Puvanaswaran proves just how worthwhile it is to try again and again. One can be sure he will one day be the Prison Officer he dreams of becoming.

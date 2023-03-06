@@ -1,0 +1,4 @@
+collections:
+  top-header-menu:
+    output: true
+    order: []
