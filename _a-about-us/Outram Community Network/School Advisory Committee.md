@@ -2,7 +2,9 @@
 title: School Advisory Committee
 permalink: /about-us/School-Advisory-Committee/
 description: ""
+third_nav_title: Outram Community Network
 ---
+
 
 <img style="width:30%;height:50%" src="/images/About%20us/School%20Advisory%20Committee/schoolcom.jpg">
 
