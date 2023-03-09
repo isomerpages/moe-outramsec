@@ -39,7 +39,7 @@ In 1927, Dr Wee was a Standard IV student at Outram School. In his book entitled
 “… Like a first-rate magician he pressed the back of my neck with his magic wand to make me bend down more and more, until my buttock stuck out like the peaks of the Himalayas. Then, without even so much as an “Alakazam”, he brought the cane down. I almost fainted. But, that very instant Captain Ambler called, “Next”. It was the most happy word I had heard till that moment, for it meant that I had qualified for only one stroke… That stroke of the magic wand helped me turn 180 degrees… for me, I accept unequivocally that if Captain Goodman Ambler had not used the wand on me, I could have ended as a dropout and ruined my life. Deep in my heart I am fully grateful to him for performing his magic.”
 	
 
-	
+---
 	
 <div>
 
@@ -64,6 +64,9 @@ Mr Wong remembers his days at Outram, which was just a short distance away from 
   
 
 “Our teachers used to remind us, ‘Better do well in your studies, better be a good boy, a good citizen, if not you may land up there \[Outram Prison\], we have to see you from the outside.’ So that was the most impactful advice I think many students would take to heart. … We could still see the prisoners when they were out, I believe there was some kind of a garden or work which they were allowed out for short periods of time perhaps an exercise yard or whatever. And we could see some of them in their prison uniform. So we would never get near it, or never would want to get near the prison fence or wall at the time. Some of the teachers I remember are Mr Chan the Maths teacher, Mrs Quah, who taught us English, we have Mr Chew who taught us Chinese and we have Mr Goh who taught us book-keeping. There are many others, but these are the teachers whom I thought left some deep impressions.”
+
+	
+---
 	
 <div>
 
@@ -93,6 +96,9 @@ Prof Koh joined Outram School in the late 1940s after spending a bridging year a
   
 
 “In Outram School, I had good teachers. They were very strict, as compared to today’s standard… The teachers were strict with you but they would sometimes wink at you. So I knew that although they were very tough they actually cared for you.”
+
+	
+---
 	
 <div>
 
@@ -111,6 +117,8 @@ Prof Koh joined Outram School in the late 1940s after spending a bridging year a
 
 Mr Philip Tan Tee Yong is the owner and Managing Director of PTMC Outsourcing Pte. Ltd. A Fellow of the Chartered Institute of Management Accountants, he has over 40 years of experience in banking, accounting, finance, marketing and sales, commercial & banking software development, consulting, manufacturing and entrepreneurship. Having worked in MNCs and local companies, he is familiar with the two different management styles. He has also assisted in 3 IPOs and a Rights Issue. 
 Mr Tan was a Member of Parliament (Paya Lebar) from 1984 till 1988.
+
+---	
 	
 <div>
 
@@ -139,6 +147,9 @@ During his time at Outram, Mr Koh was the secretary of both the Commerce Society
 \[extract from full essay\]
 
 It seems that the floods bring nothing but unhappiness and terror. But this is not so. The pupils of Outram Secondary School love floods! Yes, they welcome floods! A rainy day with floods is a welcome deviation from the humdrum routine of everyday school life. Their joy and exuberant spirits are mirrored in their youthful faces when they wade cautiously through the swirling brownish water or balance precariously on the benches ingeniously placed in the tuck-shop to form a dry passage-way. Occasionally, a squeal of laughter, a splash and a cry of exaggerated anguish is heard in the tuck-shop… … All these things are in the game, however, and the pupils take it in good form. The pupils also welcome the opportunity to release their cramped toes from their tight shoes and wade barefeet in the icy-cold water. A very funny sight on rainy days is to be seen in the tuck-shop. Imagine looking at girls and boys standing high up on tables eating and drinking unconcernedly. It is such an awkward and unorthodox position to be in. \- Koh Cher Siang, Sec. IV A. (Outram Annual, 1962).
+
+	
+---
 	
 <div>
 
@@ -165,6 +176,8 @@ BG Choy was the Guest-of-Honour at the 25th Old Outramians Association Celebrati
   
 
 “Just as 1990 marks the beginning of a new decade, I hope it also marks the beginning of a new generation of success for the Old Outramian’s Association. All of us, former students of Outram, recognize the noble intention behind the founding of the Old Outramians Association. In the 25 years since the Association was first formed, we have seen the promotion of exchange and friendship gain momentum and prominence. This is due in no small way to the dedication and efforts of individuals on the Committee of the Association and support from members.”
+
+---	
 	
 <div>
 
@@ -183,6 +196,8 @@ BG Choy was the Guest-of-Honour at the 25th Old Outramians Association Celebrati
   
 
 Mr Fock Siew Wah is a prominent banker who sits on several Board Committees of DBS Group Holdings. Appointed on 1 July 1999, he began his career with DBS where his last position was Head of the Commercial Banking Division. He is currently the Senior Advisor of Nuri Holdings (S) Pte Ltd, Deputy Chairman of Fraser & Neave Ltd and Chairman of Singapore Airlines Cargo Pte Ltd. He is also a Director of Temasek Holdings (Pte) Ltd and Singapore Airlines Ltd. He was previously Regional Treasurer (Asia-Pacific) for J.P. Morgan, President and CEO of Overseas Union Bank Ltd. Chairman of the Land Transport Authority, Chairman of Singapore MRT Ltd, Special Advisor to the Minister For Finance, Singapore and Chairman of East West Bank in USA.
+
+---	
 	
 <div>
 
@@ -204,6 +219,8 @@ Mr Tommie Goh rose from humble beginnings to become one of Singapore’s most we
   
 
 Besides making a name for himself in business circles, Mr Goh also contributes to the community in various ways. He is a Patron of the Serangoon Citizen’s Consultative Committee, Marine Parade GRC. In 2000, Mr Goh established the Tommie Goh Professorial Chair in Entrepreneurship at the Singapore Management University with a personal donation. In 2003, he contributed to the Lee Kuan Yew School of Public Policy at the National University of Singapore. Mr Goh sits on the board of Nasdaq-listed Flextronics, the largest EMS provider in the world and is a board Director of Singapore Post Limited, Seksun Corporation Limited and Vision Technologies Inc USA, a wholly-owned subsidiary of Singapore Technologies Engineering Limited. Mr Goh is a member of the Pacific Basin Economic Council and sits on the panel of distinguished judges for the Ernst and Young Entrepreneur of The Year Award.
+
+---	
 	
 <div>
 
@@ -230,6 +247,8 @@ Mr Siew was a student at Outram from 1971-1974, and 1976-1977. He has this to sa
   
 
 “… From the end of Sec One, there’s this close feeling that whatever races you may have, even different kinds of classes… there is this nucleus that somehow pulls everyone together… This very intangible kind of Outramian’s well-being… since I got there, I felt we belong and are part of this same culture, this same family.”
+
+---	
 	
 <div>
 
@@ -248,6 +267,8 @@ Mr Siew was a student at Outram from 1971-1974, and 1976-1977. He has this to sa
   
 
 As the star of Phua Chu Kang the Ch 5 comedy, Mr Gurmit Singh is a well-known face who has starred in many programmes. But how many people are aware that behind the actor-comedian was an Outramian and a strict National Police Cadet Corps instructor. He was very firm with his cadets and demanded much discipline from them. However, he was also known to be a prankster- he was often seen playing the piano in the school auditorium after it was ‘locked’- by using a duplicate key that he secretly made! As an old boy, Gurmit has attended many Outram School events, sharing with students his experiences and inspiring them to follow their dreams.
+
+---	
 	
 <div>
 
@@ -274,6 +295,8 @@ Ruby’ passion for drama and the arts is also evident in her academic pursuits.
   
 
 In Singapore, Act 3 has worked with schools, the Ministry of Education and the National Arts Council to develop a wide-ranging programme of performances catering to specific audiences. Ms Lim-Yang and her Act 3 co-founders also started the Act 3 Drama Academy in 1994, which offers a carefully crafted syllabus catering to children from as young as 18 months to teenagers up to the age of 15. In 2000, Act 3 successfully implemented one of its most ambitious projects to date – a national arts festival for children entitled ‘Prudential Children First! Singapore International Festival for Children’. Ruby aims to tour the festival in the region and Act 3 is currently in discussions with counterparts in Kuala Lumpur. In future, Ruby hopes to make Act 3 an international name first in the region, then the rest of the world.
+
+---	
 	
 <div>
 
