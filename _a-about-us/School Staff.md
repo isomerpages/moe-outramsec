@@ -406,7 +406,7 @@ description: ""
     <td class="tg-2w19">Administration Executive<span style="color:#222;background-color:#F2F9FF"> </span></td>
   </tr>
   <tr>
-    <td class="tg-muqq"><span style="color:#222;background-color:#F2F9FF"> </span>Mr Mohammad Faizan </td>
+    <td class="tg-muqq"><span style="color:#222;background-color:#F2F9FF"> </span>Mr Mohammad Faizan<br> Mdm Samsiah  </td>
     <td class="tg-2w19">Corporate Support Officer<span style="color:#222;background-color:#F2F9FF"> </span></td>
   </tr>
   <tr>
@@ -429,6 +429,10 @@ description: ""
   <tr>
     <td class="tg-muqq">Ms Nurhani Dikin</td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Librarian </span></td>
+  </tr>
+	<tr>
+    <td class="tg-muqq">Mr Mohamed Farhan</td>
+    <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Lab Technician </span></td>
   </tr>
   <tr>
     <td class="tg-muqq"><span style="color:#222;background-color:#F2F9FF"> </span>Mdm Asimah </td>
