@@ -27,7 +27,7 @@ In 1927, Dr Wee was a Standard IV student at Outram School. In his book entitled
 “… Like a first-rate magician he pressed the back of my neck with his magic wand to make me bend down more and more, until my buttock stuck out like the peaks of the Himalayas. Then, without even so much as an “Alakazam”, he brought the cane down. I almost fainted. But, that very instant Captain Ambler called, “Next”. It was the most happy word I had heard till that moment, for it meant that I had qualified for only one stroke… That stroke of the magic wand helped me turn 180 degrees… for me, I accept unequivocally that if Captain Goodman Ambler had not used the wand on me, I could have ended as a dropout and ruined my life. Deep in my heart I am fully grateful to him for performing his magic.”	
 </div>
 
----
+<br><br>
 
 <div>
 <div style="float: left">
@@ -53,7 +53,7 @@ Mr Wong remembers his days at Outram, which was just a short distance away from 
 “Our teachers used to remind us, ‘Better do well in your studies, better be a good boy, a good citizen, if not you may land up there \[Outram Prison\], we have to see you from the outside.’ So that was the most impactful advice I think many students would take to heart. … We could still see the prisoners when they were out, I believe there was some kind of a garden or work which they were allowed out for short periods of time perhaps an exercise yard or whatever. And we could see some of them in their prison uniform. So we would never get near it, or never would want to get near the prison fence or wall at the time. Some of the teachers I remember are Mr Chan the Maths teacher, Mrs Quah, who taught us English, we have Mr Chew who taught us Chinese and we have Mr Goh who taught us book-keeping. There are many others, but these are the teachers whom I thought left some deep impressions.”
 </div>
 	
----
+<br><br>
 	
 <div>
 <div style="float: left">
@@ -84,7 +84,7 @@ Prof Koh joined Outram School in the late 1940s after spending a bridging year a
 
 </div>
 
----
+<br><br>
 	
 <div>
 <div style="float: left">
@@ -105,7 +105,7 @@ Mr Tan was a Member of Parliament (Paya Lebar) from 1984 till 1988.
 
 </div>
 
----	
+<br><br>
 	
 <div>
 <div style="float: left">
@@ -134,7 +134,7 @@ It seems that the floods bring nothing but unhappiness and terror. But this is n
 
 </div>
 
----
+<br><br>
 	
 <div>
 <div style="float: left">
@@ -184,7 +184,7 @@ Mr Fock Siew Wah is a prominent banker who sits on several Board Committees of D
 
 </div>
 
----	
+<br><br>
 	
 <div>
 <div style="float: left">
@@ -208,7 +208,7 @@ Besides making a name for himself in business circles, Mr Goh also contributes t
 
 </div>
 
----	
+<br><br>
 	
 <div>
 <div style="float: left">
@@ -238,7 +238,7 @@ Mr Siew was a student at Outram from 1971-1974, and 1976-1977. He has this to sa
 
 </div>
 
----	
+<br><br>
 	
 <div>
 <div style="float: left">
@@ -257,7 +257,7 @@ As the star of Phua Chu Kang the Ch 5 comedy, Mr Gurmit Singh is a well-known fa
 
 </div>	
 
----	
+<br><br>
 	
 <div>
 <div style="float: left">
@@ -284,7 +284,7 @@ In Singapore, Act 3 has worked with schools, the Ministry of Education and the N
 
 </div>
 
----	
+<br><br>
 	
 <div>
 <div style="float: left">
