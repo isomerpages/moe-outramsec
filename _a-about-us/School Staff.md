@@ -98,12 +98,12 @@ description: ""
   <tr>
     <td class="tg-muqq">Ms Zaiton </td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">HOD/ Discipline</span></td>
-						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">email </span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">zaiton_mohamed_punither_basa@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Mrs Cheryl Fan <br></td>
     <td class="tg-2w19">HOD/ English<span style="color:#222;background-color:#F2F9FF"> Language/Literature</span></td>
-						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">email </span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">cheryl_lim_ming_yuh@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Ms Serene Cheong </td>
