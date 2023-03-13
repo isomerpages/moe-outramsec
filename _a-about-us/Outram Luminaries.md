@@ -75,7 +75,7 @@ Prof Koh joined Outram School in the late 1940s after spending a bridging year a
 	
 <div>
 <div style="float: left">
-<img style="width:60%;height:50%" src="/images/About%20us/Outram%20Luminaries/L4.png">
+<img style="width:200px; padding:10px" src="/images/About%20us/Outram%20Luminaries/L4.png">
 </div>
 </div>
 
@@ -96,7 +96,7 @@ Mr Tan was a Member of Parliament (Paya Lebar) from 1984 till 1988.
 	
 <div>
 <div style="float: left">
-<img style="width:60%;height:50%" src="/images/About%20us/Outram%20Luminaries/L5.png">
+<img style="width:200px; padding:10px" src="/images/About%20us/Outram%20Luminaries/L5.png">
 </div>
 </div>
 
@@ -125,7 +125,7 @@ It seems that the floods bring nothing but unhappiness and terror. But this is n
 	
 <div>
 <div style="float: left">
-<img style="width:60%;height:50%" src="/images/About%20us/Outram%20Luminaries/L6.png">
+<img style="width:200px; padding:10px" src="/images/About%20us/Outram%20Luminaries/L6.png">
 </div>
 </div>
 
@@ -155,7 +155,7 @@ BG Choy was the Guest-of-Honour at the 25th Old Outramians Association Celebrati
 	
 <div>
 <div style="float: left">
-<img style="width:60%;height:50%" src="/images/About%20us/Outram%20Luminaries/L7.png">
+<img style="width:200px; padding:10px" src="/images/About%20us/Outram%20Luminaries/L7.png">
 </div>
 </div>
 
@@ -175,7 +175,7 @@ Mr Fock Siew Wah is a prominent banker who sits on several Board Committees of D
 	
 <div>
 <div style="float: left">
-<img style="width:60%;height:50%" src="/images/About%20us/Outram%20Luminaries/L8.png">
+<img style="width:200px; padding:10px" src="/images/About%20us/Outram%20Luminaries/L8.png">
 </div>
 </div>
 
@@ -248,7 +248,7 @@ As the star of Phua Chu Kang the Ch 5 comedy, Mr Gurmit Singh is a well-known fa
 	
 <div>
 <div style="float: left">
-<img style="width:60%;height:50%" src="/images/About%20us/Outram%20Luminaries/L11.png">
+<img style="width:200px; padding:10px" src="/images/About%20us/Outram%20Luminaries/L11.png">
 </div>
 </div>
 
@@ -275,7 +275,7 @@ In Singapore, Act 3 has worked with schools, the Ministry of Education and the N
 	
 <div>
 <div style="float: left">
-<img style="width:60%;height:50%" src="/images/About%20us/Outram%20Luminaries/L12.png">
+<img style="width:200px; padding:10px" src="/images/About%20us/Outram%20Luminaries/L12.png">
 </div>
 </div>
 
