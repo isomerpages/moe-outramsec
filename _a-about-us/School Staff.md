@@ -201,7 +201,7 @@ description: ""
     <td class="tg-i38w">NA</td>
     <td class="tg-i38w">S12<span style="color:#222;background-color:#F2F9FF"> </span></td>
     <td class="tg-da8v">Mr Gabriel Fu<br>Ms Diana Binte Othman</td>
-										 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Gabriel_fu_bojun@schools.gov.sg<br>diana_othman@schools.gov.sg</span></td>
+										 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">gabriel_fu_bojun@schools.gov.sg<br>diana_othman@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-i38w">Exp </td>
@@ -213,13 +213,13 @@ description: ""
     <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF"> </span>Exp</td>
     <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF"> </span>S14</td>
     <td class="tg-da8v">Mr Neo Sian Lee<br><span style="color:#222;background-color:#F2F9FF">Mr Prathivmohan S/O Chandramohan</span><br></td>
-										 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Neo_sian_lee@schools.gov.sg<br>prathivmohan_chandramohan@schools.gov.sg</span></td>
+										 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">neo_sian_lee@schools.gov.sg<br>prathivmohan_chandramohan@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-i38w">NT</td>
     <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF">   </span>S21<span style="color:#222;background-color:#F2F9FF"> </span></td>
     <td class="tg-da8v">Ms Goh Ban Leng<br>Ms Nurul Nadhirah </td>
-										 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">@schools.gov.sg<br>email@schools.gov.sg</span></td>
+										 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">goh_ban_leng@moe.edu.sg@schools.gov.sg<br>nurul_nadhirah_abdul@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-i38w">NA</td>
