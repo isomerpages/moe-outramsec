@@ -123,12 +123,12 @@ description: ""
   <tr>
     <td class="tg-muqq">Mr Alex Tan</td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Year Head (Lower Sec)</span></td>
-						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">email </span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">tan_tzei_kea@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Mr Roderick Lim</td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Assistant Year Head</span></td>
-						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">email </span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">lim_yong_guan_roderick@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Mr Dawa T. Sherpa</td>
