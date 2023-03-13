@@ -13,8 +13,18 @@ The OCN community includes past and present members from the following groups:
 3. [Parent Teacher Association / Parent Support Group](/about-us/Parent-Support-Group/)
 4. [School Staff](/about-us/School-Staff/)
 
-Event
-      
+**Event**
+
+| Event / Interest Group                                                                                   | Date                         | Time            | Venue                                                                                     | Cost | Event Registration                                                                                                                                       |
+|----------------------------------------------------------------------------------------------------------|------------------------------|-----------------|-------------------------------------------------------------------------------------------|------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Environmental and Sustainability Programme  - Food Rescue, upcycling booths,  Amazing Environmental Race | 11 March 2023                | 9.00-11.00 a.m. | Blk 538 Upper Cross Street  #05-261  Singapore 050538  (5mins from Chinatown MRT Station) | Free | Click here to sign up.  There are limited vacancies.                                                                                                     |
+| Water Polo Interest Group                                                                                | 11 March 2023  25 March 2023 | 8.00-11.00 a.m. | Outram Secondary School  (Swimming Pool)                                                  | Free | Click [here](https://forms.gle/netmWKjPCowDzgHm9) to sign up.  Click [here](https://drive.google.com/file/d/19X9FplqGXE32SfrFE7sQ_lTpqClZTQ7h/view) for the Pre-Activity  Readiness Questionnaire Form (PAR-Q-FORM).  You have to complete the form  before the sessions. |
+|                                                                                                          |                              |                 |                                                                                           |      |                                                                                                                                                          |
+
+
+
+		 
+<!--
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:107.6pt;border:solid windowtext 1.0pt;
   mso-border-alt:solid windowtext .5pt;padding:0in 5.4pt 0in 5.4pt" valign="top" width="143"><p style="margin:0in;mso-add-space:auto;
@@ -115,3 +125,4 @@ Event
   Verdana">&nbsp;</span></i></p><p style="margin:0in;mso-add-space:auto;line-height:
   normal" class="MsoListParagraph"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black">&nbsp;</span></p></td></tr></tbody></table>
+-->
