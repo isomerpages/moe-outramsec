@@ -153,12 +153,12 @@ description: ""
   <tr>
     <td class="tg-muqq">Ms Yeo Yang Hong</td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Level Head/ Science</span></td>
-						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">email </span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">yeo_yang_hong@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Mr Freddie Chan </td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Acting Subject Head/ PE and CCA </span></td>
-						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">email </span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">chan_zhi_yang_freddie@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Ms Nur Atikah Bte Kamsani<span style="color:#222;background-color:#F2F9FF"> </span></td>
