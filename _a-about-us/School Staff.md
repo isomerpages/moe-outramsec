@@ -237,7 +237,7 @@ description: ""
     <td class="tg-i38w">Exp</td>
     <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF">    </span> S24<span style="color:#222;background-color:#F2F9FF"> </span></td>
     <td class="tg-da8v">Mdm Tan Kim Choo<br>Mrs Wendy Loi</td>
-									 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">@schools.gov.sg<br>email@schools.gov.sg</span></td>
+									 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">tan_kim_choo_b@schools.gov.sg<br>chong_moh_ching@schools.gov.sg</span></td>
   </tr>
 </tbody>
 </table>
