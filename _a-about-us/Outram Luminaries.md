@@ -25,17 +25,12 @@ In 1927, Dr Wee was a Standard IV student at Outram School. In his book entitled
 <br><br>
 “… Like a first-rate magician he pressed the back of my neck with his magic wand to make me bend down more and more, until my buttock stuck out like the peaks of the Himalayas. Then, without even so much as an “Alakazam”, he brought the cane down. I almost fainted. But, that very instant Captain Ambler called, “Next”. It was the most happy word I had heard till that moment, for it meant that I had qualified for only one stroke… That stroke of the magic wand helped me turn 180 degrees… for me, I accept unequivocally that if Captain Goodman Ambler had not used the wand on me, I could have ended as a dropout and ruined my life. Deep in my heart I am fully grateful to him for performing his magic.”	
 </div>
-
 ---
-
-<br><br>
-
 <div>
 <div style="float: left">
 <img style="width:200px; padding:10px" src="/images/About%20us/Outram%20Luminaries/L2.png">
 </div>
 </div>
-
 <div>
 Mr Wong Kan Seng
 <br><br>
@@ -47,65 +42,45 @@ Mr Wong remembers his days at Outram, which was just a short distance away from 
 <br><br>
 “Our teachers used to remind us, ‘Better do well in your studies, better be a good boy, a good citizen, if not you may land up there \[Outram Prison\], we have to see you from the outside.’ So that was the most impactful advice I think many students would take to heart. … We could still see the prisoners when they were out, I believe there was some kind of a garden or work which they were allowed out for short periods of time perhaps an exercise yard or whatever. And we could see some of them in their prison uniform. So we would never get near it, or never would want to get near the prison fence or wall at the time. Some of the teachers I remember are Mr Chan the Maths teacher, Mrs Quah, who taught us English, we have Mr Chew who taught us Chinese and we have Mr Goh who taught us book-keeping. There are many others, but these are the teachers whom I thought left some deep impressions.”
 </div>
-
 ---
-
-<br><br>
-	
 <div>
 <div style="float: left">
 <img style="width:200px;padding:10px" src="/images/About%20us/Outram%20Luminaries/L3.png">
 </div>
 </div>
-
 <div>
 Professor Tommy Koh
 <br><br>
 Ambassador-at-Large
 <br><br>
 Professor Tommy Koh’s distinguished career has gained him recognition both at home and abroad, He is currently Ambassador-at-Large at the Ministry of Foreign Affairs, Director of the Institute of Policy Studies and Chairman of the National Heritage Board. He is also a Director of DBS Bank and Chairman of the Chinese Heritage Centre.
-
-  
-
+<br><br>
 Prof Koh received a First Class Honours degree in law from the University of Singapore, a Masters degree in law from Harvard University and a post-graduate Diploma in Criminology from Cambridge University. He was conferred a full professorship in 1977. He was Singapore’s Permanent Representative to the United Nations (UN) from 1968 to 1971 and again from 1974 to 1984. In between, he was the Dean of the Faculty of Law at the University of Singapore from 1971 to 1974. As President of the Third UN Conference on the Law of the Sea from 1980 to 1982, he oversaw the successful phrasing of the convention’s text, which was completed by consensus, rather than the usual method of majority voting. He was the founding Chairman of the National Arts Council where he vigorously supported the development of the cultural and arts scene in Singapore. As the founding Executive Director of the Asia-Europe Foundation (ASEF), he has worked to bring the civil societies of the two regions closer together. Most recently, he was Singapore’s Chief Negotiator for the US-Singapore Free Trade Agreement. 
 <br><br>
 Prof Koh joined Outram School in the late 1940s after spending a bridging year at St Joseph’s Institution (he was previously from a Chinese school at Outram Road). At Outram, Prof Koh was known to be a good all-rounder who played badminton for the school and was a Scout too. In his recollections, Prof Koh noted that unlike him, most of his classmates were not from wealthy homes but stayed in humble homes in Chinatown and Tiong Bahru. This made a deep imprint on his mindset and attitude towards people, and he came to respect people irrespective of their background. 
 <br><br>
 “In Outram School, I had good teachers. They were very strict, as compared to today’s standard… The teachers were strict with you but they would sometimes wink at you. So I knew that although they were very tough they actually cared for you.”
 </div>
-
-<br><br>
-
 ---
-
 <div>
 <div style="float: left">
 <img style="width:200px; padding:10px" src="/images/About%20us/Outram%20Luminaries/L4.png">
 </div>
 </div>
-
 <div>
-	
-	Mr Philip Tan Tee Yong 
-
-	Former MP for Paya Lebar
-
-  
-
+Mr Philip Tan Tee Yong 
+<br><br>
+Former MP for Paya Lebar
+<br><br>
 Mr Philip Tan Tee Yong is the owner and Managing Director of PTMC Outsourcing Pte. Ltd. A Fellow of the Chartered Institute of Management Accountants, he has over 40 years of experience in banking, accounting, finance, marketing and sales, commercial & banking software development, consulting, manufacturing and entrepreneurship. Having worked in MNCs and local companies, he is familiar with the two different management styles. He has also assisted in 3 IPOs and a Rights Issue. 
 Mr Tan was a Member of Parliament (Paya Lebar) from 1984 till 1988.
-
 </div>
-
 ---
-
-<br><br>
 <div>
 <div style="float: left">
 <img style="width:200px; padding:10px" src="/images/About%20us/Outram%20Luminaries/L5.png">
 </div>
 </div>
-
 <div>
 Mr Koh Cher Siang 
 <br><br>
@@ -128,7 +103,6 @@ It seems that the floods bring nothing but unhappiness and terror. But this is n
 <img style="width:200px; padding:10px" src="/images/About%20us/Outram%20Luminaries/L6.png">
 </div>
 </div>
-
 <div>
 <br><br>
 Brigadier-General Patrick Choy 
@@ -141,17 +115,12 @@ BG Choy was the Guest-of-Honour at the 25th Old Outramians Association Celebrati
 <br><br>
 “Just as 1990 marks the beginning of a new decade, I hope it also marks the beginning of a new generation of success for the Old Outramian’s Association. All of us, former students of Outram, recognize the noble intention behind the founding of the Old Outramians Association. In the 25 years since the Association was first formed, we have seen the promotion of exchange and friendship gain momentum and prominence. This is due in no small way to the dedication and efforts of individuals on the Committee of the Association and support from members.”
 </div>
-
 ---	
-
-<br><br>
-
 <div>
 <div style="float: left">
 <img style="width:200px; padding:10px" src="/images/About%20us/Outram%20Luminaries/L7.png">
 </div>
 </div>
-
 <div>	
 Mr Fock Siew Wah
 <br><br>
@@ -159,19 +128,13 @@ Banker and former MRTC Chairman
 <br><br>
 Mr Fock Siew Wah is a prominent banker who sits on several Board Committees of DBS Group Holdings. Appointed on 1 July 1999, he began his career with DBS where his last position was Head of the Commercial Banking Division. He is currently the Senior Advisor of Nuri Holdings (S) Pte Ltd, Deputy Chairman of Fraser & Neave Ltd and Chairman of Singapore Airlines Cargo Pte Ltd. He is also a Director of Temasek Holdings (Pte) Ltd and Singapore Airlines Ltd. He was previously Regional Treasurer (Asia-Pacific) for J.P. Morgan, President and CEO of Overseas Union Bank Ltd. Chairman of the Land Transport Authority, Chairman of Singapore MRT Ltd, Special Advisor to the Minister For Finance, Singapore and Chairman of East West Bank in USA.
 </div>
-
 ---
-
-<br><br>
-	
 <div>
 <div style="float: left">
 <img style="width:200px; padding:10px" src="/images/About%20us/Outram%20Luminaries/L8.png">
 </div>
 </div>
-
 <div>
-
 Mr Tommie Goh
 <br><br>
 Entrepreneur, Founder of JIT Electronics Pte Ltd
@@ -180,17 +143,12 @@ Mr Tommie Goh rose from humble beginnings to become one of Singapore’s most we
 <br><br>
 Besides making a name for himself in business circles, Mr Goh also contributes to the community in various ways. He is a Patron of the Serangoon Citizen’s Consultative Committee, Marine Parade GRC. In 2000, Mr Goh established the Tommie Goh Professorial Chair in Entrepreneurship at the Singapore Management University with a personal donation. In 2003, he contributed to the Lee Kuan Yew School of Public Policy at the National University of Singapore. Mr Goh sits on the board of Nasdaq-listed Flextronics, the largest EMS provider in the world and is a board Director of Singapore Post Limited, Seksun Corporation Limited and Vision Technologies Inc USA, a wholly-owned subsidiary of Singapore Technologies Engineering Limited. Mr Goh is a member of the Pacific Basin Economic Council and sits on the panel of distinguished judges for the Ernst and Young Entrepreneur of The Year Award.
 </div>
-
 ---
-
-<br><br>
-
 <div>
 <div style="float: left">
 <img style="width:200px;padding:10px" src="/images/About%20us/Outram%20Luminaries/L9.png">
 </div>
 </div>
-
 <div>
 Mr Siew Shaw Her
 <br><br>
@@ -202,16 +160,12 @@ Mr Siew was a student at Outram from 1971-1974, and 1976-1977. He has this to sa
 <br><br>
 “… From the end of Sec One, there’s this close feeling that whatever races you may have, even different kinds of classes… there is this nucleus that somehow pulls everyone together… This very intangible kind of Outramian’s well-being… since I got there, I felt we belong and are part of this same culture, this same family.”
 </div>
-
 ---
-
-<br><br>
 <div>
 <div style="float: left">
 <img style="width:60%;height:50%" src="/images/About%20us/Outram%20Luminaries/L10.png">
 </div>
 </div>
-
 <div>
 Mr Gurmit Singh
 <br><br>
@@ -219,17 +173,12 @@ Actor-Comedian
 <br><br>
 As the star of Phua Chu Kang the Ch 5 comedy, Mr Gurmit Singh is a well-known face who has starred in many programmes. But how many people are aware that behind the actor-comedian was an Outramian and a strict National Police Cadet Corps instructor. He was very firm with his cadets and demanded much discipline from them. However, he was also known to be a prankster- he was often seen playing the piano in the school auditorium after it was ‘locked’- by using a duplicate key that he secretly made! As an old boy, Gurmit has attended many Outram School events, sharing with students his experiences and inspiring them to follow their dreams.
 </div>	
-
 ---
-
-<br><br>
-	
 <div>
 <div style="float: left">
 <img style="width:200px; padding:10px" src="/images/About%20us/Outram%20Luminaries/L11.png">
 </div>
 </div>
-
 <div>
 Ms Ruby Lim-Yang
 <br><br>
@@ -250,7 +199,6 @@ In Singapore, Act 3 has worked with schools, the Ministry of Education and the N
 <img style="width:200px; padding:10px" src="/images/About%20us/Outram%20Luminaries/L12.png">
 </div>
 </div>
-
 <div>
 Mr Bobby Chng 
 <br><br>
