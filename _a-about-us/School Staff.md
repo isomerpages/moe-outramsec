@@ -268,46 +268,55 @@ description: ""
     <td class="tg-muqq">NT</td>
     <td class="tg-muqq">S31</td>
     <td class="tg-2w19">Ms Norizan Md Nor<br>Ms Ismath Banu<br>Lim Ting Long (LDM)<br></td>
+		 <td class="tg-2w19">norizan_mohamad_nor@schools.gov.sg<br>ismath_banu_mohamed_yaseen@schools.gov.sg<br>lim_ting_long@schools.gov.sg<br></td>
   </tr>
   <tr>
     <td class="tg-muqq">NA</td>
     <td class="tg-muqq">S32</td>
     <td class="tg-2w19">Ms Casey Lee<br>Mr Hazlan<span style="color:black"> Bin Aris</span><br></td>
+			 <td class="tg-2w19">lee_suet_har@schools.gov.sg<br>hazlan_mohd_aris@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-muqq"> Exp</td>
     <td class="tg-muqq"> S33</td>
     <td class="tg-2w19">Mrs Chua Wai Yi<br>Mrs Looi Lay Geok<br>Mr Damien Ho (CAJT)<br></td>
+			 <td class="tg-2w19">chow_wai_yi@schools.gov.sg<br>tan_lay_geok@schools.gov.sg<br>ho_siong_chang@schools.gov.sg<br></td>
   </tr>
   <tr>
     <td class="tg-muqq"> Exp </td>
     <td class="tg-muqq"> S34</td>
     <td class="tg-2w19"><span style="color:#222;background-color:#F2F9FF">Mdm Subbu Suba Sakthidevi</span><br><span style="color:#222;background-color:#F2F9FF">Ms Lee Ai Li</span></td>
+					 <td class="tg-2w19">subbu_suba_sakthidevi@schools.gov.sg<br></td>
   </tr>
   <tr>
     <td class="tg-muqq"> NT</td>
     <td class="tg-muqq">  S41 </td>
-    <td class="tg-2w19"><span style="color:#222;background-color:#F2F9FF">Ms Gladys Lim</span><br><span style="color:#222;background-color:#F2F9FF">Ms Nasuha Binte Rahmat</span></td>
+    <td class="tg-2w19">Ms Gladys Lim<br>Ms Nasuha Binte Rahmat</td>
+					 <td class="tg-2w19">lim_yean_yue_gladys@schools.gov.sg<br>nasuha_rahmat@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-muqq"> NA</td>
     <td class="tg-muqq">S42</td>
     <td class="tg-2w19">Mr Samson Wong<br>Mdm Hajjah Haslinda</td>
+					 <td class="tg-2w19">saon_wong_siew_pui@schools.gov.sg<br>haslinda_yusof@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-muqq"> Exp</td>
     <td class="tg-muqq"> S43</td>
     <td class="tg-2w19">Ms Durga Devi<br>Mr Azaac Tan</td>
+					 <td class="tg-2w19">durga_devi_v_jagarajan@schools.gov.sg<br>azaac_tan_wei_en@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-muqq"> Exp</td>
     <td class="tg-muqq">   S44 </td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Ms Chua Yi Ping</span><br>Ms Charmaine Loke</td>
+					 <td class="tg-2w19">chua_yi_ping@schools.gov.sg<br>Charmaine_loke_mern_yi@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-muqq"> NA</td>
     <td class="tg-muqq">   S51</td>
     <td class="tg-2w19">Mdm Wong Heng Yee</td>
+					 <td class="tg-2w19">wong_heng_yee@schools.gov.sg</td>
   </tr>
 </tbody>
 </table>
