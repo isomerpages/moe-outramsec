@@ -73,12 +73,12 @@ description: ""
   <tr>
     <td class="tg-muqq">Mr Ajmal Khan</td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">HOD/ Mathematics</span></td>
-						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">email </span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">ajmal_khan@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Ms Low Gek Chew</td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">HOD/ Science</span></td>
-						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">email </span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">low_gek_chew@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Mrs Faith Wong</td>
@@ -93,7 +93,7 @@ description: ""
   <tr>
     <td class="tg-muqq">Mr Loh Peng Yeong </td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">HOD/ Information Communication Technology</span><br></td>
-						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">email </span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">loh_peng_yeong@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Ms Zaiton </td>
