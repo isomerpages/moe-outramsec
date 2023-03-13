@@ -286,7 +286,7 @@ description: ""
     <td class="tg-muqq"> Exp </td>
     <td class="tg-muqq"> S34</td>
     <td class="tg-2w19"><span style="color:#222;background-color:#F2F9FF">Mdm Subbu Suba Sakthidevi</span><br><span style="color:#222;background-color:#F2F9FF">Ms Lee Ai Li</span></td>
-					 <td class="tg-2w19">subbu_suba_sakthidevi@schools.gov.sg<br></td>
+					 <td class="tg-2w19">subbu_suba_sakthidevi@schools.gov.sg<br>lee_ai_li@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-muqq"> NT</td>
