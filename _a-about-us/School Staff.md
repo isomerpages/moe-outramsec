@@ -138,12 +138,12 @@ description: ""
   <tr>
     <td class="tg-muqq">Mr Ong Kok Heng</td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Subject Head/ Craft &amp; Technology</span></td>
-						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">email </span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">ong_kok_heng@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Ms Yong Li Zhuang Jolin</td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Subject Head / Mathematics</span></td>
-						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">email </span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">yong_li_zhuang_jolin@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Ms Wong Ann Ann</td>
