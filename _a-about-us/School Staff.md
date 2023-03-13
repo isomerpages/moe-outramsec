@@ -176,10 +176,10 @@ description: ""
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ocgt{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-da8v{background-color:#F2F9FF;color:#222;text-align:center;vertical-align:top}
+.tg .tg-ocgt{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-da8v{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:top}
 .tg .tg-r129{background-color:#F2F9FF;color:#222;text-align:center;vertical-align:middle}
-.tg .tg-i38w{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-i38w{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
