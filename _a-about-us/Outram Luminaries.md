@@ -32,57 +32,43 @@ In 1927, Dr Wee was a Standard IV student at Outram School. In his book entitled
 
 <div>
 <div style="float: left">
-<img style="width:60%;height:50%" src="/images/About%20us/Outram%20Luminaries/L2.png">
+<img style="width:200px; padding:10px" src="/images/About%20us/Outram%20Luminaries/L2.png">
 </div>
 </div>
+
 <div>
-
-	Mr Wong Kan Seng
-
-	Deputy Prime Minister and Minister for Home affairs
-
-  
-
+Mr Wong Kan Seng
+<br><br>
+Deputy Prime Minister and Minister for Home affairs
+<br><br>
 Mr Wong Kan Seng, studied at Outram Secondary School when it was still located at Outram Road. There, he picked up practical skills like book-keeping, shorthand and touch typing. Leaving Outram in 1963, he worked as a teacher before being recruited into the Administrative Service in 1967. After joining the Administrative Service, he obtained a diploma in Business Administration, and later, a Masters in the same subject. He occupied high positions in MINDEF and Hewlett Packard before joining politics in 1984. Mr Wong has been the Home Affairs Minister since 1994 and on 1 September 2005, he was also appointed as the Deputy Prime Minister. 
-
-  
-
+<br><br>
 Mr Wong remembers his days at Outram, which was just a short distance away from Outram Prison. 
-
-  
-
+<br><br>
 “Our teachers used to remind us, ‘Better do well in your studies, better be a good boy, a good citizen, if not you may land up there \[Outram Prison\], we have to see you from the outside.’ So that was the most impactful advice I think many students would take to heart. … We could still see the prisoners when they were out, I believe there was some kind of a garden or work which they were allowed out for short periods of time perhaps an exercise yard or whatever. And we could see some of them in their prison uniform. So we would never get near it, or never would want to get near the prison fence or wall at the time. Some of the teachers I remember are Mr Chan the Maths teacher, Mrs Quah, who taught us English, we have Mr Chew who taught us Chinese and we have Mr Goh who taught us book-keeping. There are many others, but these are the teachers whom I thought left some deep impressions.”
 </div>
-	
 <br><br>
 	
 <div>
 <div style="float: left">
-<img style="width:60%;height:50%" src="/images/About%20us/Outram%20Luminaries/L3.png">
+<img style="width:200px;padding:10px" src="/images/About%20us/Outram%20Luminaries/L3.png">
 </div>
 </div>
+
 <div>
-
-	Professor Tommy Koh
-
-	Ambassador-at-Large
-
-  
-
+Professor Tommy Koh
+<br><br>
+Ambassador-at-Large
+<br><br>
 Professor Tommy Koh’s distinguished career has gained him recognition both at home and abroad, He is currently Ambassador-at-Large at the Ministry of Foreign Affairs, Director of the Institute of Policy Studies and Chairman of the National Heritage Board. He is also a Director of DBS Bank and Chairman of the Chinese Heritage Centre.
 
   
 
 Prof Koh received a First Class Honours degree in law from the University of Singapore, a Masters degree in law from Harvard University and a post-graduate Diploma in Criminology from Cambridge University. He was conferred a full professorship in 1977. He was Singapore’s Permanent Representative to the United Nations (UN) from 1968 to 1971 and again from 1974 to 1984. In between, he was the Dean of the Faculty of Law at the University of Singapore from 1971 to 1974. As President of the Third UN Conference on the Law of the Sea from 1980 to 1982, he oversaw the successful phrasing of the convention’s text, which was completed by consensus, rather than the usual method of majority voting. He was the founding Chairman of the National Arts Council where he vigorously supported the development of the cultural and arts scene in Singapore. As the founding Executive Director of the Asia-Europe Foundation (ASEF), he has worked to bring the civil societies of the two regions closer together. Most recently, he was Singapore’s Chief Negotiator for the US-Singapore Free Trade Agreement. 
-
-  
-
+<br><br>
 Prof Koh joined Outram School in the late 1940s after spending a bridging year at St Joseph’s Institution (he was previously from a Chinese school at Outram Road). At Outram, Prof Koh was known to be a good all-rounder who played badminton for the school and was a Scout too. In his recollections, Prof Koh noted that unlike him, most of his classmates were not from wealthy homes but stayed in humble homes in Chinatown and Tiong Bahru. This made a deep imprint on his mindset and attitude towards people, and he came to respect people irrespective of their background. 
-
-  
-
+<br><br>
 “In Outram School, I had good teachers. They were very strict, as compared to today’s standard… The teachers were strict with you but they would sometimes wink at you. So I knew that although they were very tough they actually cared for you.”
-
 </div>
 
 <br><br>
