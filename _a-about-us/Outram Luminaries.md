@@ -8,7 +8,6 @@ description: ""
 <img style="width:200px; padding:10px" src="/images/About%20us/Outram%20Luminaries/L1.png">
 </div>
 </div>
-
 <div>
 Dr Wee Kim Wee
 Former President of Singapore
@@ -94,10 +93,7 @@ During his time at Outram, Mr Koh was the secretary of both the Commerce Society
 <br><br>
 It seems that the floods bring nothing but unhappiness and terror. But this is not so. The pupils of Outram Secondary School love floods! Yes, they welcome floods! A rainy day with floods is a welcome deviation from the humdrum routine of everyday school life. Their joy and exuberant spirits are mirrored in their youthful faces when they wade cautiously through the swirling brownish water or balance precariously on the benches ingeniously placed in the tuck-shop to form a dry passage-way. Occasionally, a squeal of laughter, a splash and a cry of exaggerated anguish is heard in the tuck-shop… … All these things are in the game, however, and the pupils take it in good form. The pupils also welcome the opportunity to release their cramped toes from their tight shoes and wade barefeet in the icy-cold water. A very funny sight on rainy days is to be seen in the tuck-shop. Imagine looking at girls and boys standing high up on tables eating and drinking unconcernedly. It is such an awkward and unorthodox position to be in. \- Koh Cher Siang, Sec. IV A. (Outram Annual, 1962).
 </div>
-
 ---
-
-<br><br>
 <div>
 <div style="float: left">
 <img style="width:200px; padding:10px" src="/images/About%20us/Outram%20Luminaries/L6.png">
@@ -190,10 +186,7 @@ Ruby’ passion for drama and the arts is also evident in her academic pursuits.
 <br><br>
 In Singapore, Act 3 has worked with schools, the Ministry of Education and the National Arts Council to develop a wide-ranging programme of performances catering to specific audiences. Ms Lim-Yang and her Act 3 co-founders also started the Act 3 Drama Academy in 1994, which offers a carefully crafted syllabus catering to children from as young as 18 months to teenagers up to the age of 15. In 2000, Act 3 successfully implemented one of its most ambitious projects to date – a national arts festival for children entitled ‘Prudential Children First! Singapore International Festival for Children’. Ruby aims to tour the festival in the region and Act 3 is currently in discussions with counterparts in Kuala Lumpur. In future, Ruby hopes to make Act 3 an international name first in the region, then the rest of the world.
 </div>
-
 ---
-
-<br><br>
 <div>
 <div style="float: left">
 <img style="width:200px; padding:10px" src="/images/About%20us/Outram%20Luminaries/L12.png">
