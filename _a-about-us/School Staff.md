@@ -113,7 +113,7 @@ description: ""
   <tr>
     <td class="tg-muqq">Mr P Elancheliyan</td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">School Staff Developer</span></td>
-						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">email </span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">p_elancheliyan@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Mr Oliver Tan</td>
