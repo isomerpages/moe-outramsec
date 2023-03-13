@@ -83,12 +83,12 @@ description: ""
   <tr>
     <td class="tg-muqq">Mrs Faith Wong</td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">HOD/ Character &amp; Citizenship Education</span></td>
-						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">email </span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">wong_ching_hun@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Mrs Lui Ping Xin</td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">HOD/ Mother Tongue</span></td>
-						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">email </span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">chen_ping_xin@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Mr Loh Peng Yeong </td>
@@ -108,7 +108,7 @@ description: ""
   <tr>
     <td class="tg-muqq">Ms Serene Cheong </td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">HOD/ Business &amp; Enterprise </span></td>
-						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">email </span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">cheong_wenxin_serene@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Mr P Elancheliyan</td>
