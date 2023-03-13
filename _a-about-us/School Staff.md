@@ -186,6 +186,7 @@ description: ""
   <tr>
     <th class="tg-ocgt" colspan="2"><span style="color:#F2F9FF;background-color:#1F8CE4">Class  </span></th>
     <th class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">Form Teachers</span></th>
+				<th class="tg-8s0f"><span style="color:#F2F9FF;background-color:#1F8CE4">Email</span></th>
   </tr>
 </thead>
 <tbody>
@@ -193,41 +194,50 @@ description: ""
     <td class="tg-i38w">NT</td>
     <td class="tg-i38w">S11<span style="color:#222;background-color:#F2F9FF"> </span></td>
     <td class="tg-da8v">Ms Gloria Ng<br>Mr Bernard R S Nair (LDM)</td>
+								 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">gloria_ng_yu_yan@schools.gov.sg<br>bernard_roy_sanjay_nair@schools.gov.sg</span></td>
+		
   </tr>
   <tr>
     <td class="tg-i38w">NA</td>
     <td class="tg-i38w">S12<span style="color:#222;background-color:#F2F9FF"> </span></td>
     <td class="tg-da8v">Mr Gabriel Fu<br>Ms Diana Binte Othman</td>
+										 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Gabriel_fu_bojun@schools.gov.sg<br>diana_othman@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-i38w">Exp </td>
     <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF"> </span>S13</td>
     <td class="tg-da8v">             Mdm Singaram Vijayalakshmi        </td>
+									 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">singaram_vijayalakshmi@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF"> </span>Exp</td>
     <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF"> </span>S14</td>
     <td class="tg-da8v">Mr Neo Sian Lee<br><span style="color:#222;background-color:#F2F9FF">Mr Prathivmohan S/O Chandramohan</span><br></td>
+										 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Neo_sian_lee@schools.gov.sg<br>prathivmohan_chandramohan@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-i38w">NT</td>
     <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF">   </span>S21<span style="color:#222;background-color:#F2F9FF"> </span></td>
     <td class="tg-da8v">Ms Goh Ban Leng<br>Ms Nurul Nadhirah </td>
+										 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">@schools.gov.sg<br>email@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-i38w">NA</td>
     <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF">   </span>S22</td>
-    <td class="tg-da8v">Mr Lim Teck Ming<br>Ms Nur Atikah Bte Kamsani<br></td>
+    <td class="tg-da8v">Mr Lim Teck Ming<br>Ms Nur Atikah Bte Kamsani<br>
+										 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">@schools.gov.sg<br>email@schools.gov.sg</span></td></td>
   </tr>
   <tr>
     <td class="tg-i38w">Exp</td>
     <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF">    </span>S23</td>
     <td class="tg-da8v">Ms Serene Wong<br>Ms Vivian Tan</td>
+									 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">@schools.gov.sg<br>email@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-i38w">Exp</td>
     <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF">    </span> S24<span style="color:#222;background-color:#F2F9FF"> </span></td>
     <td class="tg-da8v">Mdm Tan Kim Choo<br>Mrs Wendy Loi</td>
+									 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">@schools.gov.sg<br>email@schools.gov.sg</span></td>
   </tr>
 </tbody>
 </table>
@@ -250,6 +260,7 @@ description: ""
   <tr>
     <th class="tg-8s0f" colspan="2"><span style="color:#F2F9FF;background-color:#1F8CE4">CLASS</span><br></th>
     <th class="tg-8s0f"><span style="color:#F2F9FF;background-color:#1F8CE4">Form Teachers</span></th>
+				<th class="tg-8s0f"><span style="color:#F2F9FF;background-color:#1F8CE4">Email</span></th>
   </tr>
 </thead>
 <tbody>
