@@ -100,7 +100,7 @@ It seems that the floods bring nothing but unhappiness and terror. But this is n
 </div>
 </div>
 <div>
-<br><br>
+
 Brigadier-General Patrick Choy 
 <br><br>
 Former Ambassador- Designate to Myanmar
@@ -159,7 +159,7 @@ Mr Siew was a student at Outram from 1971-1974, and 1976-1977. He has this to sa
 ---
 <div>
 <div style="float: left">
-<img style="width:60%;height:50%" src="/images/About%20us/Outram%20Luminaries/L10.png">
+<img style="width:200px; padding:10px" src="/images/About%20us/Outram%20Luminaries/L10.png">
 </div>
 </div>
 <div>
