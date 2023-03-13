@@ -225,13 +225,13 @@ description: ""
     <td class="tg-i38w">NA</td>
     <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF">   </span>S22</td>
     <td class="tg-da8v">Mr Lim Teck Ming<br>Ms Nur Atikah Bte Kamsani<br>
-										 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">@schools.gov.sg<br>email@schools.gov.sg</span></td></td>
+										 <td class="tg-da8v"> lim_teck_ming@schools.gov.sg<br>nur_atikah_kamsani@schools.gov.sg</td></td>
   </tr>
   <tr>
     <td class="tg-i38w">Exp</td>
     <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF">    </span>S23</td>
     <td class="tg-da8v">Ms Serene Wong<br>Ms Vivian Tan</td>
-									 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">@schools.gov.sg<br>email@schools.gov.sg</span></td>
+									 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">wong_ai_fung_serene@schools.gov.sg<br>cheong_suet_fun@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-i38w">Exp</td>
