@@ -163,7 +163,7 @@ description: ""
   <tr>
     <td class="tg-muqq">Ms Nur Atikah Bte Kamsani<span style="color:#222;background-color:#F2F9FF"> </span></td>
     <td class="tg-2w19"><span style="color:#222;background-color:#F2F9FF">Acting Subject Head/ CCE </span></td>
-						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">email </span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">nur_atikah_kamsani@schools.gov.sg</span></td>
   </tr>
 </tbody>
 </table>
