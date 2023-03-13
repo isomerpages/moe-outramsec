@@ -61,88 +61,109 @@ description: ""
   <tr>
     <th class="tg-8s0f"><span style="color:#F2F9FF;background-color:#1F8CE4">Name</span></th>
     <th class="tg-8s0f"><span style="color:#F2F9FF;background-color:#1F8CE4">Appointment</span></th>
+				<th class="tg-8s0f"><span style="color:#F2F9FF;background-color:#1F8CE4">Email</span></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-muqq">Ms Tan Boon Hwee</td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">HOD/ Humanities</span></td>
+				 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">tan_boon_hwee@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Mr Ajmal Khan</td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">HOD/ Mathematics</span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">email </span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Ms Low Gek Chew</td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">HOD/ Science</span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">email </span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Mrs Faith Wong</td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">HOD/ Character &amp; Citizenship Education</span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">email </span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Mrs Lui Ping Xin</td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">HOD/ Mother Tongue</span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">email </span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Mr Loh Peng Yeong </td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">HOD/ Information Communication Technology</span><br></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">email </span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Ms Zaiton </td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">HOD/ Discipline</span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">email </span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Mrs Cheryl Fan <br></td>
     <td class="tg-2w19">HOD/ English<span style="color:#222;background-color:#F2F9FF"> Language/Literature</span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">email </span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Ms Serene Cheong </td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">HOD/ Business &amp; Enterprise </span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">email </span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Mr P Elancheliyan</td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">School Staff Developer</span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">email </span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Mr Oliver Tan</td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Year Head (Upper Sec)</span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">oliver_tan@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Mr Alex Tan</td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Year Head (Lower Sec)</span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">email </span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Mr Roderick Lim</td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Assistant Year Head</span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">email </span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Mr Dawa T. Sherpa</td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">HOD/Special Educational Needs</span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">email </span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Mr Ong Kok Heng</td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Subject Head/ Craft &amp; Technology</span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">email </span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Ms Yong Li Zhuang Jolin</td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Subject Head / Mathematics</span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">email </span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Ms Wong Ann Ann</td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Level Head/ English Language/Literature</span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">chin_ann_ann@schools.gov.sg </span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Ms Yeo Yang Hong</td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Level Head/ Science</span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">email </span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Mr Freddie Chan </td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Acting Subject Head/ PE and CCA </span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">email </span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Ms Nur Atikah Bte Kamsani<span style="color:#222;background-color:#F2F9FF"> </span></td>
     <td class="tg-2w19"><span style="color:#222;background-color:#F2F9FF">Acting Subject Head/ CCE </span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">email </span></td>
   </tr>
 </tbody>
 </table>
