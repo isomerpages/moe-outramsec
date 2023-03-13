@@ -133,7 +133,7 @@ description: ""
   <tr>
     <td class="tg-muqq">Mr Dawa T. Sherpa</td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">HOD/Special Educational Needs</span></td>
-						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">email </span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">dawa_tshering_sherpa@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Mr Ong Kok Heng</td>
