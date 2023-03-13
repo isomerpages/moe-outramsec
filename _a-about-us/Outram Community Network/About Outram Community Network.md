@@ -14,7 +14,6 @@ The OCN community includes past and present members from the following groups:
 4. [School Staff](/about-us/School-Staff/)
 
 Event
-
       
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:107.6pt;border:solid windowtext 1.0pt;
