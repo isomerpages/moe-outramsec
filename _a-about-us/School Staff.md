@@ -212,8 +212,8 @@ description: ""
   <tr>
     <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF"> </span>Exp</td>
     <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF"> </span>S14</td>
-    <td class="tg-da8v">Mr Neo Sian Lee<br><span style="color:#222;background-color:#F2F9FF">Mr Prathivmohan S/O Chandramohan</span><br></td>
-										 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">neo_sian_lee@schools.gov.sg<br>prathivmohan_chandramohan@schools.gov.sg</span></td>
+    <td class="tg-da8v">Mr Neo Sian Lee<br>Mr Prathivmohan S/O Chandramohan<br></td>
+										 <td class="tg-da8v">neo_sian_lee@schools.gov.sg<br>prathivmohan_chandramohan@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-i38w">NT</td>
