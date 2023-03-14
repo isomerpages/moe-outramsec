@@ -45,7 +45,7 @@ description: ""
 
 [Parents Gateway](https://pg.moe.edu.sg/)
 
-
+[MOE Instagram for Parents - @Parentingwith.moesg](https://www.instagram.com/parentingwith.moesg/)
 
 <!--
 <ul class="jekyllcodex_accordion">
