@@ -3,11 +3,9 @@ title: Staff Achievements
 permalink: /the-outram-story/Staff-Achievements/
 description: ""
 ---
-
-
 | 2022 |
 |:---:|
-| **MOE Service Excellence Award (MSEA) 2021Gold**  |
+| **MOE Service Excellence Award (MSEA) 2022Gold**  |
 | Abdul Rahman B Abdul Rahim |
 |  Charles Yip Wai Kit |
 |  Cheong Suet Fun Vivian |
@@ -28,7 +26,7 @@ description: ""
 | Woo See Wei  |
 | Yeo Yang Hong<br><br>Gladys Lim Yean Yue |   |
 | **Facilitator of Networked Learning Communities**  |
-|  <br>Dawa Tshering Sherpa<br> Tang Yee Fun Francis  |   |
+| Dawa Tshering Sherpa<br> Tang Yee Fun Francis  |   |
 | **Facilitator of Workshops** |
 | Lim Yong Guan Roderick   |  |
 |  **Innovator** |
