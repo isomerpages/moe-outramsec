@@ -3,7 +3,32 @@ title: Students
 permalink: /parents-and-students/Students/
 description: ""
 ---
+### **Booklist**
 
+[Booklist 2023](/files/Parents%20and%20Students/Students/Booklists/Booklist%202023.pdf)
+
+### **Student Handbook**
+
+[Student Handbook 2023](/files/Parents%20and%20Students/Students/2023%20Student%20Handbook_final.pdf)
+
+[Daily Revision and Exam Strategies for Students](/files/Parents%20and%20Students/Students/OSS20Student20Handbook20Revision20Exam20Tips202022.pdf)
+
+### **Resources for HBL**
+[Student Device Information Kit Acer Centre and Help Centre Information](/files/Parents%20and%20Students/Students/Appendix%201%20-%20Student%20Device%20Information%20Kit%20Acer%20Service%20Centre%20and%20HelpCentre%20Information.pdf)
+
+[Blended Learning@Home Instructions to Students](/files/Parents%20and%20Students/Students/Standard%20Instructions%20for%20BLHome.pdf)
+
+[Resources for Full HBL](/Resources-for-FHBL/)
+
+### **Links**
+[Student Google Dashboard](https://workspace.google.com/dashboard)
+
+[Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
+
+[Online Public Access Catalogue (OPAC)](https://schoolibrary.moe.edu.sg/outramsec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
+
+
+<!--
 <ul class="jekyllcodex_accordion">
 
   <li>
@@ -69,7 +94,7 @@ description: ""
 
 </li>
 	
-	
-
-	
+		
 </ul>
+
+-->
