@@ -3,6 +3,51 @@ title: Parents
 permalink: /parents-and-students/Parents/
 description: ""
 ---
+### **Booklist**
+
+[Booklist 2023](/files/Parents%20and%20Students/Students/Booklists/Booklist%202023.pdf)
+
+### **Letter to Parents**
+
+[2023 Term 2 Letter to Parents](/files/Parents%20and%20Students/Parents/Letter%20to%20Parents%202023/2023%20Term%202%20Letter%20to%20Parents%20.pdf)
+
+[2023 Term 1 Letter to Parents](/files/Parents%20and%20Students/Parents/Letter%20to%20Parents%202023/2023%20Term%201%20Letter%20to%20Parents%20Final.pdf)
+
+### **Personalised Digital Learning Programme (PDLP)**
+
+[Purchase of PLD Letter to Parents](/files/Parents%20and%20Students/Parents/PDLP%202022/Purchase%20of%20PLD%20Letter%20to%20Parents.pdf)
+
+[Learning with PLD ](/files/Parents%20and%20Students/Parents/PDLP%202022/Learning%20with%20PLD%20Outram%20Secondary%20School.pdf)
+
+[IP1- Parent Handbook I on Learning](/files/Parents%20and%20Students/Parents/HBL/Parent%20Handbook%20I%20on%201_1%20Learning.pdf)
+
+[IP2 - Parent Handbook I on Learning with a PLD](/files/Parents%20and%20Students/Parents/PDLP%202022/IP2%20-%20Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf)
+
+[IP3 - Parent Handbook II on Learning with a PLD](/files/Parents%20and%20Students/Parents/PDLP%202022/IP3%20-%20Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf)
+
+### **Home-based Learning (HBL)**
+
+[Parent Kit - Supporting your Child During Full HBL](/files/Parents%20and%20Students/Parents/HBL/Parent%20Kit%20-%20Supporting%20your%20child%20during%20Full%20HBL.pdf)
+
+[Parent Kit - Bonding Over the Holidays](/files/Parents%20and%20Students/Parents/HBL/Parent%20Kit_Bonding%20Over%20the%20Holidays_.pdf)
+
+[Standard Instructions for Blended Learning at Home](/files/Parents%20and%20Students/Parents/HBL/Standard%20Instructions%20for%20BLHome.pdf)
+
+[Arrangement for School Reopening in Term 3 for Secondary Schools](/files/Parents%20and%20Students/Parents/HBL/Arrangement%20for%20School%20Reopening%20in%20Term%203%20for%20Secondary%20Schools.pdf)
+
+[Student Device Information Kit (Acer Service Centre and Help Centre Information)](/files/Parents%20and%20Students/Parents/HBL/Appendix%201%20-%20Student%20Device%20Information%20Kit%20Acer%20Service%20Centre%20and%20HelpCentre%20Information.pdf)
+
+### **Financial Assistance Scheme (FAS) Information**
+
+[MOE FAS Application Form](/files/Parents%20and%20Students/Parents/FAS%20Information/MOE%20FAS%20APPLICATION%20FORM.pdf)
+
+### **Links**
+
+[Parents Gateway](https://pg.moe.edu.sg/)
+
+
+
+<!--
 <ul class="jekyllcodex_accordion">
 
   <li>
@@ -13,7 +58,8 @@ description: ""
 
     <div>
 
-<p> <a href="/files%2FLinks%2FStudents%2FBooklists/">Booklists for 2023</a> </p>
+<p> [Booklist 2023(/files/Parents%20and%20Students/Students/Booklists/Booklist%202023.pdf)
+			</p>
 
     </div>
 
@@ -114,7 +160,6 @@ description: ""
 
 </li>
 	
-	
-
-	
 </ul>
+
+-->
