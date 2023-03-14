@@ -9,7 +9,9 @@ description: ""
 
 ### **Letter to Parents**
 
+<!-- 
 [2023 Term 2 Letter to Parents](/files/Parents%20and%20Students/Parents/Letter%20to%20Parents%202023/2023%20Term%202%20Letter%20to%20Parents%20.pdf)
+-->
 
 [2023 Term 1 Letter to Parents](/files/Parents%20and%20Students/Parents/Letter%20to%20Parents%202023/2023%20Term%201%20Letter%20to%20Parents%20Final.pdf)
 
@@ -30,6 +32,10 @@ description: ""
 [Parent Kit - Supporting your Child During Full HBL](/files/Parents%20and%20Students/Parents/HBL/Parent%20Kit%20-%20Supporting%20your%20child%20during%20Full%20HBL.pdf)
 
 [Parent Kit - Bonding Over the Holidays](/files/Parents%20and%20Students/Parents/HBL/Parent%20Kit_Bonding%20Over%20the%20Holidays_.pdf)
+
+[HBL Tips for Parents](/files/Parents%20and%20Students/Parents/Resources%20for%20FHBL/FOR%20PARENTS_HBL%20Tips%20for%20Parents.pdf)
+
+[Setting Up for Success at Home](/files/Parents%20and%20Students/Parents/Resources%20for%20FHBL/FOR%20PARENTS_Setting%20up%20for%20Success%20at%20Home.pdf)
 
 [Standard Instructions for Blended Learning at Home](/files/Parents%20and%20Students/Parents/HBL/Standard%20Instructions%20for%20BLHome.pdf)
 
