@@ -18,6 +18,14 @@ description: ""
 
 [Blended Learning@Home Instructions to Students](/files/Parents%20and%20Students/Students/Standard%20Instructions%20for%20BLHome.pdf)
 
+[Resources for Full HBL](/Resources-for-FHBL/)
+
+### **Links**
+[Student Google Dashboard](https://workspace.google.com/dashboard)
+
+[Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
+
+[Online Public Access Catalogue (OPAC)](https://schoolibrary.moe.edu.sg/outramsec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 
 
 <!--
