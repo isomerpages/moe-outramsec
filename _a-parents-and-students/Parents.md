@@ -45,6 +45,8 @@ description: ""
 
 [Student Device Information Kit (Acer Service Centre and Help Centre Information)](/files/Parents%20and%20Students/Parents/HBL/Appendix%201%20-%20Student%20Device%20Information%20Kit%20Acer%20Service%20Centre%20and%20HelpCentre%20Information.pdf)
 
+[Resources for Full HBL](/Resources-for-FHBL/)
+
 ### **Financial Assistance Scheme (FAS) Information**
 
 [MOE FAS Application Form](/files/Parents%20and%20Students/Parents/FAS%20Information/MOE%20FAS%20APPLICATION%20FORM.pdf)
