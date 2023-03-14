@@ -19,7 +19,7 @@ description: ""
 
 [Learning with PLD ](/files/Parents%20and%20Students/Parents/PDLP%202022/Learning%20with%20PLD%20Outram%20Secondary%20School.pdf)
 
-[IP1- Parent Handbook I on Learning](/files/Parents%20and%20Students/Parents/HBL/Parent%20Handbook%20I%20on%201_1%20Learning.pdf)
+[IP1 - Parent Handbook 1 on Learning](/files/Parents%20and%20Students/Parents/PDLP%202022/Parent%20Handbook%20I%20on%201_1%20Learning.pdf)
 
 [IP2 - Parent Handbook I on Learning with a PLD](/files/Parents%20and%20Students/Parents/PDLP%202022/IP2%20-%20Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf)
 
