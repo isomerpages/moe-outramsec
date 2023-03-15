@@ -11,7 +11,7 @@ description: ""
 
 <!-- 
 -->
-[2023 Term 2 Letter to Parents](/files%2FParents%20and%20Students%2FParents%2FLetter%20to%20Parents%202023/editMediaSettings/2023%20Term%202%20Letter%20to%20Parents%20.pdf)
+[2023 Term 2 Letter to Parents](/files/Parents%20and%20Students/Parents/Letter%20to%20Parents%202023/editMediaSettings/2023%20Term%202%20Letter%20to%20Parents%20.pdf)
 
 [2023 Term 1 Letter to Parents](/files/Parents%20and%20Students/Parents/Letter%20to%20Parents%202023/2023%20Term%201%20Letter%20to%20Parents%20Final.pdf)
 
