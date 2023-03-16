@@ -4,8 +4,6 @@ permalink: /about-us/Parent-Support-Group/
 description: ""
 third_nav_title: Outram Community Network
 ---
-
-
 **Outram PSG**
 
 The PSG consists of a group of dedicated parents who partner the school to support fellow parents in nurturing their children. It is the platform for parents to network, share, learn and support each other in this parenting journey.
@@ -15,9 +13,7 @@ The PSG consists of a group of dedicated parents who partner the school to suppo
 ![](/images/About%20us/Parent%20Support%20Group/01.png)
 ![](/images/About%20us/Parent%20Support%20Group/02.png)
 
-**Calendar of Events 2022**
 
-![](/images/About%20us/Parent%20Support%20Group/31.png)
 
 **New to Parents Gateway – Parenting Resources**
 
