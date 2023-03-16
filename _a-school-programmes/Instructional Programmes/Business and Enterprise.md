@@ -159,7 +159,7 @@ For more information, please email:
 		
    <input type="checkbox" id="accordion5">
 
-   <label for="accordion5">Programmes in 2022</label>
+   <label for="accordion5">Programmes in 2023</label>
 
     <div>
 
@@ -177,9 +177,12 @@ For more information, please email:
 
 ·         Finance Leaders programme for Secondary 2 and 3<br>
 
-·         Online Bazaar for Business students<br>
+·         Bazaar for Business students<br>
 
 ·         Secondary 3 Entrepreneurship programme<br>
+	
+	·        Project Moolah Fin Lit Programme<br>
+	
 
 <b>March</b><br><br>
 
@@ -187,41 +190,51 @@ For more information, please email:
 
 ·         Secondary 3 Entrepreneurship programme<br>
 
-·          Lcube game for Secondary 1 students<br>
+·          ApLM for Upper Secondary [NA / Exp] students<br>
 
 <b>April</b><br><br>
 
 ·          Business lesson for Lower Secondary (Project Work)<br>
+	
+·         L Cube game for Secondary 1 students<br>
 
+·         Project Moolah Fin Lit Programme<br>
+	
+·         Spirit of Enterprise (SOE) workshop for Secondary 2 Entrepreneurship programme<br>
+	
 <b>May</b><br><br>
 
 ·         Business lesson for Lower Secondary<br>
+	
+·         Business day for all students<br>
 
-·         ALP day for Secondary 1, 2 and 3<br>
+·         Spirit of Enterprise (SOE) workshop for Secondary 2 Entrepreneurship programme
+	
 
-·         ALP week for Secondary 4 NT/NA<br>
-
-	<b>June</b><br><br>
+<b>June</b><br><br>
 
 ·         LCCI External Certification (For selected group of POA students)<br>
 
 ·         Project Moolah Fin Lit programme<br>
 
+	
 <b>July – September</b><br><br>
 
-·         Spirit of Enterprise (SOE) workshop for Secondary 2 Entrepreneurship programme<br>
+·        Entrepreneurship first step module organized by Ngee Ann Polytechnic<br>
 
-·          Entrepreneurship first step module organized by Ngee Ann Polytechnic<br>
-
-·         Project Moolah Fin Lit programme<br>
+·          Project Moolah Fin Lit programme<br>
+	
+·          Sec 2 Entrepreneurship programme (selected students)
 
 <b>October - November</b><br><br>
 
 ·         Fin Lit Outreach and Publicity Talks to Primary Schools<br>
 
-·         MYM and Cashflow interclass Secondary One and Two competition<br>
+·          Sec 2 Entrepreneurship programme (selected students)
 
-·         Design for Change Challenge<br> </p>
+·         National Financial Literacy Competition organized by OSS<br>
+			
+</p>
 
     </div>
 
