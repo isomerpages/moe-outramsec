@@ -13,8 +13,6 @@ The PSG consists of a group of dedicated parents who partner the school to suppo
 ![](/images/About%20us/Parent%20Support%20Group/01.png)
 ![](/images/About%20us/Parent%20Support%20Group/02.png)
 
-
-
 **New to Parents Gateway – Parenting Resources**
 
 ![](/images/About%20us/Parent%20Support%20Group/PSG%20tool%20kit.jpg)
@@ -67,25 +65,4 @@ The first PSG meeting was conducted on the 28 January 2022 via Zoom. The introdu
 
   </li>
 
-  <li>
-
-
-
-    <input type="checkbox" id="accordion2">
-
-    <label for="accordion2">Programmes For Parents
-</label>
-
-    <div>
-
-      <p>Dear Parents/Guardians,
-
- Outram’s community partner Montfort Care’s Parenting Support Team will be holding their Triple P Level 2 seminars in July! We would like to invite parents to join them for these seminars!
-
-Click on the link to register: <a href="https://bit.ly/L2TJul22%20">https://bit.ly/L2TJul22t</a></p>
-
-      <img style="width:100%;height:50%" src="/images/About%20us/Parent%20Support%20Group/psg%20website%202022.jpg"><br>
-
-        <img style="width:70%;height:50%" src="/images/About%20us/Parent%20Support%20Group/EDM%20-%20Triple%20P%20L2%20Teen_Jul%202022.jpg">
-
-  <ul>
+ 
