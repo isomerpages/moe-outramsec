@@ -19,4 +19,3 @@ Internal partners are the key stakeholders of Outram Secondary School. The perso
 
 ![First organized water polo session for Alumni members on 11 March 2023](/images/About%20us/Outram%20Alumni/WaterPolo_Alumni01.jpeg)
 First organised Water Polo Sesssion for Alumni members on 11 March 2023.
-
