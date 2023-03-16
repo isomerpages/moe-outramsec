@@ -59,4 +59,4 @@ We were privileged to have Ms Carol Loi, Founder of Village Consultancy, to co
 
 Parents also had fun participating in three breakout room activities – Zumba, Ice-cream-making workshop and Combat Digital Fatigue the TCM way. <br>
 
-<img style="width:70%;height:50%" src="/images/About%20us/Parent%20Support%20Group/psg.png"> <br> 
+<img style="width:70%;height:50%" src="/images/About%20us/Parent%20Support%20Group/psg.png"> <br>
