@@ -27,8 +27,7 @@ Read the [Issue of Parent Kit](/files/About%20us/Parent%20Support%20Group/Resou
 
 **Join us!**
 
-If you are interested to join the PSG, click [here.]
-(https://form.gov.sg/641855f6e9ca7c001270b2e9)
+If you are interested to join the PSG, click [here](https://form.gov.sg/641855f6e9ca7c001270b2e9).
 
 ### **Past Activities**
 
