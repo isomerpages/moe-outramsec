@@ -143,7 +143,7 @@ description: ""
   <tr>
     <td class="tg-muqq">Ms Yong Li Zhuang Jolin</td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Subject Head / Mathematics</span></td>
-						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">yong_li_zhuang_jolin@schools.gov.sg</span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">jolin_yong@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-muqq">Ms Wong Ann Ann</td>
