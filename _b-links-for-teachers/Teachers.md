@@ -21,8 +21,7 @@ description: ""
 				<a href="https://icon.moe.edu.sg/">iCON Mail</a><br>
 				<a href="https://vle.learning.moe.edu.sg/login">Student Learning Space</a><br>
 				<a href="https://pg.moe.edu.sg/">Parents Gateway Portal</a><br>
-				<a href="/files/Links/Teachers/STEPS%20TO%20ENSURE%20AVAILABILITY%20OF%20SELF%20help%20reset%20of%20SLS%20password.pdf">Self Reset for SLS Password</a><br>
-				<a href="https://rbs.avero-tech.com/">Resources Booking Service (RBS)</a><br>
+<a href="https://rbs.avero-tech.com/">Resources Booking Service (RBS)</a><br>
 				<a href="https://forms.gle/R5k6BwnWQYWHga2T6">OCC ICT Support/Helpdesk</a><br>
 			</p>
 
