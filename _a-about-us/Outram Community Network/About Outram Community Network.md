@@ -4,6 +4,8 @@ permalink: /about-us/Outram-Community-Network/
 description: ""
 third_nav_title: Outram Community Network
 ---
+![Outram Community Network](/images/About%20us/About%20us/ocn_logo.jpeg)
+
 Outram Community Network (OCN) is a platform to reconnect members from the Outram Family. This community aims to provide a free networking platform through ground up initiatives by interest-based groups. All events and activities organised for OCN will be made available for free or at a discounted rate.  
 
 The OCN community includes past and present members from the following groups:
@@ -17,8 +19,7 @@ The OCN community includes past and present members from the following groups:
 
 | Event / Interest Group                                                                                   | Date                         | Time            | Venue                                                                                     | Cost | Event Registration                                                                                                                                       |
 |----------------------------------------------------------------------------------------------------------|------------------------------|-----------------|-------------------------------------------------------------------------------------------|------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Environmental and Sustainability Programme  - Food Rescue, upcycling booths,  Amazing Environmental Race | 11 March 2023                | 9.00-11.00 a.m. | Blk 538 Upper Cross Street  #05-261  Singapore 050538  (5mins from Chinatown MRT Station) | Free | Registration is closed.                                                                                                   |
-| Water Polo Interest Group                                                                                |2nd and 4th Saturday of every month | 8.00-11.00 a.m. | Outram Secondary School  (Swimming Pool)                                                  | Free | Click [here](https://forms.gle/netmWKjPCowDzgHm9) to sign up.  <br><br> Click [here](https://drive.google.com/file/d/19X9FplqGXE32SfrFE7sQ_lTpqClZTQ7h/view) for the Pre-Activity  Readiness Questionnaire Form (PAR-Q-FORM).  You have to complete the form  before the sessions. |
+ Water Polo Interest Group                                                                                | Month of April: <br><br> 15 April 2023 <br><br> 29 April 2023 <br> <br> May: <br> <br> 2nd and 4th Saturday of the month | 8.00-11.00 a.m. | Outram Secondary School  (Swimming Pool)                                                  | Free | Click [here](https://forms.gle/netmWKjPCowDzgHm9) to sign up.  <br><br> Click [here](https://drive.google.com/file/d/19X9FplqGXE32SfrFE7sQ_lTpqClZTQ7h/view) for the Pre-Activity  Readiness Questionnaire Form (PAR-Q-FORM).  You have to complete the form  before the sessions. |
 |                                                                                                          |                              |                 |                                                                                           |      |                                                                                                                                                          |
 
 
