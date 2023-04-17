@@ -17,14 +17,59 @@ The OCN community includes past and present members from the following groups:
 
 **Event**
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky"><span style="font-weight:bold">Event / Interest Group</span></th>
+    <th class="tg-0pky"><span style="font-weight:bold">Date</span></th>
+    <th class="tg-0pky"><span style="font-weight:bold">Time</span></th>
+    <th class="tg-0pky"><span style="font-weight:bold">Venue</span></th>
+    <th class="tg-0pky"><span style="font-weight:bold">Cost</span></th>
+    <th class="tg-0pky"><span style="font-weight:bold">Event Registration</span></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0pky">Water Polo Interest Group</td>
+    <td class="tg-0pky">April:<br><br>15 April<br>2023<br><br>29 April<br>2023<br><br>May:<br>2nd and 4th<br>Saturday of the month<br></td>
+    <td class="tg-0pky">8.00-11.00 a.m.</td>
+    <td class="tg-0pky">Outram Secondary School <br>(Swimming Pool)</td>
+    <td class="tg-0pky">Free</td>
+    <td class="tg-0pky">Click <a rel="noopener noreferrer" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSfw0DcGKJdd7j2nzjExBK9CQ-8Qj9zYVjh7JpLxKqkfwj_HBA/viewform">here</a> to sign up.<br><br>Click <a rel="noopener noreferrer" target="_blank" href="https://drive.google.com/file/d/19X9FplqGXE32SfrFE7sQ_lTpqClZTQ7h/view">here</a> for the Pre-Activity <br>Readiness Questionnaire Form<br>(PAR-Q-FORM).<br><br><span style="font-weight:bold">You have to complete the form </span><br><span style="font-weight:bold">before the sessions.</span></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Journey of LOVE with mothers</td>
+    <td class="tg-0pky">6 May 2023</td>
+    <td class="tg-0pky">8.30 a.m. - 1..00 a.m.</td>
+    <td class="tg-0pky">Nature walk @ Fort Canning Park</td>
+    <td class="tg-0pky">$5 per pax</td>
+    <td class="tg-0pky">Click <a rel="noopener noreferrer" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdQU7ZN_37Uw_vedUtVOGWlUT2YjyPkwnA8f0G9ODPb8_13Ug/viewform">here</a> to sign up.<br>Limited vacancies for the event.</td>
+  </tr>
+</tbody>
+</table>
+
+<!--
+
 | Event / Interest Group                                                                                   | Date                         | Time            | Venue                                                                                     | Cost | Event Registration                                                                                                                                       |
 |----------------------------------------------------------------------------------------------------------|------------------------------|-----------------|-------------------------------------------------------------------------------------------|------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
  Water Polo Interest Group                                                                                | Month of April: <br><br> 15 April 2023 <br><br> 29 April 2023 <br> <br> May: <br> <br> 2nd and 4th Saturday of the month | 8.00-11.00 a.m. | Outram Secondary School  (Swimming Pool)                                                  | Free | Click [here](https://forms.gle/netmWKjPCowDzgHm9) to sign up.  <br><br> Click [here](https://drive.google.com/file/d/19X9FplqGXE32SfrFE7sQ_lTpqClZTQ7h/view) for the Pre-Activity  Readiness Questionnaire Form (PAR-Q-FORM).  **You have to complete the form  before the sessions.** |
 |                                                                                                          |                              |                 |                                                                                           |      |                                                                                                                                                          |
 
 
+-->
 
-		 
+
+
+		
+		
 <!--
 <table style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
  mso-yfti-tbllook:1184;mso-padding-alt:0in 5.4pt 0in 5.4pt" cellpadding="0" cellspacing="0" border="1" class="MsoTableGrid"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:107.6pt;border:solid windowtext 1.0pt;
@@ -127,3 +172,5 @@ The OCN community includes past and present members from the following groups:
   normal" class="MsoListParagraph"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black">&nbsp;</span></p></td></tr></tbody></table>
 -->
+
+       
