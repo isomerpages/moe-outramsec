@@ -48,7 +48,7 @@ The OCN community includes past and present members from the following groups:
   <tr>
     <td class="tg-0pky">Journey of LOVE with mothers</td>
     <td class="tg-0pky">6 May 2023</td>
-    <td class="tg-0pky">8.30 a.m. - 1..00 a.m.</td>
+    <td class="tg-0pky">8.30 a.m. - 11.30 a.m.</td>
     <td class="tg-0pky">Nature walk @ Fort Canning Park</td>
     <td class="tg-0pky">$5 per pax</td>
     <td class="tg-0pky">Click <a rel="noopener noreferrer" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdQU7ZN_37Uw_vedUtVOGWlUT2YjyPkwnA8f0G9ODPb8_13Ug/viewform">here</a> to sign up.<br>Limited vacancies for the event.</td>
@@ -172,5 +172,3 @@ The OCN community includes past and present members from the following groups:
   normal" class="MsoListParagraph"><span style="font-family:&quot;Arial&quot;,sans-serif;mso-fareast-font-family:
   &quot;Times New Roman&quot;;color:black">&nbsp;</span></p></td></tr></tbody></table>
 -->
-
-       
