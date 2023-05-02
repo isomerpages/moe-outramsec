@@ -39,7 +39,7 @@ The OCN community includes past and present members from the following groups:
 <tbody>
   <tr>
     <td class="tg-0pky">Water Polo Interest Group</td>
-    <td class="tg-0pky">April:<br><br>15 April<br>2023<br><br>29 April<br>2023<br><br>May:<br>2nd and 4th<br>Saturday of the month<br></td>
+    <td class="tg-0pky">May<br><br>06 May<br>2023<br><br>20 May<br>2023<br></td>
     <td class="tg-0pky">8.00-11.00 a.m.</td>
     <td class="tg-0pky">Outram Secondary School <br>(Swimming Pool)</td>
     <td class="tg-0pky">Free</td>
