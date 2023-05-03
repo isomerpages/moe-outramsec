@@ -7,9 +7,14 @@ third_nav_title: Direct School Admission
 ![](/images/School%20Programmes/Distinctive%20Programmes/DSA/DSA01.png)
 
 Dear Parents and Primary 6 students,  
- Welcome!  
+Welcome!  
  The following categories are open for DSA application for the 2023 intake:  
- ·         Entrepreneurship (Boys and Girls) ·         Rock climbing (Boys and Girls) ·         Swimming (Boys and Girls) ·         Basketball (Boys) ·         Water polo (Boys) ·         Netball (Girls)
+*   Entrepreneurship (Boys and Girls)
+*   Rock climbing (Boys and Girls) 
+*    Swimming (Boys and Girls) 
+*    Basketball (Boys) 
+*    Water polo (Boys)        
+*    Netball (Girls)
 
 Our school is recognised for its Business and Enterprise programme. In Singapore, we are the only school offering Business Studies as a GCE O level applied subject. We also offer N- and O-level subjects, Retail Operations and Principles of Accounts (POA). Our POA students have the opportunity to take up the Pearson-LCCI external certification. Our partners offer our students a range of customised courses and certifications in Business and Enterprise. 
 
