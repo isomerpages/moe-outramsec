@@ -17,6 +17,11 @@ As the only government school built with a swimming pool, two rock walls, three 
 
 [https://sites.google.com/view/osseopenhouse/welcome-to-oss](https://sites.google.com/view/osseopenhouse/welcome-to-oss)  
 
+Applications for DSA - Secondary is open now!
+
+Students and parents may submit applications for DSA-Sec via the MOE DSA-Sec website [MOE DSA - Sec Website](https://www.moe.gov.sg/dsa-sec) from 4 May 2023, 11am to 31 May 2023, 3pm. Applicants only need to fill in one online form to apply to multiple schools and talent areas. Each applicant can indicate up to three choices in the application form. For each choice, applicants will need to choose a secondary school and a talent area offered by that school. Applicants can indicate a different talent area for each of his/her three choices, and a maximum of two choices may be used for the same school.
+
+For more information please visit the MOE DSA Website: [MOE DSA - Sec](https://www.moe.gov.sg/dsa-sec)
   
 
 
@@ -38,6 +43,6 @@ Ms Cheong Wenxin, Serene Tel: 6733 4077 ext.212 Email: cheong\_wenxin\_serene
 For more information on Sports Related DSA, please contact the following:  
 Mr Freddie Chan (Acting Subject Head/ PE and CCA)  
 Tel: 6733 4077 ext.215  
-Email: [freddie@moe.edu.sg](mailto:dan_koh@moe.edu.sg)
+Email: [chan_zhi_yang_freddie@moe.edu.sg](mailto:chan_zhi_yang_freddie@moe.edu.sg)
 
 ![](/images/School%20Programmes/Distinctive%20Programmes/DSA/DSA02.png)
