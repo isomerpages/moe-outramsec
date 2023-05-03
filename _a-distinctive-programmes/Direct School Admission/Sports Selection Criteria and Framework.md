@@ -82,7 +82,7 @@ To help our aspiring and talented athletes to achieve their sporting goals and e
   </tr>
   <tr>
     <td class="tg-2mff">Physical Selection Test Criteria:<br><span style="color:black">●</span>        <span style="color:black">Swimming Test</span><br><span style="color:black"> </span><br><span style="color:black">Shortlisted candidates will go through a series of physical test on the interview day.</span><br><span style="color:black"> </span><br><span style="color:black">o</span>    <span style="color:black">Any 2 event/stroke of his</span>/<span style="color:black">her specialization. Candidate should be able to hit a timing not more than</span> 2<span style="color:black">0% outside the finals (Top</span> 10<span style="color:black">) timing attained at the most recently concluded National Schools or Age Group competition.</span><br><span style="color:black"> </span><br><span style="color:black">o</span>    <span style="color:black">Candidates will also be tested on their stroke proficiency of all 4 strokes during the test.</span><br><span style="color:black"> </span></td>
-    <td class="tg-g3ny"><br><br><br><br>13,20 &amp; 27<br>July 2022<br><br><br>3.00 - 4.00 pm<br><br></td>
+    <td class="tg-g3ny"><br><br><br><br>5,12 &amp; 19<br>July 2023<br><br><br>3.00 - 4.00 pm<br><br></td>
   </tr>
   <tr>
     <td class="tg-2mff">Interview Process:<br>Shortlisted candidates will be required to go through an interview in person or via zoom subject to SMM</td>
@@ -91,7 +91,7 @@ To help our aspiring and talented athletes to achieve their sporting goals and e
   <tr>
     <td class="tg-g3ny" rowspan="2"><br><br><br><br><br>Water Polo<br></td>
     <td class="tg-2mff">Physical Selection Test Criteria:<br>Swimming Test<br>Shortlisted candidates will go through a series of swimming test on the interview day.<br>o     Free style 100m in not longer than 2mins<br>15secs<br>o     Treading in deep water (2m) for at least 3mins.<br>o     Ability to swim breast stroke for 100m</td>
-    <td class="tg-g3ny"><br><br><br><br><br><br>6,13,20 &amp; 27<br>July 2022<br><br>3.00 - 4.00 pm<br> </td>
+    <td class="tg-g3ny"><br><br><br><br><br><br>5,12, &amp; 19<br>July 2023<br><br>3.00 - 4.00 pm<br> </td>
   </tr>
   <tr>
     <td class="tg-2mff">Interview Process:<br>Shortlisted candidates will be required to go through an interview</td>
@@ -104,7 +104,7 @@ To help our aspiring and talented athletes to achieve their sporting goals and e
   </tr>
   <tr>
     <td class="tg-2mff">Physical Selection Test Criteria:<br>Shortlisted candidates will go through a series of basketball drill tests on the interview day:<br><br>      ·   Able to pass sprinting test for half court and full court<br>      ·  Able to dribble with left hand and right hand           comfortably<br>      ·   Able to do lay-up and ball passing<br>      ·   Able to do 2-point shot and 3-point shot<br>      ·   Able to do rebound and under basket<br>      ·   Demonstrate basic game concept (box-out, pass and      roll, and positioning)</td>
-    <td class="tg-g3ny"><br><br><br><br><br><br>13,18,20 &amp; 27<br>July 2022<br><br>3.00 - 4.00 pm <br></td>
+    <td class="tg-g3ny"><br><br><br><br><br><br>5,12, &amp; 19<br>July 2022<br><br>3.00 - 4.00 pm <br></td>
   </tr>
   <tr>
     <td class="tg-2mff">Interview Process:<br>Shortlisted candidates will be required to go through an interview</td>
