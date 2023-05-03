@@ -11,7 +11,7 @@ third_nav_title: Direct School Admission
 
 
 
-Outram Secondary School is committed to nurturing Champions for Sports and Life. Our mission is to **Instill Life skills, Inculcate Life values and Inspire Life-long learning through Sports.** The school has demonstrated her strength in many sports over the past years. Most students have been actively involved in one or more areas of sports during their time in school. We offer sports of different natures to suit the needs and interests of our students. Along with a committed team of teachers and instructors, Outram Secondary School seeks to bring sports to all students in order for them to embrace the school values and the core values of Character and Citizen Education, so as to bring out the best in them.  
+Outram Secondary School is committed to nurturing Champions for Sports and Life. Our mission is to&nbsp;**Instill Life skills, Inculcate Life values and Inspire Life-long learning through Sports.**&nbsp;The school has demonstrated her strength in many sports over the past years. Most students have been actively involved in one or more areas of sports during their time in school. We offer sports of different natures to suit the needs and interests of our students. Along with a committed team of teachers and instructors, Outram Secondary School seeks to bring sports to all students in order for them to embrace the school values and the core values of Character and Citizen Education, so as to bring out the best in them.  
 
   
 
@@ -23,7 +23,7 @@ To help our aspiring and talented athletes to achieve their sporting goals and e
 
 ![](/images/School%20Programmes/Distinctive%20Programmes/DSA/Sports%20Selection%20Criteria/SSC01.jpg)
 
-##### **Rock Climbing** **Framework for Talent Development**
+##### **Rock Climbing**&nbsp;**Framework for Talent Development**
 
 ![](/images/School%20Programmes/Distinctive%20Programmes/DSA/Sports%20Selection%20Criteria/SSC02.png)
 
@@ -69,7 +69,7 @@ To help our aspiring and talented athletes to achieve their sporting goals and e
   <tr>
     <td class="tg-lyvw" rowspan="2"><br><br><br><br><br><br><span style="color:black">Rock-Climbing</span></td>
     <td class="tg-2mff">Physical Selection Test Criteria:<br><span style="color:black">Able to pass physical test which covers:</span><br>o   <span style="color:black">Holding 8 sec with chin above chin up bar for girls and 15 sec with chin above chin-up bar for boys.</span><br>o   <span style="color:black">15 sit-up for girls and 20 sit-up for boys in 1 minute.</span><br><span style="color:black">Climbing test</span><br>o    <span style="color:black">Ability to climb 2 technical flat rock wall of height 10m. Need to complete at least one of them.</span><br>o    <span style="color:black">Ability to demonstrate agility and perseverance during climbing test</span></td>
-    <td class="tg-g3ny"><br><br><br><br><br><br><br>6,13,20 &amp; 27<br>July 2022<br>3.00 - 4.00 pm<br></td>
+    <td class="tg-g3ny"><br><br><br><br><br><br><br>5,12, &amp; 19<br>July 2023<br>3.00 - 4.00 pm<br></td>
   </tr>
   <tr>
     <td class="tg-2mff">Interview Process:<br>Shortlisted candidates will be required to go through an interview</td>
