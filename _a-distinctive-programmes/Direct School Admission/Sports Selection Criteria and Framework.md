@@ -91,7 +91,7 @@ To help our aspiring and talented athletes to achieve their sporting goals and e
   <tr>
     <td class="tg-g3ny" rowspan="2"><br><br><br><br><br>Water Polo<br></td>
     <td class="tg-2mff">Physical Selection Test Criteria:<br>Swimming Test<br>Shortlisted candidates will go through a series of swimming test on the interview day.<br>o     Free style 100m in not longer than 2mins<br>15secs<br>o     Treading in deep water (2m) for at least 3mins.<br>o     Ability to swim breast stroke for 100m</td>
-    <td class="tg-g3ny"><br><br><br><br><br><br>5,12, &amp; 19<br>July 2023<br><br>3.00 - 4.00 pm<br> </td>
+    <td class="tg-g3ny"><br><br><br><br><br><br>5,12, &amp; 19<br>July 2023<br>3.00 - 4.00 pm<br> </td>
   </tr>
   <tr>
     <td class="tg-2mff">Interview Process:<br>Shortlisted candidates will be required to go through an interview</td>
@@ -104,7 +104,7 @@ To help our aspiring and talented athletes to achieve their sporting goals and e
   </tr>
   <tr>
     <td class="tg-2mff">Physical Selection Test Criteria:<br>Shortlisted candidates will go through a series of basketball drill tests on the interview day:<br><br>      ·   Able to pass sprinting test for half court and full court<br>      ·  Able to dribble with left hand and right hand           comfortably<br>      ·   Able to do lay-up and ball passing<br>      ·   Able to do 2-point shot and 3-point shot<br>      ·   Able to do rebound and under basket<br>      ·   Demonstrate basic game concept (box-out, pass and      roll, and positioning)</td>
-    <td class="tg-g3ny"><br><br><br><br><br><br>5,12, &amp; 19<br>July 2022<br><br>3.00 - 4.00 pm <br></td>
+    <td class="tg-g3ny"><br><br><br><br><br><br>5,12, &amp; 19<br>July 2023<br><br>3.00 - 4.00 pm <br></td>
   </tr>
   <tr>
     <td class="tg-2mff">Interview Process:<br>Shortlisted candidates will be required to go through an interview</td>
@@ -117,7 +117,7 @@ To help our aspiring and talented athletes to achieve their sporting goals and e
   </tr>
   <tr>
     <td class="tg-2mff">Physical Selection Test Criteria:<br>·         Netball Skills Test<br>Shortlisted candidates will go through a series of physical test on the interview day.<br>o    Speed and agility: shuttle run on netball court, test of jump height<br>o    Ball sense and awareness of game </td>
-    <td class="tg-g3ny"><br><br><br>6,13,20 &amp; 27<br>July 2022<br><br>3.00 - 4.00 pm</td>
+    <td class="tg-g3ny"><br><br><br>5,12 &amp; 19<br>July 2023<br><br>3.00 - 4.00 pm</td>
   </tr>
   <tr>
     <td class="tg-dvh5">Interview Process:<br>Shortlisted candidates will be required to go through an interview</td>
