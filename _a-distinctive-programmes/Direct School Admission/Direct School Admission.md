@@ -42,7 +42,7 @@ Students who are successfully admitted to the school via DSA are expected to hon
   
 
 For more information on B&E DSA, please contact the following:  
-Ms Cheong Wenxin, Serene Tel: 6733 4077 ext.212 Email: cheong\_wenxin\_serene@moe.edu.sg
+Ms Cheong Wenxin, Serene Tel: 6733 4077 ext.212 Email: [cheong_wenxin_serene@moe.edu.sg](cheong_wenxin_serene@moe.edu.sg)
 
   
 For more information on Sports Related DSA, please contact the following:  
