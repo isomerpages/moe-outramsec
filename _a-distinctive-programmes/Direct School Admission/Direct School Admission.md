@@ -18,9 +18,7 @@ Welcome!
 
 Our school is recognised for its Business and Enterprise programme. In Singapore, we are the only school offering Business Studies as a GCE O level applied subject. We also offer N- and O-level subjects, Retail Operations and Principles of Accounts (POA). Our POA students have the opportunity to take up the Pearson-LCCI external certification. Our partners offer our students a range of customised courses and certifications in Business and Enterprise. 
 
-As the only government school built with a swimming pool, two rock walls, three indoor sports hall, 1 futsal court and a comprehensive Sports for Life Talent Development programme, we offer sports of different nature to suit the needs and interests of our students. **For more information on the school, you may click the link below** 
-
-[https://sites.google.com/view/osseopenhouse/welcome-to-oss](https://sites.google.com/view/osseopenhouse/welcome-to-oss)  
+As the only government school built with a swimming pool, two rock walls, three indoor sports hall, 1 futsal court and a comprehensive Sports for Life Talent Development programme, we offer sports of different nature to suit the needs and interests of our students. 
 
 Applications for DSA - Secondary is open now!
 
