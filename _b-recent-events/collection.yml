@@ -2,6 +2,7 @@ collections:
   b-recent-events:
     output: true
     order:
+      - Chinese New Year Celebration.md
       - Achievements.md
       - Queen's Commonwealth Essay Competition.md
       - Inspiring Teacher of English Award.md
