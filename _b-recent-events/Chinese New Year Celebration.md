@@ -12,4 +12,3 @@ This was certainly a crackling start to the new year!
 ![](/images/News%20and%20Announcements/2023/Chinese%20new%20year%20celebrations/chinese%202.jpg)
 
 ![](/images/News%20and%20Announcements/2023/Chinese%20new%20year%20celebrations/chinese%203.jpg)
-
