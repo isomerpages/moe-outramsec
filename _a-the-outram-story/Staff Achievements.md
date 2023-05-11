@@ -3,8 +3,9 @@ title: Staff Achievements
 permalink: /the-outram-story/Staff-Achievements/
 description: ""
 ---
-| 2023 |
-|:---:|
+
+|2023|
+|:-:|
 | **British Council Social Action Award**  |
 | Ms Li Jiayi |
 
