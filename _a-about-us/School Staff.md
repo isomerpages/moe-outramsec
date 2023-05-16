@@ -97,7 +97,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-muqq">Ms Zaiton </td>
-    <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">HOD/ Discipline</span></td>
+    <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">HOD/ Student Management</span></td>
 						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">zaiton_mohamed_punither_basa@schools.gov.sg</span></td>
   </tr>
   <tr>
@@ -132,7 +132,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-muqq">Mr Dawa T. Sherpa</td>
-    <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">HOD/Special Educational Needs</span></td>
+    <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">HOD/Educational Support</span></td>
 						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">dawa_tshering_sherpa@schools.gov.sg</span></td>
   </tr>
   <tr>
@@ -225,7 +225,7 @@ description: ""
     <td class="tg-i38w">NA</td>
     <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF">   </span>S22</td>
     <td class="tg-da8v">Mr Lim Teck Ming<br>Ms Nur Atikah Bte Kamsani<br>
-										 <td class="tg-da8v"> lim_teck_ming@schools.gov.sg<br>nur_atikah_kamsani@schools.gov.sg</td></td>
+										 </td><td class="tg-da8v"> lim_teck_ming@schools.gov.sg<br>nur_atikah_kamsani@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-i38w">Exp</td>

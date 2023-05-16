@@ -3,6 +3,12 @@ title: Staff Achievements
 permalink: /the-outram-story/Staff-Achievements/
 description: ""
 ---
+
+|2023|
+|:-:|
+| **British Council Social Action Award**  |
+| Ms Li Jiayi |
+
 | 2022 |
 |:---:|
 | **MOE Service Excellence Award (MSEA) 2022Gold**  |
@@ -33,7 +39,7 @@ description: ""
 | Cheong Wenxin Serene   |
 | Cheryl Lim Ming Yuh  |
 | Chin Ann Ann   |   |
-| **Associate of AST Award Recipients 2022** [Executive & Administrative Staff and Allied Educators] |
+| **Associate of AST Award Recipients 2022** [Executive &amp; Administrative Staff and Allied Educators] |
 |  Li Jiayi |   |
 |  **Inspiring Teacher of English Award** |
 |  Ms Gladys Lim Yean Yue |   |

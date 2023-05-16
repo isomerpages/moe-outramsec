@@ -3,6 +3,28 @@ title: Student Achievements
 permalink: /the-outram-story/Students-Achievements/
 description: ""
 ---
+#### Achievements 2023
+
+
+  
+
+**Academic Achievements**
+
+| Department | Type of Competition | Results |
+|---|---|---|
+|Tamil| Tamil New Year Competition 2023 Chitirai Thiruvizha 2023 organised by Kim Seng CC| 1st Runner-up in the Top Performing Secondary School Category
+|Mathematics| National CashFlow Competition| Two 3rd prizes<br> One Consolation Prize
+
+**CCA Achievements**
+
+| CCA      | Type of Competition                        | Results       |
+|----------|--------------------------------------------|---------------|
+| Rock-Climbing Club      | Inter-School Bouldering Competition (Rock Climbing Club)                | C Girls - 1st Runner Up (Silver)<br> C Boys - 2nd Runner Up (Bronze)<br>B Boys - 1st Runner Up (Silver)<br>B Girls - 2nd Runner Up (Bronze)
+| Dance Club    | Singapore Youth Festival Arts Presentation (Dance Club)              | Certificate of Accomplishment  |
+| Concert Band  | Singapore Youth Festival Arts Presentation (Concert Band)         |Certificate of Accomplishment    |
+
+
+
 
 
 #### Achievements 2022
@@ -14,8 +36,10 @@ description: ""
 
 | Department | Type of Competition | Results |
 |---|---|---|
+|Tamil| Tamil New Year Competition 2023 Chitirai Thiruvizha 2023 organised by Kim Seng CC| 1st Runner-up in the Top Performing Secondary School Category
+|Mathematics| National CashFlow Competition| Two 3rd prizes<br> One Consolation Prize
 | English Language | Queen's Commonwealth Essay Competition 2022 | 1 Gold, 1 Silver and 6 Bronze winners  |
-| Tamil Language | Tamil New Year Celebration & Competition - Kim Seng CC | 2nd Place  |
+| Tamil Language | Tamil New Year Celebration &amp; Competition - Kim Seng CC | 2nd Place  |
 |  Mathematics | Singapore and Asian Schools Maths Olympiad (SASMO) 2022  | 2 Silver, 8 Bronze,<br>4 Honourable Mentions  |
 | Chinese Language  | 5th Text Recital Competition | Silver  |                                  |
 
@@ -74,7 +98,7 @@ description: ""
 
 | Department             | Type of Competition                                                                   |       Results                                                 |
 |------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------|
-|  Business & Enterprise | Student Entrepreneurship Challenge 2019                                               |       Champion                                                |
+|  Business &amp; Enterprise | Student Entrepreneurship Challenge 2019                                               |       Champion                                                |
 |  Malay Language        | National Malay Writing Competition 2019 (Saya Boleh Mengarang)                        |       1 Gold Award,       1 Silver Award,       2 Bronze Awards |
 |  English Language      | Write for Kindness 2019                                                               |       2nd prize       Consolation prize                       |
 |  Literature            | National Schools Literature Festival 2019  Book Parade  Debate (Set Poem)             |               Gold Award        Winner                        |
@@ -88,17 +112,17 @@ description: ""
 | Outram Ink               | National Digital Storytelling Competition 2019                    |  4th and 5th place                                  |
 |   Water Polo             | National B Division Inter-school Water Polo Championship          |  4th                                                |
 | Swimming                 | National Inter-School Swimming Championships                      | 200m IM – 1st 1500m Free – 1st B Div – Overall, 5th |
-| Rock Climbing            | National B & C Division Girls Schools Speed Climbing Championship | Champion                                            |
+| Rock Climbing            | National B &amp; C Division Girls Schools Speed Climbing Championship | Champion                                            |
 |                          | National C Division Boys Schools Speed Climbing Championship      | Champion                                            |
 |                          | National B Division Girls Schools Bouldering Championship         | 2nd                                                 |
 | Netball                  | South Zone B Division Inter-school Netball Championship           | Top 8                                               |
 |                          | Teen's Network Netball Carnival 2019                              |  Champion                                           |
 | Squash                   | National B Division Boys Inter-school Squash Championship         | 5th                                                 |
 |                          | National B Division Girls Inter-school Squash Championship        | 5th                                                 |
-| Sports & Recreation Club | Inter-school B Division Ultimate Frisbee Competition              | 4th                                                 |
+| Sports &amp; Recreation Club | Inter-school B Division Ultimate Frisbee Competition              | 4th                                                 |
 |                          | Inter-school C Division Ultimate Frisbee Competition              | 3rd                                                 ||
 | Robotics Club | National Robotics Competition – WRO Open Category | 2nd                                     |
-|               | World Robo Tournament                             | 2nd (Robo Soccer) 2nd & 9th (Drag Race) |
+|               | World Robo Tournament                             | 2nd (Robo Soccer) 2nd &amp; 9th (Drag Race) |
 | NPCC          | UOPA 2018                                         | Gold                                    |
 | NCC           | Unit Recognition Award 2018                       | Distinction                             |
 | Dance         | SYF                                               | Accomplishment                          |
@@ -113,7 +137,7 @@ description: ""
 |--------------------------|-------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Water Polo               | National B Division Inter-school Water Polo Championship          |  4th                                                                                                                                                                                                                                 |
 | Swimming                 | National Inter-School Swimming Championships                      | 3rd (B Boys, 1500m Free), 4th (B Boys, 400m Free), 4th (B Girls, 200m Butterfly), 5th (B Boys, 100m Butterfly), 5th (B Boys, Free, Medley Relay), 7th (B Girls, IM), 8th (C Boys, 100m Back), 8th (C Boys, 200m Back), 8th (C Boys, 200m IM) |
-| Rock Climbing            | National B & C Division Girls Schools Speed Climbing Championship | Champion                                                                                                                                                                                                                             |
+| Rock Climbing            | National B &amp; C Division Girls Schools Speed Climbing Championship | Champion                                                                                                                                                                                                                             |
 |                          | National B Division Boys Schools Speed Climbing Championship      | Champion                                                                                                                                                                                                                             |
 |                          | National B Division Girls Schools Bouldering Championship         | Champion                                                                                                                                                                                                                             |
 |                          | Asian Cup 2018 - Hong Kong Bouldering                             | Champion                                                                                                                                                                                                                             |
@@ -122,7 +146,7 @@ description: ""
 |                          | Daisy Tan Netball Carnival – C Division                           | Champion                                                                                                                                                                                                                             |
 | Squash                   | National B Division Boys Inter-school Squash Championship         | 2nd                                                                                                                                                                                                                                  |
 |                          | National B Division Girls Inter-school Squash Championship        |  5th                                                                                                                                                                                                                                 |
-| Sports & Recreation Club | Inter-school Ultimate Frisbee Competition                         | 3rd (B & C Division)                                                                                                                                                                                                                 |
+| Sports &amp; Recreation Club | Inter-school Ultimate Frisbee Competition                         | 3rd (B &amp; C Division)                                                                                                                                                                                                                 |
 | Robotics Club            | National Robotics Competition – WRO Open Category                 | 2nd                                                                                                                                                                                                                                  |
 | NPCC                     | UOPA 2017                                                         | Gold                                                                                                                                                                                                                                 ||
 | NCC              | Best Unit Competition 2017            | Bronze                     |
@@ -148,7 +172,7 @@ description: ""
 | CCA           | Type of competition                                           | Results                                                                            |
 |---------------|---------------------------------------------------------------|------------------------------------------------------------------------------------|
 | Water Polo    | National B Division Inter-school Water Polo Championship      | Champion                                                                           |
-| Swimming      | National Inter-School Swimming Championships 2017             | 2nd (C Boys, 400m Freestyle), 2nd (C Boys, 100m Butterfly), Overall 5th (B & C Boys) |
+| Swimming      | National Inter-School Swimming Championships 2017             | 2nd (C Boys, 400m Freestyle), 2nd (C Boys, 100m Butterfly), Overall 5th (B &amp; C Boys) |
 | Rock Climbing | National C Division Girls Schools Speed Climbing Championship | Champion                                                                           |
 |               | National B Division Girls Schools Speed Climbing Championship | Champion                                                                           |
 |               | National B Division Girls Schools Bouldering Championship     | Champion                                                                           |
