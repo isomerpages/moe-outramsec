@@ -2,6 +2,7 @@ collections:
   b-recent-events:
     output: true
     order:
+      - Math Trail.md
       - Achievements.md
       - Outram Chinese Alumni CNY and Birthday Party Celebration.md
       - Chinese New Year Celebration.md
