@@ -3,6 +3,7 @@ title: Achievements
 permalink: /Achievements/Achievements/
 description: ""
 ---
+* [Outram Chinese Alumni CNY and Birthday Party Celebration](/b-recent-events/ocacelebration/)
 *  [Chinese New Year Celebration 2023](/b-recent-events/chinesenewyearcelebration/)
  
 *  [Outram wins Gold at the Queen's Commonwealth Essay Competition](/events/Queens-Commonwealth-Essay-Competition/)
