@@ -3,7 +3,6 @@ title: Tamil New Year 2023
 permalink: /b-recent-events/tamilnewyear/
 description: ""
 ---
-
 **Tamil New Year Competition at Kim Seng CC**
 
 Vanakkam!
@@ -18,4 +17,3 @@ Our talented Sec 2 students took part in the Tamil New Year Competition—Chithi
 
 
 These young achievers have made our school incredibly proud! Congratulations to them and their accomplishments in this year's Tamil New Year competition!
-
