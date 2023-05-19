@@ -2,8 +2,8 @@ collections:
   b-recent-events:
     output: true
     order:
-      - Li Jiayi Award.md
       - Achievements.md
+      - Li Jiayi Award.md
       - Tamil New Year 2023.md
       - Math Trail.md
       - Outram Chinese Alumni CNY and Birthday Party Celebration.md
