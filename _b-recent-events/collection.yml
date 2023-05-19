@@ -2,6 +2,7 @@ collections:
   b-recent-events:
     output: true
     order:
+      - Li Jiayi Award.md
       - Achievements.md
       - Tamil New Year 2023.md
       - Math Trail.md
