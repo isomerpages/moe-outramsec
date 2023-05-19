@@ -3,6 +3,7 @@ title: Achievements
 permalink: /Achievements/Achievements/
 description: ""
 ---
+* [Li Jiayi Award](/b-recent-events/lijiayi/)
 * [Tamil New Year 2023](/b-recent-events/tamilnewyear/)
 * [Math Trail 2023](/b-recent-events/mathtrail/)
 * [Outram Chinese Alumni CNY and Birthday Party Celebration](/b-recent-events/ocacelebration/)
