@@ -17,3 +17,10 @@ Our talented Sec 2 students took part in the Tamil New Year Competition—Chithi
 
 
 These young achievers have made our school incredibly proud! Congratulations to them and their accomplishments in this year's Tamil New Year competition!
+
+
+![](/images/News%20and%20Announcements/2023/Tamil%20New%20Year/tamil%20new%20year%2001.jpg)
+
+![](/images/News%20and%20Announcements/2023/Tamil%20New%20Year/tamil%20new%20year%2002.jpeg)
+
+![](/images/News%20and%20Announcements/2023/Tamil%20New%20Year/tamil%20new%20year%2003.jpg)
