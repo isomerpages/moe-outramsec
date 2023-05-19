@@ -2,6 +2,7 @@ collections:
   b-recent-events:
     output: true
     order:
+      - Tamil New Year 2023.md
       - Achievements.md
       - Math Trail.md
       - Outram Chinese Alumni CNY and Birthday Party Celebration.md
