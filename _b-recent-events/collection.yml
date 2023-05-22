@@ -2,8 +2,8 @@ collections:
   b-recent-events:
     output: true
     order:
-      - Inter School Bouldering Competition.md
       - Achievements.md
+      - Inter School Bouldering Competition.md
       - Li Jiayi Award.md
       - Tamil New Year 2023.md
       - Math Trail.md
