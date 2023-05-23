@@ -2,6 +2,7 @@ collections:
   b-recent-events:
     output: true
     order:
+      - Sustainable Singapore Gallery.md
       - Achievements.md
       - STEM Playground – Satay Stick Challenge 2023.md
       - ITE Applied Learning Modules (ApLM).md
