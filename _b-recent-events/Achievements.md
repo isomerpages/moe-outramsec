@@ -3,6 +3,7 @@ title: Achievements
 permalink: /Achievements/Achievements/
 description: ""
 ---
+ * [ITE Applied Learning Modules (ApLM)](/b-recent-events/aplm/)
 * [Inter-School Bouldering Competition 2023 ](/b-recent-events/ibsc/)
 * [Li Jiayi Award](/b-recent-events/lijiayi/)
 * [Tamil New Year 2023](/b-recent-events/tamilnewyear/)
