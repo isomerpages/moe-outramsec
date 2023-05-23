@@ -3,7 +3,8 @@ title: Achievements
 permalink: /Achievements/Achievements/
 description: ""
 ---
- * [STEM Playground – Satay Stick Challenge 2023](/b-recent-events/stem/)
+* [Sustainable Singapore Gallery](/b-recent-events/ssg/)
+* [STEM Playground – Satay Stick Challenge 2023](/b-recent-events/stem/)
 * [ITE Applied Learning Modules (ApLM)](/b-recent-events/aplm/)
 * [Inter-School Bouldering Competition 2023 ](/b-recent-events/ibsc/)
 * [Li Jiayi Award](/b-recent-events/lijiayi/)
