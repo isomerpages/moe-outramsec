@@ -2,8 +2,8 @@ collections:
   b-recent-events:
     output: true
     order:
-      - STEM Playground – Satay Stick Challenge 2023.md
       - Achievements.md
+      - STEM Playground – Satay Stick Challenge 2023.md
       - ITE Applied Learning Modules (ApLM).md
       - Inter School Bouldering Competition.md
       - Li Jiayi Award.md
