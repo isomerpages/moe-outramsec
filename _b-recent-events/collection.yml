@@ -2,8 +2,8 @@ collections:
   b-recent-events:
     output: true
     order:
-      - ITE Applied Learning Modules (ApLM).md
       - Achievements.md
+      - ITE Applied Learning Modules (ApLM).md
       - Inter School Bouldering Competition.md
       - Li Jiayi Award.md
       - Tamil New Year 2023.md
