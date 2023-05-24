@@ -3,7 +3,6 @@ title: Staff Achievements
 permalink: /the-outram-story/Staff-Achievements/
 description: ""
 ---
-
 |2023|
 |:-:|
 | **British Council Social Action Award**  |
@@ -30,25 +29,25 @@ description: ""
 | Tan Xi Ling  |
 |  Tan Yee Fun Francis<br><br>Wong Ching Hun Faith |
 | Woo See Wei  |
-| Yeo Yang Hong<br><br>Gladys Lim Yean Yue |   |
+| Yeo Yang Hong<br><br>Gladys Lim Yean Yue |
 | **Facilitator of Networked Learning Communities**  |
-| Dawa Tshering Sherpa<br> Tang Yee Fun Francis  |   |
+| Dawa Tshering Sherpa<br> Tang Yee Fun Francis  |
 | **Facilitator of Workshops** |
-| Lim Yong Guan Roderick   |  |
+| Lim Yong Guan Roderick   |
 |  **Innovator** |
 | Cheong Wenxin Serene   |
 | Cheryl Lim Ming Yuh  |
-| Chin Ann Ann   |   |
+| Chin Ann Ann   |
 | **Associate of AST Award Recipients 2022** [Executive &amp; Administrative Staff and Allied Educators] |
-|  Li Jiayi |   |
+|  Li Jiayi |
 |  **Inspiring Teacher of English Award** |
-|  Ms Gladys Lim Yean Yue |   |
+|  Ms Gladys Lim Yean Yue |
 | **Most Inspiring Tamil Teachers' Award**  |
-| Mdm Subbu Suba Sakthidevi |   |
+| Mdm Subbu Suba Sakthidevi |
 | **LEAP Award 2022** |
-| Ms Gladys Lim Yean Yue |  |
+| Ms Gladys Lim Yean Yue |
 |  **National Day Awards 2022 (The Commendation Medal)** |
-|  Mr Abdul Rahman Bin Abdul Rahim ||
+|  Mr Abdul Rahman Bin Abdul Rahim |
 |   **National Day Awards 2022 (The Long Service Medal 25 Years)** |
 | Mr Tan Hock Kwee Oliver |
 | Mr Koh Swee Thiam Dan  |
@@ -77,11 +76,11 @@ description: ""
 |:--------------------------------------------------------------------:|
 |                             **Innovator**                            |
 |                            Mr Abdul Rahman                           |
-|                            Ms Tan Xi Ling                            ||
+|                            Ms Tan Xi Ling                            |
 |           **National Day Award 2021 (Commendation Medal)**           |
-|                           Mrs Lui Ping Xin                           ||
+|                           Mrs Lui Ping Xin                           |
 |       **National Day Award 2021 (Long Service Medal 25 Years**       |
-|                           Mr Loh Peng Yeong                          ||
+|                           Mr Loh Peng Yeong                          |
 | **National Day Award 2021 The Public Administration Medal (Bronze)** |
 |                            Mr Boo Hian Kok                           |
 
@@ -100,17 +99,17 @@ description: ""
 |          Ms Lim Yean Yue Gladys          |
 |             Mdm Mehraj Begum             |
 |           Mr Mohammad Zainuddin          |
-|                Mdm Norizan               ||                                                   ||
+|                Mdm Norizan               |
 |                   Ms Tan Xi Ling                  |
 |              Mr Tang Yee Fun Francis              |
-|    **Leading Foundation Teacher Award 2020**    ||
+|    **Leading Foundation Teacher Award 2020**    |
 |                    Ms Li Jiayi                    |
 | **Facilitator of Networked Learning Communities** |
-|                    Ms Li Jiayi                    ||
+|                    Ms Li Jiayi                    |
 |              Mr Tang Yee Fun Francis              |
 |            **Facilitator of Workshops**           |
-|               Mdm Cheryl Lim Ming Yuh             ||
-|                    Miss Grace Ng                  ||
+|               Mdm Cheryl Lim Ming Yuh             |
+|                    Miss Grace Ng                  |
 |                  **Innovator**                |
 |                Ms Tan Xi Ling              |
 |  President’s Award for Teachers (PAT) 2020 |
@@ -120,14 +119,14 @@ description: ""
 |:-----------------------------------------------------:|
 |                                                      |
 | **National Day Award 2019 (Long service Medal 25 Years)** |
-|                   Mr Hazlan Bin Aris                  ||
+|                   Mr Hazlan Bin Aris                  |
 |                **National Day Award 2019:**               |
 |                    Ms Tan Boon Hwee                   |
 
 |                        2018                       |
 |:-------------------------------------------------:|
 | **National Day Awards 2018 (The Commendation Medal)** |
-|              Mr Francis Tang Yee Fun              ||
+|              Mr Francis Tang Yee Fun              |
 |              Mdm Santhi d/o Shanmugham            |
 |      **MOE Service Excellence Award (MSEA) 2018**     |
 |           Mr Abdul Rahman Bin Abdul Rahim         |
@@ -152,7 +151,7 @@ description: ""
 
 |                        2017                       |
 |:-------------------------------------------------:|
-|**National Day Awards 2017 (The Commendation Medal)** ||
+|**National Day Awards 2017 (The Commendation Medal)** |
 |              Mdm Faith Wong Ching Hun             |
 
 |               2016              |
