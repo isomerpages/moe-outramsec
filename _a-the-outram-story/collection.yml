@@ -2,7 +2,6 @@ collections:
   a-the-outram-story:
     output: true
     order:
-      - Table.md
       - The Outram Story.md
       - School Stories.md
       - Student Achievements.md
