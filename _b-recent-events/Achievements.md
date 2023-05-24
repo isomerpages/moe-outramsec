@@ -3,6 +3,15 @@ title: Achievements
 permalink: /Achievements/Achievements/
 description: ""
 ---
+<a href="/b-recent-events/ssg/">Sustainable Singapore Gallery</a><br>
+			<a href="/b-recent-events/stem/">STEM Playground – Satay Stick Challenge 2023</a><br>
+		<a href="/b-recent-events/aplm/">ITE Applied Learning Modules (ApLM)</a><br>
+		<a href="/b-recent-events/ibsc/">Inter-School Bouldering Competition 2023 </a><br>
+			<a href="/b-recent-events/lijiayi/">Li Jiayi Award</a><br>
+			<a href="/b-recent-events/tamilnewyear/">Tamil New Year 2023</a><br>
+<a href="/b-recent-events/mathtrail/">Math Trail 2023</a><br>
+<a href="/b-recent-events/ocacelebration/">Outram Chinese Alumni CNY and Birthday Party Celebration</a><br>
+<a href="/b-recent-events/chinesenewyearcelebration/">Chinese New Year Celebration 2023</a><br>
 
 <ul class="jekyllcodex_accordion">
 	
@@ -14,15 +23,7 @@ description: ""
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p><a href="/b-recent-events/ssg/">Sustainable Singapore Gallery</a><br>
-			<a href="/b-recent-events/stem/">STEM Playground – Satay Stick Challenge 2023</a><br>
-		<a href="/b-recent-events/aplm/">ITE Applied Learning Modules (ApLM)</a><br>
-		<a href="/b-recent-events/ibsc/">Inter-School Bouldering Competition 2023 </a><br>
-			<a href="/b-recent-events/lijiayi/">Li Jiayi Award</a><br>
-			<a href="/b-recent-events/tamilnewyear/">Tamil New Year 2023</a><br>
-<a href="/b-recent-events/mathtrail/">Math Trail 2023</a><br>
-<a href="/b-recent-events/ocacelebration/">Outram Chinese Alumni CNY and Birthday Party Celebration</a><br>
-<a href="/b-recent-events/chinesenewyearcelebration/">Chinese New Year Celebration 2023</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>
 <a href="/events/Queens-Commonwealth-Essay-Competition/">Outram wins Gold at the Queen's Commonwealth Essay Competition</a>
 <br>
 <a href="/achievements/Inspiring-Teacher-of-English-Award/">Inspiring Teacher of English Award</a><br>
