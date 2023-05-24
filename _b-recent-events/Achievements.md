@@ -50,25 +50,7 @@ description: ""
 		<a href="/b-recent-events/aplm/">ITE Applied Learning Modules (ApLM)</a><br>
 		<a href="/b-recent-events/ibsc/">Inter-School Bouldering Competition 2023 </a><br>
 			<a href="/b-recent-events/lijiayi/">Li Jiayi Award</a><br>
-			<a href="/achievements/2021/ThankyouCher-edu-sg/">ThankyouCheredusg</a><br></p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
-
-&nbsp;&nbsp;<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">2021</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <a href="/achievements/2021/Outram-wins-at-the-Queen-Commonwealth-Essay-Competition-2021/">Outram wins at the Queen’s Commonwealth Essay Competition 2021</a><br>
-			<a href="/achievements/2021/National-Schools-Literature-Festival-2021/">National Schools Literature Festival 2021</a><br>
-			<a href="/achievements/2021/Tamil-Budding-Writers-and-Artists-Competition-2021/">Tamil Budding Writers &amp; Artists Competition 2021</a><br>
-			<a href="/achievements/2021/Outram-Dance-Club-and-Concert-Band-Shine-at-SYF-2021/">Outram Dance Club and Concert Band Shine at SYF 2021</a><br>
-			<a href="/achievements/2021/The-Singapore-Kindness-Movement-Competition-2021/">The Singapore Kindness Movement Competition 2021</a><br><a href="/b-recent-events/tamilnewyear/">Tamil New Year 2023</a><br>
+			<a href="/b-recent-events/tamilnewyear/">Tamil New Year 2023</a><br>
 <a href="/b-recent-events/mathtrail/">Math Trail 2023</a><br>
 <a href="/b-recent-events/ocacelebration/">Outram Chinese Alumni CNY and Birthday Party Celebration</a><br>
 <a href="/b-recent-events/chinesenewyearcelebration/">Chinese New Year Celebration 2023</a><br>
@@ -84,9 +66,27 @@ description: ""
 <a href="/achievements/Tamil-New-Year-Celebration-and-Competition-Kim-Seng-CC/">Tamil New Year Celebration and Competition Kim Seng CC</a><br>
 <a href="/achievements/Congratulations-Outram-B-Division-Netballers/">Congratulations Outram B Division Netballers!</a><br></p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div><p></p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 </li>
+
+&nbsp;&nbsp;<li>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
+
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">2021</label>
+
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <a href="/achievements/2021/Outram-wins-at-the-Queen-Commonwealth-Essay-Competition-2021/">Outram wins at the Queen’s Commonwealth Essay Competition 2021</a><br>
+			<a href="/achievements/2021/National-Schools-Literature-Festival-2021/">National Schools Literature Festival 2021</a><br>
+			<a href="/achievements/2021/Tamil-Budding-Writers-and-Artists-Competition-2021/">Tamil Budding Writers &amp; Artists Competition 2021</a><br>
+			<a href="/achievements/2021/Outram-Dance-Club-and-Concert-Band-Shine-at-SYF-2021/">Outram Dance Club and Concert Band Shine at SYF 2021</a><br>
+			<a href="/achievements/2021/The-Singapore-Kindness-Movement-Competition-2021/">The Singapore Kindness Movement Competition 2021</a><br>
+
+</p></div></li>
 	<li>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
