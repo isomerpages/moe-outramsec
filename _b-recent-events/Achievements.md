@@ -3,37 +3,6 @@ title: Achievements
 permalink: /Achievements/Achievements/
 description: ""
 ---
-* [Sustainable Singapore Gallery](/b-recent-events/ssg/)
-* [STEM Playground – Satay Stick Challenge 2023](/b-recent-events/stem/)
-* [ITE Applied Learning Modules (ApLM)](/b-recent-events/aplm/)
-* [Inter-School Bouldering Competition 2023 ](/b-recent-events/ibsc/)
-* [Li Jiayi Award](/b-recent-events/lijiayi/)
-* [Tamil New Year 2023](/b-recent-events/tamilnewyear/)
-* [Math Trail 2023](/b-recent-events/mathtrail/)
-* [Outram Chinese Alumni CNY and Birthday Party Celebration](/b-recent-events/ocacelebration/)
-*  [Chinese New Year Celebration 2023](/b-recent-events/chinesenewyearcelebration/)
- 
-*  [Outram wins Gold at the Queen's Commonwealth Essay Competition](/events/Queens-Commonwealth-Essay-Competition/)
-
-*   [Inspiring Teacher of English Award](/achievements/Inspiring-Teacher-of-English-Award/)  
-    
-*   [Most Inspiring Tamil Teachers' Award](/achievements/Most-Inspiring-Tamil-Teachers-Award/)
-*   [LEAP Award 2022](/achievements/LEAP-Award-2022/)
-*   [Live On Festival 2022](/achievements/Live-On-Festival-2022/)&nbsp;
-*   [Sec 1 Students won Silver in the 5th Text Recital Competition](/achievements/Sec-1-Students-won-Silver-in-the-5th-Text-Recital-Competition/)
-*   [Well done, Frisbee players!](/achievements/Well-done-Frisbee-players/)
-*   [Youth Cop News: Youth and the Law Book Launch](/achievements/Youth-Cop-News-Youth-and-the-Law-Book-Launch/)  
-    
-*   [Tamil New Year Celebration and Competition Kim Seng CC](/achievements/Tamil-New-Year-Celebration-and-Competition-Kim-Seng-CC/)
-*   [Congratulations Outram B Division Netballers!](/achievements/Congratulations-Outram-B-Division-Netballers/)
-
-
-
-
-
-
-
-
 
 <ul class="jekyllcodex_accordion">
 	
