@@ -8,8 +8,8 @@ description: ""
 [Booklist 2023](/files/Parents%20and%20Students/Students/Booklists/Booklist%202023.pdf)
 
 ### **Exam Timetable 2023**
+[S3NT &amp; S4 Prelim Exam Timetable](/files/Parents%20and%20Students/Parents/Exam%20Timetables/s3nt%20&amp;%20s4%20prelim%20exam%20timetable.pdf)
 
-[Booklist 2023](/files/Parents%20and%20Students/Students/Booklists/Booklist%202023.pdf)
 
 ### **Letter to Parents**
 
