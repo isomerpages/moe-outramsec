@@ -7,6 +7,10 @@ description: ""
 
 [Booklist 2023](/files/Parents%20and%20Students/Students/Booklists/Booklist%202023.pdf)
 
+### **Exam Timetable 2023**
+
+[Booklist 2023](/files/Parents%20and%20Students/Students/Booklists/Booklist%202023.pdf)
+
 ### **Letter to Parents**
 
 <!-- 
