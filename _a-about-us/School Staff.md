@@ -446,8 +446,12 @@ description: ""
     <td class="tg-muqq"><span style="color:#222;background-color:#F2F9FF"> </span>Ms Julia Tan</td>
     <td class="tg-2w19">Administration Executive<span style="color:#222;background-color:#F2F9FF"> </span></td>
   </tr>
+	<tr>
+    <td class="tg-muqq"><span style="color:#222;background-color:#F2F9FF"> </span>Ms Manwinder Kaur </td>
+    <td class="tg-2w19">Administration Executive<span style="color:#222;background-color:#F2F9FF"> </span></td>
+  </tr>
   <tr>
-    <td class="tg-muqq"><span style="color:#222;background-color:#F2F9FF"> </span>Mr Mohammad Faizan<br> Mdm Samsiah  </td>
+    <td class="tg-muqq"><span style="color:#222;background-color:#F2F9FF"> </span> Mdm Samsiah  </td>
     <td class="tg-2w19">Corporate Support Officer<span style="color:#222;background-color:#F2F9FF"> </span></td>
   </tr>
   <tr>
