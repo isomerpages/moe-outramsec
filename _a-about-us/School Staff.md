@@ -446,8 +446,12 @@ description: ""
     <td class="tg-muqq"><span style="color:#222;background-color:#F2F9FF"> </span>Ms Julia Tan</td>
     <td class="tg-2w19">Administration Executive<span style="color:#222;background-color:#F2F9FF"> </span></td>
   </tr>
+	<tr>
+    <td class="tg-muqq"><span style="color:#222;background-color:#F2F9FF"> </span>Ms Manwinder Kaur </td>
+    <td class="tg-2w19">Administration Executive<span style="color:#222;background-color:#F2F9FF"> </span></td>
+  </tr>
   <tr>
-    <td class="tg-muqq"><span style="color:#222;background-color:#F2F9FF"> </span>Mr Mohammad Faizan<br> Mdm Samsiah  </td>
+    <td class="tg-muqq"><span style="color:#222;background-color:#F2F9FF"> </span> Mdm Samsiah  </td>
     <td class="tg-2w19">Corporate Support Officer<span style="color:#222;background-color:#F2F9FF"> </span></td>
   </tr>
   <tr>
@@ -463,7 +467,7 @@ description: ""
     <td class="tg-2w19">ICT Associate<span style="color:#222;background-color:#F2F9FF"> </span></td>
   </tr>
   <tr>
-    <td class="tg-muqq"><span style="color:#222;background-color:#F2F9FF"> </span>Mr Saseekumar<br> Mr Jufahizan</td>
+    <td class="tg-muqq"><span style="color:#222;background-color:#F2F9FF"> </span>Mr Saseekumar<br> Mr Ghazzali </td>
     <td class="tg-2w19">Desktop Engineer<span style="color:#222;background-color:#F2F9FF"> </span></td>
 		
   </tr>
