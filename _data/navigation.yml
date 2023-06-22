@@ -59,9 +59,9 @@ links:
   - title: Parents and Students
     url: /parents-and-students/Parents
     sublinks:
+      - title: QuickLinks
+        url: /a-parents-and-students/permalink/
       - title: Parents
         url: /parents-and-students/Parents/
       - title: Students
         url: /parents-and-students/Students/
-      - title: QuickLinks
-        url: /a-parents-and-students/permalink/
