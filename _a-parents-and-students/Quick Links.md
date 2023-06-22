@@ -7,7 +7,7 @@ description: ""
 
 <div style="float: left">
 
-<a href="/cca/Uniformed-Groups/nccs/">
+<a href="https://www.linkedin.com/company/outram-secondary-school/">
 	
 <figure>
 <img style="width:100%;height:50%" src="/images/Media/Photo%20Gallery/Quick%20Links/picture1.jpg">
