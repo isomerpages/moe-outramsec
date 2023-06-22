@@ -25,7 +25,7 @@ description: ""
 
 <div>
 
-<div style="float: right">
+<div style="float: left">
 
 <a href="/cca/Uniformed-Groups/nccs/">
 	
@@ -45,7 +45,7 @@ description: ""
 
 <div>
 
-<div style="float: right">
+<div style="float: left">
 
 <a href="/cca/Uniformed-Groups/nccs/">
 	
