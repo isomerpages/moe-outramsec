@@ -221,7 +221,7 @@ description: ""
   <tr>
     <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF"> </span>Exp</td>
     <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF"> </span>S14</td>
-    <td class="tg-da8v">Mr Neo Sian Lee<br>Mr Prathivmohan S/O Chandramohan<br></td>
+    <td class="tg-da8v">Mr Neo Sian Lee(LDM)<br>Mr Prathivmohan S/O Chandramohan<br></td>
 										 <td class="tg-da8v">neo_sian_lee@schools.gov.sg<br>prathivmohan_chandramohan@schools.gov.sg</td>
   </tr>
   <tr>
@@ -233,8 +233,8 @@ description: ""
   <tr>
     <td class="tg-i38w">NA</td>
     <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF">   </span>S22</td>
-    <td class="tg-da8v">Mr Lim Teck Ming<br>Ms Nur Atikah Bte Kamsani<br>
-										 </td><td class="tg-da8v"> lim_teck_ming@schools.gov.sg<br>nur_atikah_kamsani@schools.gov.sg</td>
+    <td class="tg-da8v">Mr Lim Teck Ming<br>Ms Nur Atikah Bte Kamsani<br>Mr Woo Kah Whye
+										 </td><td class="tg-da8v"> lim_teck_ming@schools.gov.sg<br>nur_atikah_kamsani@schools.gov.sg<br>woo_kah_whye@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-i38w">Exp</td>
