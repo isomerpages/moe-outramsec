@@ -339,26 +339,30 @@ description: ""
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-2w19{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-muqq{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<br><table class="tg">
 <thead>
   <tr>
-    <th class="tg-2w19">Mr Freddie Chan<br></th>
+    <th class="tg-muqq">Mr Freddie Chan</th>
+   
   </tr>
 </thead>
-<tbody>
+	<tbody>
   <tr>
-    <td class="tg-2w19">Mr Neo Sian Lee</td>
+    <td class="tg-muqq">Mr Neo Sian Lee</td>
+     
   </tr>
-	<tr>
-    <td class="tg-2w19">Mr Hazlan Bin Aris</td>
+ <tr>
+    <td class="tg-muqq">Mr Hazlan Bin Aris</td>
+
   </tr>
-	<tr>
-    <td class="tg-2w19">Mr Lim Ting Long</td>
+		<tr>
+    <td class="tg-muqq">Mr Lim Ting Long</td>
+
   </tr>
 </tbody>
 </table>
-
 
 #### Student Development Team
 
