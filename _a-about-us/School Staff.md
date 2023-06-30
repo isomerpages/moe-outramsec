@@ -165,6 +165,15 @@ description: ""
     <td class="tg-2w19"><span style="color:#222;background-color:#F2F9FF">Acting Subject Head/ CCE </span></td>
 						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">nur_atikah_kamsani@schools.gov.sg</span></td>
   </tr>
+	 <tr>
+    <td class="tg-muqq">Ms Norizan Md Nor<span style="color:#222;background-color:#F2F9FF"> </span></td>
+    <td class="tg-2w19"><span style="color:#222;background-color:#F2F9FF">Acting Subject Head/ ML </span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">norizan_mohamed_nor@schools.gov.sg</span></td>
+  </tr>
+	<tr><td class="tg-muqq">Ms Ismath Banu<span style="color:#222;background-color:#F2F9FF"> </span></td>
+    <td class="tg-2w19"><span style="color:#222;background-color:#F2F9FF">Acting Level Head/ English Language/Literature </span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">ismath_banu_mohamed_yaseen@schools.gov.sg</span></td>
+  </tr>
 </tbody>
 </table>
 
