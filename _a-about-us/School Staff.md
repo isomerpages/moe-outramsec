@@ -282,20 +282,20 @@ description: ""
   <tr>
     <td class="tg-muqq">NA</td>
     <td class="tg-muqq">S32</td>
-    <td class="tg-2w19">Ms Casey Lee<br>Mr Hazlan<span style="color:black"> Bin Aris</span><br></td>
+    <td class="tg-2w19">Ms Casey Lee<br>Mr Hazlan(LDM)<span style="color:black"> Bin Aris</span><br></td>
 			 <td class="tg-2w19">lee_suet_har@schools.gov.sg<br>hazlan_mohd_aris@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-muqq"> Exp</td>
     <td class="tg-muqq"> S33</td>
-    <td class="tg-2w19">Mrs Chua Wai Yi<br>Mrs Looi Lay Geok<br>Mr Damien Ho (CAJT)<br></td>
-			 <td class="tg-2w19">chow_wai_yi@schools.gov.sg<br>tan_lay_geok@schools.gov.sg<br>ho_siong_chang@schools.gov.sg<br></td>
+    <td class="tg-2w19">Mrs Chua Wai Yi<br>Ms Shi Yan Wei<br></td>
+			 <td class="tg-2w19">chow_wai_yi@schools.gov.sg<br>shi_yanwei@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-muqq"> Exp </td>
     <td class="tg-muqq"> S34</td>
-    <td class="tg-2w19"><span style="color:#222;background-color:#F2F9FF">Mdm Subbu Suba Sakthidevi</span><br><span style="color:#222;background-color:#F2F9FF">Ms Lee Ai Li</span></td>
-					 <td class="tg-2w19">subbu_suba_sakthidevi@schools.gov.sg<br>lee_ai_li@schools.gov.sg</td>
+    <td class="tg-2w19"><span style="color:#222;background-color:#F2F9FF">Mdm Subbu Suba Sakthidevi</span><br><span style="color:#222;background-color:#F2F9FF">Ms Lee Ai Li<br> Mr Marcus Huang</span></td>
+					 <td class="tg-2w19">subbu_suba_sakthidevi@schools.gov.sg<br>lee_ai_li@schools.gov.sg<br>huang_jianyang_marcus@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-muqq"> NT</td>
