@@ -209,14 +209,14 @@ description: ""
   <tr>
     <td class="tg-i38w">NA</td>
     <td class="tg-i38w">S12<span style="color:#222;background-color:#F2F9FF"> </span></td>
-    <td class="tg-da8v">Mr Gabriel Fu<br>Ms Diana Binte Othman</td>
-										 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">gabriel_fu_bojun@schools.gov.sg<br>diana_othman@schools.gov.sg</span></td>
+    <td class="tg-da8v">Mr Gabriel Fu<br>Ms Diana Binte Othman<br> Mr Damien Ho(CAJT)<br> Ms Grace Ng</td>
+										 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">gabriel_fu_bojun@schools.gov.sg<br>diana_othman@schools.gov.sg<br> ho_siong_chang_@schools.gov.sg<br>grace_ng_kah_yi@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-i38w">Exp </td>
     <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF"> </span>S13</td>
-    <td class="tg-da8v">             Mdm Singaram Vijayalakshmi        </td>
-									 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">singaram_vijayalakshmi@schools.gov.sg</span></td>
+    <td class="tg-da8v">             Mdm Singaram Vijayalakshmi <br> Ms Isabelle Teo       </td>
+									 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">singaram_vijayalakshmi@schools.gov.sg<br> teo_zhi_yi_isabelle@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF"> </span>Exp</td>
