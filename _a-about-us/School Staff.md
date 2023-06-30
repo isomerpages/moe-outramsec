@@ -398,6 +398,8 @@ description: ""
 </tbody>
 </table>
 
+
+
 #### Year Heads
 
 <style type="text/css">
@@ -508,14 +510,8 @@ description: ""
     <td class="tg-muqq"><span style="color:#222;background-color:#F2F9FF"> </span> Mdm Samsiah  </td>
     <td class="tg-2w19">Corporate Support Officer<span style="color:#222;background-color:#F2F9FF"> </span></td>
   </tr>
-  <tr>
-    <td class="tg-muqq"><span style="color:#222;background-color:#F2F9FF"> </span>Ms Li Jiayi<br><br><br>Ms Isabella Lee</td>
-    <td class="tg-2w19">            Senior Allied Educator<br>      (Learning &amp; Behavioural Support) <br><br>           Allied Educator (Counsellor)</td>
-  </tr>
-  <tr>
-    <td class="tg-muqq"><span style="color:#222;background-color:#F2F9FF"> </span>Mr Leo Chin Ho </td>
-    <td class="tg-2w19">Student Welfare Officer<span style="color:#222;background-color:#F2F9FF"> </span></td>
-  </tr>
+  
+  
   <tr>
     <td class="tg-muqq">Ms Zahira<br></td>
     <td class="tg-2w19">ICT Associate<span style="color:#222;background-color:#F2F9FF"> </span></td>
