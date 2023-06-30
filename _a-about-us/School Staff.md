@@ -282,7 +282,7 @@ description: ""
   <tr>
     <td class="tg-muqq">NA</td>
     <td class="tg-muqq">S32</td>
-    <td class="tg-2w19">Ms Casey Lee<br>Mr Hazlan(LDM)<span style="color:black"> Bin Aris</span><br></td>
+    <td class="tg-2w19">Ms Casey Lee<br>Mr Hazlan<span style="color:black"> Bin Aris(LDM)</span><br></td>
 			 <td class="tg-2w19">lee_suet_har@schools.gov.sg<br>hazlan_mohd_aris@schools.gov.sg</td>
   </tr>
   <tr>
