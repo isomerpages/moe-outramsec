@@ -341,7 +341,7 @@ description: ""
 .tg .tg-2w19{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:top}
 .tg .tg-muqq{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<br><table class="tg">
+<table class="tg">
 <thead>
   <tr>
     <th class="tg-muqq">Mr Freddie Chan</th>
@@ -351,56 +351,26 @@ description: ""
 	<tbody>
   <tr>
     <td class="tg-muqq">Mr Neo Sian Lee</td>
-     
+  
   </tr>
- <tr>
+		 <tr>
     <td class="tg-muqq">Mr Hazlan Bin Aris</td>
 
   </tr>
-		<tr>
+		 <tr>
     <td class="tg-muqq">Mr Lim Ting Long</td>
-
+  
   </tr>
+		
 </tbody>
 </table>
 
-#### Student Development Team
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-2w19{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:top}
-.tg .tg-muqq{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-muqq">Ms Li Jiayi</th>
-    <th class="tg-2w19">Senior Allied Educator(Learning and Behavioural Support)<br></th>
-  </tr>
-</thead>
-	<tbody>
-  <tr>
-    <td class="tg-muqq">Mr Conrad Lee</td>
-    <td class="tg-2w19">Senior Allied Educator(Learning and Behavioural Support) </td>
-  </tr>
-		 <tr>
-    <td class="tg-muqq">Ms Isabella Lee</td>
-    <td class="tg-2w19">Allied Educator (Counsellor) </td>
-  </tr>
-		 <tr>
-    <td class="tg-muqq">Mr Ruben[FAJT]</td>
-    <td class="tg-2w19">Allied Educator (Counsellor) </td>
-  </tr>
-		<tr>
-    <td class="tg-muqq">Mr Leo Chin Ho</td>
-    <td class="tg-2w19">Student Welfare Officer</td>
-  </tr>
-</tbody>
-</table>
+
+
+
+
+
 
 
 
@@ -473,6 +443,45 @@ description: ""
   </tr>
 </tbody>
 </table>
+
+#### Student Development Team
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2w19{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-muqq{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-muqq">Ms Li Jiayi</th>
+    <th class="tg-2w19">Senior Allied Educator(Learning and Behavioural Support)<br></th>
+  </tr>
+</thead>
+	<tbody>
+  <tr>
+    <td class="tg-muqq">Mr Conrad Lee</td>
+    <td class="tg-2w19">Senior Allied Educator(Learning and Behavioural Support) </td>
+  </tr>
+		 <tr>
+    <td class="tg-muqq">Ms Isabella Lee</td>
+    <td class="tg-2w19">Allied Educator (Counsellor) </td>
+  </tr>
+		 <tr>
+    <td class="tg-muqq">Mr Ruben[FAJT]</td>
+    <td class="tg-2w19">Allied Educator (Counsellor) </td>
+  </tr>
+		<tr>
+    <td class="tg-muqq">Mr Leo Chin Ho</td>
+    <td class="tg-2w19">Student Welfare Officer</td>
+  </tr>
+</tbody>
+</table>
+
 
 #### Executive and Administrative Staff
 
