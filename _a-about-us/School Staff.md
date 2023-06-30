@@ -165,6 +165,15 @@ description: ""
     <td class="tg-2w19"><span style="color:#222;background-color:#F2F9FF">Acting Subject Head/ CCE </span></td>
 						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">nur_atikah_kamsani@schools.gov.sg</span></td>
   </tr>
+	 <tr>
+    <td class="tg-muqq">Ms Norizan Md Nor<span style="color:#222;background-color:#F2F9FF"> </span></td>
+    <td class="tg-2w19"><span style="color:#222;background-color:#F2F9FF">Acting Subject Head/ ML </span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">norizan_mohamed_nor@schools.gov.sg</span></td>
+  </tr>
+	<tr><td class="tg-muqq">Ms Ismath Banu<span style="color:#222;background-color:#F2F9FF"> </span></td>
+    <td class="tg-2w19"><span style="color:#222;background-color:#F2F9FF">Acting Level Head/ English Language/Literature </span></td>
+						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">ismath_banu_mohamed_yaseen@schools.gov.sg</span></td>
+  </tr>
 </tbody>
 </table>
 
@@ -193,26 +202,26 @@ description: ""
   <tr>
     <td class="tg-i38w">NT</td>
     <td class="tg-i38w">S11<span style="color:#222;background-color:#F2F9FF"> </span></td>
-    <td class="tg-da8v">Ms Gloria Ng<br>Mr Bernard R S Nair (LDM)</td>
-								 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">gloria_ng_yu_yan@schools.gov.sg<br>bernard_roy_sanjay_nair@schools.gov.sg</span></td>
+    <td class="tg-da8v">Ms Gloria Ng<br>Ms Woo See Wei<br>Mr Abdul Rahman</td>
+								 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">gloria_ng_yu_yan@schools.gov.sg<br>woo_see_wei@schools.gov.sg<br>abdul_rahman_abdul_rahim_a@schools.gov.sg</span></td>
 		
   </tr>
   <tr>
     <td class="tg-i38w">NA</td>
     <td class="tg-i38w">S12<span style="color:#222;background-color:#F2F9FF"> </span></td>
-    <td class="tg-da8v">Mr Gabriel Fu<br>Ms Diana Binte Othman</td>
-										 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">gabriel_fu_bojun@schools.gov.sg<br>diana_othman@schools.gov.sg</span></td>
+    <td class="tg-da8v">Mr Gabriel Fu<br>Ms Diana Binte Othman<br> Mr Damien Ho (CAJT)<br> Ms Grace Ng</td>
+										 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">gabriel_fu_bojun@schools.gov.sg<br>diana_othman@schools.gov.sg<br> ho_siong_chang@schools.gov.sg<br>grace_ng_kah_yi@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-i38w">Exp </td>
     <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF"> </span>S13</td>
-    <td class="tg-da8v">             Mdm Singaram Vijayalakshmi        </td>
-									 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">singaram_vijayalakshmi@schools.gov.sg</span></td>
+    <td class="tg-da8v">             Mdm Singaram Vijayalakshmi <br> Ms Isabelle Teo       </td>
+									 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">singaram_vijayalakshmi@schools.gov.sg<br> teo_zhi_yi_isabelle@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF"> </span>Exp</td>
     <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF"> </span>S14</td>
-    <td class="tg-da8v">Mr Neo Sian Lee<br>Mr Prathivmohan S/O Chandramohan<br></td>
+    <td class="tg-da8v">Mr Neo Sian Lee(LDM)<br>Mr Prathivmohan S/O Chandramohan<br></td>
 										 <td class="tg-da8v">neo_sian_lee@schools.gov.sg<br>prathivmohan_chandramohan@schools.gov.sg</td>
   </tr>
   <tr>
@@ -224,8 +233,8 @@ description: ""
   <tr>
     <td class="tg-i38w">NA</td>
     <td class="tg-i38w"><span style="color:#222;background-color:#F2F9FF">   </span>S22</td>
-    <td class="tg-da8v">Mr Lim Teck Ming<br>Ms Nur Atikah Bte Kamsani<br>
-										 </td><td class="tg-da8v"> lim_teck_ming@schools.gov.sg<br>nur_atikah_kamsani@schools.gov.sg</td>
+    <td class="tg-da8v">Mr Lim Teck Ming<br>Ms Nur Atikah Bte Kamsani<br>Mr Woo Kah Whye
+										 </td><td class="tg-da8v"> lim_teck_ming@schools.gov.sg<br>nur_atikah_kamsani@schools.gov.sg<br>woo_kah_whye@moe.edu.sg</td>
   </tr>
   <tr>
     <td class="tg-i38w">Exp</td>
@@ -273,20 +282,20 @@ description: ""
   <tr>
     <td class="tg-muqq">NA</td>
     <td class="tg-muqq">S32</td>
-    <td class="tg-2w19">Ms Casey Lee<br>Mr Hazlan<span style="color:black"> Bin Aris</span><br></td>
+    <td class="tg-2w19">Ms Casey Lee<br>Mr Hazlan<span style="color:black"> Bin Aris (LDM)</span><br></td>
 			 <td class="tg-2w19">lee_suet_har@schools.gov.sg<br>hazlan_mohd_aris@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-muqq"> Exp</td>
     <td class="tg-muqq"> S33</td>
-    <td class="tg-2w19">Mrs Chua Wai Yi<br>Mrs Looi Lay Geok<br>Mr Damien Ho (CAJT)<br></td>
-			 <td class="tg-2w19">chow_wai_yi@schools.gov.sg<br>tan_lay_geok@schools.gov.sg<br>ho_siong_chang@schools.gov.sg<br></td>
+    <td class="tg-2w19">Mrs Chua Wai Yi<br>Ms Shi Yan Wei<br></td>
+			 <td class="tg-2w19">chow_wai_yi@schools.gov.sg<br>shi_yanwei@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-muqq"> Exp </td>
     <td class="tg-muqq"> S34</td>
-    <td class="tg-2w19"><span style="color:#222;background-color:#F2F9FF">Mdm Subbu Suba Sakthidevi</span><br><span style="color:#222;background-color:#F2F9FF">Ms Lee Ai Li</span></td>
-					 <td class="tg-2w19">subbu_suba_sakthidevi@schools.gov.sg<br>lee_ai_li@schools.gov.sg</td>
+    <td class="tg-2w19"><span style="color:#222;background-color:#F2F9FF">Mdm Subbu Suba Sakthidevi</span><br><span style="color:#222;background-color:#F2F9FF">Ms Lee Ai Li<br> Mr Marcus Huang</span></td>
+					 <td class="tg-2w19">subbu_suba_sakthidevi@schools.gov.sg<br>lee_ai_li@schools.gov.sg<br>huang_jianyang_marcus@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-muqq"> NT</td>
@@ -330,19 +339,40 @@ description: ""
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-2w19{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-muqq{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-2w19">Mr Bernard Roy<br></th>
+    <th class="tg-muqq">Mr Freddie Chan</th>
+   
   </tr>
 </thead>
-<tbody>
+	<tbody>
   <tr>
-    <td class="tg-2w19">Mr Lim Ting Long</td>
+    <td class="tg-muqq">Mr Neo Sian Lee</td>
+  
   </tr>
+		 <tr>
+    <td class="tg-muqq">Mr Hazlan Bin Aris</td>
+
+  </tr>
+		 <tr>
+    <td class="tg-muqq">Mr Lim Ting Long</td>
+  
+  </tr>
+		
 </tbody>
 </table>
+
+
+
+
+
+
+
+
+
 
 #### Year Heads
 
@@ -414,6 +444,45 @@ description: ""
 </tbody>
 </table>
 
+#### Student Development Team
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-2w19{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:top}
+.tg .tg-muqq{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-muqq">Ms Li Jiayi</th>
+    <th class="tg-2w19">Senior Allied Educator(Learning and Behavioural Support)<br></th>
+  </tr>
+</thead>
+	<tbody>
+  <tr>
+    <td class="tg-muqq">Mr Conrad Lee</td>
+    <td class="tg-2w19">Senior Allied Educator(Learning and Behavioural Support) </td>
+  </tr>
+		 <tr>
+    <td class="tg-muqq">Ms Isabella Lee</td>
+    <td class="tg-2w19">Allied Educator (Counsellor) </td>
+  </tr>
+		 <tr>
+    <td class="tg-muqq">Mr Ruben[FAJT]</td>
+    <td class="tg-2w19">Allied Educator (Counsellor) </td>
+  </tr>
+		<tr>
+    <td class="tg-muqq">Mr Leo Chin Ho</td>
+    <td class="tg-2w19">Student Welfare Officer</td>
+  </tr>
+</tbody>
+</table>
+
+
 #### Executive and Administrative Staff
 
 <style type="text/css">
@@ -454,21 +523,15 @@ description: ""
     <td class="tg-muqq"><span style="color:#222;background-color:#F2F9FF"> </span> Mdm Samsiah  </td>
     <td class="tg-2w19">Corporate Support Officer<span style="color:#222;background-color:#F2F9FF"> </span></td>
   </tr>
-  <tr>
-    <td class="tg-muqq"><span style="color:#222;background-color:#F2F9FF"> </span>Ms Li Jiayi<br><br><br>Ms Isabella Lee</td>
-    <td class="tg-2w19">            Senior Allied Educator<br>      (Learning &amp; Behavioural Support) <br><br>           Allied Educator (Counsellor)</td>
-  </tr>
-  <tr>
-    <td class="tg-muqq"><span style="color:#222;background-color:#F2F9FF"> </span>Mr Leo Chin Ho </td>
-    <td class="tg-2w19">Student Welfare Officer<span style="color:#222;background-color:#F2F9FF"> </span></td>
-  </tr>
+  
+  
   <tr>
     <td class="tg-muqq">Ms Zahira<br></td>
     <td class="tg-2w19">ICT Associate<span style="color:#222;background-color:#F2F9FF"> </span></td>
   </tr>
   <tr>
     <td class="tg-muqq"><span style="color:#222;background-color:#F2F9FF"> </span>Mr Saseekumar<br> Mr Ghazzali </td>
-    <td class="tg-2w19">Desktop Engineer<span style="color:#222;background-color:#F2F9FF"> </span></td>
+    <td class="tg-2w19">Desktop Engineer<br>Desktop Engineer<span style="color:#222;background-color:#F2F9FF"> </span></td>
 		
   </tr>
   <tr>
