@@ -202,8 +202,8 @@ description: ""
   <tr>
     <td class="tg-i38w">NT</td>
     <td class="tg-i38w">S11<span style="color:#222;background-color:#F2F9FF"> </span></td>
-    <td class="tg-da8v">Ms Gloria Ng<br>Mr Bernard R S Nair (LDM)</td>
-								 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">gloria_ng_yu_yan@schools.gov.sg<br>bernard_roy_sanjay_nair@schools.gov.sg</span></td>
+    <td class="tg-da8v">Ms Gloria Ng<br>Ms Woo See Wei<br>Mr Abdul Rahman</td>
+								 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">gloria_ng_yu_yan@schools.gov.sg<br>woo_see_wei@schools.gov.sg<br>abdul_rahman_abdul_rahim@schools.gov.sg</span></td>
 		
   </tr>
   <tr>
