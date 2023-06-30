@@ -203,14 +203,14 @@ description: ""
     <td class="tg-i38w">NT</td>
     <td class="tg-i38w">S11<span style="color:#222;background-color:#F2F9FF"> </span></td>
     <td class="tg-da8v">Ms Gloria Ng<br>Ms Woo See Wei<br>Mr Abdul Rahman</td>
-								 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">gloria_ng_yu_yan@schools.gov.sg<br>woo_see_wei@schools.gov.sg<br>abdul_rahman_abdul_rahim@schools.gov.sg</span></td>
+								 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">gloria_ng_yu_yan@schools.gov.sg<br>woo_see_wei@schools.gov.sg<br>abdul_rahman_abdul_rahim_a@schools.gov.sg</span></td>
 		
   </tr>
   <tr>
     <td class="tg-i38w">NA</td>
     <td class="tg-i38w">S12<span style="color:#222;background-color:#F2F9FF"> </span></td>
-    <td class="tg-da8v">Mr Gabriel Fu<br>Ms Diana Binte Othman<br> Mr Damien Ho(CAJT)<br> Ms Grace Ng</td>
-										 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">gabriel_fu_bojun@schools.gov.sg<br>diana_othman@schools.gov.sg<br> ho_siong_chang_@schools.gov.sg<br>grace_ng_kah_yi@schools.gov.sg</span></td>
+    <td class="tg-da8v">Mr Gabriel Fu<br>Ms Diana Binte Othman<br> Mr Damien Ho (CAJT)<br> Ms Grace Ng</td>
+										 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">gabriel_fu_bojun@schools.gov.sg<br>diana_othman@schools.gov.sg<br> ho_siong_chang@schools.gov.sg<br>grace_ng_kah_yi@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-i38w">Exp </td>
@@ -295,7 +295,7 @@ description: ""
     <td class="tg-muqq"> Exp </td>
     <td class="tg-muqq"> S34</td>
     <td class="tg-2w19"><span style="color:#222;background-color:#F2F9FF">Mdm Subbu Suba Sakthidevi</span><br><span style="color:#222;background-color:#F2F9FF">Ms Lee Ai Li<br> Mr Marcus Huang</span></td>
-					 <td class="tg-2w19">subbu_suba_sakthidevi@schools.gov.sg<br>lee_ai_li@schools.gov.sg<br>huang_jianyang_marcus@moe.edu.sg</td>
+					 <td class="tg-2w19">subbu_suba_sakthidevi@schools.gov.sg<br>lee_ai_li@schools.gov.sg<br>huang_jianyang_marcus@schools.gov.sg</td>
   </tr>
   <tr>
     <td class="tg-muqq"> NT</td>
