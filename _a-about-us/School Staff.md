@@ -343,12 +343,12 @@ description: ""
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-2w19">Mr Bernard Roy<br></th>
+    <th class="tg-2w19">Mr Freddie Chan<br></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-2w19">Mr Lim Ting Long</td>
+    <td class="tg-2w19">Mr Neo D</td>
   </tr>
 </tbody>
 </table>
