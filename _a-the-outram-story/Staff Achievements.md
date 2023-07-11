@@ -450,9 +450,7 @@ description: ""
   <tr>
     <td class="tg-ogew">Ms Cheong Wenxin Serene</td>
   </tr>
-  <tr>
-    <td class="tg-ogew">Ms Ho Pei Shuan Patricia</td>
-  </tr>
+ 
   <tr>
     <td class="tg-ogew">Mr Huang Jianyang Marcus</td>
   </tr>
