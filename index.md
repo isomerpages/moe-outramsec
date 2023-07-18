@@ -21,7 +21,4 @@ sections:
           description: VIEW
           url: /links-for-teachers
       background: /images/Homepage/homebannerAnimated02.gif
-  - resources:
-      title: News and Announcements
-      button: For More
 ---
