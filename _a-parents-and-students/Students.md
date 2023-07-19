@@ -24,6 +24,8 @@ description: ""
 [Resources for Full HBL](/Resources-for-FHBL/)
 
 ### **Links**
+[Self-Password Reset Guide For MIMS](/files/Parents%20and%20Students/Students/poster%20for%20mims.pdf)
+
 [Student Google Dashboard](https://workspace.google.com/dashboard)
 
 [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
