@@ -459,21 +459,21 @@ description: ""
 <thead>
   <tr>
     <th class="tg-muqq">Ms Li Jiayi</th>
-    <th class="tg-2w19">Senior Allied Educator(Learning and Behavioural Support)<br></th>
+    <th class="tg-2w19">Senior Special Educational Needs Officer (SSENO)<br></th>
   </tr>
 </thead>
 	<tbody>
   <tr>
     <td class="tg-muqq">Mr Conrad Lee</td>
-    <td class="tg-2w19">Senior Allied Educator(Learning and Behavioural Support) </td>
+    <td class="tg-2w19">Special Educational Needs Officer (SENO) </td>
   </tr>
 		 <tr>
     <td class="tg-muqq">Ms Isabella Lee</td>
-    <td class="tg-2w19">Allied Educator (Counsellor) </td>
+    <td class="tg-2w19">School Counsellor </td>
   </tr>
 		 <tr>
-    <td class="tg-muqq">Mr Ruben[FAJT]</td>
-    <td class="tg-2w19">Allied Educator (Counsellor) </td>
+    <td class="tg-muqq">Mr Ruben</td>
+    <td class="tg-2w19">School Counsellor (Flexi-Adjunct) </td>
   </tr>
 		<tr>
     <td class="tg-muqq">Mr Leo Chin Ho</td>

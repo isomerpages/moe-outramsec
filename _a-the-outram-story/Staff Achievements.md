@@ -25,7 +25,28 @@ description: ""
     <td class="tg-baqh">Ms Li Jiayi</td>
   </tr>
 </tbody>
+	<tbody>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:600;color:#484848">National Day Award 2023 (The Commendation Medal)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Mr Dawa Tshering Sherpa</td>
+  </tr>
+</tbody>
+	<tbody>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:600;color:#484848">National Day Award 2023 (The Long Service Medal 25 Years)</span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Tan Boon Hwee</td>
+  </tr>
+		<tr>
+    <td class="tg-baqh">Ong Kok Heng</td>
+  </tr>
+</tbody>
 </table>
+
+
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
