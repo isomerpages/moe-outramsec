@@ -469,11 +469,11 @@ description: ""
   </tr>
 		 <tr>
     <td class="tg-muqq">Ms Isabella Lee</td>
-    <td class="tg-2w19">Allied Educator (Counsellor) </td>
+    <td class="tg-2w19">School Counsellor </td>
   </tr>
 		 <tr>
-    <td class="tg-muqq">Mr Ruben[FAJT]</td>
-    <td class="tg-2w19">Allied Educator (Counsellor) </td>
+    <td class="tg-muqq">Mr Ruben</td>
+    <td class="tg-2w19">School Counsellor (Flexi-Adjunct) </td>
   </tr>
 		<tr>
     <td class="tg-muqq">Mr Leo Chin Ho</td>
