@@ -10,7 +10,7 @@ description: ""
 ### **Exam Timetable 2023**
 [3NT Prelim Exam Timetable](/files/Parents%20and%20Students/Parents/Letter%20to%20Parents%202023/3nt%20prelim%20exam%20timetable.pdf)
 
-[4E5N Prelim Exam Timetable](/files/Parents%20and%20Students/Parents/Letter%20to%20Parents%202023/4e5n%20prelim%20exam%20timetable%20updated.pdf)
+[4E5N Prelim Exam Timetable](/files/Parents%20and%20Students/Parents/Letter%20to%20Parents%202023/4e5n%20prelim%20exam%20timetable%20updated%2015aug.pdf)
 
 [4NA Prelim Exam Timetable](/files/Parents%20and%20Students/Parents/Letter%20to%20Parents%202023/4na%20prelim%20exam%20timetable.pdf)
 
