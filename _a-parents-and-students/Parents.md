@@ -33,7 +33,7 @@ description: ""
 
 [S3NA EOY 2023](/files/Parents%20and%20Students/Parents/Exam%20Timetables/s3na%20eoy%202023.pdf)
 
-[S3NT EOY Exam](/files/Parents%20and%20Students/Parents/Exam%20Timetables/s3nt%20eoy%202023.pdf)
+[S3NT EOY 2023](/files/Parents%20and%20Students/Parents/Exam%20Timetables/s3nt%20eoy%202023.pdf)
 ### **Letter to Parents**
 
 <!-- 
