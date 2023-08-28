@@ -22,8 +22,8 @@ sections:
           url: /links-for-teachers
       background: /images/Homepage/homebannerAnimated02.gif
   - infobar:
-      title: Teachers' Day Visitation
-      description: "Announcement: Teachers' Day Visitation on 30th Aug"
+      title: Teachers' Day Visitation 30th August
+      description: Announcement on Teachers' Day Visitation
       button: View announcement
       url: teachersday2023
 ---
