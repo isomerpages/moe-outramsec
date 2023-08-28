@@ -3,7 +3,8 @@ title: News and Announcements
 permalink: /News-and-Announcements/News-and-Announcements/
 description: ""
 ---
-* [Edusave Character Award (ECHA) Nomination 2023](/files/News%20&amp;%20Announcements/2023/2023%20online%20publicity%20info.pdf)
+* [CPF Board Brochure on Insomnia](/files/News%20&amp;%20Announcements/2023/catching%20insomnia.pdf)
+ * [Edusave Character Award (ECHA) Nomination 2023](/files/News%20&amp;%20Announcements/2023/2023%20online%20publicity%20info.pdf)
 * [Release of 2022 GCE 'O' Level Results](/news/Release-of-2022-GCE-O-Level-Results/)
 *   [Secondary 3 Camp 2023](/news/Secondary-3-Camp-2023/)
 *   [Outram at Chingay NE Show 2023](/news/Outram-at-Chingay-NE-Show-2023/)
