@@ -6,3 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+![](/images/tchrdayvisit1.png)
+
+
+![](/images/tchrdayvisit2.png)
