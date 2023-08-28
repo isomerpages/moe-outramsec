@@ -21,4 +21,8 @@ sections:
           description: VIEW
           url: /links-for-teachers
       background: /images/Homepage/homebannerAnimated02.gif
+  - infobar:
+      title: Teachers' Day Visitation Announcement
+      button: Read More
+      url: teachersday2023
 ---
