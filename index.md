@@ -25,5 +25,5 @@ sections:
       title: Teachers' Day Visitation 30th August
       description: Announcement on Teachers' Day Visitation
       button: View announcement
-      url: teachersday2023
+      url: https://www.open.gov.sg/teachersday2023/
 ---
