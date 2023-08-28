@@ -1,6 +1,6 @@
 ---
 title: Values in Action
-permalink: /Values-in-Action/
+permalink: /values-in-action/
 description: ""
 ---
 #### **School's CCE Vision: Lifelong learners. Innovative Leaders. Caring Contributors**

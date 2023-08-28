@@ -21,4 +21,9 @@ sections:
           description: VIEW
           url: /links-for-teachers
       background: /images/Homepage/homebannerAnimated02.gif
+  - infobar:
+      title: Teachers' Day Visitation 30th August
+      description: Announcement on Teachers' Day Visitation
+      button: View announcement
+      url: https://www.open.gov.sg/teachersday2023/
 ---
