@@ -25,5 +25,5 @@ sections:
       title: Teachers' Day Visitation on 30 Aug
       description: Announcement regarding Teachers' Day Visitation
       button: View Announcement
-      url: /
+      url: /announcements/news-and-announcements/teachersday2023/
 ---
