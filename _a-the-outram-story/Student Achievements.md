@@ -14,6 +14,7 @@ description: ""
 |---|---|---|
 |Tamil| Tamil New Year Competition 2023 Chitirai Thiruvizha 2023 organised by Kim Seng CC| 1st Runner-up in the Top Performing Secondary School Category
 |Mathematics| National CashFlow Competition| Two 3rd prizes<br> One Consolation Prize
+|English| Live On Festival 2023| Special Mention, Junior Category
 
 **CCA Achievements**
 
