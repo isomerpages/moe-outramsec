@@ -2,6 +2,7 @@ collections:
   b-recent-events:
     output: true
     order:
+      - Live On Festival 2023.md
       - Achievements.md
       - Sustainable Singapore Gallery.md
       - STEM Playground – Satay Stick Challenge 2023.md
