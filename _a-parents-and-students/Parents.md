@@ -83,9 +83,11 @@ description: ""
 
 ### **Links**
 
-[Parents Gateway](https://pg.moe.edu.sg/)
+
 
 [MOE Instagram for Parents - @Parentingwith.moesg](https://www.instagram.com/parentingwith.moesg/)
+
+[Parents Gateway](https://pg.moe.edu.sg/)
 
 
 <!--
