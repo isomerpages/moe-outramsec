@@ -12,15 +12,15 @@ We are a team of language lovers and enthusiasts raring for literature and langu
 
 <ul class="jekyllcodex_accordion">
 
-  <li>
+&nbsp;&nbsp;<li>
 
-    <input type="checkbox" id="accordion1">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Members</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Members</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-      <p> <style type="text/css">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -32,46 +32,52 @@ We are a team of language lovers and enthusiasts raring for literature and langu
 <thead>
   <tr>
     <th class="tg-lyvw">Mrs Cheryl Fan (HOD/EL)</th>
-    <th class="tg-lyvw">Mrs Wong Ann Ann (LH/EL)<br></th>
+    <th class="tg-lyvw">Ms Lim Yean Yue Gladys<br></th>
+	
   </tr>
-</thead>
+	<tr>
+    <th class="tg-lyvw">Mrs Wong Ann Ann (LH/EL)</th>
+		<td class="tg-lyvw">Ms Woo See Wei <br></td>
+</tr></thead>
 <tbody>
   <tr>
-    <td class="tg-lyvw">Mr Dawa Tshering Sherpa (HOD/SEN) <br></td>
-    <td class="tg-lyvw">Ms Grace Ng Kah-Yi (ST/EL) </td>
+    
+   <td class="tg-lyvw">Ms Ismath Banu Yasseen (Acting SH/Lit) </td>
+		<td class="tg-lyvw">Mr Prathivmohan S/O Chandramohan</td>
   </tr>
   <tr>
-    <td class="tg-lyvw">Mr Prathivmohan S/O Chandramohan</td>
-    <td class="tg-lyvw">Ms Zaiton  (HOD/Discipline)</td>
+    
+   <td class="tg-lyvw">Ms Grace Ng Kah-Yi (ST/EL)</td>
+		<td class="tg-lyvw">Ms Diana Bte Othman</td>
   </tr>
   <tr>
-    <td class="tg-lyvw">Ms Diana Bte Othman</td>
-    <td class="tg-lyvw">Ms Woo See Wei<br></td>
+    <td class="tg-lyvw">Mr Dawa Tshering Sherpa (HOD/SEN)<br></td>
+		<td class="tg-lyvw">Mr Bernard Roy Sanjay Nair </td>
   </tr>
   <tr>
-    <td class="tg-lyvw">Mrs Chua Wai Yi </td>
-    <td class="tg-lyvw">Mr Abdul Rahman Bin Abdul Rahim (ST/SS)<br></td>
+   <td class="tg-lyvw">Mr Abdul Rahman Bin Abdul Rahim (ST/SS)<br></td>
+		    <td class="tg-lyvw">Ms Charmaine Loke Mern Yi <br></td>
   </tr>
   <tr>
-    <td class="tg-lyvw">Ms Lim Yean Yue Gladys <br></td>
-    <td class="tg-lyvw">Mr Bernard Roy <br></td>
+		<td class="tg-lyvw">Ms Zaiton (HOD/Discipline)<br></td>
+		 <td class="tg-lyvw">Ms Isabelle Teo<br></td>
   </tr>
   <tr>
-    <td class="tg-lyvw">Ms Charmaine Loke Mern Yi<br></td>
-    <td class="tg-lyvw">Ms Ismath Banu</td>
+   <td class="tg-lyvw">Mrs Chua Wai Yi<br></td>
+    
   </tr>
 </tbody>
 </table>
 
-  <li>
+&nbsp;&nbsp;</p></div></li><li>
 
-    <input type="checkbox" id="accordion2">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Programmes</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Programmes</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 			
-We are a team of language lovers and enthusiasts raring for literature and language to make a difference in the lives of young men and women who pass through the gates of Outram Secondary School. While aiming to sharpen the tools of our learners enough to add value to their academic results at the end of their term with us, we really hope to nurture young people who are confident, articulate and proficient users of the English Language. Find out about us!<br><br>
+We are a team of language lovers and enthusiasts raring for literature and language to make a difference in the lives of young men and women who pass through the gates of Outram Secondary School. While aiming to sharpen the tools of our learners enough to add value to their academic results at the end of their term with us, we really hope to nurture young people who are confident, articulate and proficient users of the English&nbsp;Language. Find out about us!<br><br>
 
   <b>Oral Skills Programme</b><br>
 			
@@ -83,7 +89,7 @@ The department’s spirally progressive oral skills programme aims to build conf
 
 	<b>Multiliteracies Programme</b><br>
 
-In today’s world where technology and media reaches its arms into every aspect of our daily lives, bimodal and multimodal texts (Chan & Chia, 2014) such as advertisements, posters, brochures, billboards, moving pictures, animation, social media platforms such as blogs, facebook, video games, picture books, digital news and the like proliferate at an unprecedented speed. At OSS, students learn to appreciate and review multimodal texts through:<br>
+In today’s world where technology and media reaches its arms into every aspect of our daily lives, bimodal and multimodal texts (Chan &amp; Chia, 2014) such as advertisements, posters, brochures, billboards, moving pictures, animation, social media platforms such as blogs, facebook, video games, picture books, digital news and the like proliferate at an unprecedented speed. At OSS, students learn to appreciate and review multimodal texts through:<br>
 
 *   Principles of Advertising (Bimodal sources) in Secondary 1<br>
 *   Film Review (Multimodal sources) in Secondary 2<br>
@@ -98,7 +104,7 @@ Since 2020, the department embarked on an integrated skills acquisition program 
 
   
 
-*   <b>Weekly Opening Read</b><br>  
+*   <b>Weekly Opening Read</b><br>&nbsp;&nbsp;
 
   
 
@@ -138,7 +144,7 @@ Since 2020, the department embarked on an integrated skills acquisition program 
 </tbody>
 </table><br><br>
 			
-*   <b>Creative Writing Activities</b><br> 
+*   <b>Creative Writing Activities</b><br>&nbsp;
 
 *   Guided Imagery<br>
 *   Whose Story is it?<br>
@@ -148,7 +154,7 @@ Since 2020, the department embarked on an integrated skills acquisition program 
 <b>Outram Ink Blog</b><br><br>
 
   
-Read our students’ published works on the students’ blog:  <a href="https://cheryllimmingyuh.wixsite.com/outram-writes">Outram Ink</a><br><br>
+Read our students’ published works on the students’ blog:&nbsp; <a href="https://cheryllimmingyuh.wixsite.com/outram-writes">Outram Ink</a><br><br>
 			
 <img style="width:100%;height:50%" src="/images/Instructional%20Programmes/English%20Language/E1NEW.png"><br><br>		
 
@@ -159,7 +165,7 @@ The Literature and English teams join hands to organize an annual day of fun for
 <img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/EP02.jpg"> 
 			<b>Enrichment and Learning Journeys</b><br>
 
-   
+&nbsp;  
 
 <b>Selling Dreams Exhibition at the National Library</b><br>
 			
@@ -170,10 +176,10 @@ The Literature and English teams join hands to organize an annual day of fun for
 <img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/EP05.jpg"> 
 			<b>Competitions</b><br>
 
-The Queen’s Commonwealth Essay Competition (Anglo-Chinese Junior College)<br> 
+The Queen’s Commonwealth Essay Competition (Anglo-Chinese Junior College)<br>&nbsp;
 
 
- 
+&nbsp;
 
 The Queen's Commonwealth Essay Competition is the world's oldest international writing competition for schools, established since 1883. For 2021, the Competition theme was Community in the Commonwealth, and the essay topics were centered round the Covid-19 pandemic.<br>
 
@@ -326,18 +332,18 @@ We are pleased to announce the following good results. Bravo, Outram writers!<br
 </table><br>
 			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES08.jpg"><br>
 			<a href="https://www.kindness.sg/news/congratulations-to-the-write-for-kindness-2020-winners/">https://www.kindness.sg/news/congratulations-to-the-write-for-kindness-2020-winners/</a><br>
-			<b>Poetry Writing 2019</b><br>‘A Helping Hand’ - 2nd place ‘A Friend in Need is a Friend Indeed’ - Consolation Prize<br>		
+			<b>Poetry Writing 2019</b><br>‘A Helping Hand’ - 2nd&nbsp;place ‘A Friend in Need is a Friend Indeed’ - Consolation Prize<br>		
 <img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES09.jpg">
 			<b>2018 Poetry Writing 2018</b><br>‘The power of Kindness’ – Champion  
-‘At the Playground’ – 3rd place<br>
+‘At the Playground’ – 3rd&nbsp;place<br>
 <img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/ES10.jpg">
 			<b>Story Writing</b><br>
-<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/06.png">Andrea Seng Jun Xin (Sec 2/3), Adriana Batrisyia Binte Steve Arifianto (Sec 2/5), Briones Cheyanna Carlyn Javier (Sec 2/5), Diana Hue (Sec 2/5), and Tan Swee Ling (Sec 2/5)<br>
+<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/06.png">Andrea Seng Jun Xin&nbsp;(Sec 2/3), Adriana Batrisyia Binte Steve Arifianto (Sec 2/5), Briones Cheyanna Carlyn Javier (Sec 2/5), Diana Hue (Sec 2/5), and Tan Swee Ling (Sec 2/5)<br>
 			<b>Singapore Secondary Schools Debating Championships (SSSDC) 2019</b><br>
 
 In our first foray into SSSDC, the team won 2 out of 3 rounds in the preliminaries and Justine Hari Muruga (Sec 4/5) won Best Speaker in Round 2.<br>
 
-Debaters: Maria Reyes (Sec 32), Basil Hia & Brendan Lim (Sec 4/5)<br>
+Debaters: Maria Reyes (Sec 32), Basil Hia &amp; Brendan Lim (Sec 4/5)<br>
 			
 <img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/E6.jpg">
 			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/E7.jpg"><br>
@@ -357,23 +363,23 @@ Winning Entry from William Wang Silang (Sec 4/4).<br>
  
 <b>Oldham Cup (ACJC) 2017</b><br>  
   
-The team comprising Zander Widjaja, Nguyen Hai Duong (Sec 4/4) and Shyanne  (Sec 4/5) won 2 rounds out of 8 in their inaugural outing.
+The team comprising Zander Widjaja, Nguyen Hai Duong (Sec 4/4) and Shyanne&nbsp; (Sec 4/5) won 2 rounds out of 8 in their inaugural outing.
 			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/English%20Language/E14.jpg">
 			
 			
 
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
-  <li>
+&nbsp;&nbsp;<li>
 
-    <input type="checkbox" id="accordion3">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
 
-    <label for="accordion3">Outram Times</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">Outram Times</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p> 
 <style type="text/css">
@@ -403,17 +409,17 @@ The team comprising Zander Widjaja, Nguyen Hai Duong (Sec 4/4) and Shyanne  (Se
 </tbody>
 </table> </p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
 <li>
 
-    <input type="checkbox" id="accordion4">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">
 
-    <label for="accordion4">English Resources</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">English Resources</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p> 
 <b>For Students</b><br><br>
@@ -437,49 +443,49 @@ The team comprising Zander Widjaja, Nguyen Hai Duong (Sec 4/4) and Shyanne  (Se
 <thead>
   <tr>
     <th class="tg-lyvw"><img src="/images/Instructional%20Programmes/English%20Language/ER01.jpg" alt="EL page.JPG" width="212" height="129"><br></th>
-    <th class="tg-3xsd"><a href="https://www.youtube.com/watch?v=_VatAaGIVV8&t=32s">How to Capture PAC in Reading Aloud O &amp; N Level English Oral</a><br><br><a href="https://www.youtube.com/watch?v=_VatAaGIVV8&t=32s"><span style="background-color:#FFF">Examination</span></a></th>
+    <th class="tg-3xsd"><a href="https://www.youtube.com/watch?v=_VatAaGIVV8&amp;t=32s">How to Capture PAC in Reading Aloud O &amp; N Level English Oral</a><br><br><a href="https://www.youtube.com/watch?v=_VatAaGIVV8&amp;t=32s"><span style="background-color:#FFF">Examination</span></a></th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td class="tg-yp4s"><span style="color:inherit;background-color:transparent"> </span><img src="/images/Instructional%20Programmes/English%20Language/ER02.jpg" alt="Pic 1.PNG" width="213" height="134"></td>
-    <td class="tg-yp4s"><span style="color:inherit;background-color:transparent"> </span><br><a href="https://www.youtube.com/watch?v=Nk2zZ0d27OA&t=58s&litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">GCE O &amp; N Level Persuasive Writing Part 1 Overview  English </span></a><br><a href="https://www.youtube.com/watch?v=Nk2zZ0d27OA&t=58s&litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">Language (Argumentative Essay)</span></a></td>
+    <td class="tg-yp4s"><span style="color:inherit;background-color:transparent"> </span><br><a href="https://www.youtube.com/watch?v=Nk2zZ0d27OA&amp;t=58s&amp;litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">GCE O &amp; N Level Persuasive Writing Part 1 Overview  English </span></a><br><a href="https://www.youtube.com/watch?v=Nk2zZ0d27OA&amp;t=58s&amp;litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">Language (Argumentative Essay)</span></a></td>
   </tr>
   <tr>
     <td class="tg-lyvw"><img src="/images/Instructional%20Programmes/English%20Language/ER03.jpg" alt="Pic 2.PNG" width="212" height="132"><span style="color:inherit;background-color:transparent"> </span><img src="https://outramsec-moe-edu-sg-admin.cwp.sg/pix/spacer.gif" width="16"></td>
-    <td class="tg-ko1w"><a href="https://www.youtube.com/watch?v=WTTIN9JHx1o&t=50s&litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">Persuasive Writing Part 2 Constructing Arguments &amp; Introduction O &amp; N Level (Argumentative Essay)</span></a></td>
+    <td class="tg-ko1w"><a href="https://www.youtube.com/watch?v=WTTIN9JHx1o&amp;t=50s&amp;litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">Persuasive Writing Part 2 Constructing Arguments &amp; Introduction O &amp; N Level (Argumentative Essay)</span></a></td>
   </tr>
   <tr>
     <td class="tg-lyvw"><img src="/images/Instructional%20Programmes/English%20Language/ER04.jpg" alt="pic 3.PNG" width="213" height="122"></td>
-    <td class="tg-brbm"><a href="https://www.youtube.com/watch?v=mI6OZrrTBPI&t=41s&litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">GCE O &amp; N Level Persuasive Writing Part 3 Language Features &amp; Hedging English (Argumentative Essay)</span></a></td>
+    <td class="tg-brbm"><a href="https://www.youtube.com/watch?v=mI6OZrrTBPI&amp;t=41s&amp;litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">GCE O &amp; N Level Persuasive Writing Part 3 Language Features &amp; Hedging English (Argumentative Essay)</span></a></td>
   </tr>
   <tr>
     <td class="tg-yp4s"><span style="color:inherit;background-color:transparent"> </span><img src="/images/Instructional%20Programmes/English%20Language/ER05.jpg" alt="pic 4.PNG" width="216" height="123"></td>
-    <td class="tg-ko1w"><a href="https://www.youtube.com/watch?v=VzoXJ2TEk0M&t=61s&litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">GCE O &amp; N Level Persuasive Writing Part 4 Types of Supporting Material (Argumentative Essay) English</span></a></td>
+    <td class="tg-ko1w"><a href="https://www.youtube.com/watch?v=VzoXJ2TEk0M&amp;t=61s&amp;litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">GCE O &amp; N Level Persuasive Writing Part 4 Types of Supporting Material (Argumentative Essay) English</span></a></td>
   </tr>
   <tr>
     <td class="tg-yp4s"><span style="color:inherit;background-color:transparent"> </span><img src="/images/Instructional%20Programmes/English%20Language/ER06.jpg" alt="pic 5.PNG" width="216" height="122"></td>
-    <td class="tg-ko1w"><a href="https://www.youtube.com/watch?v=WTzpS43AUSk&t=55s&litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">GCE O &amp; N Level Persuasive Writing Part 5 Checklist &amp; Idea Map (Argumentative Essay) English</span></a></td>
+    <td class="tg-ko1w"><a href="https://www.youtube.com/watch?v=WTzpS43AUSk&amp;t=55s&amp;litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">GCE O &amp; N Level Persuasive Writing Part 5 Checklist &amp; Idea Map (Argumentative Essay) English</span></a></td>
   </tr>
   <tr>
     <td class="tg-yp4s"><span style="color:inherit;background-color:transparent"> </span><img src="/images/Instructional%20Programmes/English%20Language/ER07.jpg" alt="EL Video 1.JPG"><img src="https://outramsec-moe-edu-sg-admin.cwp.sg/pix/spacer.gif" width="16"><br></td>
-    <td class="tg-lyvw"><a href="https://www.youtube.com/watch?v=7XEXW6o6U8A&litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">O &amp; N Level Oral Exam BOAR Oral Thinking Frame Part 1</span></a></td>
+    <td class="tg-lyvw"><a href="https://www.youtube.com/watch?v=7XEXW6o6U8A&amp;litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">O &amp; N Level Oral Exam BOAR Oral Thinking Frame Part 1</span></a></td>
   </tr>
   <tr>
     <td class="tg-lyvw"><img src="/images/Instructional%20Programmes/English%20Language/ER08.jpg" alt="EL Video 2.JPG"></td>
-    <td class="tg-ko1w"><a href="https://www.youtube.com/watch?v=axEba1zjkwc&litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">O &amp; N Level Oral Exam BOAR Oral Thinking Frame Part 2 </span></a></td>
+    <td class="tg-ko1w"><a href="https://www.youtube.com/watch?v=axEba1zjkwc&amp;litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">O &amp; N Level Oral Exam BOAR Oral Thinking Frame Part 2 </span></a></td>
   </tr>
   <tr>
     <td class="tg-yp4s"><span style="color:inherit;background-color:transparent"> </span><img src="/images/Instructional%20Programmes/English%20Language/ER09.jpg" alt="El Video 4.JPG"><br></td>
-    <td class="tg-yp4s"><span style="color:inherit;background-color:transparent"> </span><br><a href="https://www.youtube.com/watch?v=GnFycyyJ5-s&litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">O level English Comprehension Visual Text Purpose &amp; Intended Effect Questions Part 1</span></a></td>
+    <td class="tg-yp4s"><span style="color:inherit;background-color:transparent"> </span><br><a href="https://www.youtube.com/watch?v=GnFycyyJ5-s&amp;litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">O level English Comprehension Visual Text Purpose &amp; Intended Effect Questions Part 1</span></a></td>
   </tr>
   <tr>
     <td class="tg-lyvw"><img src="/images/Instructional%20Programmes/English%20Language/ER10.jpg" alt="El Video 5.JPG"></td>
-    <td class="tg-ko1w"><a href="https://www.youtube.com/watch?v=n2KXgNrapKk&litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">Updated O Level English Comprehension Visual Text Purpose &amp; Intended Effect Questions Part 2 </span></a></td>
+    <td class="tg-ko1w"><a href="https://www.youtube.com/watch?v=n2KXgNrapKk&amp;litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">Updated O Level English Comprehension Visual Text Purpose &amp; Intended Effect Questions Part 2 </span></a></td>
   </tr>
   <tr>
     <td class="tg-lyvw"><img src="/images/Instructional%20Programmes/English%20Language/ER11.jpg" alt="EL Video 3.JPG"></td>
-    <td class="tg-ko1w"><a href="https://www.youtube.com/watch?v=h_DtNqHfalM&litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">O &amp; N Level English Paper 2 Understanding Visual Text through Mirror Reading</span></a></td>
+    <td class="tg-ko1w"><a href="https://www.youtube.com/watch?v=h_DtNqHfalM&amp;litebox=1"><span style="font-weight:600;text-decoration:none;color:#D70500">O &amp; N Level English Paper 2 Understanding Visual Text through Mirror Reading</span></a></td>
   </tr>
 </tbody>
 </table><br><br>
@@ -570,6 +576,6 @@ The team comprising Zander Widjaja, Nguyen Hai Duong (Sec 4/4) and Shyanne  (Se
 			<a href="/files/School%20Programmes/Instructional%20Programmes/English%20Language/South_S5_LR.pdf">Sec 5</a>
 			</p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
-</li>
+</li></ul>
