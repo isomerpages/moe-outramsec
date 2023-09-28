@@ -32,38 +32,38 @@ We are a team of language lovers and enthusiasts raring for literature and langu
 <thead>
   <tr>
     <th class="tg-lyvw">Mrs Cheryl Fan (HOD/EL)</th>
-    <th class="tg-lyvw">Mrs Wong Ann Ann (LH/EL)<br></th>
+    <th class="tg-lyvw">Ms Lim Yean Yue Gladys<br></th>
 	
   </tr>
 	<tr>
-    <th class="tg-lyvw">Ms Ismath Banu Yasseen (Acting SH/Lit)</th>
-		<td class="tg-lyvw">Mr Dawa Tshering Sherpa (HOD/SEN) <br></td>
+    <th class="tg-lyvw">Mrs Wong Ann Ann (LH/EL)</th>
+		<td class="tg-lyvw">Ms Woo See Wei <br></td>
 </tr></thead>
 <tbody>
   <tr>
     
-   <td class="tg-lyvw">Ms Grace Ng Kah-Yi (ST/EL) </td>
+   <td class="tg-lyvw">Ms Ismath Banu Yasseen (Acting SH/Lit) </td>
 		<td class="tg-lyvw">Mr Prathivmohan S/O Chandramohan</td>
   </tr>
   <tr>
     
-   <td class="tg-lyvw">Ms Zaiton  (HOD/Discipline)</td>
+   <td class="tg-lyvw">Ms Grace Ng Kah-Yi (ST/EL)</td>
 		<td class="tg-lyvw">Ms Diana Bte Othman</td>
   </tr>
   <tr>
-    <td class="tg-lyvw">Ms Woo See Wei<br></td>
-		<td class="tg-lyvw">Mrs Chua Wai Yi </td>
+    <td class="tg-lyvw">Mr Dawa Tshering Sherpa (HOD/SEN)<br></td>
+		<td class="tg-lyvw">Mr Bernard Roy Sanjay Nair </td>
   </tr>
   <tr>
    <td class="tg-lyvw">Mr Abdul Rahman Bin Abdul Rahim (ST/SS)<br></td>
-		    <td class="tg-lyvw">Ms Lim Yean Yue Gladys <br></td>
+		    <td class="tg-lyvw">Ms Charmaine Loke Mern Yi <br></td>
   </tr>
   <tr>
-		<td class="tg-lyvw">Mr Bernard Roy Sanjay Nair <br></td>
-		 <td class="tg-lyvw">Ms Charmaine Loke Mern Yi<br></td>
+		<td class="tg-lyvw">Ms Zaiton (HOD/Discipline)<br></td>
+		 <td class="tg-lyvw">Ms Isabelle Teo<br></td>
   </tr>
   <tr>
-   <td class="tg-lyvw">Ms Isabelle Teo<br></td>
+   <td class="tg-lyvw">Mrs Chua Wai Yi<br></td>
     
   </tr>
 </tbody>
