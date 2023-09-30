@@ -151,6 +151,11 @@ description: ""
 [4NT Prelim Exam Timetable](/files/Parents%20and%20Students/Parents/Letter%20to%20Parents%202023/4nt%20prelim%20exam%20timetable.pdf)
 ###  End-of-Year Exam Timetable 2023
 
+<!-- 
+[Exam Briefing Slides]
+(
+-->
+
 [S1E EOY 2023](/files/Parents%20and%20Students/Parents/Exam%20Timetables/s1e%20eoy%20updated%2013%20sep.pdf)
 
 [S1NA EOY 2023](/files/Parents%20and%20Students/Parents/Exam%20Timetables/s1na%20eoy%20updated%2013%20sep.pdf)
@@ -214,4 +219,3 @@ description: ""
 ### **Financial Assistance Scheme (FAS) Information**
 
 [MOE FAS Application Form](/files/Parents%20and%20Students/Parents/FAS%20Information/MOE%20FAS%20APPLICATION%20FORM.pdf)
-
