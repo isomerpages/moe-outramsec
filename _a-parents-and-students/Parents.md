@@ -151,10 +151,7 @@ description: ""
 [4NT Prelim Exam Timetable](/files/Parents%20and%20Students/Parents/Letter%20to%20Parents%202023/4nt%20prelim%20exam%20timetable.pdf)
 ###  End-of-Year Exam Timetable 2023
 
-<!-- 
-[Exam Briefing Slides]
-(
--->
+[Exam Briefing Slides 2023](/files/Parents%20and%20Students/Parents/Exam%20Timetables/exam_briefing_2023.pdf)
 
 [S1E EOY 2023](/files/Parents%20and%20Students/Parents/Exam%20Timetables/s1e%20eoy%20updated%2013%20sep.pdf)
 
