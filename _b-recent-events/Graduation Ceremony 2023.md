@@ -3,7 +3,7 @@ title: Graduation Ceremony 2023
 permalink: /b-recent-events/permalink/
 description: ""
 ---
-**Speech by Mr Keith Tan, Principal, during Graduation Ceremony 2023**
+#### **Speech by Mr Keith Tan, Principal, during Graduation Ceremony 2023**
 
 ![](/images/Media/Photo%20Gallery/Graduation%20day%202023/wzg_0053.jpg)
 
