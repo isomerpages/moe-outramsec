@@ -50,3 +50,7 @@ Principal
 ![](/images/Media/Photo%20Gallery/Graduation%20day%202023/slide4.JPG)
 
 ![](/images/Media/Photo%20Gallery/Graduation%20day%202023/wzg_0053.jpg)
+![](/images/Media/Photo%20Gallery/Graduation%20day%202023/wzg_0058.jpg)
+![](/images/Media/Photo%20Gallery/Graduation%20day%202023/wzg_0061.jpg)
+![](/images/Media/Photo%20Gallery/Graduation%20day%202023/wzg_0066.jpg)![](/images/Media/Photo%20Gallery/Graduation%20day%202023/wzg_0071.jpg)
+
