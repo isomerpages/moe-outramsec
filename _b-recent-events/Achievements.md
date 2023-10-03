@@ -3,7 +3,6 @@ title: Achievements
 permalink: /Achievements/Achievements/
 description: ""
 ---
-
 [Graduation Ceremony 2023](/b-recent-events/permalink/graduation2023/)<br>
 [Live on Festival 2023](/b-recent-events/liveonfestival2023/)<br>
 <a href="/b-recent-events/ssg/">Sustainable Singapore Gallery</a><br>
