@@ -3,12 +3,9 @@ title: Graduation Ceremony 2023
 permalink: /b-recent-events/permalink/
 description: ""
 ---
-
-
 **Speech by Mr Keith Tan, Principal, during Graduation Ceremony 2023**
 
 Good morning, my dear Outramians, teachers, and most importantly, the incredible graduating Class of 2023,
-
 Today, as we gather here to celebrate this monumental day, I'm reminded of the famous lines from Robert Frost's poem, "The Road Not Taken." Frost writes, "_Two roads diverged in a wood, and I—I took the one less traveled by, and that has made all the difference_." These words beautifully encapsulate the essence of this moment in your lives.
 
 Let us reflect on the choices you've made throughout your journey in secondary school. Each of you has faced moments where decisions had to be made — choices that have shaped your path, your character, and your future. Frost's poem reminds us that the choices we make, even the seemingly small ones, can have a profound impact on our lives. Embrace those choices, for they are the building blocks of your unique journey.
@@ -44,3 +41,10 @@ Mr Keith Tan
 Principal
 
 
+![](/images/Media/Photo%20Gallery/Graduation%20day%202023/slide1.JPG)
+
+![](/images/Media/Photo%20Gallery/Graduation%20day%202023/slide2.JPG)
+
+![](/images/Media/Photo%20Gallery/Graduation%20day%202023/slide3.JPG)
+
+![](/images/Media/Photo%20Gallery/Graduation%20day%202023/slide4.JPG)
