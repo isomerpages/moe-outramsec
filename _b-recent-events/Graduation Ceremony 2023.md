@@ -20,7 +20,7 @@ _Without that, if we cannot distinguish ourselves, if we are just pedestrian, we
 
 _Last but not least, why the word "contributor"? In the next leg of our nation's economic development, we cannot just have a narrow definition of success, where some people who have succeeded academically are seen as the beacon for everyone else. We need to appreciate the diversity of strengths required for our society to be much more resilient. We need to respect one another for their diverse talents. But more importantly, we want every Singaporean to know that in the next lap of our nation's development, everyone can contribute something. It is not just about those who have succeeded academically who can contribute. Every one of us, every student, regardless of our station in life, must have the confidence that they can contribute something, beyond finding meaning in their own personal achievements._
 
-_This is the essence of broadening the definition of success. It is not just about broadening the definition of success from academic to non-academic, personal achievements. It is broadening the definition of success, from personal achievements to collective contributions. If we can do that, we will have a much more heartwarming society, a much more cohesive society, a society where everyone feels respected and valued. That is what we need to strive towards._
+This is the essence of broadening the definition of success. It is not just about broadening the definition of success from academic to non-academic, personal achievements. It is broadening the definition of success, from personal achievements to collective contributions. If we can do that, we will have a much more heartwarming society, a much more cohesive society, a society where everyone feels respected and valued. That is what we need to strive towards._
 
 In Singapore, our Ministry of Education emphasises civic literacy and citizenship dispositions. Recall the four citizenship dispositions? They are Sense of Belonging, Sense of Hope, Sense of Reality and Will to Act. It's about more than just academic knowledge; it's about understanding your roles and responsibilities as active, informed citizens of our nation. You are not just graduating students; you are graduating citizens, and with that comes the duty to engage in your communities, contribute to the betterment of society, and uphold the values of integrity, empathy, and inclusivity.
 
@@ -36,9 +36,10 @@ Congratulations, graduates! The road ahead may be uncertain, but with your choic
 
 May your journey be filled with boundless opportunities and endless success. Congratulations once again!
 
-Mr Keith Tan
+**Mr Keith Tan**
 
-Principal
+**Principal**
+
 
 
 ![](/images/Media/Photo%20Gallery/Graduation%20day%202023/slide1.JPG)
@@ -53,4 +54,3 @@ Principal
 ![](/images/Media/Photo%20Gallery/Graduation%20day%202023/wzg_0058.jpg)
 ![](/images/Media/Photo%20Gallery/Graduation%20day%202023/wzg_0061.jpg)
 ![](/images/Media/Photo%20Gallery/Graduation%20day%202023/wzg_0066.jpg)![](/images/Media/Photo%20Gallery/Graduation%20day%202023/wzg_0071.jpg)
-
