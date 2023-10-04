@@ -504,8 +504,7 @@ description: ""
 </thead>
 <tbody>
   <tr>
-    <td class="tg-muqq">Mdm Karthigah </td>
-    <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Administration Manager </span></td>
+    
   </tr>
   <tr>
     <td class="tg-muqq">Mr SelvaRaja Rajoo</td>
@@ -520,7 +519,7 @@ description: ""
     <td class="tg-2w19">Administration Executive<span style="color:#222;background-color:#F2F9FF"> </span></td>
   </tr>
   <tr>
-    <td class="tg-muqq"><span style="color:#222;background-color:#F2F9FF"> </span> Mdm Samsiah  </td>
+    <td class="tg-muqq"><span style="color:#222;background-color:#F2F9FF"> </span> Mr Marcus </td>
     <td class="tg-2w19">Corporate Support Officer<span style="color:#222;background-color:#F2F9FF"> </span></td>
   </tr>
   
