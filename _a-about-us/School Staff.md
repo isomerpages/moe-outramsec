@@ -105,7 +105,6 @@ description: ""
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">HOD/ Business &amp; Enterprise </span></td>
 						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">cheong_wenxin_serene@schools.gov.sg</span></td>
   </tr>
-  
   <tr>
     <td class="tg-muqq">Mr Oliver Tan</td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Year Head (Upper Sec)</span></td>
@@ -355,14 +354,6 @@ description: ""
 		
 </tbody>
 </table>
-
-
-
-
-
-
-
-
 
 
 #### Year Heads
