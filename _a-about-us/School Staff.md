@@ -76,11 +76,6 @@ description: ""
 						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">ajmal_khan@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-muqq">Ms Low Gek Chew</td>
-    <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">HOD/ Science</span></td>
-						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">low_gek_chew@schools.gov.sg</span></td>
-  </tr>
-  <tr>
     <td class="tg-muqq">Mrs Faith Wong</td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">HOD/ Character &amp; Citizenship Education</span></td>
 						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">wong_ching_hun@schools.gov.sg</span></td>
@@ -110,11 +105,7 @@ description: ""
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">HOD/ Business &amp; Enterprise </span></td>
 						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">cheong_wenxin_serene@schools.gov.sg</span></td>
   </tr>
-  <tr>
-    <td class="tg-muqq">Mr P Elancheliyan</td>
-    <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">School Staff Developer</span></td>
-						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">p_elancheliyan@schools.gov.sg</span></td>
-  </tr>
+  
   <tr>
     <td class="tg-muqq">Mr Oliver Tan</td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Year Head (Upper Sec)</span></td>
@@ -209,8 +200,8 @@ description: ""
   <tr>
     <td class="tg-i38w">NA</td>
     <td class="tg-i38w">S12<span style="color:#222;background-color:#F2F9FF"> </span></td>
-    <td class="tg-da8v">Mr Gabriel Fu<br>Ms Diana Binte Othman<br> Mr Damien Ho (CAJT)<br> Ms Grace Ng</td>
-										 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">gabriel_fu_bojun@schools.gov.sg<br>diana_othman@schools.gov.sg<br> ho_siong_chang@schools.gov.sg<br>grace_ng_kah_yi@schools.gov.sg</span></td>
+    <td class="tg-da8v">Ms Diana Binte Othman<br> Mr Damien Ho (CAJT)<br> Ms Grace Ng</td>
+										 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">diana_othman@schools.gov.sg<br> ho_siong_chang@schools.gov.sg<br>grace_ng_kah_yi@schools.gov.sg</span></td>
   </tr>
   <tr>
     <td class="tg-i38w">Exp </td>
