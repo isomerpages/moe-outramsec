@@ -26,5 +26,5 @@ sections:
       id: infopic
       button: Click her for more info
       url: /announcements/news-and-announcements/cta/
-      image: /images/tchrdayvisit1.png
+      image: /images/poster - cta 2024.jpg
 ---
