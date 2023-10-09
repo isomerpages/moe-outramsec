@@ -25,7 +25,7 @@ sections:
       title: Caring Teacher Awards (CTA) 2024
       id: infopic
       button: Click her for more info
-      url: /announcements/caring-teacher-award-2023/cta2024/
+      url: /announcements/news-and-announcements/cta/
       image: /images/poster - cta 2024.jpg
       alt: Image alt text
 ---
