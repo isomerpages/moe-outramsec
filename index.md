@@ -21,4 +21,11 @@ sections:
           description: VIEW
           url: /links-for-teachers
       background: /images/Homepage/homebannerAnimated02.gif
+  - infopic:
+      title: Caring Teacher Awards (CTA) 2024
+      id: infopic
+      button: Click her for more info
+      url: /announcements/caring-teacher-award-2023/cta2024/
+      image: /images/poster - cta 2024.jpg
+      alt: Image alt text
 ---
