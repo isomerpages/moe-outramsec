@@ -215,4 +215,3 @@ description: ""
 
 ### **Financial Assistance Scheme (FAS) Information**
 
-[MOE FAS Application Form](/files/Parents%20and%20Students/Parents/FAS%20Information/MOE%20FAS%20APPLICATION%20FORM.pdf)
