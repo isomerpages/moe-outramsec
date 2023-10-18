@@ -215,3 +215,12 @@ description: ""
 
 ### **Financial Assistance Scheme (FAS) Information**
 
+[MOE FAS Application Form 2024](/files/Parents%20and%20Students/Parents/FAS%20Information/moe%20fas%20application%20form%202024.pdf)
+
+[MOE FAS Phamphet (English)](/files/Parents%20and%20Students/Parents/FAS%20Information/moe%20fas%20pamphet%20el.pdf)
+
+[MOE FAS Phamphet (Chinese)](/files/Parents%20and%20Students/Parents/FAS%20Information/moe%20fas%20pamphet%20cl.pdf)
+
+[MOE FAS Phamphet (Malay)](/files/Parents%20and%20Students/Parents/FAS%20Information/moe%20fas%20pamphet%20ml.pdf)
+
+[MOE FAS Phamphet (Tamil)](/files/Parents%20and%20Students/Parents/FAS%20Information/moe%20fas%20pamphet%20tl.pdf)
