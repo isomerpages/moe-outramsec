@@ -28,4 +28,12 @@ sections:
       url: /announcements/news-and-announcements/cta/
       image: /images/poster - ct.jpg
       alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/outram sec open house.png
+      alt: Image alt text
 ---
