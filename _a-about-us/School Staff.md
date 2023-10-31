@@ -126,11 +126,6 @@ description: ""
 						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">dawa_tshering_sherpa@schools.gov.sg</span></td>
   </tr>
   <tr>
-    <td class="tg-muqq">Mr Ong Kok Heng</td>
-    <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Subject Head/ Craft &amp; Technology</span></td>
-						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">ong_kok_heng@schools.gov.sg</span></td>
-  </tr>
-  <tr>
     <td class="tg-muqq">Ms Yong Li Zhuang Jolin</td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">Subject Head / Mathematics</span></td>
 						 <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">jolin_yong@schools.gov.sg</span></td>
