@@ -29,11 +29,12 @@ sections:
       image: /images/poster - ct.jpg
       alt: Image alt text
   - infopic:
-      title: Infopic
-      subtitle: Add an image and text
+      title: " Join us in school for OSS Open House 2023 "
       id: infopic
-      description: Infopic description
-      button: Button Text
-      image: /images/outram sec open house.png
+      description: |
+        18 November, Saturday 8:30am - 12:30pm
+      button: Click on the link to register for the Open House
+      image: /images/outram sec open house 1.png
       alt: Image alt text
+      url: https://go.gov.sg/ossopenhse2023
 ---
