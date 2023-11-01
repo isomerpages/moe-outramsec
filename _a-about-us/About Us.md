@@ -47,7 +47,7 @@ description: ""
 
 <figure>
 
-<a href="/about-us/School-Philosophy-Motto-and-Badge/" target="\_blank"> <img style="width:50%;height:50%" src="/images/About%20us/About%20us/school%20Badge.jpg">
+<a href="/about-us/School-Philosophy-Motto-and-Badge/" target="\_blank"> <img style="width:50%;height:50%" src="/images/About%20us/About%20us/school%20badge.jpg">
 
 </a>
 
