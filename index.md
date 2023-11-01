@@ -26,7 +26,7 @@ sections:
       id: infopic
       description: 18 Nov, Saturday 8:30am-12:30pm
       button: Click here for more info
-      image: /images/outram sec open house 1.png
+      image: /images/website 1.png
       alt: Image alt text
       url: /announcements/openhouse24
   - infopic:
