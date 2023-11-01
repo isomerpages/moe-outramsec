@@ -22,19 +22,13 @@ sections:
           url: /links-for-teachers
       background: /images/Homepage/homebannerAnimated02.gif
   - infopic:
-      title: Join us in school for OSS Open House 2023
+      title: OSS Open House 2023
       id: infopic
-      description: |+
-        Highlights: •Live sharing session by Principal and students @ 11a.m.
-        •	Publicity talk •Guided school tour
-        •	Interactive activities •Sports CCA showcase. 
-
-
-      button: Click on the link to register for the Open House
+      description: 18 Nov, Saturday 8:30am-12:30pm
+      button: Click here for more info
       image: /images/outram sec open house 1.png
       alt: Image alt text
       url: https://go.gov.sg/ossopenhse2023
-      subtitle: 18 Nov,Saturday 8:30am-12:30pm
   - infopic:
       title: Caring Teacher Awards (CTA) 2024
       id: infopic
