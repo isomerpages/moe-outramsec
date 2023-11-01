@@ -8,7 +8,9 @@ image: ""
 ---
 ![](/images/website%202.png)
 
-######   **Information**
+ 
+
+>  **Information**
 
 **Join us in school for OSS Open House 2023**  
 18 November, Saturday  
