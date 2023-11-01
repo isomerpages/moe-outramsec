@@ -28,7 +28,7 @@ sections:
       button: Click here for more info
       image: /images/outram sec open house 1.png
       alt: Image alt text
-      url: https://go.gov.sg/ossopenhse2023
+      url: /announcements/openhouse24
   - infopic:
       title: Caring Teacher Awards (CTA) 2024
       id: infopic
