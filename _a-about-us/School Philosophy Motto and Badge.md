@@ -14,7 +14,8 @@ The school aims to provide each student with a balanced education, developing hi
 
 To foster national pride and loyalty based on the acceptance and respect for a multicultural, multi-religious and multilingual society. In fulfilling the above, it is implicit that pupils be aware at all times of the need to work as a team, conscious of the fact that there is no alternative to hard work to ensure progress for self and nation.
 
-![](/images/About%20us/School%20Philosophy%20motto/M01.png)
+
+![](/images/m01new.jpg)
 
 **School Colours**
 

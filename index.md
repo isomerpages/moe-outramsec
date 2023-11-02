@@ -22,6 +22,14 @@ sections:
           url: /links-for-teachers
       background: /images/Homepage/homebannerAnimated02.gif
   - infopic:
+      title: OSS Open House 2023
+      id: infopic
+      description: 18 Nov, Saturday 8:30am-12:30pm
+      button: Click here for more info
+      image: /images/website 1.png
+      alt: Image alt text
+      url: /announcements/openhouse24
+  - infopic:
       title: Caring Teacher Awards (CTA) 2024
       id: infopic
       button: Click here for more info
