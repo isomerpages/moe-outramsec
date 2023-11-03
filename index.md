@@ -29,6 +29,11 @@ sections:
       image: /images/website 1.png
       alt: Image alt text
       url: /announcements/openhouse24
+  - infobar:
+      title: OSS Booklist 2024
+      id: infobar
+      button: Click here for more info
+      url: https://www.outramsec.moe.edu.sg/parents-and-students/Parents/
   - infopic:
       title: Caring Teacher Awards (CTA) 2024
       id: infopic
