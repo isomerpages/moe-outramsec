@@ -30,7 +30,7 @@ sections:
       alt: Image alt text
       url: /announcements/openhouse24
   - infobar:
-      title: Booklist 2024
+      title: OSS Booklist 2024
       id: infobar
       button: Click here to downlaod
       url: /files/2024%20booklist.pdf
