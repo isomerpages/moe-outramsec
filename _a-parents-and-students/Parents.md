@@ -2,6 +2,7 @@
 title: Parents
 permalink: /parents-and-students/Parents/
 description: ""
+variant: markdown
 ---
 ### **Links**
 
@@ -29,7 +30,7 @@ description: ""
 
     <div>
 
-<p> [Booklist 2023(/files/Parents%20and%20Students/Students/Booklists/Booklist%202023.pdf)
+<p> [Booklist 2024](/files/2024%20booklist.pdf)
 			</p>
 
     </div>
@@ -139,7 +140,8 @@ description: ""
 
 ### **Booklist**
 
-[Booklist 2023](/files/Parents%20and%20Students/Students/Booklists/Booklist%202023.pdf)
+[Booklist 2024](/files/2024%20booklist.pdf)
+
 
 ###  Prelim Exam Timetable 2023
 [3NT Prelim Exam Timetable](/files/Parents%20and%20Students/Parents/Letter%20to%20Parents%202023/3nt%20prelim%20exam%20timetable.pdf)
