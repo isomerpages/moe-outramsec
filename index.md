@@ -32,7 +32,7 @@ sections:
   - infobar:
       title: OSS Booklist 2024
       id: infobar
-      button: Click here to downlaod
+      button: Click here for more info
       url: https://www.outramsec.moe.edu.sg/parents-and-students/Parents/
   - infopic:
       title: Caring Teacher Awards (CTA) 2024
