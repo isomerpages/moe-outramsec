@@ -29,6 +29,11 @@ sections:
       image: /images/website 1.png
       alt: Image alt text
       url: /announcements/openhouse24
+  - infobar:
+      title: Booklist 2024
+      id: infobar
+      button: Click here to downlaod
+      url: /files/2024%20booklist.pdf
   - infopic:
       title: Caring Teacher Awards (CTA) 2024
       id: infopic
@@ -36,10 +41,4 @@ sections:
       url: /announcements/news-and-announcements/cta/
       image: /images/poster - ct.jpg
       alt: Image alt text
-  - infobar:
-      title: Infobar
-      subtitle: Add informational text
-      id: infobar
-      description: Infobar description
-      button: Button Text
 ---
