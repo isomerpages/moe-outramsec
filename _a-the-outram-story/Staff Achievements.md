@@ -2,6 +2,7 @@
 title: Staff Achievements
 permalink: /the-outram-story/Staff-Achievements/
 description: ""
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -17,7 +18,43 @@ description: ""
     <th class="tg-baqh"><span style="color:#323232">2023</span></th>
   </tr>
 </thead>
-<tbody>
+	<tbody>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:600;color:#484848">MOE Service Excellence Award (MSEA) 2023 Gold</span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Ms Lim Yean Yue Gladys</td>
+  </tr>
+</tbody>
+	<tbody>
+	</tbody><tbody>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:600;color:#484848">MOE Service Excellence Award (MSEA) 2023 Silver</span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Ms Chua YiPing<br>Ms Ismath Banu<br>Mr Azaac Tan</td>
+  </tr>
+</tbody>
+	<tbody>
+	</tbody><tbody>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:600;color:#484848">Associate of AST Award Recipients 2023<br> Executive &amp; Administrative Staff and Allied Educators</span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Innovator - Ms Li Jiayi</td>
+  </tr>
+</tbody>
+	<tbody>
+	</tbody><tbody>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:600;color:#484848">MOE Innergy Winning Projects - Commendation Award</span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Mrs Cheryl Fan<br> Mrs Wong Ann Ann<br> Ms Charmaine Loke<br> Mr Mohan</td>
+  </tr>
+</tbody>
+	<tbody>
+</tbody><tbody>
   <tr>
     <td class="tg-baqh"><span style="font-weight:600;color:#484848">British Council Social Action Award</span></td>
   </tr>
