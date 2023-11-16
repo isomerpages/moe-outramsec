@@ -2,6 +2,7 @@
 title: School Staff
 permalink: /about-us/School-Staff/
 description: ""
+variant: markdown
 ---
 #### School Leaders
 
@@ -472,7 +473,9 @@ description: ""
 .tg .tg-aaqb{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:middle}
 .tg .tg-h9r6{background-color:#1F8CE4;color:#F2F9FF;text-align:left;vertical-align:middle}
 </style>
-<table class="tg">
+
+	tr&gt;
+    <table class="tg">
 <thead>
   <tr>
     <th class="tg-h9r6"><span style="color:#F2F9FF;background-color:#1F8CE4">Name</span></th>
@@ -538,6 +541,8 @@ description: ""
   <tr>
     <td class="tg-muqq"><span style="color:#222;background-color:#F2F9FF"> </span>Mr Ong Wee Teck</td>
     <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF"> OSO</span></td>
+  </tr><tr><td class="tg-muqq"><span style="color:#222;background-color:#F2F9FF"> </span>Ms Vanitha </td>
+    <td class="tg-aaqb"><span style="color:#222;background-color:#F2F9FF">OSO</span></td>
   </tr>
 </tbody>
 </table>
