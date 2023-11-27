@@ -21,16 +21,6 @@ sections:
           description: VIEW
           url: /links-for-teachers
       background: /images/Homepage/homebannerAnimated02.gif
-  - infopic:
-      title: "#discoverOSS"
-      id: infopic
-      description: |+
-        From 23 Nov to 27 Nov 2023
-
-
-
-      image: /images/Screenshot_2023_11_23_103557.png
-      alt: Image alt text
   - infobar:
       title: OSS Booklist 2024
       id: infobar
