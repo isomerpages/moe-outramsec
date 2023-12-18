@@ -22,6 +22,11 @@ sections:
           url: /links-for-teachers
       background: /images/Homepage/homebannerAnimated02.gif
   - infobar:
+      title: 2023 GCE N(A)- and N(T)- Levels Administration Instruction
+      id: infobar
+      button: Click her for more info
+      url: /files/2023_N_Level_Results_Admin_Briefg_website_updated_1_30pm.pdf
+  - infobar:
       title: OSS Booklist 2024
       id: infobar
       button: Click here for more info
