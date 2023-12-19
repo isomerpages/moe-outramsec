@@ -21,6 +21,13 @@ sections:
           description: VIEW
           url: /links-for-teachers
       background: /images/Homepage/homebannerAnimated02.gif
+  - infopic:
+      title: Sec 1 Registration for OSS
+      id: infopic
+      button: Click here for more info
+      url: https://sites.google.com/view/osseopenhouse?usp=sharing
+      image: /images/WhatsApp_Image_2023_12_19_at_3_03_49_PM.jpeg
+      alt: Image alt text
   - infobar:
       title: 2023 GCE N(A)- and N(T)- Levels Administrative Information
       id: infobar
