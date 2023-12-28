@@ -2,11 +2,12 @@
 title: Vision Mission Purpose and Values
 permalink: /about-us/Vision-Mission-Purpose-and-Values/
 description: ""
+variant: markdown
 ---
 ### Vision
 
 
-**Lifelong Learners . Innovative Leaders . Caring Contributors**
+**Learners for Life . Leaders of Integrity . Contributors with Compassion**
 
   
 
