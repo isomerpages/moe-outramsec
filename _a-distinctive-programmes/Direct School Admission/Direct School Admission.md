@@ -3,6 +3,7 @@ title: Direct School Admission
 permalink: /distinctive-programmes/Direct-School-Admission/Direct-School-Admission/
 description: ""
 third_nav_title: Direct School Admission
+variant: markdown
 ---
 ![](/images/School%20Programmes/Distinctive%20Programmes/DSA/DSA01.png)
 
