@@ -7,7 +7,7 @@ variant: markdown
 ### Vision
 
 
-**Learners for Life . Leaders of Integrity . Contributors with Compassion**
+**Learners for Life. Leaders of Integrity. Contributors with Compassion**
 
   
 
