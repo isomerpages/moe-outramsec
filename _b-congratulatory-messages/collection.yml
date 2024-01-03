@@ -1,0 +1,4 @@
+collections:
+  b-congratulatory-messages:
+    output: true
+    order: []

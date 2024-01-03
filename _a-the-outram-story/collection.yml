@@ -1,0 +1,8 @@
+collections:
+  a-the-outram-story:
+    output: true
+    order:
+      - The Outram Story.md
+      - School Stories.md
+      - Student Achievements.md
+      - Staff Achievements.md

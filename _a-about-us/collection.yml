@@ -1,0 +1,21 @@
+collections:
+  a-about-us:
+    output: true
+    order:
+      - About Us.md
+      - Principal's Message.md
+      - History.md
+      - Vision Mission Purpose and Values.md
+      - School Philosophy Motto and Badge.md
+      - School Song.md
+      - School Staff.md
+      - Outram Community Network/.keep
+      - Outram Community Network/About Outram Community Network.md
+      - Outram Community Network/Outram Alumni.md
+      - Outram Community Network/School Advisory Committee.md
+      - Outram Community Network/Parent Support Group.md
+      - Outram Community Network/Old Outramians Association.md
+      - Outram Community Network/Contact Us (Alumni).md
+      - School Calendar.md
+      - Outram Luminaries.md
+      - Contact Us.md

@@ -1,0 +1,7 @@
+collections:
+  a-parents-and-students:
+    output: true
+    order:
+      - Quick Links.md
+      - Parents.md
+      - Students.md

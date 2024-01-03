@@ -1,0 +1,67 @@
+logo: /images/old logo copy.jpg
+links:
+  - title: About us
+    url: /about-us/About-Us/
+    sublinks:
+      - title: Principal's Message
+        url: /about-us/Principals-Message/
+      - title: History
+        url: /about-us/History/
+      - title: Vision Mission Purpose Values
+        url: /about-us/Vision-Mission-Purpose-and-Values/
+      - title: Sch Philosophy, Motto, Badge
+        url: /about-us/School-Philosophy-Motto-and-Badge/
+      - title: School Song
+        url: /about-us/School-Song/
+      - title: School Staff
+        url: /about-us/School-Staff/
+      - title: School Calendar
+        url: /about-us/School-Calendar/
+      - title: Outram Community Network
+        url: /about-us/Outram-Community-Network/
+      - title: Outram Luminaries
+        url: /about-us/Outram-Luminaries/
+      - title: Contact Us
+        url: /about-us/Contact-us/
+  - title: The Outram Story
+    url: /the-outram-story/the-outram-story
+    sublinks:
+      - title: School Stories
+        url: /the-outram-story/School-Stories/
+      - title: Student Achievements
+        url: /the-outram-story/Students-Achievements/
+      - title: Staff Achievements
+        url: /the-outram-story/Staff-Achievements/
+  - title: School Programmes
+    url: /school-programmes/Instructional-Programmes/Instructional-Programmes/
+    sublinks:
+      - title: Instructional Programmes
+        url: /school-programmes/Instructional-Programmes/Instructional-Programmes/
+      - title: Sexuality Education
+        url: /school-programmes/Sexuality-Education/
+      - title: Blended Learning
+        url: /school-programmes/Blended-Learning/Blended-Learning/
+      - title: Student-Initiated Learning
+        url: /school-programmes/Student-Initiated-Learning/Student-Initiated-Learning/
+      - title: Co-Curricular Activities
+        url: /school-programmes/Co-Curricular-Activities/Sports/
+      - title: Overseas Trips
+        url: /school-programmes/Overseas-Trips/Overseas-Trips/
+  - title: Distinctive Programmes
+    url: /distinctive-programmes/Distinctive-Programmes/
+    sublinks:
+      - title: Applied Learning Programmes
+        url: /distinctive-programmes/Applied-Learning-Programme/
+      - title: Learning for Life Programmes
+        url: /distinctive-programmes/Learning-for-Life-Programme/Learning-for-Life-Programme/
+      - title: Direct School Admission
+        url: /distinctive-programmes/Direct-School-Admission/Direct-School-Admission/
+  - title: Parents and Students
+    url: /parents-and-students/Parents
+    sublinks:
+      - title: QuickLinks
+        url: /a-parents-and-students/permalink/
+      - title: Parents
+        url: /parents-and-students/Parents/
+      - title: Students
+        url: /parents-and-students/Students/
