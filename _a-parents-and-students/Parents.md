@@ -6,6 +6,8 @@ variant: markdown
 ---
 ### **Links**
 
+[Secondary 1 Orientation - Questions asked by Parents ](/files/Parents%20and%20Students/Parents/2024_Questions_asked_by_sec_1_parents_with_answers_from_the_school_Form_SG.pdf)
+
 
 [Parent Engagement Microsite ](https://sites.google.com/moe.edu.sg/parents-at-outram/home_1)
 
