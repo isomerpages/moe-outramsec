@@ -88,11 +88,13 @@ variant: markdown
 
 -->
 
+### **Leaps 2.0 Framework**
+[LEAPS 2.0 Framework](/files/Parents%20and%20Students/Parents/LEAPS_2_Framework.pdf)
 
 
 ### **Booklist**
 
-[LEAPS 2.0 Framework](/files/Parents%20and%20Students/Parents/LEAPS_2_Framework.pdf)
+
 
 [Booklist 2024](/files/2024%20booklist.pdf)
 

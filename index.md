@@ -21,13 +21,12 @@ sections:
           description: VIEW
           url: /links-for-teachers
       background: /images/Homepage/homebannerAnimated02.gif
-  - infopic:
-      title: Sec 1 Registration for OSS
-      id: infopic
-      button: Click here for more info
-      url: https://sites.google.com/view/osseopenhouse?usp=sharing
-      image: /images/WhatsApp_Image_2023_12_19_at_3_03_49_PM.jpeg
-      alt: Image alt text
+  - infobar:
+      title: Secondary 1 Orientation
+      id: infobar
+      description: Questions asked by Parents
+      button: Click her for more info
+      url: /files/Parents%20and%20Students/Parents/2024_Questions_asked_by_sec_1_parents_with_answers_from_the_school_Form_SG.pdf
   - infopic:
       title: Caring Teacher Awards (CTA) 2024
       id: infopic
