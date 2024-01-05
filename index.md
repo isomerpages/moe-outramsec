@@ -22,9 +22,9 @@ sections:
           url: /links-for-teachers
       background: /images/Homepage/homebannerAnimated02.gif
   - infobar:
-      title: " Secondary 1 Orientation "
+      title: Secondary 1 Orientation
       id: infobar
-      description: "Questions asked by Parents "
+      description: Questions asked by Parents
       button: Click her for more info
       url: /files/Parents%20and%20Students/Parents/2024_Questions_asked_by_sec_1_parents_with_answers_from_the_school_Form_SG.pdf
   - infopic:
