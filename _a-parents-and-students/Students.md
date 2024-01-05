@@ -92,10 +92,15 @@ variant: markdown
 
 ### **Booklist**
 
+[LEAPS 2.0 Framework](/files/Parents%20and%20Students/Parents/LEAPS_2_Framework.pdf)
+
 [Booklist 2024](/files/2024%20booklist.pdf)
+
 
 ### **Exam Timetable 2023**
 [S3NT &amp; S4 Prelim Exam Timetable](/files/Parents%20and%20Students/Parents/Exam%20Timetables/s3nt%20&amp;%20s4%20prelim%20exam%20timetable.pdf)
+
+
 
 ### **Student Handbook**
 
