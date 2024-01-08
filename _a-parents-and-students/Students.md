@@ -6,6 +6,8 @@ variant: markdown
 ---
 ### **Links**
 
+[Outram Newsletter 2024](/files/Parents%20and%20Students/Parents/Outram_Newsletter_2024___lite.pdf)
+
 [Student e-Connect Microsite](https://sites.google.com/moe.edu.sg/students-at-outram/new-year-book)
 
 [Self-Password Reset Guide For MIMS](/files/Parents%20and%20Students/Students/poster%20for%20mims.pdf)
