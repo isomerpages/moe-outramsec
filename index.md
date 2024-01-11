@@ -22,6 +22,11 @@ sections:
           url: /links-for-teachers
       background: /images/Homepage/homebannerAnimated02.gif
   - infobar:
+      title: Joint Admission Exercise (JAE) Administrative Information
+      id: infobar
+      button: Cllick her for more info
+      url: /files/Parents%20and%20Students/Parents/Website_2023_O_Level_Admin_for_students.pdf
+  - infobar:
       title: Secondary 1 Orientation
       id: infobar
       description: Questions asked by Parents
