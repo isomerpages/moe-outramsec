@@ -49,10 +49,7 @@ variant: markdown
     <td class="tg-lyvw">Mdm Casey Lee</td>
     <td class="tg-lyvw">Retail Operations &amp; Principles of Account</td>
   </tr>
-  <tr>
-    <td class="tg-lyvw">Ms Woo See Wei<br><br> <br><br>Ms Lee Suet Chow</td>
-    <td class="tg-lyvw">Retail Operations &amp; Business Studies<br><br> <br><br>Business Studies</td>
-  </tr>
+  
 </tbody>
 </table> </p>
 
