@@ -28,7 +28,7 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-lyvw">Ms Serene Cheong<br><br>(Head of Department)</th>
+    <th class="tg-lyvw">Ms Serene Cheong<br><br>[Head of Department]</th>
     <th class="tg-lyvw">Business Studies, Retail Operations &amp; POA</th>
   </tr>
 </thead>
