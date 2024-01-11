@@ -140,154 +140,23 @@ RO is offered to Upper Secondary Normal (Technical) students.<br><br>
 
 <b>Syllabus guide</b><br>
 
-<a href="files/School%20Programmes/Instructional%20Programmes/Business%20and%20Enterprise/Retail%20Operations%20(RO)/IT04_2017.pdf">http://www.seab.gov.sg/content/syllabus/nlevel/2017Syllabus/IT04_2017.pdf</a><br><br>				
-
-
-  
+<a href="files/School%20Programmes/Instructional%20Programmes/Business%20and%20Enterprise/Retail%20Operations%20(RO)/IT04_2017.pdf">http://www.seab.gov.sg/content/syllabus/nlevel/2017Syllabus/IT04_2017.pdf</a><br>			
 
 For more information, please email:
 <a href="cheong_wenxin_serene@moe.edu.sg">cheong_wenxin_serene@moe.edu.sg</a>				
  </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
-</li>
+
+</div></li>
 	
-<li>
+
 		
-   <input type="checkbox" id="accordion5">
-
-&nbsp;&nbsp; <label for="accordion5">Programmes in 2023</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-<p> <b>January</b><br><br>
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Business lesson for Lower Secondary<br>
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Finance Leaders programme for Secondary 2 and 3<br>
-
+   
+		
   
 
-<b>February</b><br><br>
 
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Business lesson for Lower Secondary<br>
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Finance Leaders programme for Secondary 2 and 3<br>
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bazaar for Business students<br>
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Secondary 3 Entrepreneurship programme<br>
-	
-	·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project Moolah Fin Lit Programme<br>
-	
-
-<b>March</b><br><br>
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Business lesson for Lower Secondary<br>
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Secondary 3 Entrepreneurship programme<br>
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ApLM for Upper Secondary [NA / Exp] students<br>
-
-<b>April</b><br><br>
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Business lesson for Lower Secondary (Project Work)<br>
-	
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;L Cube game for Secondary 1 students<br>
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project Moolah Fin Lit Programme<br>
-	
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spirit of Enterprise (SOE) workshop for Secondary 2 Entrepreneurship programme<br>
-	
-<b>May</b><br><br>
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Business lesson for Lower Secondary<br>
-	
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Business day for all students<br>
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spirit of Enterprise (SOE) workshop for Secondary 2 Entrepreneurship programme
-	
-
-<b>June</b><br><br>
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LCCI External Certification (For selected group of POA students)<br>
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project Moolah Fin Lit programme<br>
-
-	
-<b>July – September</b><br><br>
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Entrepreneurship first step module organized by Ngee Ann Polytechnic<br>
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Project Moolah Fin Lit programme<br>
-	
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sec 2 Entrepreneurship programme (selected students)
-
-<b>October - November</b><br><br>
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fin Lit Outreach and Publicity Talks to Primary Schools<br>
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sec 2 Entrepreneurship programme (selected students)
-
-·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;National Financial Literacy Competition organized by OSS<br>
-			
-</p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
-	
-<li>
-		
-   <input type="checkbox" id="accordion6">
-
-&nbsp;   <label for="accordion6">Achievements</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-2w19{background-color:#F2F9FF;color:#222;text-align:left;vertical-align:top}
-.tg .tg-ocgt{background-color:#1F8CE4;color:#F2F9FF;font-weight:bold;text-align:center;vertical-align:middle}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-muqq{background-color:#F2F9FF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-2w19"></th>
-    <th class="tg-0lax"></th>
-    <th class="tg-0lax"></th>
-    <th class="tg-0lax"></th>
-    <th class="tg-0lax"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">2017</span></td>
-    <td class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">2018</span></td>
-    <td class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">2019</span></td>
-    <td class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">2020</span></td>
-    <td class="tg-ocgt"><span style="color:#F2F9FF;background-color:#1F8CE4">2021</span></td>
-  </tr>
-  <tr>
-    <td class="tg-muqq">Youth Innovation Challenge (<a href="https://iie.smu.edu.sg/YIC2017_winners"><span style="font-weight:600;text-decoration:none;color:#D70500">link</span></a>)<br><br>Best Innovation Award (Business) - Team Zelter<br><br>Best Social Impactr Award - Team Soltrax<br><br>Champion Team - Team Zelter<br><br><br>Financial Literacy Competition (Voice Catergory) <br><br>First Runner-up<br><br></td>
-    <td class="tg-muqq">Biz Wellness Competition (Jan)<br><br>Finalist<br><br>Biz Wellness Competition (Jul)<br><br>Champion<br><br>Youth Innovation Challenge <br><br>Semi-Finalist<br><br>Outram Secondary School Partnership Award with Centre of Financial Literacy<br><br></td>
-    <td class="tg-muqq">Financial Literacy Competition (Lcube) organised by NTU<br><br>Finalists<br><br>Student Entrepreneurship Challenge organised by Mount Faber Safra<br><br>Champion Team<br><br>Design for Change Challenge<br>Finalist<br><br><br><br></td>
-    <td class="tg-muqq">Design for Change Challenge<br><br>Finalist<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br></td>
-    <td class="tg-muqq">FLY challenge organised by Republic Polytechnic               <br><br>Most Financial Savvy Award<br><br>Design for Change Challenge<br><br>  <br>Finalist<br><br><br><br><br><br><br><br><br><br></td>
-  </tr>
-</tbody>
-</table> </p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
 		
 	
 
