@@ -3,20 +3,21 @@ title: Humanities
 permalink: /school-programmes/Instructional-Programmes/Humanities/
 description: ""
 third_nav_title: Instructional Programmes
+variant: markdown
 ---
 <iframe allowfullscreen="true" height="400" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vROSWzqRbHXa3BuED4nVGrgj73q8zvxCkKnn7sIOmoOYbj550SCfFOW4rzJJEhKJAIDZNoTr8CIZHj-/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 <ul class="jekyllcodex_accordion">
 
-  <li>
+&nbsp;&nbsp;<li>
 
-    <input type="checkbox" id="accordion1">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Members</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Members</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-      <p> <style type="text/css">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -26,46 +27,65 @@ third_nav_title: Instructional Programmes
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
-<thead>
-  <tr>
-    <th class="tg-lyvw">Ms Tan Boon Hwee (HOD/Humanities)</th>
-    <th class="tg-lyvw">Ms Lim Yean Yue Gladys</th>
+
+  <tbody><tr>
+		<td class="tg-lyvw">
+  Ms Tan Boon Hwee (HOD/Humanities)
+		</td>
+				<td class="tg-lyvw">
+  Ms Zaiton (HOD/Student Management)
+		</td>
   </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-lyvw">Ms Zaiton Bte Mohd Punither Basa (HOD/Discipline)</td>
-    <td class="tg-lyvw">Mrs Chua Wai Yi</td>
+	  <tr>
+		<td class="tg-lyvw">
+Mr Dawa T. Sherpa (HOD/Educational Support)
+		</td>
+					<td class="tg-lyvw">
+Mr Irwan Haermin Tomin (HOD/Special Projects)
+		</td>
   </tr>
-  <tr>
-    <td class="tg-lyvw">Mr Dawa Tshering Sherpa (HOD/SEN)<br></td>
-    <td class="tg-lyvw">Mr Bernard Roy<br></td>
+	  <tr>
+		<td class="tg-lyvw">
+Ms Aqilah Bte Jumain (SH/Student Leadership &amp; Well-Being)
+		</td>
+					<td class="tg-lyvw">
+ Mr Samuel Ng Aik Siong (SH/Educational Support)
+		</td>
   </tr>
-  <tr>
-    <td class="tg-lyvw">Mr Prathivmohan<br></td>
-    <td class="tg-lyvw">Mr Gabriel Fu<br></td>
+	  <tr>
+		<td class="tg-lyvw">
+ Ms Shireen Shoba Stephen (ST/Educational Support)
+		</td>
+					<td class="tg-lyvw">
+Mr Abdul Rahman (ST/Social Studies)
+		</td>
   </tr>
-  <tr>
-    <td class="tg-lyvw">Mr Abdul Rahman Bin Abdul Rahim (ST/SS)</td>
-    <td class="tg-lyvw"></td>
+		  <tr>
+		<td class="tg-lyvw">
+Mr Prathivmohan
+		</td>
+					<td class="tg-lyvw">
+Ms Mok Peck Yim
+		</td>
   </tr>
-  <tr>
-    <td class="tg-lyvw">Mdm Wong Heng Yee (ST/ Geography)</td>
-    <td class="tg-0lax"></td>
-  </tr>
+			
+  
+	
+	
+
 </tbody>
 </table> </p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	<li>
 
-    <input type="checkbox" id="accordion2">
+&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
 
-    <label for="accordion2">Syllabus</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Syllabus</label>
 
-    <div>
+&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
 <p> <b>Combined Humanities O-Level</b><br><br>
 
@@ -245,7 +265,7 @@ Assessment:<br><br>
 	
 </p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;</div>
 
 </li>
 	
