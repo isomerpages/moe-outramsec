@@ -26,7 +26,7 @@ sections:
       id: infobar
       description: Questions asked by Parents
       button: Click her for more info
-      url: /files/Parents%20and%20Students/Parents/2024_Questions_asked_by_sec_1_parents_with_answers_from_the_school_Form_SG.pdf
+      url: https://www.outramsec.moe.edu.sg/parents-and-students/Parents/
   - infopic:
       title: Caring Teacher Awards (CTA) 2024
       id: infopic

@@ -7,7 +7,7 @@ variant: markdown
 ### **Links**
 
 
-[Secondary 1 Orientation - Questions asked by Parents ](/files/Parents%20and%20Students/Parents/2024_Questions_asked_by_sec_1_parents_with_answers_from_the_school_Form_SG.pdf)
+
 
 [Outram Newsletter 2024](/files/Parents%20and%20Students/Parents/Outram_Newsletter_2024___lite.pdf)
 
@@ -141,6 +141,27 @@ variant: markdown
 </ul>
 
 -->
+
+### **Sec 1 Orientation**
+[Secondary 1 Orientation - Questions asked by Parents ](/files/Parents%20and%20Students/Parents/2024_Questions_asked_by_sec_1_parents_with_answers_from_the_school_Form_SG.pdf)
+
+[Full SBB Q&amp;A  for Sec 1](/files/Parents%20and%20Students/Parents/1__Full_SBB_Q_A_Sec_1_Parent_orientation.pdf)
+
+[Principal's Address for Sec 1](/files/Parents%20and%20Students/Parents/2__Principal_s_Address_Sec_1_Parents_orientation.pdf)
+
+[HOD's Address for Sec 1](/files/Parents%20and%20Students/Parents/3__HOD_s_Address_Sec_1_Parent_orientation.pdf)
+
+[CCA Sec 1 Orientation](/files/Parents%20and%20Students/Parents/4__CCA_Sec_1_Parent_orientation.pdf)
+
+[The importance of CCA ](/files/Parents%20and%20Students/Parents/5__The_importance_of_CCA_ECG__for_Sec_1_parents_.pdf)
+
+[Personal Learning Device for Sec 1](/files/Parents%20and%20Students/Parents/6__Personal_Learning_Device__PLD___Sec_1_Parent_orientation.pdf)
+
+[Road Safety for Sec 1](/files/Parents%20and%20Students/Parents/7__Road_Safety_Sec_1_Parents_Orientation.pdf)
+
+[Student Management for Sec 1](/files/Parents%20and%20Students/Parents/8__Student_Management_Sec_1_Parent_orientation.pdf)
+
+[Parent Support Group for Sec 1](/files/Parents%20and%20Students/Parents/9__Parent_Support_Group__PSG__Sec_1_Parents__Talk.pdf)
 
 ### **Leaps 2.0 Framework**
 [LEAPS 2.0 Framework](/files/Parents%20and%20Students/Parents/LEAPS_2_Framework.pdf)
