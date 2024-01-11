@@ -26,7 +26,7 @@ sections:
       id: infobar
       description: Questions asked by Parents
       button: Click her for more info
-      url: https://cms.isomer.gov.sg/sites/moe-outramsec/folders/a-parents-and-students/editPage/Parents.md
+      url: https://www.outramsec.moe.edu.sg/parents-and-students/Parents/
   - infopic:
       title: Caring Teacher Awards (CTA) 2024
       id: infopic
