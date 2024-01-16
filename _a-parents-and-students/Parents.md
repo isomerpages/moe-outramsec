@@ -143,9 +143,9 @@ variant: markdown
 -->
 
 ### **Sec 1 Orientation**
-[Secondary 1 Orientation - Questions asked by Parents ](/files/Parents%20and%20Students/Parents/2024_Questions_asked_by_sec_1_parents_with_answers_from_the_school_Form_SG.pdf)
+[Full SBB sharing with Sec 1 parents ](/files/Full_SBB_sharing_with_Sec_1_parents__12_Jan_2024_.pdf)
 
-[Full SBB Q&amp;A  for Sec 1](/files/Parents%20and%20Students/Parents/1__Full_SBB_Q_A_Sec_1_Parent_orientation.pdf)
+[Secondary 1 Orientation - Questions asked by Parents ](/files/Parents%20and%20Students/Parents/2024_Questions_asked_by_sec_1_parents_with_answers_from_the_school_Form_SG.pdf)
 
 [Principal's Address for Sec 1](/files/Parents%20and%20Students/Parents/2__Principal_s_Address_Sec_1_Parents_orientation.pdf)
 
