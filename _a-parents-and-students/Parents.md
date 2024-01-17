@@ -220,7 +220,7 @@ variant: markdown
 
 [IP1-Letter to Parents for PDLP Procurement (For GGAS)](/files/IP1_Letter_to_Parents_for_PDLP_Procurement__For_GGAS_.pdf)
 
-[Personal Learning Device ](https://cms.isomer.gov.sg/files/Parents%20and%20Students/Parents/6__Personal_Learning_Device__PLD___Sec_1_Parent_orientation.pdf)
+[Personal Learning Device](/files/Parents%20and%20Students/Parents/6__Personal_Learning_Device__PLD___Sec_1_Parent_orientation.pdf)
 
 [IP2 - Parent Handbook ](/files/IP2___Parent_Handbook__I__2024_FINAL.pdf)
 
