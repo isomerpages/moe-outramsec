@@ -218,15 +218,13 @@ variant: markdown
 
 ### **Personalised Digital Learning Programme (PDLP)**
 
-[Purchase of PLD Letter to Parents](/files/Parents%20and%20Students/Parents/PDLP%202022/Purchase%20of%20PLD%20Letter%20to%20Parents.pdf)
+[IP1-Letter to Parents for PDLP Procurement (For GGAS)](/files/IP1_Letter_to_Parents_for_PDLP_Procurement__For_GGAS_.pdf)
 
-[Learning with PLD ](/files/Parents%20and%20Students/Parents/PDLP%202022/Learning%20with%20PLD%20Outram%20Secondary%20School.pdf)
+[Personal Learning Device](/files/Parents%20and%20Students/Parents/6__Personal_Learning_Device__PLD___Sec_1_Parent_orientation.pdf)
 
-[IP1 - Parent Handbook 1 on Learning](/files/Parents%20and%20Students/Parents/PDLP%202022/Parent%20Handbook%20I%20on%201_1%20Learning.pdf)
+[IP2 - Parent Handbook ](/files/IP2___Parent_Handbook__I__2024_FINAL.pdf)
 
-[IP2 - Parent Handbook I on Learning with a PLD](/files/Parents%20and%20Students/Parents/PDLP%202022/IP2%20-%20Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf)
-
-[IP3 - Parent Handbook II on Learning with a PLD](/files/Parents%20and%20Students/Parents/PDLP%202022/IP3%20-%20Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf)
+[IP3 - Parent Handbook](/files/IP3___Parent_Handbook__II__2024_FINAL.pdf)
 
 ### **Home-based Learning (HBL)**
 
