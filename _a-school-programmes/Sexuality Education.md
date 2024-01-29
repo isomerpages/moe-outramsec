@@ -4,14 +4,8 @@ permalink: /school-programmes/Sexuality-Education/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Moe Sexuality Education in Schools</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Info_on_SEd_for_schs_website__Secondary_Schools__updated_28_Jan_2024__with_signature__Page_02.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Info_on_SEd_for_schs_website__Secondary_Schools__updated_28_Jan_2024__with_signature__Page_03.jpg">
-</div>
+<h4><strong>Moe Sexuality Education in Schools</strong></h4><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Info_on_SEd_for_schs_website__Secondary_Schools__updated_28_Jan_2024__with_signature__Page_02.jpg"></a>
+<p></p><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Info_on_SEd_for_schs_website__Secondary_Schools__updated_28_Jan_2024__with_signature__Page_03.jpg"></a>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Info_on_SEd_for_schs_website__Secondary_Schools__updated_28_Jan_2024__with_signature__Page_04.jpg">
