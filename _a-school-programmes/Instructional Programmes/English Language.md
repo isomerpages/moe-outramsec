@@ -661,7 +661,7 @@ Parade.
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Instructional Programmes/English Language/vbvcbcv.jpg">
 </div>
-<p><strong>Live On Festival (Writing Competition) </strong>
+<p><strong>Live On Festival (Writing Competition)</strong>
 </p>
 <p><strong><u>2023</u></strong>
 </p>
