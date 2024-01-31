@@ -284,10 +284,16 @@ Parade.
 <p>Literature Drama Appreciation Learning Journey to Act 3 International</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Instructional Programmes/English Language/Screenshot_2024_01_31_113517.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Instructional Programmes/English Language/Screenshot_2024_01_31_113517.png">
 </div>
+<p><strong>Secondary 3 Literature</strong>
+</p>
+<p><strong>Jurong West Secondary School Literature Symposium</strong>
+</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Instructional Programmes/English Language/Screenshot_2024_01_31_151947.png">
+</div>
 <p>&nbsp;</p>
 <p><strong>Selling Dreams Exhibition at the National Library</strong> 
 <br>
@@ -308,16 +314,350 @@ Parade.
 <div class="isomer-image-wrapper">
 <img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/English%20Language/EP05.jpg">
 </div>
+<p></p>
 <p><strong>Competitions</strong> 
 <br>
 </p>
-<p>The Queen’s Commonwealth Essay Competition (Anglo-Chinese Junior College)
-<br>&nbsp;</p>
-<p>&nbsp;</p>
-<p>The Queen's Commonwealth Essay Competition is the world's oldest international
-writing competition for schools, established since 1883. For 2021, the
-Competition theme was Community in the Commonwealth, and the essay topics
-were centered round the Covid-19 pandemic.
+<p>ACJC Orator’s Trophy (2023)</p>
+<p><strong>Certificates of Participation</strong>
+</p>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Aisyah Binte Sazali from Sec 3/3, and</p>
+</li>
+<li>
+<p>Poh Keng Leng, Mark from Sec 2/4</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Instructional Programmes/English Language/dsfds.jpg">
+</div>
+</li>
+</ul>
+<p></p>
+<p><strong>Queen’s Commonwealth Essay Competition (2023)</strong>
+</p>
+<p><strong>Certificates of Participation</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Evangeline Huang Sec 2/4</p>
+</li>
+<li>
+<p>Chloe Sidney Hakim Sec 3/4</p>
+</li>
+<li>
+<p>Goh Ting Shuen, Vera Sec 3/4</p>
+</li>
+</ul>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YEO LER EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S1/3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate Of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ROHAN FATHIMA MARUWA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2/2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ISAAC HAMZAH BIN MUHAMMAD ISKANDAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2/2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIM JUNTAO JAVIER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2/2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate Of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN ZI CONG JOEL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2/2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate Of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AISYAH BINTE SAZALI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2/3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate Of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHUA JIA NING ABIGAIL (CAI JIANING)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2/3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate Of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHLOE SIDNEY HAKIM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2/4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HANAH ANG RUI-JUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2/4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate Of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OKABAYASHI WAKA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2/4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate Of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KOH CHEN LIN, SHERRY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3/2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate Of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SHERLYN ANG XIN YI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3/2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIM MING LE JERICHO JAVIER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3/2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HEIDI TEH ELIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3/3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate Of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>THAM XIU YI ELISSA SILVA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3/3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ALEXIS PANG LI WEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3/4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate Of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MA BIANCA MARIA CHOU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3/4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ALDEN ANG WEN YONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3/4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate Of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSTEN KOH JIN HENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3/4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate Of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN JING YI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4/3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NICHOLAS NGAN WEI HON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4/3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate Of Participation</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Instructional Programmes/English Language/vbvcbcv.jpg">
+</div>
+<p></p>
+<p><strong>The Queen’s Commonwealth Essay Competition (Anglo-Chinese Junior College) </strong>
+<br>&nbsp;The Queen's Commonwealth Essay Competition is the world's oldest
+international writing competition for schools, established since 1883.
+For 2021, the Competition theme was Community in the Commonwealth, and
+the essay topics were centered round the Covid-19 pandemic.
 <br>
 </p>
 <p>We are pleased to announce the following good results. Bravo, Outram writers!
