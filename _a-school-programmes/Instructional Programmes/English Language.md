@@ -15,12 +15,12 @@ the tools of our learners enough to add value to their academic results
 at the end of their term with us, we really hope to&nbsp;nurture young
 people&nbsp;who are confident, articulate and proficient users of the English&nbsp;Language.
 Find out about us!</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/English%20Language/EL20Pic.jpg">
-</div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Instructional Programmes/English Language/eng_23.png">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Instructional Programmes/English Language/eng_23.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/English%20Language/EL20Pic.jpg">
 </div>
 <h4></h4>
 <blockquote>
