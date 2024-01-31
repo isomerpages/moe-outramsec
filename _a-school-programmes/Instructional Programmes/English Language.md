@@ -33,7 +33,8 @@ Find out about us!</p>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Mrs Wong Ann Ann (LH/EL)</p>
+<p><strong>Mrs Wong Ann Ann (LH/EL)</strong>
+</p>
 </th>
 </tr>
 <tr>
@@ -89,7 +90,8 @@ Find out about us!</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;Programmes</p>
+<p><strong>&nbsp;Programmes</strong>
+</p>
 <p>We are a team of language lovers and enthusiasts raring for literature
 and language to make a difference in the lives of young men and women who
 pass through the gates of Outram Secondary School. While aiming to sharpen
@@ -119,15 +121,12 @@ through Broadcast Journalism in Secondary 2
 </p>
 </li>
 <li>
-<p>Representing Issues (Social concerns) through Debate in Secondary 3
-<br>
-<br>
-</p>
-<p><strong>Multiliteracies Programme</strong> 
-<br>
-</p>
+<p>Representing Issues (Social concerns) through Debate in Secondary 3</p>
 </li>
 </ul>
+<p><strong>Multiliteracies Programme </strong>
+<br>
+</p>
 <p>In today’s world where technology and media reaches its arms into every
 aspect of our daily lives, bimodal and multimodal texts (Chan &amp; Chia,
 2014) such as advertisements, posters, brochures, billboards, moving pictures,
@@ -153,27 +152,23 @@ through:
 in Secondary 3
 <br>
 </p>
-<p><strong>ARP@Outram (Applied Reading Programme)</strong> 
-<br>
-<br>
-</p>
 </li>
 </ul>
-<p>Since 2020, the department embarked on an integrated skills acquisition
+<p><strong>ARP@Outram (Applied Reading Programme)</strong> 
+<br>
+<br>Since 2020, the department embarked on an integrated skills acquisition
 program named the ARP@Outram. An applied reading program, this department-wide
 initiative aims to provide a platform for students to share their reading
 interests with their classmates who will respond to the stories they hear
 from their peers. Students also learn about pertinent general affairs and
 topics of relevance through monthly multimodal presentations. These activities
 throughout the year will activate interest in reading, writing and learning
-through multimodal media such as videos, images, texts and audio resources.
-<br>
-<br>
-</p>
-<ul>
+through multimodal media such as videos, images, texts and audio resources.</p>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Weekly Opening Read</strong> 
-<br>&nbsp;&nbsp;</p>
+<br>
+</p>
 </li>
 <li>
 <p><strong>Monthly News-in-Class Presentations</strong> 
@@ -244,34 +239,24 @@ through multimodal media such as videos, images, texts and audio resources.
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-<br>
-</p>
-<ul>
-<li>
 <p><strong>Creative Writing Activities</strong> 
 <br>&nbsp;</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
-<p>Guided Imagery
-<br>
-</p>
+<p>Guided Imagery</p>
 </li>
 <li>
 <p>Whose Story is it?
 <br>
 </p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/English%20Language/Pic201.jpg">
 </div>
-</li>
-</ul>
 <p><strong>Outram Ink Blog</strong> 
 <br>
-<br>
-</p>
-<p>Read our students’ published works on the students’ blog:&nbsp; <a href="https://cheryllimmingyuh.wixsite.com/outram-writes" rel="noopener noreferrer nofollow" target="_blank">Outram Ink</a> 
+<br>Read our students’ published works on the students’ blog:&nbsp; <a href="https://cheryllimmingyuh.wixsite.com/outram-writes" rel="noopener noreferrer nofollow" target="_blank">Outram Ink</a> 
 <br>
 <br>
 </p>
@@ -279,10 +264,7 @@ through multimodal media such as videos, images, texts and audio resources.
 <img style="width:100%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/English%20Language/E1NEW.png">
 </div>
 <p>
-<br>
-<br>
-</p>
-<p><strong>LitE Up!</strong> 
+<br><strong>LitE Up!</strong> 
 <br>
 </p>
 <p>The Literature and English teams join hands to organize an annual day
