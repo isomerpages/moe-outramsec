@@ -90,8 +90,10 @@ Find out about us!</p>
 </tr>
 </tbody>
 </table>
+<blockquote>
 <p><strong>&nbsp;Programmes</strong>
 </p>
+</blockquote>
 <p>We are a team of language lovers and enthusiasts raring for literature
 and language to make a difference in the lives of young men and women who
 pass through the gates of Outram Secondary School. While aiming to sharpen
@@ -99,9 +101,11 @@ the tools of our learners enough to add value to their academic results
 at the end of their term with us, we really hope to nurture young people
 who are confident, articulate and proficient users of the English&nbsp;Language.
 Find out about us!</p>
+<blockquote>
 <p><strong>Oral Skills Programme</strong> 
 <br>
 </p>
+</blockquote>
 <p>The department’s spirally progressive oral skills programme aims to build
 confidence in young speakers from Secondary 1 to 3 to represent themselves,
 represent others and represent issues in fun and collaborative ways:
@@ -124,9 +128,11 @@ through Broadcast Journalism in Secondary 2
 <p>Representing Issues (Social concerns) through Debate in Secondary 3</p>
 </li>
 </ul>
+<blockquote>
 <p><strong>Multiliteracies Programme </strong>
 <br>
 </p>
+</blockquote>
 <p>In today’s world where technology and media reaches its arms into every
 aspect of our daily lives, bimodal and multimodal texts (Chan &amp; Chia,
 2014) such as advertisements, posters, brochures, billboards, moving pictures,
@@ -154,9 +160,11 @@ in Secondary 3
 </p>
 </li>
 </ul>
+<blockquote>
 <p><strong>ARP@Outram (Applied Reading Programme)</strong> 
-<br>
-<br>Since 2020, the department embarked on an integrated skills acquisition
+</p>
+</blockquote>
+<p>Since 2020, the department embarked on an integrated skills acquisition
 program named the ARP@Outram. An applied reading program, this department-wide
 initiative aims to provide a platform for students to share their reading
 interests with their classmates who will respond to the stories they hear
@@ -276,20 +284,21 @@ Parade.
 <div class="isomer-image-wrapper">
 <img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/English%20Language/EP02.jpg">
 </div>
+<blockquote>
+<p></p>
 <p><strong>Enrichment and Learning Journeys </strong>
 <br>
 </p>
-<p>2023</p>
-<p>Secondary 1</p>
+</blockquote>
+<p>Secondary 1 (2023)</p>
+<p></p>
 <p>Literature Drama Appreciation Learning Journey to Act 3 International</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Instructional Programmes/English Language/Screenshot_2024_01_31_113517.png">
 </div>
-<p><strong>Secondary 3 Literature</strong>
-</p>
-<p><strong>Jurong West Secondary School Literature Symposium</strong>
-</p>
+<p>Secondary 3 Literature</p>
+<p>Jurong West Secondary School Literature Symposium</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Instructional Programmes/English Language/Screenshot_2024_01_31_151947.png">
@@ -315,10 +324,11 @@ Parade.
 <img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/English%20Language/EP05.jpg">
 </div>
 <p></p>
-<h4><strong>Competitions</strong> <br></h4>
 <blockquote>
-<p>ACJC Orator’s Trophy (2023)</p>
+<h4><strong>Competitions</strong> <br></h4>
 </blockquote>
+<p><strong>ACJC Orator’s Trophy (2023)</strong>
+</p>
 <p><strong>Certificates of Participation</strong>
 </p>
 <ul data-tight="true" class="tight">
