@@ -24,8 +24,10 @@ Find out about us!</p>
 </div>
 <h4>&nbsp; <strong>Members</strong></h4>
 <p></p>
+<blockquote>
 <p><strong>Programmes</strong>
 </p>
+</blockquote>
 <p>We are a team of language lovers and enthusiasts raring for literature
 and language to make a difference in the lives of young men and women who
 pass through the gates of Outram Secondary School. While aiming to sharpen
