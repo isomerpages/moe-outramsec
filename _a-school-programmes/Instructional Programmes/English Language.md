@@ -22,7 +22,75 @@ Find out about us!</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Instructional Programmes/English Language/eng_23.png">
 </div>
-<h4>&nbsp; <strong>Members</strong></h4>
+<h4></h4>
+<blockquote>
+<h4><strong>Members</strong></h4>
+</blockquote>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Cheryl Fan (HOD/EL)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Wong Ann Ann (LH/EL)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ismath Banu Yasseen (Acting SH/Lit)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Dawa Tshering Sherpa (HOD/Ed Support)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Zaiton (HOD/Student Management)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Abdul Rahman Bin Abdul Rahim (ST/SS)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Grace Ng Kah-Yi (ST/EL)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Shireen Shoban Stephen (ST/Ed Support)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Samuel Ng Aik Siong (SH/ Ed Support)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Aqilah Binte Juma’in (SH/Student Leadership &amp; Well-being)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Prathivmohan S/O Chandramohan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Diana Bte Othman</p>
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <blockquote>
 <p><strong>Programmes</strong>
