@@ -19,8 +19,10 @@ Find out about us!</p>
 <img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/English%20Language/EL20Pic.jpg">
 </div>
 <p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<h3>&nbsp;Members</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Instructional Programmes/English Language/eng_23.png">
+</div>
+<h4>&nbsp; <strong>Members</strong></h4>
 <p></p>
 <table>
 <tbody>
@@ -28,79 +30,60 @@ Find out about us!</p>
 <th rowspan="1" colspan="1">
 <p>Mrs Cheryl Fan (HOD/EL)</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Ms Lim Yean Yue Gladys
-<br>
-</p>
-</th>
 </tr>
 <tr>
 <th rowspan="1" colspan="1">
 <p>Mrs Wong Ann Ann (LH/EL)</p>
 </th>
-<td rowspan="1" colspan="1">
-<p>Ms Woo See Wei
-<br>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Ismath Banu Yasseen (Acting SH/Lit)</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Mr Prathivmohan S/O Chandramohan</p>
+<p>Mr Dawa Tshering Sherpa (HOD/SEN)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Zaiton (HOD/Ed Support)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Abdul Rahman Bin Abdul Rahim (ST/SS)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Grace Ng Kah-Yi (ST/EL)</p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Shireen Shoban Stephen (ST/Ed Support)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Samuel Ng Aik Siong (SH/ Ed Support)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Aqilah Binte Juma’in (SH/Student Leadership &amp; Well-being)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Prathivmohan S/O Chandramohan</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Diana Bte Othman</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Dawa Tshering Sherpa (HOD/SEN)
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Bernard Roy Sanjay Nair</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Abdul Rahman Bin Abdul Rahim (ST/SS)
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Charmaine Loke Mern Yi
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Zaiton (HOD/Discipline)
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Isabelle Teo
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Chua Wai Yi
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -124,7 +107,7 @@ Find out about us!
 <br>
 <br>
 </p>
-<p><strong>Oral Skills Programme</strong>
+<p><strong>Oral Skills Programme</strong> 
 <br>
 </p>
 <p>The department’s spirally progressive oral skills programme aims to build
@@ -150,7 +133,7 @@ through Broadcast Journalism in Secondary 2
 <br>
 <br>
 </p>
-<p><strong>Multiliteracies Programme</strong>
+<p><strong>Multiliteracies Programme</strong> 
 <br>
 </p>
 </li>
@@ -180,7 +163,7 @@ through:
 in Secondary 3
 <br>
 </p>
-<p><strong>ARP@Outram (Applied Reading Programme)</strong>
+<p><strong>ARP@Outram (Applied Reading Programme)</strong> 
 <br>
 <br>
 </p>
@@ -199,11 +182,11 @@ through multimodal media such as videos, images, texts and audio resources.
 </p>
 <ul>
 <li>
-<p><strong>Weekly Opening Read</strong>
+<p><strong>Weekly Opening Read</strong> 
 <br>&nbsp;&nbsp;</p>
 </li>
 <li>
-<p><strong>Monthly News-in-Class Presentations</strong>
+<p><strong>Monthly News-in-Class Presentations</strong> 
 <br>
 </p>
 </li>
@@ -243,7 +226,7 @@ through multimodal media such as videos, images, texts and audio resources.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>S1</strong>
+<p><strong>S1</strong> 
 <br>Food Innovation
 <br>Climate Change
 <br>Pop Culture
@@ -252,7 +235,7 @@ through multimodal media such as videos, images, texts and audio resources.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>S2</strong>
+<p><strong>S2</strong> 
 <br>Pop Culture - Kpop, Kdrama, Hallyu (Korean Wave)
 <br>IT - Digital Life, Online Footprint ,Gaming
 <br>Famous Sports Celebrities
@@ -261,7 +244,7 @@ through multimodal media such as videos, images, texts and audio resources.
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>S3</strong>
+<p><strong>S3</strong> 
 <br>Inspirational People
 <br>TT - IT/ Gaming
 <br>Career Guidance - Unique Occupations
@@ -277,7 +260,7 @@ through multimodal media such as videos, images, texts and audio resources.
 </p>
 <ul>
 <li>
-<p><strong>Creative Writing Activities</strong>
+<p><strong>Creative Writing Activities</strong> 
 <br>&nbsp;</p>
 </li>
 <li>
@@ -294,11 +277,11 @@ through multimodal media such as videos, images, texts and audio resources.
 </div>
 </li>
 </ul>
-<p><strong>Outram Ink Blog</strong>
+<p><strong>Outram Ink Blog</strong> 
 <br>
 <br>
 </p>
-<p>Read our students’ published works on the students’ blog:&nbsp; <a href="https://cheryllimmingyuh.wixsite.com/outram-writes" rel="noopener noreferrer nofollow" target="_blank">Outram Ink</a>
+<p>Read our students’ published works on the students’ blog:&nbsp; <a href="https://cheryllimmingyuh.wixsite.com/outram-writes" rel="noopener noreferrer nofollow" target="_blank">Outram Ink</a> 
 <br>
 <br>
 </p>
@@ -309,7 +292,7 @@ through multimodal media such as videos, images, texts and audio resources.
 <br>
 <br>
 </p>
-<p><strong>LitE Up!</strong>
+<p><strong>LitE Up!</strong> 
 <br>
 </p>
 <p>The Literature and English teams join hands to organize an annual day
@@ -321,30 +304,30 @@ Parade.
 <div class="isomer-image-wrapper">
 <img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/English%20Language/EP02.jpg">
 </div>
-<p><strong>Enrichment and Learning Journeys</strong>
+<p><strong>Enrichment and Learning Journeys</strong> 
 <br>
 </p>
 <p>&nbsp;</p>
-<p><strong>Selling Dreams Exhibition at the National Library</strong>
+<p><strong>Selling Dreams Exhibition at the National Library</strong> 
 <br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/English%20Language/EP03.jpg">
 </div>
 <p>
-<br><strong>Watch-a-Play! Drama Appreciation</strong>
+<br><strong>Watch-a-Play! Drama Appreciation</strong> 
 <br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/English%20Language/EP04.jpg">
 </div>
-<p><strong>Visit to the State Courts</strong>
+<p><strong>Visit to the State Courts</strong> 
 <br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/English%20Language/EP05.jpg">
 </div>
-<p><strong>Competitions</strong>
+<p><strong>Competitions</strong> 
 <br>
 </p>
 <p>The Queen’s Commonwealth Essay Competition (Anglo-Chinese Junior College)
@@ -518,7 +501,7 @@ were centered round the Covid-19 pandemic.
 </tbody>
 </table>
 <p>
-<br><strong>Orator’s Trophy (Anglo-Chinese Junior College)</strong>
+<br><strong>Orator’s Trophy (Anglo-Chinese Junior College)</strong> 
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -528,7 +511,7 @@ were centered round the Covid-19 pandemic.
 <img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/English%20Language/ES02.jpg">
 </div>
 <p>
-<br><strong>National Schools Literature Festival (NSLF)</strong>
+<br><strong>National Schools Literature Festival (NSLF)</strong> 
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -544,7 +527,7 @@ were centered round the Covid-19 pandemic.
 <img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/English%20Language/ES06.jpg">
 </div>
 <p>
-<br><strong>OSS Speakability Award</strong>
+<br><strong>OSS Speakability Award</strong> 
 <br>
 </p>
 <table>
@@ -566,8 +549,8 @@ were centered round the Covid-19 pandemic.
 </tbody>
 </table>
 <p>
-<br><strong>Write for Kindness Competition</strong>
-<br><strong>Poetry writing</strong>
+<br><strong>Write for Kindness Competition</strong> 
+<br><strong>Poetry writing</strong> 
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -577,7 +560,7 @@ were centered round the Covid-19 pandemic.
 <img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/English%20Language/The20Upstander20by20Sharvin20Sekar20and20Koh20Chen20Soon.jpg">
 </div>
 <p>
-<br><strong>'Kindness Makes Us Stronger' Sharvin Sekar (Sec 2/4), Koh Chen Soon (Sec2/4)</strong>
+<br><strong>'Kindness Makes Us Stronger' Sharvin Sekar (Sec 2/4), Koh Chen Soon (Sec2/4)</strong> 
 <br>
 </p>
 <table>
@@ -636,8 +619,8 @@ and songs</p>
 <img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/English%20Language/ES08.jpg">
 </div>
 <p>
-<br><a href="https://www.kindness.sg/news/congratulations-to-the-write-for-kindness-2020-winners/" rel="noopener noreferrer nofollow" target="_blank">https://www.kindness.sg/news/congratulations-to-the-write-for-kindness-2020-winners/</a>
-<br><strong>Poetry Writing 2019</strong>
+<br><a href="https://www.kindness.sg/news/congratulations-to-the-write-for-kindness-2020-winners/" rel="noopener noreferrer nofollow" target="_blank">https://www.kindness.sg/news/congratulations-to-the-write-for-kindness-2020-winners/</a> 
+<br><strong>Poetry Writing 2019</strong> 
 <br>‘A Helping Hand’ - 2nd&nbsp;place ‘A Friend in Need is a Friend Indeed’
 - Consolation Prize
 <br>
@@ -645,14 +628,14 @@ and songs</p>
 <div class="isomer-image-wrapper">
 <img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/English%20Language/ES09.jpg">
 </div>
-<p><strong>2018 Poetry Writing 2018</strong>
+<p><strong>2018 Poetry Writing 2018</strong> 
 <br>‘The power of Kindness’ – Champion ‘At the Playground’ – 3rd&nbsp;place
 <br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/English%20Language/ES10.jpg">
 </div>
-<p><strong>Story Writing</strong>
+<p><strong>Story Writing</strong> 
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -661,7 +644,7 @@ and songs</p>
 <p>Andrea Seng Jun Xin&nbsp;(Sec 2/3), Adriana Batrisyia Binte Steve Arifianto
 (Sec 2/5), Briones Cheyanna Carlyn Javier (Sec 2/5), Diana Hue (Sec 2/5),
 and Tan Swee Ling (Sec 2/5)
-<br><strong>Singapore Secondary Schools Debating Championships (SSSDC) 2019</strong>
+<br><strong>Singapore Secondary Schools Debating Championships (SSSDC) 2019</strong> 
 <br>
 </p>
 <p>In our first foray into SSSDC, the team won 2 out of 3 rounds in the preliminaries
@@ -678,7 +661,7 @@ and Justine Hari Muruga (Sec 4/5) won Best Speaker in Round 2.
 <img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/English%20Language/E7.jpg">
 </div>
 <p>
-<br><strong>Scrabble Competition 2019</strong>
+<br><strong>Scrabble Competition 2019</strong> 
 <br>
 </p>
 <p>A team of Secondary 4 students took an enjoyable Sunday afternoon out
@@ -689,7 +672,7 @@ for intense rounds of scrabble at Jurong Green CC.
 <img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/English%20Language/E8.jpg">
 </div>
 <p>
-<br><strong>Tales of ‘S’ (Civica) 2018</strong>
+<br><strong>Tales of ‘S’ (Civica) 2018</strong> 
 <br>
 </p>
 <p>Winning Entry from William Wang Silang (Sec 4/4).
@@ -701,14 +684,14 @@ for intense rounds of scrabble at Jurong Green CC.
 <p>
 <br>
 </p>
-<p><strong>ICAS Writing Competition (University of New South Wales)</strong>
+<p><strong>ICAS Writing Competition (University of New South Wales)</strong> 
 <br>
 </p>
 <p>30 students took part in 2018 and received certificates of Credit, Merit
 and Participation.
 <br>
 </p>
-<p><strong>Oldham Cup (ACJC) 2017</strong>
+<p><strong>Oldham Cup (ACJC) 2017</strong> 
 <br>
 </p>
 <p>The team comprising Zander Widjaja, Nguyen Hai Duong (Sec 4/4) and Shyanne&nbsp;
@@ -766,11 +749,11 @@ and Participation.
 <p>&nbsp;&nbsp;&nbsp;&nbsp;English Resources</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
-<p><strong>For Students</strong>
+<p><strong>For Students</strong> 
 <br>
 <br>
 </p>
-<p><strong>Video Resources</strong>
+<p><strong>Video Resources</strong> 
 <br>
 <br>
 </p>
@@ -786,7 +769,7 @@ and Participation.
 </p>
 </th>
 <th rowspan="1" colspan="1">
-<p><a href="https://www.youtube.com/watch?v=_VatAaGIVV8&amp;t=32s" rel="noopener noreferrer nofollow" target="_blank">How to Capture PAC in Reading Aloud O &amp; N Level English Oral</a>
+<p><a href="https://www.youtube.com/watch?v=_VatAaGIVV8&amp;t=32s" rel="noopener noreferrer nofollow" target="_blank">How to Capture PAC in Reading Aloud O &amp; N Level English Oral</a> 
 <br>
 <br><a href="https://www.youtube.com/watch?v=_VatAaGIVV8&amp;t=32s" rel="noopener noreferrer nofollow" target="_blank">Examination</a>
 </p>
@@ -921,14 +904,14 @@ and Participation.
 </table>
 <p>
 <br>
-<br><strong>Website Resources</strong>
+<br><strong>Website Resources</strong> 
 <br>
 <br>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/English%20Language/ER12.jpg">
 </div>
-<p><strong>Online Reading</strong>
+<p><strong>Online Reading</strong> 
 <br>
 <br>
 </p>
@@ -980,7 +963,7 @@ and Participation.
 <td rowspan="1" colspan="1">
 <p>
 <br>
-<br><strong><a href="https://www.languagecouncils.sg/goodenglish/resources" rel="noopener noreferrer nofollow" target="_blank">Speak Good English Movement (SGEM)</a></strong>
+<br><strong><a href="https://www.languagecouncils.sg/goodenglish/resources" rel="noopener noreferrer nofollow" target="_blank">Speak Good English Movement (SGEM)</a></strong> 
 <br>
 </p>
 </td>
@@ -1045,7 +1028,7 @@ full of resources for students and teachers alike</p>
 </table>
 <p>
 <br>
-<br><strong>Suggested Reads</strong>
+<br><strong>Suggested Reads</strong> 
 <br>
 <br><a href="/files/School%20Programmes/Instructional%20Programmes/English%20Language/South_S1_LR.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1</a> 
 <a href="/files/School%20Programmes/Instructional%20Programmes/English%20Language/South_S2_LR.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2</a> <a href="/files/School%20Programmes/Instructional%20Programmes/English%20Language/South_S3_LR.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3</a> 
