@@ -89,24 +89,14 @@ Find out about us!</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;&nbsp;</p>
-<ul>
-<li>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;Programmes</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
+<p>&nbsp;Programmes</p>
 <p>We are a team of language lovers and enthusiasts raring for literature
 and language to make a difference in the lives of young men and women who
 pass through the gates of Outram Secondary School. While aiming to sharpen
 the tools of our learners enough to add value to their academic results
 at the end of their term with us, we really hope to nurture young people
 who are confident, articulate and proficient users of the English&nbsp;Language.
-Find out about us!
-<br>
-<br>
-</p>
+Find out about us!</p>
 <p><strong>Oral Skills Programme</strong> 
 <br>
 </p>
@@ -305,8 +295,12 @@ Parade.
 <img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/English%20Language/EP02.jpg">
 </div>
 <p><strong>Enrichment and Learning Journeys</strong> 
-<br>
-</p>
+<br>2023</p>
+<p>Secondary 1</p>
+<p>Literature Drama Appreciation Learning Journey to Act 3 International</p>
+<p></p>
+<p></p>
+<p></p>
 <p>&nbsp;</p>
 <p><strong>Selling Dreams Exhibition at the National Library</strong> 
 <br>
@@ -701,7 +695,7 @@ and Participation.
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
-</li>
+<ul>
 <li>
 <p>&nbsp;&nbsp;</p>
 </li>
