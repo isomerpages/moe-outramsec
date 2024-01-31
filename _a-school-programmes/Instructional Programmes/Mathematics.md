@@ -3,104 +3,147 @@ title: Mathematics
 permalink: /school-programmes/Instructional-Programmes/Mathematics/
 description: ""
 third_nav_title: Instructional Programmes
+variant: tiptap
 ---
-<center><iframe allowfullscreen="true" height="400" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRyJY3yv6ON6QWsHKMKmGYEmr3SVXQf936lfaIeOAgiZsaASu1d3zUH0wLxM9WsgjUOeB2q0C-Bdhdh/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
-
-**Department Vision:**
-
-Every Outramian a Lifelong Learner, Innovative Leader and Caring Contributor.
-
-**Long-term Goal:**
-
-To develop students’ mathematical thinking and problem solving skills through 4 key domains.
-
-**4 Key Domains**
-
-1.      **Instructional Strategies:** Anchoring on the philosophy of Differentiated Instruction to employ a repertoire of strategies that focuses on Inquiry-Based Learning. The use of Concrete-Pictorial-Abstract approach helps students to visualise and understand mathematical concepts.
-
-2.      **Effective Assessment:** Conducting alternative assessments and differentiated assessment (assessment for learning, assessment of learning and assessment as learning) to examine and inform students’ level of understanding. The regular feedback from such assessments provides students with many opportunities to improve learning.
-
-3.      **Effective Use of ICT:** ICT-based activities are designed to help students visualise, explore and investigate mathematical ideas and relationships that would enhance the understanding of abstract mathematical concepts and eventually groom students to be digital literates.
-
-4.      **Character Development:** Teaching of 21st Century Competencies, Social Emotional Learning and values through daily lessons and enrichment activities.
-
-<ul class="jekyllcodex_accordion">
-
-  <li>
-
-    <input type="checkbox" id="accordion1">
-
-    <label for="accordion1">Members</label>
-
-    <div>
-
-      <p> <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lyvw{color:#111;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-lyvw">Mr Ajmal Khan (HOD/Mathematics)</th>
-    <th class="tg-lyvw">Mr Tan Hock Kwee Oliver (YH/Upper Secondary)</th>
-  </tr>
-</thead>
+<div class="iframe-wrapper">
+<iframe height="400" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRyJY3yv6ON6QWsHKMKmGYEmr3SVXQf936lfaIeOAgiZsaASu1d3zUH0wLxM9WsgjUOeB2q0C-Bdhdh/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
+<p><strong>Department Vision:</strong>
+</p>
+<p>Every Outramian a Lifelong Learner, Innovative Leader and Caring Contributor.</p>
+<p><strong>Long-term Goal:</strong>
+</p>
+<p>To develop students’ mathematical thinking and problem solving skills
+through 4 key domains.</p>
+<p><strong>4 Key Domains</strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Instructional Strategies:</strong>&nbsp;Anchoring
+on the philosophy of Differentiated Instruction to employ a repertoire
+of strategies that focuses on Inquiry-Based Learning. The use of Concrete-Pictorial-Abstract
+approach helps students to visualise and understand mathematical concepts.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Effective Assessment:</strong>&nbsp;Conducting
+alternative assessments and differentiated assessment (assessment for learning,
+assessment of learning and assessment as learning) to examine and inform
+students’ level of understanding. The regular feedback from such assessments
+provides students with many opportunities to improve learning.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Effective Use of ICT:</strong>&nbsp;ICT-based
+activities are designed to help students visualise, explore and investigate
+mathematical ideas and relationships that would enhance the understanding
+of abstract mathematical concepts and eventually groom students to be digital
+literates.</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Character Development:</strong>&nbsp;Teaching
+of 21st Century Competencies, Social Emotional Learning and values through
+daily lessons and enrichment activities.</p>
+<p>&nbsp;&nbsp;</p>
+<blockquote>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;Members</p>
+<p></p>
+</blockquote>
+<table>
 <tbody>
-  <tr>
-    <td class="tg-lyvw">Ms Yong Li Zhuang Jolin (SH/Mathematics)</td>
-    <td class="tg-lyvw">Mdm Lee Suet Har Casey</td>
-  </tr>
-  <tr>
-    <td class="tg-lyvw">Mr Lim Teck Ming</td>
-    <td class="tg-lyvw">Ms Ng Yu Yan Gloria<br></td>
-  </tr>
-  <tr>
-    <td class="tg-lyvw">Mr Lim Ting Long</td>
-    <td class="tg-lyvw">Ms Nurul Nadhirah <br></td>
-  </tr>
-  <tr>
-    <td class="tg-lyvw">Mdm Chua Yi Ping</td>
-    <td class="tg-lyvw"></td>
-  </tr>
-  <tr>
-    <td class="tg-lyvw">Mr Neo Sian Lee</td>
-    <td class="tg-0lax"></td>
-  </tr>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Ms Yong Li Zhuang Jolin (Covering HOD/Mathematics)</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ajmal Khan (HOD/21CC)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Hock Kwee Oliver (YH/Upper Secondary)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chua Yi Ping</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Lee Suet Har Casey</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Teck Ming</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Ting Long</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Neo Sian Lee</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Woo Kah Whye</p>
+</td>
+</tr>
 </tbody>
-</table> </p>
-
-    </div>
-
-</li>
-	<li>
-
-    <input type="checkbox" id="accordion2">
-
-    <label for="accordion2">Programme</label>
-
-    <div>
-
-<p> 
-<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Mathematics/MP01.jpg"><br><br>
-			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Mathematics/MP02.jpg"><br><br>
-			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Mathematics/MP03.jpg"><br><br>
-			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Mathematics/MP04.jpg"><br><br>
-			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Mathematics/MP05.jpg"><br><br>
-			<img style="width:70%;height:50%"
-src="/images/Instructional%20Programmes/Mathematics/MP06.jpg"><br><br>
-<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Mathematics/MP07.jpg"><br><br>
-			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Mathematics/MP08.jpg"></p>
-
-    </div>
-
-</li>
-	
-	
-
-	
-</ul>
+</table>
+<p></p>
+<p><strong>Programme</strong>
+</p>
+<p>&nbsp;&nbsp;&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/Mathematics/MP01.jpg">
+</div>
+<p>
+<br>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/Mathematics/MP02.jpg">
+</div>
+<p>
+<br>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/Mathematics/MP03.jpg">
+</div>
+<p>
+<br>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/Mathematics/MP04.jpg">
+</div>
+<p>
+<br>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/Mathematics/MP05.jpg">
+</div>
+<p>
+<br>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/Mathematics/MP06.jpg">
+</div>
+<p>
+<br>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/Mathematics/MP07.jpg">
+</div>
+<p>
+<br>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/Mathematics/MP08.jpg">
+</div>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p></p>
+<p></p>
