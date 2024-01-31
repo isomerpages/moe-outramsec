@@ -161,7 +161,7 @@ in Secondary 3
 </li>
 </ul>
 <blockquote>
-<p><strong>ARP@Outram (Applied Reading Programme)</strong> 
+<p><strong>ARP@Outram (Applied Reading Programme)</strong>
 </p>
 </blockquote>
 <p>Since 2020, the department embarked on an integrated skills acquisition
@@ -661,6 +661,20 @@ Parade.
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Instructional Programmes/English Language/vbvcbcv.jpg">
 </div>
+<p><strong>Live On Festival (Writing Competition) 2023</strong>
+</p>
+<p>The Live On Festival is annual competition that encourages participants,
+in particular youths, to express their thoughts on organ donation and transplantation
+through art and writing. It is organised by the National Organ Transplant
+Unit (NOTU), Ministry of Health (MOH).</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="dfdfds" src="/images/Instructional Programmes/English Language/dfdsf.jpg">
+</div>
+<p>Jaiaree Rattawit (Special Mention, Junior Category)</p>
+<p>Read online <a rel="noopener noreferrer nofollow" target="_blank">https://www.liveon.gov.sg/essay-showcase.html?Essayid=322</a>
+</p>
+<p></p>
 <p></p>
 <p><strong>The Queen’s Commonwealth Essay Competition (Anglo-Chinese Junior College) </strong>
 <br>&nbsp;The Queen's Commonwealth Essay Competition is the world's oldest
