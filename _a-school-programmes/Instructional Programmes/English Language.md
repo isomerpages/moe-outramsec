@@ -24,76 +24,8 @@ Find out about us!</p>
 </div>
 <h4>&nbsp; <strong>Members</strong></h4>
 <p></p>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Mrs Cheryl Fan (HOD/EL)</p>
-</th>
-</tr>
-<tr>
-<th rowspan="1" colspan="1">
-<p><strong>Mrs Wong Ann Ann (LH/EL)</strong>
+<p><strong>Programmes</strong>
 </p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ismath Banu Yasseen (Acting SH/Lit)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Dawa Tshering Sherpa (HOD/SEN)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Zaiton (HOD/Ed Support)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Abdul Rahman Bin Abdul Rahim (ST/SS)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Grace Ng Kah-Yi (ST/EL)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Shireen Shoban Stephen (ST/Ed Support)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Samuel Ng Aik Siong (SH/ Ed Support)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Aqilah Binte Juma’in (SH/Student Leadership &amp; Well-being)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Prathivmohan S/O Chandramohan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Diana Bte Othman</p>
-<p></p>
-</td>
-</tr>
-</tbody>
-</table>
-<blockquote>
-<p><strong>&nbsp;Programmes</strong>
-</p>
-</blockquote>
 <p>We are a team of language lovers and enthusiasts raring for literature
 and language to make a difference in the lives of young men and women who
 pass through the gates of Outram Secondary School. While aiming to sharpen
