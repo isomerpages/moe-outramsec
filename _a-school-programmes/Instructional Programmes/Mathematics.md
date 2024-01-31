@@ -153,16 +153,10 @@ competencies including reasoning, communication and modelling,</p>
 <p>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/Mathematics/MP07.jpg">
-</div>
 <p>
 <br>
 <br>
 </p>
-<div class="isomer-image-wrapper">
-<img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/Mathematics/MP08.jpg">
-</div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
 <p></p>
