@@ -276,11 +276,16 @@ Parade.
 <div class="isomer-image-wrapper">
 <img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/English%20Language/EP02.jpg">
 </div>
-<p><strong>Enrichment and Learning Journeys</strong> 
-<br>2023</p>
+<p><strong>Enrichment and Learning Journeys </strong>
+<br>
+</p>
+<p>2023</p>
 <p>Secondary 1</p>
 <p>Literature Drama Appreciation Learning Journey to Act 3 International</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Instructional Programmes/English Language/Screenshot_2024_01_31_113517.png">
+</div>
 <p></p>
 <p></p>
 <p>&nbsp;</p>
