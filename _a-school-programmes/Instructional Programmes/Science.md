@@ -16,26 +16,15 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Mr Koh Siak Peng (HOD/Science)</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Mdm Cheong Suet Fun</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mrs Tan-Yeo Yang Hong (AYH/Lower Secondary)&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Ms Goh Ban Leng</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Huang Jianyang Marcus (ST/Physics)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Diana Bte Othman
-<br>
-</p>
 </td>
 </tr>
 <tr>
@@ -44,14 +33,33 @@ variant: tiptap
 <br>
 </p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Samson Wong Siew Pui</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Singaram Vijayalakshmi</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Samson Wong Siew Pui</p>
+<p>Ms Diana Bte Othman</p>
 </td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Ban Leng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Cheong Suet Fun</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Mr Woo Kah Whye</p>
 </td>
@@ -59,9 +67,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mdm Nada Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
