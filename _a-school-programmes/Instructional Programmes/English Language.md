@@ -661,7 +661,9 @@ Parade.
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Instructional Programmes/English Language/vbvcbcv.jpg">
 </div>
-<p><strong>Live On Festival (Writing Competition) 2023</strong>
+<p><strong>Live On Festival (Writing Competition) </strong>
+</p>
+<p><strong><u>2023</u></strong>
 </p>
 <p>The Live On Festival is annual competition that encourages participants,
 in particular youths, to express their thoughts on organ donation and transplantation
@@ -674,7 +676,15 @@ Unit (NOTU), Ministry of Health (MOH).</p>
 <p>Jaiaree Rattawit (Special Mention, Junior Category)</p>
 <p>Read online <a rel="noopener noreferrer nofollow" target="_blank">https://www.liveon.gov.sg/essay-showcase.html?Essayid=322</a>
 </p>
+<p><strong><u>2022</u></strong>
+</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Instructional Programmes/English Language/cdc.jpg">
+</div>
+<p>Heidi Teh Elie (Special Mention, Senior Category)</p>
+<p>Read online <a rel="noopener noreferrer nofollow" target="_blank">https://www.liveon.gov.sg/essay-showcase.html?Essayid=243</a>
+</p>
 <p></p>
 <p><strong>The Queen’s Commonwealth Essay Competition (Anglo-Chinese Junior College) </strong>
 <br>&nbsp;The Queen's Commonwealth Essay Competition is the world's oldest
@@ -1360,5 +1370,4 @@ full of resources for students and teachers alike</p>
 </p>
 <p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
 <p></p>
