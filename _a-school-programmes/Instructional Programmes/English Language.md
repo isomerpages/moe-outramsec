@@ -315,13 +315,12 @@ Parade.
 <img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/English%20Language/EP05.jpg">
 </div>
 <p></p>
-<p><strong>Competitions</strong> 
-<br>
-</p>
+<h4><strong>Competitions</strong> <br></h4>
+<blockquote>
 <p>ACJC Orator’s Trophy (2023)</p>
+</blockquote>
 <p><strong>Certificates of Participation</strong>
 </p>
-<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Aisyah Binte Sazali from Sec 3/3, and</p>
@@ -1021,18 +1020,9 @@ and Participation.
 <img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/English%20Language/E14.jpg">
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<ul>
-<li>
-<p>&nbsp;&nbsp;</p>
-</li>
-<li>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;Outram Times</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<p></p>
+<p><strong>Outram Times</strong>
+</p>
+<p>&nbsp;&nbsp;&nbsp;</p>
 <table>
 <tbody>
 <tr>
@@ -1063,8 +1053,6 @@ and Participation.
 </table>
 <p></p>
 <p></p>
-</li>
-</ul>
 <p><strong>English Resources</strong>
 </p>
 <p><strong>For Students</strong> 
@@ -1260,10 +1248,7 @@ and Participation.
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-<br>
-</p>
+<p></p>
 <table>
 <tbody>
 <tr>
