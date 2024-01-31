@@ -1062,19 +1062,13 @@ and Participation.
 </tbody>
 </table>
 <p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
 </li>
-<li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;English Resources</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<p><strong>For Students</strong> 
-<br>
-<br>
+</ul>
+<p><strong>English Resources</strong>
 </p>
-<p><strong>Video Resources</strong> 
+<p><strong>For Students</strong> 
+<br><strong><u>Video Resources</u></strong><u> </u>
 <br>
 <br>
 </p>
@@ -1358,6 +1352,4 @@ full of resources for students and teachers alike</p>
 <p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
-</li>
-</ul>
 <p></p>
