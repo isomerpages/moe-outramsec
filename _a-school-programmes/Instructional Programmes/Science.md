@@ -76,7 +76,7 @@ School, we have provided time and opportunities within the curriculum for
 our learners to think innovatively, creatively and critically to brainstorm
 solutions to various real-life issues.
 <br>
-<br><strong>Design-based learning</strong>
+<br><strong>Design-based learning</strong> 
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -107,7 +107,7 @@ positively to this changing landscape.
 <br>
 <br>
 </p>
-<p><strong>Inquiry-based learning</strong>
+<p><strong>Inquiry-based learning</strong> 
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -147,7 +147,7 @@ of scientific literacy in our students.
 <br>
 <br>
 </p>
-<p><strong>Coding</strong>
+<p><strong>Coding</strong> 
 <br>
 </p>
 <div class="isomer-image-wrapper">
