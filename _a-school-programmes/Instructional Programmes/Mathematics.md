@@ -8,9 +8,7 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="400" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRyJY3yv6ON6QWsHKMKmGYEmr3SVXQf936lfaIeOAgiZsaASu1d3zUH0wLxM9WsgjUOeB2q0C-Bdhdh/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
-<p><strong>Department Vision:</strong>
-</p>
-<p>Every Outramian a Lifelong Learner, Innovative Leader and Caring Contributor.</p>
+<p></p>
 <p><strong>Long-term Goal:</strong>
 </p>
 <p>To develop students’ mathematical thinking and problem solving skills
@@ -32,8 +30,8 @@ mathematical ideas and relationships that would enhance the understanding
 of abstract mathematical concepts and eventually groom students to be digital
 literates.</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Character Development:</strong>&nbsp;Teaching
-of 21st Century Competencies, Social Emotional Learning and values through
-daily lessons and enrichment activities.</p>
+of emerging 21st Century Competencies, Social Emotional Learning and Values
+through in-class lessons and enrichment activities.</p>
 <p>&nbsp;&nbsp;</p>
 <blockquote>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;Members</p>
@@ -91,6 +89,35 @@ daily lessons and enrichment activities.</p>
 <p></p>
 <p><strong>Programme</strong>
 </p>
+<p></p>
+<p><strong>National Mathematics Challenge: Problems in Real World Contexts</strong>
+</p>
+<p><strong>&nbsp;</strong>In 2023, there were a total of 29 teams of Secondary
+3 students from different schools took part in a mathematics challenge
+organized by Outram Secondary School’s Mathematics Department. The challenge
+was designed to</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>stimulate greater interest and enrich students’ knowledge in Mathematics,</p>
+</li>
+<li>
+<p>connect and appreciate the importance of Mathematics in the real world
+context,</p>
+</li>
+<li>
+<p>develop in students critical mathematical skills and emerging 21st century
+competencies including reasoning, communication and modelling,</p>
+</li>
+<li>
+<p>inculcate positive attitudes towards learning and application of Mathematics.</p>
+</li>
+</ul>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Instructional Programmes/Mathematics/maths.jpeg">
+</div>
+<p></p>
 <p>&nbsp;&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/Mathematics/MP01.jpg">
@@ -124,14 +151,6 @@ daily lessons and enrichment activities.</p>
 <img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/Mathematics/MP05.jpg">
 </div>
 <p>
-<br>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/Mathematics/MP06.jpg">
-</div>
-<p>
-<br>
 <br>
 </p>
 <div class="isomer-image-wrapper">
