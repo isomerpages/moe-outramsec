@@ -15,26 +15,28 @@ the tools of our learners enough to add value to their academic results
 at the end of their term with us, we really hope to&nbsp;nurture young
 people&nbsp;who are confident, articulate and proficient users of the English&nbsp;Language.
 Find out about us!</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/Instructional Programmes/English Language/eng_23.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/English%20Language/EL20Pic.jpg">
 </div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Instructional Programmes/English Language/eng_23.png">
-</div>
-<h4>&nbsp; <strong>Members</strong></h4>
-<p></p>
+<h4></h4>
+<blockquote>
+<h4><strong>Members</strong></h4>
+</blockquote>
 <table>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Mrs Cheryl Fan (HOD/EL)</p>
-</th>
+</td>
 </tr>
 <tr>
-<th rowspan="1" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Mrs Wong Ann Ann (LH/EL)</p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -43,12 +45,12 @@ Find out about us!</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Dawa Tshering Sherpa (HOD/SEN)</p>
+<p>Mr Dawa Tshering Sherpa (HOD/Ed Support)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Zaiton (HOD/Ed Support)</p>
+<p>Ms Zaiton (HOD/Student Management)</p>
 </td>
 </tr>
 <tr>
@@ -89,7 +91,11 @@ Find out about us!</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;Programmes</p>
+<p></p>
+<blockquote>
+<p><strong>Programmes</strong>
+</p>
+</blockquote>
 <p>We are a team of language lovers and enthusiasts raring for literature
 and language to make a difference in the lives of young men and women who
 pass through the gates of Outram Secondary School. While aiming to sharpen
@@ -97,9 +103,11 @@ the tools of our learners enough to add value to their academic results
 at the end of their term with us, we really hope to nurture young people
 who are confident, articulate and proficient users of the English&nbsp;Language.
 Find out about us!</p>
+<blockquote>
 <p><strong>Oral Skills Programme</strong> 
 <br>
 </p>
+</blockquote>
 <p>The department’s spirally progressive oral skills programme aims to build
 confidence in young speakers from Secondary 1 to 3 to represent themselves,
 represent others and represent issues in fun and collaborative ways:
@@ -119,15 +127,14 @@ through Broadcast Journalism in Secondary 2
 </p>
 </li>
 <li>
-<p>Representing Issues (Social concerns) through Debate in Secondary 3
-<br>
-<br>
-</p>
-<p><strong>Multiliteracies Programme</strong> 
-<br>
-</p>
+<p>Representing Issues (Social concerns) through Debate in Secondary 3</p>
 </li>
 </ul>
+<blockquote>
+<p><strong>Multiliteracies Programme </strong>
+<br>
+</p>
+</blockquote>
 <p>In today’s world where technology and media reaches its arms into every
 aspect of our daily lives, bimodal and multimodal texts (Chan &amp; Chia,
 2014) such as advertisements, posters, brochures, billboards, moving pictures,
@@ -153,12 +160,12 @@ through:
 in Secondary 3
 <br>
 </p>
-<p><strong>ARP@Outram (Applied Reading Programme)</strong> 
-<br>
-<br>
-</p>
 </li>
 </ul>
+<blockquote>
+<p><strong>ARP@Outram (Applied Reading Programme)</strong>
+</p>
+</blockquote>
 <p>Since 2020, the department embarked on an integrated skills acquisition
 program named the ARP@Outram. An applied reading program, this department-wide
 initiative aims to provide a platform for students to share their reading
@@ -166,14 +173,12 @@ interests with their classmates who will respond to the stories they hear
 from their peers. Students also learn about pertinent general affairs and
 topics of relevance through monthly multimodal presentations. These activities
 throughout the year will activate interest in reading, writing and learning
-through multimodal media such as videos, images, texts and audio resources.
-<br>
-<br>
-</p>
-<ul>
+through multimodal media such as videos, images, texts and audio resources.</p>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Weekly Opening Read</strong> 
-<br>&nbsp;&nbsp;</p>
+<br>
+</p>
 </li>
 <li>
 <p><strong>Monthly News-in-Class Presentations</strong> 
@@ -244,34 +249,24 @@ through multimodal media such as videos, images, texts and audio resources.
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-<br>
-</p>
-<ul>
-<li>
 <p><strong>Creative Writing Activities</strong> 
 <br>&nbsp;</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
-<p>Guided Imagery
-<br>
-</p>
+<p>Guided Imagery</p>
 </li>
 <li>
 <p>Whose Story is it?
 <br>
 </p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/English%20Language/Pic201.jpg">
 </div>
-</li>
-</ul>
 <p><strong>Outram Ink Blog</strong> 
 <br>
-<br>
-</p>
-<p>Read our students’ published works on the students’ blog:&nbsp; <a href="https://cheryllimmingyuh.wixsite.com/outram-writes" rel="noopener noreferrer nofollow" target="_blank">Outram Ink</a> 
+<br>Read our students’ published works on the students’ blog:&nbsp; <a href="https://cheryllimmingyuh.wixsite.com/outram-writes" rel="noopener noreferrer nofollow" target="_blank">Outram Ink</a> 
 <br>
 <br>
 </p>
@@ -279,10 +274,7 @@ through multimodal media such as videos, images, texts and audio resources.
 <img style="width:100%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/English%20Language/E1NEW.png">
 </div>
 <p>
-<br>
-<br>
-</p>
-<p><strong>LitE Up!</strong> 
+<br><strong>LitE Up!</strong> 
 <br>
 </p>
 <p>The Literature and English teams join hands to organize an annual day
@@ -294,13 +286,25 @@ Parade.
 <div class="isomer-image-wrapper">
 <img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/English%20Language/EP02.jpg">
 </div>
-<p><strong>Enrichment and Learning Journeys</strong> 
-<br>2023</p>
-<p>Secondary 1</p>
+<blockquote>
+<p></p>
+<p><strong>Enrichment and Learning Journeys </strong>
+<br>
+</p>
+</blockquote>
+<p>Secondary 1 (2023)</p>
+<p></p>
 <p>Literature Drama Appreciation Learning Journey to Act 3 International</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Instructional Programmes/English Language/Screenshot_2024_01_31_113517.png">
+</div>
+<p>Secondary 3 Literature</p>
+<p>Jurong West Secondary School Literature Symposium</p>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Instructional Programmes/English Language/Screenshot_2024_01_31_151947.png">
+</div>
 <p>&nbsp;</p>
 <p><strong>Selling Dreams Exhibition at the National Library</strong> 
 <br>
@@ -321,16 +325,374 @@ Parade.
 <div class="isomer-image-wrapper">
 <img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/English%20Language/EP05.jpg">
 </div>
-<p><strong>Competitions</strong> 
-<br>
+<p></p>
+<blockquote>
+<h4><strong>Competitions</strong> <br></h4>
+</blockquote>
+<p><strong>ACJC Orator’s Trophy (2023)</strong>
 </p>
-<p>The Queen’s Commonwealth Essay Competition (Anglo-Chinese Junior College)
-<br>&nbsp;</p>
-<p>&nbsp;</p>
-<p>The Queen's Commonwealth Essay Competition is the world's oldest international
-writing competition for schools, established since 1883. For 2021, the
-Competition theme was Community in the Commonwealth, and the essay topics
-were centered round the Covid-19 pandemic.
+<p><strong>Certificates of Participation</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Aisyah Binte Sazali from Sec 3/3, and</p>
+</li>
+<li>
+<p>Poh Keng Leng, Mark from Sec 2/4</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Instructional Programmes/English Language/dsfds.jpg">
+</div>
+</li>
+</ul>
+<p></p>
+<p><strong>Queen’s Commonwealth Essay Competition (2023)</strong>
+</p>
+<p><strong>Certificates of Participation</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Evangeline Huang Sec 2/4</p>
+</li>
+<li>
+<p>Chloe Sidney Hakim Sec 3/4</p>
+</li>
+<li>
+<p>Goh Ting Shuen, Vera Sec 3/4</p>
+</li>
+</ul>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>YEO LER EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S1/3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate Of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ROHAN FATHIMA MARUWA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2/2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ISAAC HAMZAH BIN MUHAMMAD ISKANDAR</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2/2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Silver</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIM JUNTAO JAVIER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2/2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate Of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN ZI CONG JOEL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2/2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate Of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>AISYAH BINTE SAZALI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2/3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate Of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHUA JIA NING ABIGAIL (CAI JIANING)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2/3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate Of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CHLOE SIDNEY HAKIM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2/4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HANAH ANG RUI-JUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2/4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate Of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OKABAYASHI WAKA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S2/4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate Of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>KOH CHEN LIN, SHERRY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3/2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate Of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SHERLYN ANG XIN YI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3/2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Gold</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>LIM MING LE JERICHO JAVIER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3/2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HEIDI TEH ELIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3/3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate Of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>15</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>THAM XIU YI ELISSA SILVA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3/3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ALEXIS PANG LI WEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3/4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate Of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>MA BIANCA MARIA CHOU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3/4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ALDEN ANG WEN YONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3/4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate Of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>OSTEN KOH JIN HENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S3/4</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate Of Participation</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>20</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TAN JING YI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4/3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bronze</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>21</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NICHOLAS NGAN WEI HON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>S4/3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate Of Participation</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Instructional Programmes/English Language/vbvcbcv.jpg">
+</div>
+<p><strong>Live On Festival (Writing Competition)</strong>
+</p>
+<p><strong><u>2023</u></strong>
+</p>
+<p>The Live On Festival is annual competition that encourages participants,
+in particular youths, to express their thoughts on organ donation and transplantation
+through art and writing. It is organised by the National Organ Transplant
+Unit (NOTU), Ministry of Health (MOH).</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="dfdfds" src="/images/Instructional Programmes/English Language/dfdsf.jpg">
+</div>
+<p>Jaiaree Rattawit (Special Mention, Junior Category)</p>
+<p>Read online <a rel="noopener noreferrer nofollow" target="_blank">https://www.liveon.gov.sg/essay-showcase.html?Essayid=322</a>
+</p>
+<p><strong><u>2022</u></strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Instructional Programmes/English Language/cdc.jpg">
+</div>
+<p>Heidi Teh Elie (Special Mention, Senior Category)</p>
+<p>Read online <a rel="noopener noreferrer nofollow" target="_blank">https://www.liveon.gov.sg/essay-showcase.html?Essayid=243</a>
+</p>
+<p></p>
+<p><strong>The Queen’s Commonwealth Essay Competition (Anglo-Chinese Junior College) </strong>
+<br>&nbsp;The Queen's Commonwealth Essay Competition is the world's oldest
+international writing competition for schools, established since 1883.
+For 2021, the Competition theme was Community in the Commonwealth, and
+the essay topics were centered round the Covid-19 pandemic.
 <br>
 </p>
 <p>We are pleased to announce the following good results. Bravo, Outram writers!
@@ -694,18 +1056,9 @@ and Participation.
 <img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/English%20Language/E14.jpg">
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<ul>
-<li>
-<p>&nbsp;&nbsp;</p>
-</li>
-<li>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;Outram Times</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<p></p>
+<p><strong>Outram Times</strong>
+</p>
+<p>&nbsp;&nbsp;&nbsp;</p>
 <table>
 <tbody>
 <tr>
@@ -735,19 +1088,11 @@ and Participation.
 </tbody>
 </table>
 <p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
-</li>
-<li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;English Resources</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<p><strong>For Students</strong> 
-<br>
-<br>
+<p><strong>English Resources</strong>
 </p>
-<p><strong>Video Resources</strong> 
+<p><strong>For Students</strong> 
+<br><strong><u>Video Resources</u></strong><u> </u>
 <br>
 <br>
 </p>
@@ -939,10 +1284,7 @@ and Participation.
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-<br>
-</p>
+<p></p>
 <table>
 <tbody>
 <tr>
@@ -1030,7 +1372,4 @@ full of resources for students and teachers alike</p>
 </p>
 <p></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-</li>
-</ul>
 <p></p>
