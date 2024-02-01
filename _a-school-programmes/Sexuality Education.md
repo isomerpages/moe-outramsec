@@ -62,32 +62,11 @@ for discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Info_on_SEd_for_schs_website__Secondary_Schools__updated_28_Jan_2024__with_signature__Page_15.jpg">
-</div>
 <h3></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Info_on_SEd_for_schs_website__Secondary_Schools__updated_28_Jan_2024__with_signature__Page_16.jpg">
-</div>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Info_on_SEd_for_schs_website__Secondary_Schools__updated_28_Jan_2024__with_signature__Page_18.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Info_on_SEd_for_schs_website__Secondary_Schools__updated_28_Jan_2024__with_signature__Page_17.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Info_on_SEd_for_schs_website__Secondary_Schools__updated_28_Jan_2024__with_signature__Page_20.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Info_on_SEd_for_schs_website__Secondary_Schools__updated_28_Jan_2024__with_signature__Page_19.jpg">
-</div>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_Info_on_SEd_for_schs_website__Secondary_Schools__updated_28_Jan_2024__with_signature__Page_21.jpg">
-</div>
 <p></p>
