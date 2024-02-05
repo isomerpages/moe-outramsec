@@ -170,37 +170,8 @@ variant: markdown
 
 [Booklist 2024](/files/2024%20booklist.pdf)
 
-### Prelim Exam Timetable 2023
-
-[3NT Prelim Exam Timetable](/files/Parents%20and%20Students/Parents/Letter%20to%20Parents%202023/3nt%20prelim%20exam%20timetable.pdf)
-
-[4E5N Prelim Exam Timetable](/files/Parents%20and%20Students/Parents/Letter%20to%20Parents%202023/4e5n%20prelim%20exam%20timetable%20updated%2015aug.pdf)
-
-[4NA Prelim Exam Timetable](/files/Parents%20and%20Students/Parents/Letter%20to%20Parents%202023/4na%20prelim%20exam%20timetable.pdf)
-
-[4NT Prelim Exam Timetable](/files/Parents%20and%20Students/Parents/Letter%20to%20Parents%202023/4nt%20prelim%20exam%20timetable.pdf)
-###  End-of-Year Exam Timetable 2023
-
-[Exam Briefing Slides 2023](/files/Parents%20and%20Students/Parents/Exam%20Timetables/exam_briefing_2023.pdf)
-
-[S1E EOY 2023](/files/Parents%20and%20Students/Parents/Exam%20Timetables/s1e%20eoy%20updated%2013%20sep.pdf)
-
-[S1NA EOY 2023](/files/Parents%20and%20Students/Parents/Exam%20Timetables/s1na%20eoy%20updated%2013%20sep.pdf)
-
-[S1NT EOY 2023](/files/Parents%20and%20Students/Parents/Exam%20Timetables/s1nt%20eoy%20updated%2013%20sep.pdf)
-
-[S2E EOY 2023](/files/Parents%20and%20Students/Parents/Exam%20Timetables/s2e%20eoy%20updated%2013%20sep.pdf)
-
-[S2NA EOY 2023](/files/Parents%20and%20Students/Parents/Exam%20Timetables/s2na%20eoy%20updated%2013%20sep.pdf)
-
-[S2NT EOY 2023](/files/Parents%20and%20Students/Parents/Exam%20Timetables/s2nt%20eoy%20updated%2013%20sep.pdf)
 
 
-[S3E EOY 2023](/files/Parents%20and%20Students/Parents/Exam%20Timetables/s3e%20eoy%202023.pdf)
-
-[S3NA EOY 2023](/files/Parents%20and%20Students/Parents/Exam%20Timetables/s3na%20eoy%202023.pdf)
-
-[S3NT EOY 2023](/files/Parents%20and%20Students/Parents/Exam%20Timetables/s3nt%20eoy%202023.pdf)
 ### **Letter to Parents**
 
 <!-- 
