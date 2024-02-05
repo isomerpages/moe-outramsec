@@ -9,6 +9,8 @@ variant: tiptap
 <iframe height="400" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRyJY3yv6ON6QWsHKMKmGYEmr3SVXQf936lfaIeOAgiZsaASu1d3zUH0wLxM9WsgjUOeB2q0C-Bdhdh/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 </div>
 <p></p>
+<p></p>
+<p></p>
 <p><strong>Long-term Goal:</strong>
 </p>
 <p>To develop students’ mathematical thinking and problem solving skills
@@ -155,6 +157,32 @@ competencies including reasoning, communication and modelling,</p>
 </p>
 <p>
 <br>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>
 <br>
 </p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
