@@ -540,8 +540,10 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>goh_ban_leng@moe.edu.sg@schools.gov.sg</p>
-<p>abdul_rahman_abdul_rahim_a@schools.gov.sg</p>
+<p><a href="goh_ban_leng@moe.edu.sg@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_ban_leng@moe.edu.sg@schools.gov.sg</a>
+</p>
+<p><a href="abdul_rahman_abdul_rahim_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_rahman_abdul_rahim_a@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -556,11 +558,13 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lim_teck_ming@schools.gov.sg
+<p><a href="lim_teck_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_teck_ming@schools.gov.sg </a>
 <br>
 </p>
-<p>chin_ann_ann@schools.gov.sg</p>
-<p>nur_atikah_kamsani@schools.gov.sg</p>
+<p><a href="chin_ann_ann@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_ann_ann@schools.gov.sg</a>
+</p>
+<p><a href="nur_atikah_kamsani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_atikah_kamsani@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -573,9 +577,11 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>cheong_suet_fun@schools.gov.sg</p>
+<p><a href="cheong_suet_fun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_suet_fun@schools.gov.sg</a>
+</p>
 <p></p>
-<p>Kannan_Kalidasan@schools.gov.sg</p>
+<p><a href="Kannan_Kalidasan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kannan_Kalidasan@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -588,8 +594,10 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>chua_yi_ping@schools.gov.sg</p>
-<p>chong_moh_ching@schools.gov.sg</p>
+<p><a href="chua_yi_ping@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_yi_ping@schools.gov.sg</a>
+</p>
+<p><a href="chong_moh_ching@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_moh_ching@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -602,10 +610,11 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>norizan_mohamad_nor@schools.gov.sg
+<p><a href="norizan_mohamad_nor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norizan_mohamad_nor@schools.gov.sg </a>
 <br>
 </p>
-<p>lim_ting_long@schools.gov.sg</p>
+<p><a href="lim_ting_long@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ting_long@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -618,10 +627,11 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>lee_suet_har@schools.gov.sg
+<p><a href="lee_suet_har@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lee_suet_har@schools.gov.sg </a>
 <br>
 </p>
-<p>hazlan_mohd_aris@schools.gov.sg</p>
+<p><a href="hazlan_mohd_aris@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">hazlan_mohd_aris@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -635,9 +645,11 @@ variant: tiptap
 <p>Mdm Hajjah Haslinda Bte Yusof</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shi_yanwei@schools.gov.sg</p>
+<p><a href="shi_yanwei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shi_yanwei@schools.gov.sg</a>
+</p>
 <p></p>
-<p>haslinda_yusof@schools.gov.sg</p>
+<p><a href="haslinda_yusof@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">haslinda_yusof@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -650,8 +662,10 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>subbu_suba_sakthidevi@schools.gov.sg</p>
-<p>huang_jianyang_marcus@schools.gov.sg</p>
+<p><a href="subbu_suba_sakthidevi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">subbu_suba_sakthidevi@schools.gov.sg</a>
+</p>
+<p><a href="huang_jianyang_marcus@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">huang_jianyang_marcus@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -662,7 +676,8 @@ variant: tiptap
 <p>Nasuha Binte Rahmat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nasuha_rahmat@schools.gov.sg</p>
+<p><a href="nasuha_rahmat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nasuha_rahmat@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
