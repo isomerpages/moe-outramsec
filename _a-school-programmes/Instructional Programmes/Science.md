@@ -34,9 +34,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Ting Long
-<br>
-</p>
+<p>Mr Lim Ting Long</p>
 </td>
 </tr>
 <tr>
