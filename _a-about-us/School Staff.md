@@ -51,6 +51,7 @@ variant: tiptap
 <p>Mrs Elaine Toh-Tan
 <br>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice Principal</p>
@@ -514,6 +515,7 @@ variant: tiptap
 </tbody>
 </table>
 <blockquote>
+<p></p>
 <p>Form Teachers 2023 (Upper Secondary)</p>
 </blockquote>
 <table>
