@@ -5,12 +5,10 @@ description: ""
 third_nav_title: Instructional Programmes
 variant: tiptap
 ---
+<p></p>
 <div class="iframe-wrapper">
-<iframe height="400" width="640" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRyJY3yv6ON6QWsHKMKmGYEmr3SVXQf936lfaIeOAgiZsaASu1d3zUH0wLxM9WsgjUOeB2q0C-Bdhdh/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRip3FxvE3_B1GQlIXcgWBfs9BU2WxVfyUCj_c6HeYUF_WhkC6mP5G4S_H5goGjYkwm0dCA0Ct803JX/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
 </div>
-<p></p>
-<p></p>
-<p></p>
 <p><strong>Long-term Goal:</strong>
 </p>
 <p>To develop students’ mathematical thinking and problem solving skills

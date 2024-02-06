@@ -19,6 +19,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Alex Tan Tzei Kea (Year Head/Lower Sec)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Tan-Yeo Yang Hong (AYH/Lower Secondary)&nbsp;</p>
 </td>
 </tr>
@@ -29,9 +34,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lim Ting Long
-<br>
-</p>
+<p>Mr Lim Ting Long</p>
 </td>
 </tr>
 <tr>
