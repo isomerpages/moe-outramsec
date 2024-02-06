@@ -373,9 +373,11 @@ variant: tiptap
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>durga_devi_v_jagarajan@schools.gov.sg</p>
+<p><a href="durga_devi_v_jagarajan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">durga_devi_v_jagarajan@schools.gov.sg</a>
+</p>
 <p></p>
-<p>aqilah_jumain@schools.gov.sg</p>
+<p><a href="aqilah_jumain@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aqilah_jumain@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -391,10 +393,12 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ismath_banu_mohamed_yaseen@schools.gov.sg</p>
+<p><a href="ismath_banu_mohamed_yaseen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ismath_banu_mohamed_yaseen@schools.gov.sg</a>
+</p>
 <p></p>
 <p></p>
-<p>prathivmohan_chandramohan@schools.gov.sg</p>
+<p><a href="prathivmohan_chandramohan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">prathivmohan_chandramohan@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -407,8 +411,10 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>shireen_shoba_stephen@schools.gov.sg</p>
-<p>mok_peck_yim@schools.gov.sg</p>
+<p><a href="shireen_shoba_stephen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">shireen_shoba_stephen@schools.gov.sg</a>
+</p>
+<p><a href="mok_peck_yim@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">mok_peck_yim@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -423,10 +429,12 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>wong_ai_fung_serene@schools.gov.sg</p>
+<p><a href="wong_ai_fung_serene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_ai_fung_serene@schools.gov.sg</a>
+</p>
 <p></p>
 <p></p>
-<p>samuel_ng_aik_siong@schools.gov.sg</p>
+<p><a href="samuel_ng_aik_siong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">samuel_ng_aik_siong@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -440,8 +448,9 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>gloria_ng_yu_yan@schools.gov.sg</p>
-<p>saon_wong_siew_pui@schools.gov.sg
+<p><a href="gloria_ng_yu_yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gloria_ng_yu_yan@schools.gov.sg</a>
+</p>
+<p><a href="saon_wong_siew_pui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">saon_wong_siew_pui@schools.gov.sg </a>
 <br>
 <br>
 </p>
@@ -459,10 +468,11 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>diana_othman@schools.gov.sg
+<p><a href="diana_othman@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">diana_othman@schools.gov.sg </a>
 <br>
 </p>
-<p>ho_siong_chang@schools.gov.sg</p>
+<p><a href="ho_siong_chang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ho_siong_chang@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -475,9 +485,11 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>woo_kah_whye@moe.edu.sg</p>
+<p><a href="woo_kah_whye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woo_kah_whye@moe.edu.sg</a>
+</p>
 <p></p>
-<p>singaram_vijayalakshmi@schools.gov.sg</p>
+<p><a href="singaram_vijayalakshmi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">singaram_vijayalakshmi@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -491,8 +503,10 @@ variant: tiptap
 <p>Ms Grace Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>neo_sian_lee@schools.gov.sg</p>
-<p>grace_ng_kah-yi@schools.gov.sg</p>
+<p><a href="neo_sian_lee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">neo_sian_lee@schools.gov.sg</a>
+</p>
+<p><a href="grace_ng_kah-yi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">grace_ng_kah-yi@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
