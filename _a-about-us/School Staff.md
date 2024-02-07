@@ -51,9 +51,13 @@ variant: tiptap
 <p>Mrs Elaine Toh-Tan
 <br>
 </p>
+<p></p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice Principal</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_yee_lin_elaine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yee_lin_elaine@schools.gov.sg</a>
@@ -83,9 +87,13 @@ variant: tiptap
 <p>Mrs Cheryl Fan</p>
 <p></p>
 <p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ English&nbsp;Language/Literature &amp; School Staff Developer&nbsp;</p>
+<p>HOD/ English Language /Literature &amp; School Staff Developer&nbsp;</p>
+<p></p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheryl_lim_ming_yuh@schools.gov.sg</a>
@@ -514,6 +522,7 @@ variant: tiptap
 </tbody>
 </table>
 <blockquote>
+<p></p>
 <p>Form Teachers 2023 (Upper Secondary)</p>
 </blockquote>
 <table>
@@ -816,10 +825,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Julia Tan</p>
+<p>Mdm April Wong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administration Executive</p>
+<p>Relief Admin Manager</p>
 </td>
 </tr>
 <tr>
@@ -833,6 +842,14 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Marcus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Corporate Support Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Yuszita</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Corporate Support Officer</p>
