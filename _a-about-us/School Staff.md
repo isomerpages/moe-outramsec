@@ -52,9 +52,12 @@ variant: tiptap
 <br>
 </p>
 <p></p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice Principal</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_yee_lin_elaine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yee_lin_elaine@schools.gov.sg</a>
@@ -84,9 +87,13 @@ variant: tiptap
 <p>Mrs Cheryl Fan</p>
 <p></p>
 <p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ English&nbsp;Language/Literature &amp; School Staff Developer&nbsp;</p>
+<p>HOD/ English Language /Literature &amp; School Staff Developer&nbsp;</p>
+<p></p>
+<p></p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheryl_lim_ming_yuh@schools.gov.sg</a>
