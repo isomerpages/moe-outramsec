@@ -26,10 +26,4 @@ sections:
       id: infobar
       button: Cllick her for more info
       url: /files/Parents%20and%20Students/Website_2023_O_Level_Admin_for_students.pdf
-  - infobar:
-      title: Secondary 1 Orientation
-      id: infobar
-      description: Questions asked by Parents
-      button: Click her for more info
-      url: https://www.outramsec.moe.edu.sg/parents-and-students/Parents/
 ---
