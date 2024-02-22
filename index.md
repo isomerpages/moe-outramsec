@@ -24,6 +24,6 @@ sections:
   - infobar:
       title: Joint Admission Exercise (JAE) Administrative Information
       id: infobar
-      button: Cllick her for more info
+      button: Click her for more info
       url: /files/Parents%20and%20Students/Website_2023_O_Level_Admin_for_students.pdf
 ---
