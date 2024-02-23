@@ -2,7 +2,6 @@ collections:
   a-media:
     output: true
     order:
-      - Example TitleTest.md
       - Media.md
       - Photo Gallery.md
       - 2019 Photo Gallery/.keep
