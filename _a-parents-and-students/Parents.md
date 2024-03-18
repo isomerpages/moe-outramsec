@@ -20,127 +20,9 @@ variant: markdown
 [Parents Gateway](https://pg.moe.edu.sg/)
 
 
-<!--
-### **Information on COVID-19 Vaccination for Students**
-[Information on Covid 19 Vaccination for Students](/Information-on-COVID-19-Vaccination-for-Students/)
--->
 
-<!--
-<ul class="jekyllcodex_accordion">
 
-  <li>
 
-    <input type="checkbox" id="accordion1">
-
-    <label for="accordion1">Booklists</label>
-
-    <div>
-
-<p> [Booklist 2024](/files/2024%20booklist.pdf)
-			</p>
-
-    </div>
-
-</li>
-  <li>
-
-    <input type="checkbox" id="accordion2">
-
-    <label for="accordion2">Letter to Parents 2023</label>
-
-    <div>
-			<p> <a href="/files%2FParents%20and%20Students%2FParents%2FLetter%20to%20Parents%202023/editMediaSettings/2023%20Term%202%20Letter%20to%20Parents%20.pdf">Term 2 Letter to Parents 2023</a>
-			</p>
-	
-
-<p> <a href="/files/Links/Parents/Letter%20to%20Parents%202023/2023%20Term%201%20Letter%20to%20Parents%20Final.pdf">Term 1 Letter to Parents 2023</a>
-			</p>
-
-    </div>
-
-</li>
-	
-<li>
-
-    <input type="checkbox" id="accordion3">
-
-    <label for="accordion3">PDLP 2023</label>
-
-    <div>
-
-<p> 
-				<a href="/files/Links/Parents/PDLP%202022/Purchase%20of%20PLD%20Letter%20to%20Parents.pdf">Purchase of PLD Letter to Parents</a><br>
-			<a href="/files/Links/Parents/PDLP%202022/Learning%20with%20PLD%20Outram%20Secondary%20School.pdf">Learning with PLD Outram Secondary School</a><br>
-			<a href="/files/Links/Parents/PDLP%202022/IP2%20-%20Parent%20Handbook%20I%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf">IP2 - Parent Handbook (I) on Learning with a PLD</a><br>
-			<a href="/files/Links/Parents/PDLP%202022/IP3%20-%20Parent%20Handbook%20II%20on%20Learning%20with%20a%20PLD_8%20Dec%2021.pdf">IP3 - Parent Handbook (II) on Learning with a PLD</a><br>
-			</p>
-
-  </div>
-
-</li>
-	
-<li>
-
-    <input type="checkbox" id="accordion4">
-
-    <label for="accordion4"> HBL </label>
-
-    <div>
-
-      	<p> 
-				<a href="/files/Links/Parents/HBL/Arrangement%20for%20School%20Reopening%20in%20Term%203%20for%20Secondary%20Schools.pdf">Arrangement for School Reopening in Term 3</a><br>
-			<a href="/Information-on-COVID-19-Vaccination-for-Students/ ">Information on COVID-19 Vaccination for Students</a><br>
-			<a href="/files/Links/Parents/HBL/Parent%20Kit_Bonding%20Over%20the%20Holidays_.pdf">Bonding over the Holidays! (Parent Kit)</a><br>
-			<a href="/files/Links/Parents/HBL/Parent%20Kit%20-%20Supporting%20your%20child%20during%20Full%20HBL.pdf">Parent Kit - Supporting your Child During Full HBL</a><br>
-			<a href="/Resources-for-FHBL/">Resources for FHBL</a><br>
-			<a href="/files/Links/Parents/HBL/Appendix%201%20-%20Student%20Device%20Information%20Kit%20Acer%20Service%20Centre%20and%20HelpCentre%20Information.pdf">Student Device Information Kit (Acer Service centre)</a><br>
-				<a href="/files/Links/Parents/HBL/Standard%20Instructions%20for%20BLHome.pdf">Blended Learning@home: Instructions to Students</a><br>
-				<a href="/files/Links/Parents/HBL/Parent%20Handbook%20I%20on%201_1%20Learning.pdf">Parent Handbook I on 1  1 Learning</a><br></p>
-
-    </div>
-
-</li>
-	
-<li>
-
-    <input type="checkbox" id="accordion5">
-
-    <label for="accordion5">FAS Information</label>
-
-    <div>
-
-<p>
-	
-<a href="/files/Links/Parents/FAS%20Information/MOE%20FAS%20APPLICATION%20FORM.pdf)">MOE FAS Application Form 2023</a><br>
-			<a href="/files/Links/Parents/FAS%20Information/MOE%20FAS%20Application%20Form%20Sep%2021%20for%20OSS%20website.pdf">MOE FAS Application Form 2022</a><br>
-			<a href="/files/Links/Parents/FAS%20Information/MOE_FAS_Pamphlet_2022.pdf">MOE FAS Scheme 2022</a><br>
-			<a href="MOE-FAS-for-Y2021-is-open-for-application-now">MOE-FAS for Y2021 is open for application now!</a><br>
-			<a href="https://www.instagram.com/parentingwith.moesg">MOE's Instagram account for parents (@parentingwith.moesg)</a><br>
-			<a href="distinctive-programmes/Applied-Learning-Programme">Applied Learning Program/Learning for Life Program</a><br>
-				<a href="/files/Links/Parents/FAS%20Information/MOE-FAS%20Application%20Form%20Y2021.pdf">MOE FAS Application Form</a><br></p>
-
-    </div>
-
-</li>
-	
-<li>
-
-    <input type="checkbox" id="accordion6">
-
-    <label for="accordion6">Parent Gateway</label>
-
-    <div>
-
-<p> 
-				<a href="Launch-of-Parents-Gateway">Parent Gateway Portal</a><br> </p>
-
-    </div>
-
-</li>
-	
-</ul>
-
--->
 
 ### **Sec 1 Orientation**
 [Full SBB sharing with Sec 1 parents ](/files/Full_SBB_sharing_with_Sec_1_parents__12_Jan_2024_.pdf)
@@ -173,9 +55,8 @@ variant: markdown
 
 
 ### **Letter to Parents**
+[2024 Term 2 Letter to Parents](/files/Parents%20and%20Students/Outram_Spotlight__2_final_compressed__1_.pdf)
 
-<!-- 
--->
 [2024 Term 1 Letter to Parents](/files/Parents%20and%20Students/2024_Term_1_Letter_to_Parents_edited_31_Jan.pdf)
 
 [2023 Term 4 Letter to Parents](/files/Parents%20and%20Students/Parents/Letter%20to%20Parents%202023/2023%20term%204%20letter%20to%20parents%20final.pdf)
