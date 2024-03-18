@@ -9,7 +9,7 @@ variant: markdown
 
 [Joint Admission Exercise (JAE) Administrative Information](/files/Parents%20and%20Students/Website_2023_O_Level_Admin_for_students.pdf)
 
-[Outram Newsletter 2024](/files/Parents%20and%20Students/Parents/Outram_Newsletter_2024___lite.pdf)
+
 
 [Parent Engagement Microsite ](https://sites.google.com/moe.edu.sg/parents-at-outram/home_1)
 
@@ -19,10 +19,11 @@ variant: markdown
 
 [Parents Gateway](https://pg.moe.edu.sg/)
 
+### **Newsletter - Outram Spotlight**
 
+[Outram Newsletter Term 2](/files/Parents%20and%20Students/Outram_Spotlight__2_final_compressed__1_.pdf)
 
-
-
+[Outram Newsletter Term 1](/files/Parents%20and%20Students/Parents/Outram_Newsletter_2024___lite.pdf)
 
 ### **Sec 1 Orientation**
 [Full SBB sharing with Sec 1 parents ](/files/Full_SBB_sharing_with_Sec_1_parents__12_Jan_2024_.pdf)
