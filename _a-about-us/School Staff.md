@@ -817,10 +817,26 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm April Wong</p>
+<p>Ms Grace Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Relief Admin Manager</p>
+<p>Admin Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Calvin Chew</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Admin Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chua Chiew Lian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Executive</p>
 </td>
 </tr>
 <tr>
