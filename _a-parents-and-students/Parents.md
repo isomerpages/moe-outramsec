@@ -57,6 +57,7 @@ variant: markdown
 
 ### **Letter to Parents**
 
+[2024 Term 2 Letter to Parents](/files/Parents%20and%20Students/2024_Term_2_Letter_to_Parents_19_Mar.pdf)
 
 [2024 Term 1 Letter to Parents](/files/Parents%20and%20Students/2024_Term_1_Letter_to_Parents_edited_31_Jan.pdf)
 
