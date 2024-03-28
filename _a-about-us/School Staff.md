@@ -782,7 +782,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Conrad Lee</p>
+<p>Mr Chew Wee Kian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer (SENO)</p>
