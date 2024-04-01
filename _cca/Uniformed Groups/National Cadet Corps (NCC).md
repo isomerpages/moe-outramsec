@@ -32,9 +32,8 @@ fundamentals of archery.</p>
 <br>Cadets’ trainings will continue to be fun and challenging. Throughout
 the year, they will be presented with opportunities to boost their confidence
 level and play significant roles in planning and facilitating school events.</p>
-<p>Among the highlights of a senior cadet is the technical handling of the
-SAR-21 rifle during Camp STEEL, where they will also attain some leadership
-skills.</p>
+<p>Among the highlights of a senior cadet is Air Rifle shooting and Camp
+STEEL, where they will attain some leadership skills.</p>
 <p><strong>Cadet Leaders (Secondary 3)</strong> 
 <br>In their third year as a proud member of Outram NCC, cadets will take
 up leadership positions in the CCA. They will be given various roles to
@@ -76,6 +75,11 @@ leaders to play their roles as student leaders well.</p>
 <p>Mr Woo Kah Whye</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Sathi Kumar S/O Subramaniam</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
@@ -95,7 +99,7 @@ leaders to play their roles as student leaders well.</p>
 <p>Wednesday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2:45 PM – 5:45 PM</p>
+<p>2:15 PM – 5:15 PM</p>
 </td>
 </tr>
 </tbody>
