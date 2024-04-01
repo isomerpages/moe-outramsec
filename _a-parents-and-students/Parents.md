@@ -65,7 +65,7 @@ variant: markdown
 
 [2023 Term 3 Letter to Parents](/files/Parents%20and%20Students/Parents/Letter%20to%20Parents%202023/2023%20term%203%20letter%20to%20parents.pdf)
 
-[2023 Term 2 Letter to Parents](/files/Parents%20and%20Students/Parents/Letter%20to%20Parents%202023/2023%20Term%202%20Letter%20to%20Parents%20new%20.pdf)
+
 
 
 
