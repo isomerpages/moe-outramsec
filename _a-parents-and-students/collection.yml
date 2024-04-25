@@ -2,7 +2,7 @@ collections:
   a-parents-and-students:
     output: true
     order:
-      - School Canteen Advertisement.md
       - Quick Links.md
       - Parents.md
       - Students.md
+      - School Canteen Advertisement.md
