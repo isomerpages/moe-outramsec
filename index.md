@@ -21,6 +21,4 @@ sections:
           description: VIEW
           url: /links-for-teachers
       background: /images/Homepage/homebannerAnimated02.gif
-  - announcements:
-      id: announcements
 ---
