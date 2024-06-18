@@ -154,7 +154,8 @@ variant: tiptap
 <p>HOD/ CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>goh_keng_hock@schools.gov.sg</p>
+<p><a href="goh_keng_hock@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_keng_hock@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -350,6 +351,18 @@ variant: tiptap
 </p>
 <p></p>
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Ting Long</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Acting Subject Head/ Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="lim_ting_long@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ting_long@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
