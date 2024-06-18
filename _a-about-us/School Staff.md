@@ -7,7 +7,12 @@ variant: tiptap
 <blockquote>
 <h4>School Leaders</h4>
 </blockquote>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -69,7 +74,12 @@ variant: tiptap
 <blockquote>
 <h4>HODs/Subject Heads</h4>
 </blockquote>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -114,18 +124,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Faith Wong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD/MTL &amp; HOD CCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="wong_ching_hun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_ching_hun@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Koh Siak Peng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -146,6 +144,17 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="loh_peng_yeong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">loh_peng_yeong@schools.gov.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Goh Keng Hock</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/ CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>goh_keng_hock@schools.gov.sg</p>
 </td>
 </tr>
 <tr>
@@ -222,18 +231,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yong Li Zhuang Jolin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Acting HOD/Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="jolin_yong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">jolin_yong@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Oliver Tan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -246,13 +243,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Alex Tan</p>
+<p>Mrs Faith Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head (Lower Sec)</p>
+<p>Covering MTL Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="tan_tzei_kea@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_tzei_kea@schools.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">wong_ching_hun@schools.gov.sg</a>
 </p>
 </td>
 </tr>
@@ -359,7 +357,12 @@ variant: tiptap
 <blockquote>
 <p>Form Teachers 2023 (Lower Secondary)</p>
 </blockquote>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -534,7 +537,12 @@ variant: tiptap
 <p></p>
 <p>Form Teachers 2023 (Upper Secondary)</p>
 </blockquote>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -705,7 +713,11 @@ variant: tiptap
 <blockquote>
 <h4>Year Heads</h4>
 </blockquote>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -736,7 +748,11 @@ variant: tiptap
 <blockquote>
 <h4>Senior Teachers</h4>
 </blockquote>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -775,7 +791,11 @@ variant: tiptap
 <blockquote>
 <h4>Student Development Team</h4>
 </blockquote>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -806,7 +826,11 @@ variant: tiptap
 <blockquote>
 <h4>Executive and Administrative Staff</h4>
 </blockquote>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
