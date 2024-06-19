@@ -819,18 +819,26 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chew Wee Kian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Special Educational Needs Officer (SENO)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Isabella Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ryan Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sharon Monica</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor (Flexi-Adjunct)</p>
 </td>
 </tr>
 <tr>
