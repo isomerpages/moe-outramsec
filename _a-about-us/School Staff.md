@@ -479,13 +479,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Gloria Ng</p>
 <p></p>
-<p>Mr Samson Wong</p>
+<p>Mr Siva Sankar S/O Sinnasamy</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="gloria_ng_yu_yan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">gloria_ng_yu_yan@schools.gov.sg</a>
 </p>
-<p><a href="saon_wong_siew_pui@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">saon_wong_siew_pui@schools.gov.sg </a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">siva_sankar_sinnasamy@schools.gov.sg</a>
 <br>
 <br>
 </p>
@@ -547,6 +547,7 @@ variant: tiptap
 </tbody>
 </table>
 <blockquote>
+<p></p>
 <p></p>
 <p>Form Teachers 2023 (Upper Secondary)</p>
 </blockquote>
@@ -615,13 +616,16 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Vivian Cheong Suet Fun</p>
 <p>Mr Kannan S/O Kalidasan</p>
-<p>&nbsp;</p>
+<p>Mr Cheong Hong Bin (John)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="cheong_suet_fun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_suet_fun@schools.gov.sg</a>
 </p>
 <p></p>
 <p><a href="Kannan_Kalidasan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kannan_Kalidasan@schools.gov.sg</a>
+</p>
+<p></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">cheong_hong_bin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -700,13 +704,15 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Subbu Suba Sakthidevi</p>
 <p></p>
-<p></p>
+<p>Mdm Tan Kim Choo</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="subbu_suba_sakthidevi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">subbu_suba_sakthidevi@schools.gov.sg</a>
 </p>
 <p></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank">tan_kim_choo_b@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -724,6 +730,7 @@ variant: tiptap
 </tbody>
 </table>
 <blockquote>
+<p></p>
 <h4>Year Heads</h4>
 </blockquote>
 <table style="minWidth: 50px">
@@ -734,26 +741,34 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lower Secondary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Alex Tan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Upper Secondary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Oliver Tan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>Secondary 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Yeo Yang Hong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Faith Tan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 3</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Goh Keng Hock and Mr Haerman Bin Tomin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Secondary 4/5</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Oliver Tan</p>
 </td>
 </tr>
 </tbody>
@@ -789,14 +804,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Abdul Rahman (ST/ Social Studies)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secondary 4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Marcus Huang (ST/ Science)</p>
 </td>
 </tr>
 </tbody>
