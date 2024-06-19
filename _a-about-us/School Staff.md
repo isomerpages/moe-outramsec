@@ -870,14 +870,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr SelvaRaja Rajoo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Grace Tan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -890,6 +882,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Admin Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Selvaraja Rajoo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
 </td>
 </tr>
 <tr>
