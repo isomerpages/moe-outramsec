@@ -761,7 +761,7 @@ variant: tiptap
 <p>Secondary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Keng Hock and Mr Irwam Haerman Bin Tomin</p>
+<p>Mr Goh Keng Hock and Mr Irwan Haerman Bin Tomin</p>
 </td>
 </tr>
 <tr>
