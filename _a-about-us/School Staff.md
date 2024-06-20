@@ -703,7 +703,7 @@ variant: tiptap
 <p>Sec 44</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subbu Suba Sakthidevi</p>
+<p>Mdm Subbu Suba Sakthidevi</p>
 <p></p>
 <p>Mdm Tan Kim Choo</p>
 <p>&nbsp;</p>
@@ -721,7 +721,7 @@ variant: tiptap
 <p>Sec 51</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nasuha Binte Rahmat</p>
+<p>Ms Nasuha Binte Rahmat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="nasuha_rahmat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nasuha_rahmat@schools.gov.sg</a>
@@ -761,7 +761,7 @@ variant: tiptap
 <p>Secondary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Keng Hock and Mr Haerman Bin Tomin</p>
+<p>Mr Goh Keng Hock and Mr Irwam Haerman Bin Tomin</p>
 </td>
 </tr>
 <tr>
