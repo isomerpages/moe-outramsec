@@ -21,6 +21,8 @@ variant: markdown
 
 ### **Newsletter - Outram Spotlight**
 
+[Outram Newsletter Term 3](/files/Parents%20and%20Students/Parents/Outram_Spotlight__31.pdf)
+
 [Outram Newsletter Term 2](/files/Parents%20and%20Students/Outram_Spotlight__2_final_compressed__1_.pdf)
 
 [Outram Newsletter Term 1](/files/Parents%20and%20Students/Parents/Outram_Newsletter_2024___lite.pdf)
