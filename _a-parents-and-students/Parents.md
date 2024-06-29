@@ -59,13 +59,18 @@ variant: markdown
 
 ### **Letter to Parents**
 
+
+[2024 Student Management Policy Update ](/files/Student_Management_Policy_Update_pdf.pdf)
+
+[2024 Term 3 Letter to Parents](/files/Parents%20and%20Students/Parents/2024_Term_3_Letter_to_Parents___270624_vetted.pdf)
+
 [2024 Term 2 Letter to Parents](/files/Parents%20and%20Students/2024_Term_2_Letter_to_Parents_19_Mar_v1.pdf)
 
 [2024 Term 1 Letter to Parents](/files/Parents%20and%20Students/2024_Term_1_Letter_to_Parents_edited_31_Jan.pdf)
 
 [2023 Term 4 Letter to Parents](/files/Parents%20and%20Students/Parents/Letter%20to%20Parents%202023/2023%20term%204%20letter%20to%20parents%20final.pdf)
 
-[2023 Term 3 Letter to Parents](/files/Parents%20and%20Students/Parents/Letter%20to%20Parents%202023/2023%20term%203%20letter%20to%20parents.pdf)
+
 
 
 
