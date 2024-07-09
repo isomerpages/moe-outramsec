@@ -836,14 +836,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sharon Monica</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Counsellor (Flexi-Adjunct)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Leo Chin Ho</p>
 </td>
 <td rowspan="1" colspan="1">
