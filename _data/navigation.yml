@@ -1,6 +1,6 @@
 logo: /images/old logo copy.jpg
 links:
-  - title: About us
+  - title: OSS Identity
     url: /about-us/About-Us/
     sublinks:
       - title: Principal's Message
@@ -53,25 +53,16 @@ links:
         url: /distinctive-programmes/Learning-for-Life-Programme/Learning-for-Life-Programme/
       - title: Direct School Admission
         url: /distinctive-programmes/Direct-School-Admission/Direct-School-Admission/
-  - title: Distinctive Programmes
-    url: /distinctive-programmes/Distinctive-Programmes/
-    sublinks:
-      - title: Applied Learning Programmes
-        url: /distinctive-programmes/Applied-Learning-Programme/
-      - title: Learning for Life Programmes
-        url: /distinctive-programmes/Learning-for-Life-Programme/Learning-for-Life-Programme/
-      - title: Direct School Admission
-        url: /distinctive-programmes/Direct-School-Admission/Direct-School-Admission/
   - title: OSS Links
     url: /parents-and-students/Parents
     sublinks:
-      - title: Our Social Media
-        url: /a-parents-and-students/permalink/
       - title: Teachers
-        url: /permalink
+        url: /links-for-teachers
       - title: Parents
         url: /parents-and-students/Parents/
       - title: Students
         url: /parents-and-students/Students/
+      - title: Our Social Media
+        url: /a-parents-and-students/permalink/
       - title: School Canteen Advertisment
         url: /school-canteen-advertisement/
