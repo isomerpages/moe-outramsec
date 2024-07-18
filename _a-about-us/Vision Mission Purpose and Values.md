@@ -13,32 +13,21 @@ variant: markdown
 
 ### Mission  
 
-**To nurture individuals with a true Outramian SPIRIT**
-
-  
-
-
-
-### Purpose
-
-
- **To Inspire Learning . To Pursue Dreams . To Design Lives**
-
-  
+**We honour the voice and empower the agency of Outramian staff and students in co-creating rich educational experiences in an inclusive community of future-ready learners
+**
+    
 
 ### Values
 
+ 
+**Stewardship**
 
-  
-
-**Sense of Belonging**
-
-**Perseverance**
+**Passion**
 
 **Integrity**
 
-**Responsibility**
+**Resilience**
 
-**Innovative**
+**Inventiveness**
 
 **Teamwork**
