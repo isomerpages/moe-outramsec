@@ -17,9 +17,6 @@ sections:
         - title: OSS Congratulates
           description: VIEW
           url: /Achievements/Achievements/
-        - title: OSS Socials
-          description: VIEW
-          url: /links-for-teachers
       background: /images/Homepage/homebannerAnimated02.gif
       variant: image
       size: sm
