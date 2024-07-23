@@ -10,11 +10,11 @@ colors:
     - title: media-color-two
       color: "#744d9f"
     - title: media-color-three
-      color: "#00838f"
+      color: "#ffc629"
     - title: media-color-four
-      color: "#00838f"
+      color: "#ffc629"
     - title: media-color-five
-      color: "#00838f"
+      color: "#ffc629"
 description: Official Outram Secondary School Website
 permalink: none
 baseurl: ""
