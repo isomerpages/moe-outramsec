@@ -8,17 +8,23 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: News and Announcements
+        - title: OSS Announcements
           description: VIEW
           url: /News-and-Announcements/News-and-Announcements/
-        - title: Recent Events
-          description: VIEW
-          url: /Achievements/Achievements/
-        - title: Congratulatory Messages
+        - title: OSS Celebrates
           description: VIEW
           url: /OSS-Success-Stories/OSS-Success-Stories/
-        - title: Links for Teachers
+        - title: OSS Congratulates
           description: VIEW
-          url: /links-for-teachers
-      background: /images/Homepage/homebannerAnimated02.gif
+          url: /Achievements/Achievements/
+      background: /images/homebannerAnimated02.gif
+      variant: image
+      size: sm
+      alignment: left
+      backgroundColor: gray
+  - infobar:
+      title: ECHA NOMINATION 2024
+      id: infobar
+      button: Please click her for more information
+      url: /files/News%20&%20Announcements/2024_ONLINE_PUBLICITY_INFO.pdf
 ---
