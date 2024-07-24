@@ -1,5 +1,5 @@
 collections:
-  a-media:
+  archived-media:
     output: true
     order:
       - Media.md
