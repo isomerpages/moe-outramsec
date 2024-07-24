@@ -22,4 +22,9 @@ sections:
       size: sm
       alignment: left
       backgroundColor: gray
+  - infobar:
+      title: ECHA NOMINATION 2024
+      id: infobar
+      button: Please click her for more information
+      url: /files/News%20&%20Announcements/2024_ONLINE_PUBLICITY_INFO.pdf
 ---
