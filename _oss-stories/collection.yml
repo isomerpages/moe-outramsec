@@ -1,5 +1,5 @@
 collections:
-  a-the-outram-story:
+  oss-stories:
     output: true
     order:
       - The Outram Story.md
