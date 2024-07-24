@@ -1,5 +1,5 @@
 collections:
-  a-about-us:
+  oss-identity:
     output: true
     order:
       - About Us.md
