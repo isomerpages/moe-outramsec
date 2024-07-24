@@ -7,7 +7,7 @@ variant: markdown
 ### **Links**
 
 
-[Joint Admission Exercise (JAE) Administrative Information](/files/Parents%20and%20Students/Website_2023_O_Level_Admin_for_students.pdf)
+[Joint Admission Exercise (JAE) Administrative Informations](/files/Parents%20and%20Students/Website_2023_O_Level_Admin_for_students.pdf)
 
 
 
