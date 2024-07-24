@@ -17,7 +17,7 @@ sections:
         - title: OSS Congratulates
           description: VIEW
           url: /Achievements/Achievements/
-      background: /images/banner_01.png
+      background: /images/homebannerAnimated02.gif
       variant: image
       size: sm
       alignment: left
