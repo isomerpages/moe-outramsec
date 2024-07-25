@@ -30,4 +30,22 @@ sections:
       id: infobar
       button: Please click her for more information
       url: /files/News%20&%20Announcements/2024_ONLINE_PUBLICITY_INFO.pdf
+  - textcards:
+      title: Text Cards
+      subtitle: Add informational text
+      id: textcards
+      description: Text card description
+      cards:
+        - title: Connecting with Our Past
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Connecting with Our Present
+          description: Card description
+          linktext: Learn more
+          url: ""
+        - title: Connecting with Our Future
+          description: insrt image
+          linktext: Learn more
+          url: ""
 ---
