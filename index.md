@@ -45,7 +45,7 @@ sections:
           linktext: Learn more
           url: ""
         - title: Connecting with Our Future
-          description: insrt image
+          description: ![imagetest](/images/IMAGETEST_01.jpg)
           linktext: Learn more
           url: ""
   - infopic:
