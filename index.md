@@ -30,16 +30,4 @@ sections:
       id: infobar
       button: Please click her for more information
       url: /files/News%20&%20Announcements/2024_ONLINE_PUBLICITY_INFO.pdf
-  - infocols:
-      title: 120th Anniversary
-      subtitle: Outram Secondary School
-      id: infocols
-      linktext: Come 2026, OSS will be 120 years!
-      infoboxes:
-        - title: Connecting with Our Past
-          description: Infobox description
-        - title: Connecting with Our Present
-          description: Infobox description
-        - title: Connecting with Our Future
-          description: Infobox description
 ---
