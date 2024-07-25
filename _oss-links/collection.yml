@@ -1,5 +1,5 @@
 collections:
-  a-parents-and-students:
+  oss-links:
     output: true
     order:
       - Quick Links.md
