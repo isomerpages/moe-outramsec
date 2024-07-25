@@ -2,7 +2,6 @@ collections:
   a-distinctive-programmes:
     output: true
     order:
-      - Learning for Life Programme/Learning for Life Programme.md
       - Learning for Life Programme/SAC Outram Sports Award.md
       - Learning for Life Programme/Oasis Cup.md
       - Learning for Life Programme/Swimming Carnival.md
