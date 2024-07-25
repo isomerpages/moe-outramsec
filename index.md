@@ -48,4 +48,12 @@ sections:
           description: insrt image
           linktext: Learn more
           url: ""
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/IMAGETEST_01.jpg
+      alt: Image alt text
 ---
