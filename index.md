@@ -17,6 +17,9 @@ sections:
         - title: OSS Congratulates
           description: VIEW
           url: /Achievements/Achievements/
+        - title: OSS Connects
+          description: OSS IG
+          url: https://www.instagram.com/outramsecsch/
       background: /images/homebannerAnimated02.gif
       variant: image
       size: sm
