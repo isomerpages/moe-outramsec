@@ -50,7 +50,6 @@ sections:
       description: "Where students inspire others through their actions. Where
         students demonstrate moral courage. Where students are rooted in their
         school values. #thisisOutram"
-      button: Button Text
       alt: Image alt text
   - infopic:
       title: Contributors with Compassion
