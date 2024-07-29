@@ -44,6 +44,7 @@ sections:
         their talents. Where students develop a love for learning.
         #thisisOutram"
       alt: Image alt text
+      image: /images/stem01.jpg
   - infopic:
       title: Leaders of Integrity
       id: infopic
@@ -51,6 +52,7 @@ sections:
         students demonstrate moral courage. Where students are rooted in their
         school values. #thisisOutram"
       alt: Image alt text
+      image: /images/leaders01.jpg
   - infopic:
       title: Contributors with Compassion
       id: infopic
@@ -58,4 +60,5 @@ sections:
         inclusivity.  Where students are inspired by Social Service Agencies.
         #thisisOutram"
       alt: Image alt text
+      image: /images/contributors1b.jpg
 ---
