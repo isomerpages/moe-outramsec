@@ -9,7 +9,7 @@ sections:
   - hero:
       key_highlights:
         - title: OSS Announcements
-          description: VIEW
+          description: News & Updates
           url: /News-and-Announcements/News-and-Announcements/
         - title: OSS Celebrates
           description: VIEW
