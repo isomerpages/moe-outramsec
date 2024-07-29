@@ -26,7 +26,7 @@ sections:
       alignment: left
       backgroundColor: gray
   - textcards:
-      title: Announcements
+      title: ""
       id: textcards
       cards:
         - title: ECHA Award Nomination
