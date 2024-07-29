@@ -11,14 +11,14 @@ sections:
         - title: OSS Announcements
           description: News & Updates
           url: /News-and-Announcements/News-and-Announcements/
-        - title: OSS Celebrates
-          description: VIEW
+        - title: OSS Recognitions
+          description: Student & Staff Achievements
           url: /OSS-Success-Stories/OSS-Success-Stories/
-        - title: OSS Congratulates
-          description: VIEW
+        - title: OSS Celebrations
+          description: Recent Events
           url: /Achievements/Achievements/
         - title: OSS Connects
-          description: OSS IG
+          description: Our Instagram
           url: https://www.instagram.com/outramsecsch/
       background: /images/homebannerAnimated02.gif
       variant: image
