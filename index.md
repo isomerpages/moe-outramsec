@@ -17,7 +17,7 @@ sections:
         - title: OSS Celebrations
           description: Recent Events
           url: /Achievements/Achievements/
-        - title: OSS Connects
+        - title: OutramSPIRIT❤️💛💙
           description: Our Instagram
           url: https://www.instagram.com/outramsecsch/
       background: /images/homebannerAnimated02.gif
