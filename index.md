@@ -25,11 +25,6 @@ sections:
       size: sm
       alignment: left
       backgroundColor: gray
-  - infobar:
-      title: ECHA NOMINATION 2024
-      id: infobar
-      button: Please click her for more information
-      url: /files/News%20&%20Announcements/2024_ONLINE_PUBLICITY_INFO.pdf
   - textcards:
       title: Announcements
       id: textcards
@@ -42,4 +37,11 @@ sections:
           description: The Preliminary Examination 2024.
           linktext: Click Here To View
           url: https://www.outramsec.moe.edu.sg/files/Parents%20and%20Students/Students/2024_Prelim_Exam_Timetable_290724.pdf
+  - infopic:
+      title: Learners for Life
+      id: infopic
+      description: "Where students pursue their interest. Where students discover
+        their talents. Where students develop a love for learning.
+        #thisisoutram"
+      alt: Image alt text
 ---
