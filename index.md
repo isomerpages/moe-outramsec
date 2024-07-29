@@ -52,4 +52,11 @@ sections:
         school values. #thisisOutram"
       button: Button Text
       alt: Image alt text
+  - infopic:
+      title: Contributors with Compassion
+      id: infopic
+      description: "Where students initiate acts of kindness. Where students practise
+        inclusivity.  Where students are inspired by Social Service Agencies.
+        #thisisOutram"
+      alt: Image alt text
 ---
