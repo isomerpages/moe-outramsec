@@ -42,6 +42,14 @@ sections:
       id: infopic
       description: "Where students pursue their interest. Where students discover
         their talents. Where students develop a love for learning.
-        #thisisoutram"
+        #thisisOutram"
+      alt: Image alt text
+  - infopic:
+      title: Leaders of Integrity
+      id: infopic
+      description: "Where students inspire others through their actions. Where
+        students demonstrate moral courage. Where students are rooted in their
+        school values. #thisisOutram"
+      button: Button Text
       alt: Image alt text
 ---
