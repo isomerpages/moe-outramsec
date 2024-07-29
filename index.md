@@ -34,7 +34,7 @@ sections:
       title: Announcements
       id: textcards
       cards:
-        - title: ECHA Nomination 2024
+        - title: ECHA Award Nomination
           description: The Edusave Character (ECHA) Award 2024 Nomination is now open.
           linktext: Click Here for More Information
           url: https://www.outramsec.moe.edu.sg/files/News%20&%20Announcements/2024_ONLINE_PUBLICITY_INFO.pdf
