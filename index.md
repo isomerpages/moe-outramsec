@@ -8,9 +8,6 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: OSS Announcements
-          description: News & Updates
-          url: /News-and-Announcements/News-and-Announcements/
         - title: OSS Recognitions
           description: Student & Staff Achievements
           url: /OSS-Success-Stories/OSS-Success-Stories/
@@ -26,7 +23,7 @@ sections:
       alignment: left
       backgroundColor: gray
   - textcards:
-      title: ""
+      title: Announcements
       id: textcards
       cards:
         - title: ECHA Award Nomination
