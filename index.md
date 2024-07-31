@@ -21,7 +21,7 @@ sections:
       variant: image
       size: sm
       alignment: left
-      backgroundColor: gray
+      backgroundColor: white
   - textcards:
       title: Announcements
       id: textcards
