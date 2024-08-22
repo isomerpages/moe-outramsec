@@ -9,25 +9,20 @@ sections:
   - hero:
       key_highlights:
         - title: OSS Announcements
-          description: VIEW
-          url: /News-and-Announcements/News-and-Announcements/
-        - title: OSS Celebrates
-          description: VIEW
+          description: Hear Us
+          url: News-and-Announcements/News-and-Announcements/
+        - title: OSS Recognitions
+          description: Student & Staff Achievements
           url: /OSS-Success-Stories/OSS-Success-Stories/
-        - title: OSS Congratulates
-          description: VIEW
+        - title: OSS Celebrations
+          description: Recent Events
           url: /Achievements/Achievements/
-        - title: OSS Connects
-          description: OSS IG
+        - title: OutramSPIRIT❤️💛💙
+          description: Our Instagram
           url: https://www.instagram.com/outramsecsch/
       background: /images/homebannerAnimated02.gif
       variant: image
-      size: sm
-      alignment: left
+      size: md
+      alignment: right
       backgroundColor: gray
-  - infobar:
-      title: ECHA NOMINATION 2024
-      id: infobar
-      button: Please click her for more information
-      url: /files/News%20&%20Announcements/2024_ONLINE_PUBLICITY_INFO.pdf
 ---

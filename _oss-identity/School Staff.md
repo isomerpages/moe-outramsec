@@ -53,25 +53,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Elaine Toh-Tan
-<br>
-</p>
-<p></p>
-<p></p>
-<p></p>
+<p>Mrs Elaine Toh-Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice Principal</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_yee_lin_elaine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yee_lin_elaine@schools.gov.sg</a>
 </p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <blockquote>
+<p></p>
 <h4>HODs/Subject Heads</h4>
 </blockquote>
 <table style="minWidth: 75px">
@@ -369,6 +365,7 @@ variant: tiptap
 </table>
 <blockquote>
 <p></p>
+<p></p>
 <p>Form Teachers 2023 (Lower Secondary)</p>
 </blockquote>
 <table style="minWidth: 75px">
@@ -413,7 +410,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ismath Banu Binte Mohamed Yaseen</p>
-<p></p>
 <p></p>
 <p>Mr Prathivmohan S/O Chandramohan</p>
 <p>&nbsp;</p>
@@ -596,15 +592,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Lim Teck Ming</p>
 <p></p>
-<p>Ms Chin Ann Ann</p>
+<p></p>
 <p>Ms Nur Atikah Binte Kamsani</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="lim_teck_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_teck_ming@schools.gov.sg </a>
 <br>
-</p>
-<p><a href="chin_ann_ann@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_ann_ann@schools.gov.sg</a>
 </p>
 <p><a href="nur_atikah_kamsani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_atikah_kamsani@schools.gov.sg</a>
 </p>
@@ -775,6 +769,7 @@ variant: tiptap
 </tbody>
 </table>
 <blockquote>
+<p></p>
 <h4>Senior Teachers</h4>
 </blockquote>
 <table style="minWidth: 50px">
@@ -810,6 +805,7 @@ variant: tiptap
 </tbody>
 </table>
 <blockquote>
+<p></p>
 <h4>Student Development Team</h4>
 </blockquote>
 <table style="minWidth: 50px">
@@ -836,6 +832,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Geraldine Ang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Leo Chin Ho</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -845,6 +849,7 @@ variant: tiptap
 </tbody>
 </table>
 <blockquote>
+<p></p>
 <h4>Executive and Administrative Staff</h4>
 </blockquote>
 <table style="minWidth: 50px">
@@ -919,9 +924,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Zahira
-<br>
-</p>
+<p>Ms Zahira</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ICT Associate</p>
@@ -929,12 +932,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Saseekumar
-<br>Mr Ghazzali</p>
+<p>Mr Saseekumar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Desktop Engineer
-<br>Desktop Engineer</p>
+<p>Desktop Engineer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ghazzali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
 </td>
 </tr>
 <tr>
@@ -999,14 +1008,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>OSO</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
