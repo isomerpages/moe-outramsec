@@ -8,6 +8,9 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: OSS Announcements
+          description: Hear Us
+          url: News-and-Announcements/News-and-Announcements/
         - title: OSS Recognitions
           description: Student & Staff Achievements
           url: /OSS-Success-Stories/OSS-Success-Stories/
@@ -17,11 +20,11 @@ sections:
         - title: OutramSPIRIT❤️💛💙
           description: Our Instagram
           url: https://www.instagram.com/outramsecsch/
-      background: /images/banner_01.png
+      background: /images/homebannerAnimated02.gif
       variant: image
-      size: sm
-      alignment: left
-      backgroundColor: white
+      size: md
+      alignment: right
+      backgroundColor: gray
   - textcards:
       title: Announcements
       id: textcards
@@ -38,28 +41,4 @@ sections:
           description: Letter to Parents and Calendar of Events
           linktext: Click Here to View
           url: https://www.outramsec.moe.edu.sg/files/Parents%20and%20Students/Parents/2024_Term_3_Letter_to_Parents___270624_vetted.pdf
-  - infopic:
-      title: Learners for Life
-      id: infopic
-      description: "Where students pursue their interest. Where students discover
-        their talents. Where students develop a love for learning.
-        #thisisOutram"
-      alt: Image alt text
-      image: /images/stem01.jpg
-  - infopic:
-      title: Leaders of Integrity
-      id: infopic
-      description: "Where students inspire others through their actions. Where
-        students demonstrate moral courage. Where students are rooted in their
-        school values. #thisisOutram"
-      alt: Image alt text
-      image: /images/leaders01.jpg
-  - infopic:
-      title: Contributors with Compassion
-      id: infopic
-      description: "Where students initiate acts of kindness. Where students practise
-        inclusivity.  Where students are inspired by Social Service Agencies.
-        #thisisOutram"
-      alt: Image alt text
-      image: /images/contributors1b.jpg
 ---
