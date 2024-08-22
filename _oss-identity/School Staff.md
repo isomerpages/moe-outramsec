@@ -414,7 +414,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Ms Ismath Banu Binte Mohamed Yaseen</p>
 <p></p>
-<p></p>
 <p>Mr Prathivmohan S/O Chandramohan</p>
 <p>&nbsp;</p>
 </td>
@@ -596,15 +595,13 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Lim Teck Ming</p>
 <p></p>
-<p>Ms Chin Ann Ann</p>
+<p></p>
 <p>Ms Nur Atikah Binte Kamsani</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="lim_teck_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_teck_ming@schools.gov.sg </a>
 <br>
-</p>
-<p><a href="chin_ann_ann@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_ann_ann@schools.gov.sg</a>
 </p>
 <p><a href="nur_atikah_kamsani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_atikah_kamsani@schools.gov.sg</a>
 </p>
@@ -836,6 +833,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Geraldine Ang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Leo Chin Ho</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -919,9 +924,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Zahira
-<br>
-</p>
+<p>Ms Zahira</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ICT Associate</p>
@@ -929,12 +932,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Saseekumar
-<br>Mr Ghazzali</p>
+<p>Mr Saseekumar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Desktop Engineer
-<br>Desktop Engineer</p>
+<p>Desktop Engineer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ghazzali</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
 </td>
 </tr>
 <tr>
