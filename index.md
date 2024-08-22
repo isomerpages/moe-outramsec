@@ -25,20 +25,4 @@ sections:
       size: md
       alignment: right
       backgroundColor: gray
-  - textcards:
-      title: Announcements
-      id: textcards
-      cards:
-        - title: ECHA Award Nomination
-          description: The Edusave Character (ECHA) Award 2024 Nomination is now open.
-          linktext: Click Here for More Information
-          url: https://www.outramsec.moe.edu.sg/files/News%20&%20Announcements/2024_ONLINE_PUBLICITY_INFO.pdf
-        - title: Preliminary Examination 2024 Timetable
-          description: The Preliminary Examination 2024
-          linktext: Click Here To View
-          url: https://www.outramsec.moe.edu.sg/files/Parents%20and%20Students/Students/2024_Prelim_Exam_Timetable_290724.pdf
-        - title: Letter to Parents - Term 3 2024
-          description: Letter to Parents and Calendar of Events
-          linktext: Click Here to View
-          url: https://www.outramsec.moe.edu.sg/files/Parents%20and%20Students/Parents/2024_Term_3_Letter_to_Parents___270624_vetted.pdf
 ---
