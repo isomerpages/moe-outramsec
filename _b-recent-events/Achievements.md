@@ -14,52 +14,5 @@ variant: tiptap
 </blockquote>
 <script src="//www.instagram.com/embed.js" async="true"></script>
 </div>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<ul>
-<li>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;2023</p>
-</li>
-</ul>
-<p><a href="/b-recent-events/permalink/graduation2023/" rel="noopener noreferrer nofollow" target="_blank">Graduation Ceremony 2023</a>
-<br><a href="/b-recent-events/liveonfestival2023/" rel="noopener noreferrer nofollow" target="_blank">Live on Festival 2023</a>
-<br><a href="/b-recent-events/ssg/" rel="noopener noreferrer nofollow" target="_blank">Sustainable Singapore Gallery</a>
-<br><a href="/b-recent-events/stem/" rel="noopener noreferrer nofollow" target="_blank">STEM Playground – Satay Stick Challenge 2023</a>
-<br><a href="/b-recent-events/aplm/" rel="noopener noreferrer nofollow" target="_blank">ITE Applied Learning Modules (ApLM)</a>
-<br><a href="/b-recent-events/ibsc/" rel="noopener noreferrer nofollow" target="_blank">Inter-School Bouldering Competition 2023 </a>
-<br><a href="/b-recent-events/lijiayi/" rel="noopener noreferrer nofollow" target="_blank">Li Jiayi Award</a>
-<br><a href="/b-recent-events/tamilnewyear/" rel="noopener noreferrer nofollow" target="_blank">Tamil New Year 2023</a>
-<br><a href="/b-recent-events/mathtrail/" rel="noopener noreferrer nofollow" target="_blank">Math Trail 2023</a>
-<br><a href="/b-recent-events/ocacelebration/" rel="noopener noreferrer nofollow" target="_blank">Outram Chinese Alumni CNY and Birthday Party Celebration</a>
-<br><a href="/b-recent-events/chinesenewyearcelebration/" rel="noopener noreferrer nofollow" target="_blank">Chinese New Year Celebration 2023</a>
-<br>
-</p>
-<p></p>
-<ul>
-<li>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;2022</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p><a href="/events/Queens-Commonwealth-Essay-Competition/" rel="noopener noreferrer nofollow" target="_blank">Outram wins Gold at the Queen's Commonwealth Essay Competition</a>
-<br><a href="/achievements/Inspiring-Teacher-of-English-Award/" rel="noopener noreferrer nofollow" target="_blank">Inspiring Teacher of English Award</a>
-<br><a href="/achievements/Most-Inspiring-Tamil-Teachers-Award/" rel="noopener noreferrer nofollow" target="_blank">Most Inspiring Tamil Teachers' Award</a>
-<br><a href="/achievements/LEAP-Award-2022/" rel="noopener noreferrer nofollow" target="_blank">LEAP Award 2022</a>
-<br><a href="/achievements/Live-On-Festival-2022/" rel="noopener noreferrer nofollow" target="_blank">Live On Festival 2022</a>
-<br><a href="/achievements/Sec-1-Students-won-Silver-in-the-5th-Text-Recital-Competition/" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Students won Silver in the 5th Text Recital Competition</a>
-<br><a href="/achievements/Well-done-Frisbee-players/" rel="noopener noreferrer nofollow" target="_blank">Well done, Frisbee players!</a>
-<br><a href="/achievements/Youth-Cop-News-Youth-and-the-Law-Book-Launch/" rel="noopener noreferrer nofollow" target="_blank">Youth Cop News: Youth and the Law Book Launch</a>
-<br><a href="/achievements/Tamil-New-Year-Celebration-and-Competition-Kim-Seng-CC/" rel="noopener noreferrer nofollow" target="_blank">Tamil New Year Celebration and Competition Kim Seng CC</a>
-<br><a href="/achievements/Congratulations-Outram-B-Division-Netballers/" rel="noopener noreferrer nofollow" target="_blank">Congratulations Outram B Division Netballers!</a>
-<br>
-</p>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<p>&nbsp;&nbsp;</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-</li>
-</ul>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
