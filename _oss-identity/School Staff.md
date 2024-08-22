@@ -53,25 +53,21 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Elaine Toh-Tan
-<br>
-</p>
-<p></p>
-<p></p>
-<p></p>
+<p>Mrs Elaine Toh-Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice Principal</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_yee_lin_elaine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yee_lin_elaine@schools.gov.sg</a>
 </p>
+<p></p>
 </td>
 </tr>
 </tbody>
 </table>
 <blockquote>
+<p></p>
 <h4>HODs/Subject Heads</h4>
 </blockquote>
 <table style="minWidth: 75px">
@@ -368,6 +364,7 @@ variant: tiptap
 </tbody>
 </table>
 <blockquote>
+<p></p>
 <p></p>
 <p>Form Teachers 2023 (Lower Secondary)</p>
 </blockquote>
@@ -772,6 +769,7 @@ variant: tiptap
 </tbody>
 </table>
 <blockquote>
+<p></p>
 <h4>Senior Teachers</h4>
 </blockquote>
 <table style="minWidth: 50px">
@@ -807,6 +805,7 @@ variant: tiptap
 </tbody>
 </table>
 <blockquote>
+<p></p>
 <h4>Student Development Team</h4>
 </blockquote>
 <table style="minWidth: 50px">
@@ -850,6 +849,7 @@ variant: tiptap
 </tbody>
 </table>
 <blockquote>
+<p></p>
 <h4>Executive and Administrative Staff</h4>
 </blockquote>
 <table style="minWidth: 50px">
@@ -1008,14 +1008,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>OSO</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
