@@ -2,9 +2,9 @@ collections:
   b-recent-events:
     output: true
     order:
+      - Achievements.md
       - Graduation Ceremony 2023.md
       - Live On Festival 2023.md
-      - Achievements.md
       - Sustainable Singapore Gallery.md
       - STEM Playground – Satay Stick Challenge 2023.md
       - ITE Applied Learning Modules (ApLM).md
