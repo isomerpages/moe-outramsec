@@ -33,7 +33,7 @@ variant: markdown
 
 
 ### **Exam Timetable 2024**
-[2024 EOY Exam Timetable](/files/2024_EOY_Exam_Timetable_updated_260824.pdf)
+[2024 EOY Exam Timetable](/files/2024_EOY_Exam_Timetable_v30Aug.pdf)
 
 [2024 Prelim Exam Timetable](/files/Parents%20and%20Students/Students/2024_Prelim_Exam_Timetable_290724.pdf)
 
