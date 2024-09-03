@@ -1,6 +1,6 @@
 ---
-title: English Language
-permalink: /school-programmes/Instructional-Programmes/English-Language/
+title: English Language and Literature
+permalink: /school-programmes/instructional-programmes/english-language/
 description: ""
 third_nav_title: Instructional Programmes
 variant: tiptap
