@@ -265,18 +265,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Wong Ann Ann</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Level Head/ English Language/Literature</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="chin_ann_ann@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chin_ann_ann@schools.gov.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Kannan Kalidasan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -817,14 +805,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Isabella Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Counsellor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ryan Lee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
