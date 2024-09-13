@@ -505,7 +505,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="woo_kah_whye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woo_kah_whye@moe.edu.sg</a>
+<p><a href="woo_kah_whye@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">woo_kah_whye@schools.gov.sg</a>
 </p>
 <p></p>
 <p><a href="singaram_vijayalakshmi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">singaram_vijayalakshmi@schools.gov.sg</a>
@@ -567,7 +567,7 @@ variant: tiptap
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="goh_ban_leng@moe.edu.sg@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_ban_leng@moe.edu.sg@schools.gov.sg</a>
+<p><a href="goh_ban_leng@moe.edu.sg@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_ban_leng@schools.gov.sg</a>
 </p>
 <p><a href="abdul_rahman_abdul_rahim_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_rahman_abdul_rahim_a@schools.gov.sg</a>
 </p>
@@ -608,7 +608,7 @@ variant: tiptap
 <p><a href="Kannan_Kalidasan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kannan_Kalidasan@schools.gov.sg</a>
 </p>
 <p></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">cheong_hong_bin@moe.edu.sg</a>
+<p><a href="mailto:cheong_hong_bin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_hong_bin@schools.gov.sg</a>
 </p>
 </td>
 </tr>
