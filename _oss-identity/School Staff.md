@@ -265,6 +265,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Ong Kok Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head/ Craft &amp; Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_kok_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_kok_heng@schools.gov.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Kannan Kalidasan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -335,6 +347,18 @@ variant: tiptap
 </p>
 <p></p>
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Durga Devi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Acting Level Head/ Craft &amp; Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:durga_devi_v_jagarajan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">durga_devi_v_jagarajan@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
