@@ -2,7 +2,7 @@ collections:
   oss-identity:
     output: true
     order:
-      - Staff/.keep
+      - Leadership Team/.keep
       - About Us.md
       - Principal's Message.md
       - History.md
