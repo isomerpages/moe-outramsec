@@ -2,6 +2,7 @@ collections:
   oss-identity:
     output: true
     order:
+      - Leadership Team/Dawa T Sherpa.md
       - Leadership Team/.keep
       - About Us.md
       - Principal's Message.md
