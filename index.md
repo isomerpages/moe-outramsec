@@ -40,4 +40,11 @@ sections:
         moral courage, and are rooted in their school values. #thisisOutram"
       image: /images/leaders01.jpg
       alt: Image alt text
+  - infopic:
+      title: Contributors with Compassion
+      id: infopic
+      description: "Where students initiate acts of kindness, practise inclusivity,
+        and are inspired by Social Service Agencies. #thisisOutram"
+      image: /images/contributors1b.jpg
+      alt: Image alt text
 ---
