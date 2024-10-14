@@ -38,63 +38,32 @@ variant: markdown
 	<tbody>
 	</tbody><tbody>
   <tr>
-    <td class="tg-baqh"><span style="font-weight:600;color:#484848">Associate of AST Award Recipients 2023<br> Executive &amp; Administrative Staff and Allied Educators</span></td>
+    <td class="tg-baqh"><span style="font-weight:600;color:#484848"> MOE Service Excellence Award (MSEA) 2024 Silver</span></td>
   </tr>
   <tr>
-    <td class="tg-baqh">Innovator - Ms Li Jiayi</td>
+    <td class="tg-baqh">Mr Ajmal Khan<br> Dawa Tshering Sherpa<br>Diana Binte Othman<br>Durga Devi V Jagarajan<br> Goh Ban Leng<br>Haslinda Yusof<br> Lee Jing Wen<br> Leo Chin Ho<br> Manwinder Kaur D/O Harbhajan Singh<br>Nur Atikah Kamsani<br> Ong Wee Teck<br>Selvaraja Rajoo<br>Siti Aisyah@Sugimah Binte Adanan<br>Woo Kah Whye<br>Zaiton Mohamed Punither Basa</td>
   </tr>
 </tbody>
 	<tbody>
 	</tbody><tbody>
   <tr>
-    <td class="tg-baqh"><span style="font-weight:600;color:#484848">MOE Innergy Winning Projects - Commendation Award</span></td>
+    <td class="tg-baqh"><span style="font-weight:600;color:#484848">National Day Award 2024 (The Commendation Medal) </span></td>
   </tr>
   <tr>
-    <td class="tg-baqh">Mrs Cheryl Fan<br> Mrs Wong Ann Ann<br> Ms Charmaine Loke<br> Mr Mohan</td>
+    <td class="tg-baqh">Cheryl Lim Ming Yuh</td>
   </tr>
 </tbody>
 	<tbody>
 </tbody><tbody>
   <tr>
-    <td class="tg-baqh"><span style="font-weight:600;color:#484848">British Council Social Action Award</span></td>
+    <td class="tg-baqh"><span style="font-weight:600;color:#484848">National Day Award 2024 (The Long Service Medal 25 Years) </span></td>
   </tr>
   <tr>
-    <td class="tg-baqh">Ms Li Jiayi</td>
+    <td class="tg-baqh">Keith Tan <br> Siva Sankar S/O Sinnasamy</td>
   </tr>
 </tbody>
 	<tbody>
-  <tr>
-    <td class="tg-baqh"><span style="font-weight:600;color:#484848">National Day Award 2023 (The Commendation Medal)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">Mr Dawa Tshering Sherpa</td>
-  </tr>
-</tbody>
-	<tbody>
-  <tr>
-    <td class="tg-baqh"><span style="font-weight:600;color:#484848">National Day Award 2023 (The Long Service Medal 25 Years)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">Tan Boon Hwee</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">Innovator - Ms Li Jiayi</td>
-  </tr>
-</tbody>
-  <tbody>
-  </tbody><tbody>
-  <tr>
-    <td class="tg-baqh"><span style="font-weight:600;color:#484848">MOE Innergy Winning Projects - Commendation Award</span></td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">Mrs Cheryl Fan<br> Mrs Wong Ann Ann<br> Ms Charmaine Loke<br> Mr Mohan</td>
-  </tr>
-</tbody>
-  <tbody>
-</tbody><tbody>
-		<tr>
-    <td class="tg-baqh">Ong Kok Heng</td>
-  </tr>
+  
 </tbody>
 </table>
 <style type="text/css">
@@ -180,13 +149,13 @@ variant: markdown
     <td class="tg-baqh"><span style="font-weight:600;color:#484848">MOE Innergy Winning Projects - Commendation Award</span></td>
   </tr>
   <tr>
-    <td class="tg-baqh">Mrs Cheryl Fan<br> Mrs Wong Ann Ann<br> Ms Charmaine Loke<br> Mr Mohan</td>
+    <td class="tg-baqh">Mrs Cheryl Fan<br> Mrs Wong Ann Ann<br> Ms Charmaine Loke<br> Mr Mohan<br>Ong Kok Heng</td>
   </tr>
 </tbody>
   <tbody>
 </tbody><tbody>
 		<tr>
-    <td class="tg-baqh">Ong Kok Heng</td>
+    <td class="tg-baqh"></td>
   </tr>
 </tbody>
 </table>
