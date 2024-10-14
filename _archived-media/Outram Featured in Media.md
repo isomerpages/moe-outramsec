@@ -148,7 +148,7 @@ B boys' 1,500m freestyle title</p>
 <h4>2014</h4>
 <p>&nbsp;<strong>Water Polo: Kingpins ACS(I) reclaim title from Outram</strong>
 </p>
-<p><a href="https://www.asiaone.com/news/sports/water-polo-kingpins-acsi-reclaim-title-outram" rel="noopener noreferrer nofollow" target="_blank">https://www.asiaone.com/news/sports/water-polo-kingpins-acsi-reclaim-title-outram</a>&nbsp;</p>
+<p></p>
 <h4>2013</h4>
 <p><strong>Outram new kings of B division</strong>
 </p>
@@ -157,8 +157,7 @@ B boys' 1,500m freestyle title</p>
 <h4>2011</h4>
 <p><strong>欧南中学加入专长计划&nbsp;学生学工商管理获肯定</strong>
 </p>
-<p><a href="https://www.zaobao.com.sg/lifestyle/education/live/story20110513-22087" rel="noopener noreferrer nofollow" target="_blank">https://www.zaobao.com.sg/lifestyle/education/live/story20110513-22087</a>
-</p>
+<p></p>
 <h4>2009</h4>
 <p><strong>Nurturing principal wins praise</strong>
 </p>
