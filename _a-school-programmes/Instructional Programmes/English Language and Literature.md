@@ -1359,7 +1359,7 @@ it out here!
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="http://www.learnenglish.org.uk/" rel="noopener noreferrer nofollow" target="_blank">Learn English</a></strong>
+<p><strong><a href="https://learnenglish.britishcouncil.org/" rel="noopener noreferrer nofollow" target="_blank">Learn English</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
