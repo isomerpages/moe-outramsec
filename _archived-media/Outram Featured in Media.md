@@ -68,8 +68,7 @@ ceremony</p>
 featured on CNA (the feature starts from 10:40 into the video)</p>
 </li>
 </ul>
-<p><a href="https://www.channelnewsasia.com/news/video-on-demand/show-me-the-city/generation-next-12211838" rel="noopener noreferrer nofollow" target="_blank">https://www.channelnewsasia.com/news/video-on-demand/show-me-the-city/generation-next-12211838</a>
-</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>School sports: Outram Secondary swimmer Ardi overcomes illness to clinch
