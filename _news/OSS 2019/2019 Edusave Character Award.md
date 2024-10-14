@@ -3,6 +3,7 @@ title: 2019 Edusave Character Award
 permalink: /news/OSS-2019/2019-Edusave-Character-Award/
 description: ""
 third_nav_title: OSS 2019
+variant: markdown
 ---
 MOE has introduced a new Edusave Character Award (ECHA) to **enable schools to recognise students who demonstrate exemplary character and outstanding personal qualities through their behaviour and actions**.  This is part of the larger goal to foster an inclusive and stronger Singapore as we broaden the qualities and achievements to be encouraged and applauded. The award also supports schools’ continuing efforts in nurturing students of good values and character, who are active contributors and concerned citizens.
 
@@ -36,4 +37,3 @@ ECHA Awardees will receive a certificate and a monetary voucher of $500.  This 
 
   
 
-Nomination forms can be downloaded [here](https://outramsec-moe-edu-sg-admin.cwp.sg/qql/slot/u512/PDF/2019%20EDUSAVE%20CH%20AWARD%20nomination%20form.doc).

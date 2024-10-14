@@ -2,6 +2,7 @@
 title: OSS Official Videos
 permalink: /media/OSS-Official-Videos/
 description: ""
+variant: markdown
 ---
 ![](/images/Media/OSS%20Official%20Videos/O1.jpg) 
 
@@ -124,6 +125,3 @@ description: ""
   
 
 ![](/images/Media/OSS%20Official%20Videos/P9.jpg)
-    
-
-[Outram Ink's participation in the National Digital Storytelling Competition featured on CNA.](https://www.channelnewsasia.com/news/video-on-demand/show-me-the-city/generation-next-12211838) (The feature starts from 10:40 into the video)

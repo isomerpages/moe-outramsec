@@ -26,7 +26,10 @@ Find out about us!</p>
 <blockquote>
 <h4><strong>Members</strong></h4>
 </blockquote>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -186,7 +189,11 @@ through multimodal media such as videos, images, texts and audio resources.</p>
 </p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -361,7 +368,13 @@ Parade.
 <p>Goh Ting Shuen, Vera Sec 3/4</p>
 </li>
 </ul>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -698,7 +711,13 @@ the essay topics were centered round the Covid-19 pandemic.
 <p>We are pleased to announce the following good results. Bravo, Outram writers!
 <br>
 </p>
-<table>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -886,7 +905,12 @@ the essay topics were centered round the Covid-19 pandemic.
 <br><strong>OSS Speakability Award</strong> 
 <br>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -919,7 +943,12 @@ the essay topics were centered round the Covid-19 pandemic.
 <br><strong>'Kindness Makes Us Stronger' Sharvin Sekar (Sec 2/4), Koh Chen Soon (Sec2/4)</strong> 
 <br>
 </p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1059,7 +1088,10 @@ and Participation.
 <p><strong>Outram Times</strong>
 </p>
 <p>&nbsp;&nbsp;&nbsp;</p>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1096,7 +1128,11 @@ and Participation.
 <br>
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1254,7 +1290,11 @@ and Participation.
 <br>
 <br>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1285,7 +1325,11 @@ and Participation.
 </tbody>
 </table>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -1315,7 +1359,7 @@ it out here!
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong><a href="http://www.learnenglish.org.uk/" rel="noopener noreferrer nofollow" target="_blank">Learn English</a></strong>
+<p><strong><a href="https://learnenglish.britishcouncil.org/" rel="noopener noreferrer nofollow" target="_blank">Learn English</a></strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1339,15 +1383,6 @@ for teachers and learners of English</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>English Grammar Online 4 U focuses on learning and applying grammar rules.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="http://xn--grammarterrorist-1e6i.blogspot.sg/" rel="noopener noreferrer nofollow" target="_blank">Grammar Terrorist</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The Grammar Terrorist Blog</p>
 </td>
 </tr>
 <tr>
