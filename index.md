@@ -27,7 +27,6 @@ sections:
       backgroundColor: gray
   - infopic:
       title: Learners for Life
-      subtitle: Add an image and text
       id: infopic
       description: "Where students pursue their interest, discover their talents, and
         develop a love for learning. #thisisOutram"
