@@ -3,6 +3,7 @@ title: Preparing for your child's transition to Post Secondary Education
 permalink: /news/OSS-2019/Preparing-for-your-childs-transition-to-Post-Secondary-Education/
 description: ""
 third_nav_title: OSS 2019
+variant: markdown
 ---
 Dear parents,
 
@@ -10,7 +11,7 @@ Your child would be moving on to his/her post-secondary education soon. Do you h
 
 Join MOE’s seminar on 1 June – “Preparing for Your Child’s Transition to Post-Secondary Education”, to hear from a panel comprising of an Education and Career Guidance (ECG) counsellor, a parent, and representatives from ITE, JC and Poly.
 
-You may register via the [_link_](https://pfevents.sg/moepostsec2019) provided.
+
 
 Thank you!
 
