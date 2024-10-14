@@ -378,7 +378,7 @@ variant: tiptap
 <blockquote>
 <p></p>
 <p></p>
-<p>Form Teachers 2023 (Lower Secondary)</p>
+<p>Form Teachers 2024 (Lower Secondary)</p>
 </blockquote>
 <table style="minWidth: 75px">
 <colgroup>
@@ -558,7 +558,7 @@ variant: tiptap
 <blockquote>
 <p></p>
 <p></p>
-<p>Form Teachers 2023 (Upper Secondary)</p>
+<p>Form Teachers 2024 (Upper Secondary)</p>
 </blockquote>
 <table style="minWidth: 75px">
 <colgroup>
