@@ -2,7 +2,6 @@ collections:
   oss-identity:
     output: true
     order:
-      - Departments.md
       - About Us.md
       - Principal's Message.md
       - History.md
@@ -10,6 +9,7 @@ collections:
       - School Philosophy Motto and Badge.md
       - School Song.md
       - School Staff.md
+      - Departments.md
       - Our Leadership Statements.md
       - Outram Community Network/.keep
       - Outram Community Network/About Outram Community Network.md
