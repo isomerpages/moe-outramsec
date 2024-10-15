@@ -2,11 +2,11 @@ collections:
   oss-identity:
     output: true
     order:
-      - OSS Staff/Maths Department.md
       - OSS Staff/.keep
       - OSS Staff/Departments.md
       - OSS Staff/School Management Committee.md
       - OSS Staff/Executive and Administrative Staff.md
+      - OSS Staff/Maths Department.md
       - OSS Staff/Science Department.md
       - OSS Staff/School Development Team.md
       - About Us.md
