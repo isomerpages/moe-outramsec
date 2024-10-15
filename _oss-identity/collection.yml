@@ -2,6 +2,7 @@ collections:
   oss-identity:
     output: true
     order:
+      - OSS Staff/PE Department.md
       - OSS Staff/.keep
       - OSS Staff/Departments.md
       - OSS Staff/English Department.md
