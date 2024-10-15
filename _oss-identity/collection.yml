@@ -2,9 +2,9 @@ collections:
   oss-identity:
     output: true
     order:
-      - OSS Staff/School Management Committee.md
-      - OSS Staff/Departments.md
       - OSS Staff/.keep
+      - OSS Staff/Departments.md
+      - OSS Staff/School Management Committee.md
       - About Us.md
       - Principal's Message.md
       - History.md
