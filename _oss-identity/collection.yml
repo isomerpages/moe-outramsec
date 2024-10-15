@@ -2,8 +2,8 @@ collections:
   oss-identity:
     output: true
     order:
-      - Departments/Departments.md
-      - Departments/.keep
+      - OSS Staff/Departments.md
+      - OSS Staff/.keep
       - About Us.md
       - Principal's Message.md
       - History.md
