@@ -2,9 +2,9 @@ collections:
   oss-identity:
     output: true
     order:
-      - OSS Staff/Craft and Technology.md
       - OSS Staff/.keep
       - OSS Staff/Departments.md
+      - OSS Staff/Craft and Technology.md
       - OSS Staff/PE Department.md
       - OSS Staff/English Department.md
       - OSS Staff/Business and Enterprise.md
