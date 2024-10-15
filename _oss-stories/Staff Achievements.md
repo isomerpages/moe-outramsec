@@ -15,6 +15,68 @@ variant: markdown
 <table class="tg">
 <thead>
   <tr>
+    <th class="tg-baqh"><span style="color:#323232">2024</span></th>
+  </tr>
+</thead>
+	<tbody>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:600;color:#484848">MOE Service Excellence Award (MSEA) 2024 Platinum and  Gold</span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Cheryl Lim Ming Yuh</td>
+  </tr>
+</tbody>
+	<tbody>
+	</tbody><tbody>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:600;color:#484848">MOE Service Excellence Award (MSEA) 2024 Gold</span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Ms Chua YiPing<br>Ms Ismath Banu</td>
+  </tr>
+</tbody>
+	<tbody>
+	</tbody><tbody>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:600;color:#484848"> MOE Service Excellence Award (MSEA) 2024 Silver</span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Mr Ajmal Khan<br> Dawa Tshering Sherpa<br>Diana Binte Othman<br>Durga Devi V Jagarajan<br> Goh Ban Leng<br>Haslinda Yusof<br> Lee Jing Wen<br> Leo Chin Ho<br> Manwinder Kaur D/O Harbhajan Singh<br>Nur Atikah Kamsani<br> Ong Wee Teck<br>Selvaraja Rajoo<br>Siti Aisyah@Sugimah Binte Adanan<br>Woo Kah Whye<br>Zaiton Mohamed Punither Basa</td>
+  </tr>
+</tbody>
+	<tbody>
+	</tbody><tbody>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:600;color:#484848">National Day Award 2024 (The Commendation Medal) </span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Cheryl Lim Ming Yuh</td>
+  </tr>
+</tbody>
+	<tbody>
+</tbody><tbody>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:600;color:#484848">National Day Award 2024 (The Long Service Medal 25 Years) </span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Keith Tan <br> Siva Sankar S/O Sinnasamy</td>
+  </tr>
+</tbody>
+	<tbody>
+  
+</tbody>
+</table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
     <th class="tg-baqh"><span style="color:#323232">2023</span></th>
   </tr>
 </thead>
@@ -77,8 +139,23 @@ variant: markdown
   <tr>
     <td class="tg-baqh">Tan Boon Hwee</td>
   </tr>
+  <tr>
+    <td class="tg-baqh">Innovator - Ms Li Jiayi</td>
+  </tr>
+</tbody>
+  <tbody>
+  </tbody><tbody>
+  <tr>
+    <td class="tg-baqh"><span style="font-weight:600;color:#484848">MOE Innergy Winning Projects - Commendation Award</span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Mrs Cheryl Fan<br> Mrs Wong Ann Ann<br> Ms Charmaine Loke<br> Mr Mohan<br>Ong Kok Heng</td>
+  </tr>
+</tbody>
+  <tbody>
+</tbody><tbody>
 		<tr>
-    <td class="tg-baqh">Ong Kok Heng</td>
+    <td class="tg-baqh"></td>
   </tr>
 </tbody>
 </table>
@@ -448,257 +525,3 @@ variant: markdown
 .tg .tg-ogew{background-color:#FFF;color:#484848;text-align:center;vertical-align:top}
 .tg .tg-6x2v{background-color:#FFF;color:#484848;font-weight:bold;text-align:center;vertical-align:top}
 </style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ezyw"><span style="color:#323232">2019</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-6x2v"><span style="font-weight:600;color:#484848">National Day Award 2019 (Long service Medal 25 Years)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ogew">Mr Hazlan Bin Aris</td>
-  </tr>
-  <tr>
-    <td class="tg-6x2v"><span style="font-weight:600;color:#484848">National Day Award 2019:</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ogew">Ms Tan Boon Hwee</td>
-  </tr>
-</tbody>
-</table>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ezyw{background-color:#FFF;color:#323232;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ogew{background-color:#FFF;color:#484848;text-align:center;vertical-align:top}
-.tg .tg-6x2v{background-color:#FFF;color:#484848;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ezyw"><span style="color:#323232">2018</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-6x2v"><span style="font-weight:600;color:#484848">National Day Awards 2018 (The Commendation Medal)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ogew">Mr Francis Tang Yee Fun</td>
-  </tr>
-  <tr>
-    <td class="tg-ogew">Mdm Santhi d/o Shanmugham</td>
-  </tr>
-  <tr>
-    <td class="tg-6x2v"><span style="font-weight:600;color:#484848">MOE Service Excellence Award (MSEA) 2018</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ogew">Mr Abdul Rahman Bin Abdul Rahim</td>
-  </tr>
-  <tr>
-    <td class="tg-ogew">Ms Anirda Mohd Anuar</td>
-  </tr>
-  <tr>
-    <td class="tg-ogew">Ms Cheong Wenxin Serene</td>
-  </tr>
- 
-  <tr>
-    <td class="tg-ogew">Mr Huang Jianyang Marcus</td>
-  </tr>
-  <tr>
-    <td class="tg-ogew">Mdm Idah Bte Kasmin</td>
-  </tr>
-  <tr>
-    <td class="tg-ogew">Ms Melissa Lim Singh</td>
-  </tr>
-  <tr>
-    <td class="tg-ogew">Ms Tan Boon Hwee</td>
-  </tr>
-  <tr>
-    <td class="tg-ogew">Ms Tan Sok Cheng Julianna</td>
-  </tr>
-  <tr>
-    <td class="tg-ogew">Mr Tan Tzei Kea Alex</td>
-  </tr>
-  <tr>
-    <td class="tg-ogew">Ms Woo See Wei</td>
-  </tr>
-  <tr>
-    <td class="tg-ogew">Ms Yap Qiu Hong</td>
-  </tr>
-  <tr>
-    <td class="tg-6x2v"><span style="font-weight:600;color:#484848">NIE Caring Teachers Award 2018:</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ogew">Mdm Cheryl Lim Ming Yuh</td>
-  </tr>
-  <tr>
-    <td class="tg-ogew">Mrs Wong Ann Ann</td>
-  </tr>
-  <tr>
-    <td class="tg-ogew">Ms Tan Boon Hwee</td>
-  </tr>
-  <tr>
-    <td class="tg-ogew">Ms Tan Xi Ling</td>
-  </tr>
-  <tr>
-    <td class="tg-ogew">Mdm Hajjah Haslinda Bte Yuso</td>
-  </tr>
-</tbody>
-</table>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ezyw{background-color:#FFF;color:#323232;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ogew{background-color:#FFF;color:#484848;text-align:center;vertical-align:top}
-.tg .tg-6x2v{background-color:#FFF;color:#484848;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ezyw"><span style="color:#323232">2017</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-6x2v"><span style="font-weight:600;color:#484848">National Day Awards 2017 (The Commendation Medal)</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ogew">Mdm Faith Wong Ching Hun</td>
-  </tr>
-</tbody>
-</table>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ezyw{background-color:#FFF;color:#323232;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ogew{background-color:#FFF;color:#484848;text-align:center;vertical-align:top}
-.tg .tg-6x2v{background-color:#FFF;color:#484848;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ezyw"><span style="color:#323232">2016</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ogew"> </td>
-  </tr>
-  <tr>
-    <td class="tg-6x2v"><span style="font-weight:600;color:#484848">NIE Caring Teachers Award 2016:</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ogew">Mr Jason Ooi</td>
-  </tr>
-  <tr>
-    <td class="tg-ogew">Ms Zaiton Mohamed Punither Basa</td>
-  </tr>
-  <tr>
-    <td class="tg-ogew">Ms Ng Kah-yi Grace</td>
-  </tr>
-  <tr>
-    <td class="tg-ogew">Mdm Teo Li Li</td>
-  </tr>
-  <tr>
-    <td class="tg-ogew">Mdm Kiranjit Kaur Tarlok Singh</td>
-  </tr>
-</tbody>
-</table>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ezyw{background-color:#FFF;color:#323232;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ogew{background-color:#FFF;color:#484848;text-align:center;vertical-align:top}
-.tg .tg-6x2v{background-color:#FFF;color:#484848;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ezyw"><span style="color:#323232">2014</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ogew"> </td>
-  </tr>
-  <tr>
-    <td class="tg-6x2v"><span style="font-weight:600;color:#484848">NIE Caring Teachers Award 2014:</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ogew">Mr Yeo Eu Gin Terence</td>
-  </tr>
-  <tr>
-    <td class="tg-ogew">Ms Zaiton Mohamed Punither Basa</td>
-  </tr>
-  <tr>
-    <td class="tg-ogew">Ms Melissa Lim Singh</td>
-  </tr>
-  <tr>
-    <td class="tg-ogew">Ms Ng Kah-yi Grace</td>
-  </tr>
-  <tr>
-    <td class="tg-ogew">Ms Yeo Yang Hong</td>
-  </tr>
-</tbody>
-</table>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-ezyw{background-color:#FFF;color:#323232;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-ogew{background-color:#FFF;color:#484848;text-align:center;vertical-align:top}
-.tg .tg-6x2v{background-color:#FFF;color:#484848;font-weight:bold;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-ezyw"><span style="color:#323232">2012</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-ogew"> </td>
-  </tr>
-  <tr>
-    <td class="tg-6x2v"><span style="font-weight:600;color:#484848">NIE Caring Teachers Award 2012:</span></td>
-  </tr>
-  <tr>
-    <td class="tg-ogew">Ms Chen Ping Xin</td>
-  </tr>
-  <tr>
-    <td class="tg-ogew">Mdm Cheryl Lim Ming Yuh</td>
-  </tr>
-  <tr>
-    <td class="tg-ogew">Ms Cheong Wenxin Serene</td>
-  </tr>
-  <tr>
-    <td class="tg-ogew">Mdm Teo Li Li</td>
-  </tr>
-  <tr>
-    <td class="tg-ogew">Mr Francis Tang Yee Fun</td>
-  </tr>
-</tbody>
-</table>
