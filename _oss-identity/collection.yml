@@ -2,8 +2,6 @@ collections:
   oss-identity:
     output: true
     order:
-      - SMC/.keep
-      - SMC/Departments.md
       - About Us.md
       - Principal's Message.md
       - History.md
