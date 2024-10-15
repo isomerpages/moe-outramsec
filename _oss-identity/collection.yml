@@ -2,8 +2,6 @@ collections:
   oss-identity:
     output: true
     order:
-      - School Management Committee/Departments.md
-      - School Management Committee/.keep
       - About Us.md
       - Principal's Message.md
       - History.md
