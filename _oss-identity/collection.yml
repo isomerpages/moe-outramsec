@@ -2,6 +2,7 @@ collections:
   oss-identity:
     output: true
     order:
+      - SMC/School Management Committee.md
       - SMC/Departments.md
       - SMC/.keep
       - About Us.md
