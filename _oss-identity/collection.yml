@@ -4,7 +4,6 @@ collections:
     order:
       - SMC/.keep
       - SMC/Departments.md
-      - SMC/School Management Committee.md
       - About Us.md
       - Principal's Message.md
       - History.md
