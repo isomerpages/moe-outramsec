@@ -2,6 +2,7 @@ collections:
   oss-identity:
     output: true
     order:
+      - OSS Staff/Business and Enterprise.md
       - OSS Staff/Humanities Department.md
       - OSS Staff/.keep
       - OSS Staff/Departments.md
