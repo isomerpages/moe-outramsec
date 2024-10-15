@@ -34,8 +34,7 @@ third_nav_title: OSS Staff
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Our_Personal_Statement__Elaine_.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -57,7 +56,8 @@ third_nav_title: OSS Staff
 <p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click here</p>
+<p><a href="/files/Our_Personal_Statement__Elaine_.pdf" rel="noopener noreferrer nofollow" target="_blank">Click here</a>
+</p>
 </td>
 </tr>
 </tbody>
