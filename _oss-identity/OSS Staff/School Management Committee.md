@@ -34,7 +34,7 @@ third_nav_title: OSS Staff
 <p>Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Click Here</p>
 </td>
 </tr>
 <tr>
@@ -63,6 +63,7 @@ third_nav_title: OSS Staff
 </tbody>
 </table>
 <blockquote>
+<p></p>
 <h4>HODs/Subject Heads</h4>
 </blockquote>
 <table style="minWidth: 75px">
