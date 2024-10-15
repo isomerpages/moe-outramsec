@@ -13,10 +13,7 @@ third_nav_title: OSS Staff
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/SMC.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/school-management-committee/"><img style="width: 85%;" height="auto" width="100%" alt="" src="/images/SMC.jpg"></a>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
