@@ -2,6 +2,7 @@ collections:
   oss-identity:
     output: true
     order:
+      - OSS Staff/School Management Committee.md
       - OSS Staff/Departments.md
       - OSS Staff/.keep
       - About Us.md
