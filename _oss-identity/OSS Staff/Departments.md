@@ -52,10 +52,7 @@ third_nav_title: OSS Staff
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/MTL.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/mother-tongue-department/"><img style="width: 85%;" height="auto" width="100%" alt="" src="/images/MTL.jpg"></a>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
