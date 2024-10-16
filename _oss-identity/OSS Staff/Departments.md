@@ -41,10 +41,7 @@ third_nav_title: OSS Staff
 <p></p><a class="isomer-image-wrapper" href="/pe-department/"><img style="width: 85%;" height="auto" width="100%" alt="" src="/images/PE.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/ELL.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/english-department/"><img style="width: 85%;" height="auto" width="100%" alt="" src="/images/ELL.jpg"></a>
 </td>
 </tr>
 <tr>
