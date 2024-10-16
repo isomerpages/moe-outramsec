@@ -21,10 +21,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/SDT.jpg">
-</div>
+<p></p><a class="isomer-image-wrapper" href="/school-development-team/"><img style="width: 85%;" height="auto" width="100%" alt="" src="/images/SDT.jpg"></a>
 </td>
 <td rowspan="1" colspan="1">
 <p></p><a class="isomer-image-wrapper" href="/science-department/"><img style="width: 85%;" height="auto" width="100%" alt="" src="/images/SCI.jpg"></a>
