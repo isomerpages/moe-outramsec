@@ -65,10 +65,7 @@ third_nav_title: OSS Staff
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/C_T.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/craft-and-technology/"><img style="width: 85%;" height="auto" width="100%" alt="" src="/images/C_T.jpg"></a>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
