@@ -45,10 +45,7 @@ third_nav_title: OSS Staff
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/HUM.jpg">
-</div>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/humanities-department/"><img style="width: 85%;" height="auto" width="100%" alt="" src="/images/HUM.jpg"></a>
 <p></p>
 </td>
 <td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="/business-and-enterprise/"><img style="width: 85%;" height="auto" width="100%" alt="" src="/images/B_E.jpg"></a>
