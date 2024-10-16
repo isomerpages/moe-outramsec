@@ -113,7 +113,7 @@ third_nav_title: OSS Staff
 <p>HOD/ Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click here</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -124,7 +124,7 @@ third_nav_title: OSS Staff
 <p>HOD/Science and Talent Development</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click here</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -135,7 +135,7 @@ third_nav_title: OSS Staff
 <p>HOD/ Information Communication Technology &amp; Craft and Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click here</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -146,7 +146,8 @@ third_nav_title: OSS Staff
 <p>HOD/ CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click here</p>
+<p><a href="/files/Goh_Heng_kok.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -157,7 +158,7 @@ third_nav_title: OSS Staff
 <p>HOD/ Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click here</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -168,7 +169,8 @@ third_nav_title: OSS Staff
 <p>HOD/ Business &amp; Enterprise &amp; Student Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click here</p>
+<p><a href="/files/Serene.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -179,7 +181,8 @@ third_nav_title: OSS Staff
 <p>HOD/Educational Support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click here</p>
+<p><a href="/files/dawa.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -190,7 +193,7 @@ third_nav_title: OSS Staff
 <p>HOD/PE&amp;CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click here</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -201,7 +204,7 @@ third_nav_title: OSS Staff
 <p>HOD/Special Projects</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click here</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -212,7 +215,7 @@ third_nav_title: OSS Staff
 <p>HOD/21CC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click here</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -223,7 +226,8 @@ third_nav_title: OSS Staff
 <p>Year Head (Upper Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click here</p>
+<p><a href="/files/Oliver.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -235,7 +239,8 @@ third_nav_title: OSS Staff
 <p>Covering MTL Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click here</p>
+<p><a href="/files/faith_tan.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -246,7 +251,7 @@ third_nav_title: OSS Staff
 <p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click here</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -257,7 +262,7 @@ third_nav_title: OSS Staff
 <p>Subject Head/ Craft &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click here</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -268,7 +273,7 @@ third_nav_title: OSS Staff
 <p>SH/Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click here</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -279,7 +284,7 @@ third_nav_title: OSS Staff
 <p>SH/Student Leadership &amp; Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click here</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -290,7 +295,7 @@ third_nav_title: OSS Staff
 <p>SH/Educational Support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click here</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -301,7 +306,8 @@ third_nav_title: OSS Staff
 <p>Acting Subject Head/ CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click here</p>
+<p><a href="/files/atikah.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -312,7 +318,8 @@ third_nav_title: OSS Staff
 <p>Acting Subject Head/ ML</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click here</p>
+<p><a href="/files/Norizan.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -323,9 +330,8 @@ third_nav_title: OSS Staff
 <p>Acting Level Head/ English Language/Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<p>Click here</p>
-<p></p>
+<p><a href="/files/ismath.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -336,7 +342,8 @@ third_nav_title: OSS Staff
 <p>Acting Level Head/ Craft &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click here</p>
+<p><a href="/files/durga.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -347,7 +354,7 @@ third_nav_title: OSS Staff
 <p>Acting Subject Head/ Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Click here</p>
+<p></p>
 </td>
 </tr>
 </tbody>
