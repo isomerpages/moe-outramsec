@@ -98,7 +98,7 @@ third_nav_title: OSS Staff
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Cheryl_Lim_PS__002_.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+<p><a href="/files/Cheryl_Lim_PS__002d_.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
 <p></p>
 <p></p>
