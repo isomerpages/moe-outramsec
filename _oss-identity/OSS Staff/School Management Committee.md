@@ -284,7 +284,8 @@ third_nav_title: OSS Staff
 <p>SH/Student Leadership &amp; Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/aqilah.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -295,7 +296,8 @@ third_nav_title: OSS Staff
 <p>SH/Educational Support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/aqilah.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
 </td>
 </tr>
 <tr>
