@@ -10,9 +10,8 @@ third_nav_title: OSS Staff
 </blockquote>
 <p></p>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -24,9 +23,6 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>HOD/ Humanities</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>View our Leadership Statements</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -34,9 +30,6 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/ Student Management</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -46,9 +39,6 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>Acting Subject Head/ Mathematics</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -57,20 +47,16 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>SH/Student Leadership &amp; Well-Being</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/abdul.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Abdul Rahman Bin Abdul Rahim</p>
+<p></p>
+<p><a href="/files/abdul.pdf" rel="noopener noreferrer nofollow" target="_blank">View our Leadership Statement</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -80,9 +66,6 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -91,9 +74,6 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -101,9 +81,6 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
