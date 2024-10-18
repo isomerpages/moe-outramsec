@@ -20,7 +20,7 @@ third_nav_title: OSS Staff
 <p>Mrs Cheryl Fan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ English Language /Literature &amp; School Staff Developer&nbsp;</p>
+<p>Head of Department/ English Language /Literature &amp; School Staff Developer&nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -28,7 +28,7 @@ third_nav_title: OSS Staff
 <p>Ms Zaiton</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ Student Management</p>
+<p>Head of Department/ Student Management</p>
 </td>
 </tr>
 <tr>
@@ -36,7 +36,7 @@ third_nav_title: OSS Staff
 <p>Mr Dawa T. Sherpa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Educational Support</p>
+<p>Head of Department/Educational Support</p>
 </td>
 </tr>
 <tr>
@@ -44,7 +44,7 @@ third_nav_title: OSS Staff
 <p>Ms Aqilah Binte Juma'in</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Student Leadership &amp; Well-Being</p>
+<p>Subject Head/Student Leadership &amp; Well-Being</p>
 </td>
 </tr>
 <tr>
@@ -52,7 +52,7 @@ third_nav_title: OSS Staff
 <p>Mr Samuel Ng Aik Siong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Educational Support</p>
+<p>Subject Head/Educational Support</p>
 </td>
 </tr>
 <tr>
