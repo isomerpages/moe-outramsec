@@ -92,7 +92,7 @@ third_nav_title: OSS Staff
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ English Language /Literature &amp; School Staff Developer&nbsp;</p>
+<p>Head of Department/ English Language /Literature &amp; School Staff Developer&nbsp;</p>
 <p></p>
 <p></p>
 <p></p>
@@ -110,7 +110,7 @@ third_nav_title: OSS Staff
 <p>Ms Tan Boon Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ Humanities</p>
+<p>Head of Department/ Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -121,7 +121,7 @@ third_nav_title: OSS Staff
 <p>Mr Koh Siak Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Science and Talent Development</p>
+<p>Head of Department/Science and Talent Development</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -132,7 +132,8 @@ third_nav_title: OSS Staff
 <p>Mr Loh Peng Yeong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ Information Communication Technology &amp; Craft and Technology</p>
+<p>Head of Department/ Information Communication Technology &amp; Craft and
+Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -143,7 +144,7 @@ third_nav_title: OSS Staff
 <p>Mr Goh Keng Hock</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ CCE</p>
+<p>Head of Department/ CCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Goh_Heng_kok.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
@@ -155,7 +156,7 @@ third_nav_title: OSS Staff
 <p>Ms Zaiton</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ Student Management</p>
+<p>Head of Department/ Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -166,7 +167,7 @@ third_nav_title: OSS Staff
 <p>Ms Serene Cheong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ Business &amp; Enterprise &amp; Student Well-Being</p>
+<p>Head of Department/ Business &amp; Enterprise &amp; Student Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Serene.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
@@ -178,7 +179,7 @@ third_nav_title: OSS Staff
 <p>Mr Dawa T. Sherpa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Educational Support</p>
+<p>Head of Department/Educational Support</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/dawa.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
@@ -190,7 +191,7 @@ third_nav_title: OSS Staff
 <p>Mr Chew Kia Sheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/PE&amp;CCA</p>
+<p>Head of Department/PE&amp;CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -201,7 +202,7 @@ third_nav_title: OSS Staff
 <p>Mr Irwan Haerman Bin Tomin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Special Projects</p>
+<p>Head of Department/Special Projects</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -212,7 +213,7 @@ third_nav_title: OSS Staff
 <p>Mr Ajmal Khan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/21CC</p>
+<p>Head of Department/21CC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -270,7 +271,7 @@ third_nav_title: OSS Staff
 <p>Mr Kannan Kalidasan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Student Management</p>
+<p>Subject Head/Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -281,7 +282,7 @@ third_nav_title: OSS Staff
 <p>Ms Aqilah Binte Juma'in</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Student Leadership &amp; Well-Being</p>
+<p>Subject Head/Student Leadership &amp; Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/aqilah.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
@@ -293,7 +294,7 @@ third_nav_title: OSS Staff
 <p>Mr Samuel Ng Aik Siong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Educational Support</p>
+<p>Subject Head/Educational Support</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/aqilah.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
