@@ -20,7 +20,7 @@ third_nav_title: OSS Staff
 <p>Ms Serene Cheong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ Business &amp; Enterprise &amp; Student Well-Being</p>
+<p>Head of Department/ Business &amp; Enterprise &amp; Student Well-Being</p>
 </td>
 </tr>
 <tr>
@@ -28,7 +28,7 @@ third_nav_title: OSS Staff
 <p>Mr Kannan Kalidasan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Student Management</p>
+<p>Subject Head/Student Management</p>
 </td>
 </tr>
 <tr>
