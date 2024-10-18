@@ -21,7 +21,7 @@ third_nav_title: OSS Staff
 <p>Mr Ajmal Khan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/21CC</p>
+<p>Head of Department/21CC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
