@@ -48,14 +48,6 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Geraldine Ang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>FAJT Counsellor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Yeo Yang Hong</p>
 </td>
 <td rowspan="1" colspan="1">
