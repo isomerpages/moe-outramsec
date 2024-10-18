@@ -40,10 +40,10 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Geraldine Ang</p>
+<p>Mr Tan We Hsiung Kenny</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FAJT Counsellor</p>
+<p>Education Career Guidance Counsellor (ECGC)</p>
 </td>
 </tr>
 <tr>
@@ -68,7 +68,7 @@ third_nav_title: OSS Staff
 <p>Mr Irwan Haerman Bin Tomin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Special Projects</p>
+<p>Head of Department/Special Projects</p>
 </td>
 </tr>
 <tr>
@@ -76,7 +76,7 @@ third_nav_title: OSS Staff
 <p>Mr Goh Keng Hock</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ CCE</p>
+<p>Head of Department/ CCE</p>
 </td>
 </tr>
 <tr>
@@ -92,7 +92,7 @@ third_nav_title: OSS Staff
 <p>Mr Chew Kia Sheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/PE&amp;CCA</p>
+<p>Head of Department/PE&amp;CCA</p>
 </td>
 </tr>
 <tr>
@@ -100,7 +100,7 @@ third_nav_title: OSS Staff
 <p>Ms Serene Cheong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ Business &amp; Enterprise &amp; Student Well-Being</p>
+<p>Head of Department/ Business &amp; Enterprise &amp; Student Well-Being</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +108,7 @@ third_nav_title: OSS Staff
 <p>Ms Zaiton</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ Student Management</p>
+<p>Head of Department/ Student Management</p>
 </td>
 </tr>
 <tr>
@@ -116,7 +116,7 @@ third_nav_title: OSS Staff
 <p>Mr Dawa T. Sherpa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Educational Support</p>
+<p>Head of Department/Educational Support</p>
 </td>
 </tr>
 <tr>
@@ -124,7 +124,7 @@ third_nav_title: OSS Staff
 <p>Mr Kannan Kalidasan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Student Management</p>
+<p>Subject Head/Student Management</p>
 </td>
 </tr>
 <tr>
@@ -132,7 +132,7 @@ third_nav_title: OSS Staff
 <p>Ms Aqilah Binte Juma'in</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Student Leadership &amp; Well-Being</p>
+<p>Subject Head/Student Leadership &amp; Well-Being</p>
 </td>
 </tr>
 <tr>
@@ -148,7 +148,7 @@ third_nav_title: OSS Staff
 <p>Mr Samuel Ng Aik Siong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SH/Educational Support</p>
+<p>Subject Head/Educational Support</p>
 </td>
 </tr>
 </tbody>

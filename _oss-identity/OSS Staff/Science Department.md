@@ -21,7 +21,7 @@ third_nav_title: OSS Staff
 <p>Mr Koh Siak Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Science and Talent Development</p>
+<p>Head of Department/Science and Talent Development</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -32,7 +32,7 @@ third_nav_title: OSS Staff
 <p>Mr Goh Keng Hock</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ CCE</p>
+<p>Head of Department/ CCE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>

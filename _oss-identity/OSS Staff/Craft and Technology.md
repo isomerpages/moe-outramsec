@@ -20,7 +20,8 @@ third_nav_title: OSS Staff
 <p>Mr Loh Peng Yeong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ Information Communication Technology &amp; Craft and Technology</p>
+<p>Head of Department/ Information Communication Technology &amp; Craft and
+Technology</p>
 </td>
 </tr>
 <tr>

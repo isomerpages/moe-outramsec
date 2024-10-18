@@ -20,7 +20,7 @@ third_nav_title: OSS Staff
 <p>Mr Chew Kia Sheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/PE&amp;CCA</p>
+<p>Head of Department/PE&amp;CCA</p>
 </td>
 </tr>
 <tr>
@@ -28,7 +28,7 @@ third_nav_title: OSS Staff
 <p>Mr Irwan Haerman Bin Tomin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Special Projects</p>
+<p>Head of Department/Special Projects</p>
 </td>
 </tr>
 <tr>
