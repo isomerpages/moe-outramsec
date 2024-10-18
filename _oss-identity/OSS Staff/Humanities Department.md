@@ -52,7 +52,7 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>Mr Abdul Rahman Bin Abdul Rahim</p>
 <p></p>
-<p><a href="/files/abdul.pdf" rel="noopener noreferrer nofollow" target="_blank">View our Leadership Statement</a>
+<p><a href="/files/abdul.pdf" rel="noopener noreferrer nofollow" target="_blank">View my Leadership Statement</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
