@@ -8,8 +8,9 @@ third_nav_title: OSS Staff
 <blockquote>
 <h4>School Leaders</h4>
 </blockquote>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -23,6 +24,9 @@ third_nav_title: OSS Staff
 <p>Appointment</p>
 </th>
 <th rowspan="1" colspan="1">
+<p>Email</p>
+</th>
+<th rowspan="1" colspan="1">
 <p>View our leadership statements</p>
 </th>
 </tr>
@@ -32,6 +36,10 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:keith_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">keith_tan@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -45,6 +53,10 @@ third_nav_title: OSS Staff
 <p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:guinieve_yeo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">guinieve_yeo@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -54,6 +66,10 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_yee_lin_elaine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yee_lin_elaine@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Our_Personal_Statement__Elaine1_.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
