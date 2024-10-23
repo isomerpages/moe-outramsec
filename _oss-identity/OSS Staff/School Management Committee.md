@@ -82,8 +82,9 @@ third_nav_title: OSS Staff
 <p></p>
 <h4>HODs/Subject Heads</h4>
 </blockquote>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -95,6 +96,9 @@ third_nav_title: OSS Staff
 </th>
 <th rowspan="1" colspan="1">
 <p>Appointment</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>View our leadership statements</p>
@@ -114,6 +118,10 @@ third_nav_title: OSS Staff
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheryl_lim_ming_yuh@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="/files/Cheryl_Lim_PS__002d_.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
 <p></p>
@@ -129,6 +137,10 @@ third_nav_title: OSS Staff
 <p>Head of Department/ Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:tan_boon_hwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_boon_hwee@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -138,6 +150,10 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department/Science and Talent Development</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_siak_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_siak_peng@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -152,6 +168,10 @@ third_nav_title: OSS Staff
 Technology</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:loh_peng_yeong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_peng_yeong@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -161,6 +181,10 @@ Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department/ CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_keng_hock@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_keng_hock@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Goh_Heng_kok.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
@@ -175,6 +199,10 @@ Technology</p>
 <p>Head of Department/ Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:zaiton_mohamed_punither_basa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zaiton_mohamed_punither_basa@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -184,6 +212,10 @@ Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department/ Business &amp; Enterprise &amp; Student Well-Being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheong_wenxin_serene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_wenxin_serene@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Serene.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
@@ -198,6 +230,10 @@ Technology</p>
 <p>Head of Department/Educational Support</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:dawa_tshering_sherpa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dawa_tshering_sherpa@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="/files/dawa.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
 </td>
@@ -208,6 +244,10 @@ Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department/PE&amp;CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chew_kia_sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_kia_sheng@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -221,6 +261,10 @@ Technology</p>
 <p>Head of Department/Special Projects</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:chew_kia_sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_kia_sheng@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -232,6 +276,10 @@ Technology</p>
 <p>Head of Department/21CC</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:ajmal_khan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ajmal_khan@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -241,6 +289,10 @@ Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head (Upper Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:oliver_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">oliver_tan@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/Oliver.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
@@ -256,6 +308,10 @@ Technology</p>
 <p>Covering MTL Head</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:wong_ching_hun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_ching_hun@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="/files/faith_tan.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
 </td>
@@ -266,6 +322,10 @@ Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:yeo_yang_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_yang_hong@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -279,6 +339,10 @@ Technology</p>
 <p>Subject Head/ Craft &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:ong_kok_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_kok_heng@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -290,6 +354,10 @@ Technology</p>
 <p>Subject Head/Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:kannan_kalidasan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kannan_kalidasan@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p></p>
 </td>
 </tr>
@@ -299,6 +367,10 @@ Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head/Student Leadership &amp; Well-Being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:aqilah_jumain@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aqilah_jumain@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/aqilah.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
@@ -313,6 +385,10 @@ Technology</p>
 <p>Subject Head/Educational Support</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:samuel_ng_aik_siong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">samuel_ng_aik_siong@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="/files/samuel.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
 </td>
@@ -323,6 +399,10 @@ Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Acting Subject Head/ CCE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:samuel_ng_aik_siong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">samuel_ng_aik_siong@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/atikah.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
@@ -337,6 +417,10 @@ Technology</p>
 <p>Acting Subject Head/ ML</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:norizan_mohamad_nor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norizan_mohamad_nor@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="/files/Norizan.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
 </td>
@@ -347,6 +431,10 @@ Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Acting Level Head/ English Language/Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ismath_banu_mohamed_yaseen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ismath_banu_mohamed_yaseen@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/ismath.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
@@ -361,6 +449,10 @@ Technology</p>
 <p>Acting Level Head/ Craft &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:durga_devi_v_jagarajan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">durga_devi_v_jagarajan@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><a href="/files/durga.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
 </td>
@@ -371,6 +463,10 @@ Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Acting Subject Head/ Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_ting_long@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ting_long@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
