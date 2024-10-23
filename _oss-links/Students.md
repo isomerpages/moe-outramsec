@@ -26,8 +26,8 @@ variant: markdown
 ### **Booklist**
 
 
+[Booklist 2025](/files/BOOKLIST_for_2025.pdf)
 
-[Booklist 2024](/files/2024%20booklist.pdf)
 
 
 ### **Exam Timetable 2024**
