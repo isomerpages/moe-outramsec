@@ -13,12 +13,12 @@ on developing physical fitness and imparting military-related knowledge
 and skills, while nurturing essential qualities such as confidence, communication,
 resilience, and leadership.</p>
 <p>Our cadets engage in a diverse range of activities designed to challenge
-and inspire. We participate in exciting LaserTag sessions, master footdrills,
-and undergo rigorous physical fitness training. Our Situational Awareness
-Challenges and confidence courses push cadets to their limits, fostering
-mental toughness and problem-solving skills. We also take part in HQ-organised
-activities, including immersive day camps that provide hands-on learning
-experiences.</p>
+and inspire. We participate in exciting laser tag sessions, master foot
+drills, and undergo rigorous physical fitness training. Our Situational
+Awareness Challenges and confidence courses push cadets to their limits,
+fostering mental toughness and problem-solving skills. We also take part
+in HQ-organised activities, including immersive day camps that provide
+hands-on learning experiences.</p>
 <p>Through these activities, we aim to cultivate 'Learners for Life' and
 'Leaders of Integrity' – key student outcomes that align with our school's
 vision. Our NCC unit instils a passion for continuous learning and personal
