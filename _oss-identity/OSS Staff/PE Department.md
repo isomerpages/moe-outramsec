@@ -73,6 +73,14 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Lim Teck Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Cheong Hong Bin (John)</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -82,14 +90,6 @@ third_nav_title: OSS Staff
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Shireen Shoba Stephen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Prathivmohan S/O Chandramohan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
