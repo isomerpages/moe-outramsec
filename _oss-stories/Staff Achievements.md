@@ -52,6 +52,18 @@ variant: markdown
   <tr>
     <td class="tg-baqh">Cheryl Lim Ming Yuh</td>
   </tr>
+	<tr>
+    <td class="tg-baqh"><span style="font-weight:600;color:#484848">2024 Associate of AST Award Recipient Faciliator for Workshops </span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Subbu Suba Sakthidevi</td>
+  </tr>
+	<tr>
+    <td class="tg-baqh"><span style="font-weight:600;color:#484848">Caring Teacher Award 2024  </span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Diana Othman<br>Gloria Ng Yu Han<br>Lim Teck Ming<br>Norizan Binte Mohamad Nor<br> Woo Kah Whye</td>
+  </tr>
 </tbody>
 	<tbody>
 </tbody><tbody>
