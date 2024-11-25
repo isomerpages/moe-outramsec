@@ -118,7 +118,7 @@ third_nav_title: OSS Staff
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheryl_lim_ming_yuh @moe.edu.sg</a>
+<p><a href="cheryl_lim_ming_yuh@ moe.edu.sg" rel="noopener nofollow" target="_blank">cheryl_lim_ming_yuh@ moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
