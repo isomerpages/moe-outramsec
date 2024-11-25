@@ -446,8 +446,7 @@ Technology</p>
 <p>Acting Level Head/ English Language/Literature</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ismath_banu_mohamed_yaseen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ismath_banu_mohamed_yaseen</a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:ismath_banu_mohamed_yaseen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ismath_banu_mohamed_yaseen@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -463,9 +462,9 @@ Technology</p>
 <p>Acting Level Head/ Craft &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:durga_devi_v_jagarajan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">durga_devi_v_jagarajan</a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:durga_devi_v_jagarajan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">durga_devi_v_jagarajan@moe.edu.sg</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/durga.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
@@ -480,8 +479,7 @@ Technology</p>
 <p>Acting Subject Head/ Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_ting_long@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ting_long</a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:lim_ting_long@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ting_long@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
