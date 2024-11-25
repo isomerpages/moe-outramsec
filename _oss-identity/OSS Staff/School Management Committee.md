@@ -378,8 +378,7 @@ Technology</p>
 <p>Subject Head/Student Leadership &amp; Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:aqilah_jumain@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aqilah_jumain</a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="aqilah_jumain@moe.edu.sg" rel="noopener nofollow" target="_blank">aqilah_jumain@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
