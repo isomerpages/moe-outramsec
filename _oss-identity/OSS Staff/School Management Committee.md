@@ -279,8 +279,7 @@ Technology</p>
 <p>Head of Department/21CC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ajmal_khan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ajmal_khan</a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:ajmal_khan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ajmal_khan@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -313,8 +312,7 @@ Technology</p>
 <p>Covering MTL Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:wong_ching_hun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_ching_hun</a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:wong_ching_hun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_ching_hun@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -330,8 +328,7 @@ Technology</p>
 <p>Assistant Year Head</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yeo_yang_hong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_yang_hong</a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:yeo_yang_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_yang_hong@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -346,8 +343,7 @@ Technology</p>
 <p>Subject Head/ Craft &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ong_kok_heng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ong_kok_heng</a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:ong_kok_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_kok_heng@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -362,8 +358,7 @@ Technology</p>
 <p>Subject Head/Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:kannan_kalidasan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">kannan_kalidasan</a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:kannan_kalidasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kannan_kalidasan@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
