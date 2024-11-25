@@ -137,7 +137,7 @@ third_nav_title: OSS Staff
 <p>Head of Department/ Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_boon_hwee@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_boon_hwee@moe.edu.sg</a>
+<p><a href="mailto:tan_boon_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_boon_hwee@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
