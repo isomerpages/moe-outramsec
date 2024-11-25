@@ -152,8 +152,7 @@ third_nav_title: OSS Staff
 <p>Head of Department/Science and Talent Development</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:koh_siak_peng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">koh_siak_peng</a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:koh_siak_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_siak_peng@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -184,8 +183,7 @@ Technology</p>
 <p>Head of Department/ CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:goh_keng_hock@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">goh_keng_hock</a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:goh_keng_hock@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_keng_hock@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -201,8 +199,7 @@ Technology</p>
 <p>Head of Department/ Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:zaiton_mohamed_punither_basa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">zaiton_mohamed_punither_basa</a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:zaiton_mohamed_punither_basa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zaiton_mohamed_punither_basa@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -217,8 +214,7 @@ Technology</p>
 <p>Head of Department/ Business &amp; Enterprise &amp; Student Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:cheong_wenxin_serene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_wenxin_serene</a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="cheong_wenxin_serene@moe.edu.sg" rel="noopener nofollow" target="_blank">cheong_wenxin_serene@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
