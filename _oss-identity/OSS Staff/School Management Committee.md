@@ -214,7 +214,7 @@ Technology</p>
 <p>Head of Department/ Business &amp; Enterprise &amp; Student Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="cheong_wenxin_serene@moe.edu.sg" rel="noopener nofollow" target="_blank">cheong_wenxin_serene@moe.edu.sg</a>
+<p><a href="mailto:cheong_wenxin_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_wenxin_serene@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -230,8 +230,7 @@ Technology</p>
 <p>Head of Department/Educational Support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:dawa_tshering_sherpa@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dawa_tshering_sherpa</a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:dawa_tshering_sherpa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dawa_tshering_sherpa@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -247,8 +246,7 @@ Technology</p>
 <p>Head of Department/PE&amp;CCA</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chew_kia_sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_kia_sheng</a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:chew_kia_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_kia_sheng@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -263,8 +261,7 @@ Technology</p>
 <p>Head of Department/Special Projects</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chew_kia_sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_kia_sheng</a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:irwan_haerman_tomin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">irwan_haerman_tomin@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
