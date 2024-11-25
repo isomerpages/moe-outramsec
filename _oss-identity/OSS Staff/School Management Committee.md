@@ -395,8 +395,7 @@ Technology</p>
 <p>Subject Head/Educational Support</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:samuel_ng_aik_siong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">samuel_ng_aik_siong</a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:samuel_ng_aik_siong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samuel_ng_aik_siong@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -412,8 +411,7 @@ Technology</p>
 <p>Acting Subject Head/ CCE</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:samuel_ng_aik_siong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">samuel_ng_aik_siong</a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:nur_atikah_kamsani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_atikah_kamsani@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -429,8 +427,7 @@ Technology</p>
 <p>Acting Subject Head/ ML</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:norizan_mohamad_nor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">norizan_mohamad_nor</a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:norizan_mohamad_nor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norizan_mohamad_nor@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
