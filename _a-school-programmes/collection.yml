@@ -2,7 +2,6 @@ collections:
   a-school-programmes:
     output: true
     order:
-      - Educational Career Guidance.md
       - Instructional Programmes/.keep
       - Instructional Programmes/Instructional Programmes.md
       - Instructional Programmes/English Language and Literature.md
@@ -47,3 +46,4 @@ collections:
       - Overseas Trips/Penang, Malaysia 2019.md
       - Overseas Trips/Seoul, Korea 2019.md
       - Overseas Trips/Shanghai, China 2019.md
+      - Educational Career Guidance.md
