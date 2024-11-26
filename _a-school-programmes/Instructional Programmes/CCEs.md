@@ -60,9 +60,3 @@ Sexuality Education (SEd) in schools is about enabling students to understand th
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-
-	
-	
-
-	
