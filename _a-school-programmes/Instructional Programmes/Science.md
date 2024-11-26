@@ -7,74 +7,8 @@ variant: tiptap
 ---
 <p></p>
 <blockquote>
-<p><strong>&nbsp;&nbsp;Members</strong>
-</p>
-</blockquote>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Mr Koh Siak Peng (HOD/Science)</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Alex Tan Tzei Kea (Year Head/Lower Sec)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Tan-Yeo Yang Hong (AYH/Lower Secondary)&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Huang Jianyang Marcus (ST/Physics)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Ting Long</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Samson Wong Siew Pui</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Singaram Vijayalakshmi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Diana Bte Othman</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Goh Ban Leng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Cheong Suet Fun</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Woo Kah Whye</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Nada Ng</p>
-</td>
-</tr>
-</tbody>
-</table>
 <p></p>
+</blockquote>
 <p><strong>Programme</strong>
 </p>
 <p>Science, Technology, Engineering, Arts and Mathematics (STEAM) programme
