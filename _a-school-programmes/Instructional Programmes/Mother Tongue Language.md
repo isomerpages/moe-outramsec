@@ -3,6 +3,7 @@ title: Mother Tongue Language
 permalink: /school-programmes/Instructional-Programmes/Mother-Tongue-Language/
 description: ""
 third_nav_title: Instructional Programmes
+variant: markdown
 ---
 #### **Live with Tradition, Progress with Time**
 
@@ -10,95 +11,16 @@ third_nav_title: Instructional Programmes
 
 The Mother Tongue Language department strives to make learning fun and enriching for our students. Other than instilling in our students a love for the language and an appreciation of their culture, we are also focusing on inculcating the right values and better understanding of other cultures.
 
-<ul class="jekyllcodex_accordion">
 
-&nbsp;&nbsp;<li>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion1" type="checkbox">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Members</label>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-2mff{color:#111;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-lyvw{color:#111;text-align:left;vertical-align:top}
-.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-2mff">Chinese Language</th>
-    <th class="tg-2mff">Tamil Language</th>
-    <th class="tg-2mff">Malay Language</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-lyvw">Mrs Lui Ping Xin (HOD MTL)</td>
-    <td class="tg-lyvw">Mr Cheliyan (SSD, TL Coordinator)</td>
-    <td class="tg-lyvw">Ms Norizan Md Nor<br>(ML Coordinator)<br></td>
-  </tr>
-  <tr>
-    <td class="tg-lyvw">Mrs Faith Tan (HOD CCE)</td>
-    <td class="tg-lyvw">Mdm Sakthi<br></td>
-    <td class="tg-lyvw">Mr Hazlan Bin Aris</td>
-  </tr>
-  <tr>
-    <td class="tg-tsok">Mdm Tan Geok Hoon (MTT)<br></td>
-    <td class="tg-lyvw"> </td>
-    <td class="tg-lyvw">Ms Nasuha Bte Rahmat</td>
-  </tr>
-  <tr>
-    <td class="tg-lyvw">Mdm Tan Kim Choo</td>
-    <td class="tg-lyvw"> </td>
-    <td class="tg-lyvw">Ms Nur Atikah Bte Kamsani    (Acting SH/CCE)</td>
-  </tr>
-  <tr>
-    <td class="tg-lyvw">Mrs Looi Lay Geok</td>
-    <td class="tg-lyvw"> </td>
-    <td class="tg-lyvw"> </td>
-  </tr>
-  <tr>
-    <td class="tg-lyvw">Mr Ken Lim (flexi-adjunct)</td>
-    <td class="tg-lyvw"> </td>
-    <td class="tg-lyvw"> </td>
-  </tr>
-  <tr>
-    <td class="tg-lyvw">Miss Shi Yanwei</td>
-    <td class="tg-lyvw"> </td>
-    <td class="tg-lyvw"> </td>
-  </tr>
-  <tr>
-    <td class="tg-lyvw">Mr Chen Tat Kwang (flexi-adjunct)<br></td>
-    <td class="tg-lyvw"> </td>
-    <td class="tg-lyvw"> </td>
-  </tr>
-  <tr>
-    <td class="tg-lyvw"> </td>
-    <td class="tg-lyvw"> </td>
-    <td class="tg-lyvw"> </td>
-  </tr>
-</tbody>
-</table> </p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
-	<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input id="accordion2" type="checkbox">
 
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Programmes</label>
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-<p> <b>Mother Tongue Language Fortnight (MTL Fortnight)</b><br><br>
+ <b>Mother Tongue Language Fortnight (MTL Fortnight)</b><br><br>
 
 The Mother Tongue Language (MTL) Fortnight is an annual two-week programme that gives Outramians the opportunity to learn and appreciate their Mother Tongue Languages and Cultures through a myriad of activities.<br><br>
 
@@ -225,11 +147,11 @@ To enhance the Secondary 2 students' learning experience in our cultural rooms, 
 The activity required students to respond to various questions on SLS as well as looking for clues in the room.<br><br>
 
 Students were engaged and enjoyed the gamification part on the SLS. The hands-on activities planned by each culture group also provide opportunities for students to collaborate and communicate with one another. They enjoyed themselves and learnt more about other cultures.
-</p>
+<p></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
-</li>
+
 	
 <li>
 
@@ -298,4 +220,3 @@ Students were engaged and enjoyed the gamification part on the SLS. The hands-on
 	
 
 	
-</ul>
