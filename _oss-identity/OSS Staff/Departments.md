@@ -213,7 +213,8 @@ third_nav_title: OSS Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="singaram_vijayalakshmi@moe.edu.sg" rel="noopener nofollow" target="_blank"> singaram_vijayalakshmi@moe.edu.sg</a>
+<p></p>
+<p><a href="singaram_vijayalakshmi@moe.edu.sg" rel="noopener nofollow" target="_blank">singaram_vijayalakshmi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -268,11 +269,9 @@ third_nav_title: OSS Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.outramsec.moe.edu.sg/about-us/School-Staff/durga_devi_v_jagarajan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>goh_ban_leng</u></a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:goh_ban_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_ban_leng@moe.edu.sg</a>
 </p>
-<p><a href="https://www.outramsec.moe.edu.sg/about-us/School-Staff/durga_devi_v_jagarajan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>abdul_rahman_abdul_rahim_a</u></a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:abdul_rahman_abdul_rahim_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_rahman_abdul_rahim_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -288,11 +287,9 @@ third_nav_title: OSS Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.outramsec.moe.edu.sg/about-us/School-Staff/durga_devi_v_jagarajan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_teck_ming</u></a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:lim_teck_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_teck_ming@moe.edu.sg</a>
 </p>
-<p><a href="https://www.outramsec.moe.edu.sg/about-us/School-Staff/durga_devi_v_jagarajan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nur_atikah_kamsani</u></a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:nur_atikah_kamsani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_atikah_kamsani@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -306,16 +303,11 @@ third_nav_title: OSS Staff
 <p>Mr Cheong Hong Bin (John)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.outramsec.moe.edu.sg/about-us/School-Staff/durga_devi_v_jagarajan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>cheong_suet_fun</u></a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:cheong_suet_fun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_suet_fun@moe.edu.sg</a>
 </p>
-<p></p>
-<p><a href="https://www.outramsec.moe.edu.sg/about-us/School-Staff/durga_devi_v_jagarajan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>Kannan_Kalidasan</u></a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:Kannan_Kalidasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Kannan_Kalidasan@moe.edu.sg</a>
 </p>
-<p></p>
-<p><a href="https://www.outramsec.moe.edu.sg/about-us/School-Staff/durga_devi_v_jagarajan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>cheong_hong_bin</u></a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:cheong_hong_bin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_hong_bin@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -329,11 +321,9 @@ third_nav_title: OSS Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.outramsec.moe.edu.sg/about-us/School-Staff/durga_devi_v_jagarajan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chua_yi_ping</u></a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:chua_yi_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_yi_ping@moe.edu.sg</a>
 </p>
-<p><a href="https://www.outramsec.moe.edu.sg/about-us/School-Staff/durga_devi_v_jagarajan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>chong_moh_ching</u></a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:chong_moh_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_moh_ching@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -347,11 +337,9 @@ third_nav_title: OSS Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.outramsec.moe.edu.sg/about-us/School-Staff/durga_devi_v_jagarajan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>norizan_mohamad_nor</u></a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:norizan_mohamad_nor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norizan_mohamad_nor@moe.edu.sg</a>
 </p>
-<p><a href="https://www.outramsec.moe.edu.sg/about-us/School-Staff/durga_devi_v_jagarajan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lim_ting_long</u></a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:lim_ting_long@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ting_long@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -365,11 +353,9 @@ third_nav_title: OSS Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.outramsec.moe.edu.sg/about-us/School-Staff/durga_devi_v_jagarajan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>lee_suet_har</u></a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:lee_suet_har@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_suet_har@moe.edu.sg</a>
 </p>
-<p><a href="https://www.outramsec.moe.edu.sg/about-us/School-Staff/durga_devi_v_jagarajan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>hazlan_mohd_aris</u></a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:hazlan_mohd_aris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hazlan_mohd_aris@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -384,12 +370,9 @@ third_nav_title: OSS Staff
 <p>Mdm Hajjah Haslinda Bte Yusof</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.outramsec.moe.edu.sg/about-us/School-Staff/durga_devi_v_jagarajan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>shi_yanwei</u></a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:shi_yanwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shi_yanwei@moe.edu.sg</a>
 </p>
-<p></p>
-<p><a href="https://www.outramsec.moe.edu.sg/about-us/School-Staff/durga_devi_v_jagarajan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>haslinda_yusof</u></a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:haslinda_yusof@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">haslinda_yusof@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -404,12 +387,9 @@ third_nav_title: OSS Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.outramsec.moe.edu.sg/about-us/School-Staff/durga_devi_v_jagarajan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>subbu_suba_sakthidevi</u></a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:subbu_suba_sakthidevi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">subbu_suba_sakthidevi@moe.edu.sg</a>
 </p>
-<p></p>
-<p><a href="https://www.outramsec.moe.edu.sg/about-us/School-Staff/durga_devi_v_jagarajan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>tan_kim_choo_b</u></a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:tan_kim_choo_b@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kim_choo_b@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -421,8 +401,7 @@ third_nav_title: OSS Staff
 <p>Ms Nasuha Binte Rahmat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.outramsec.moe.edu.sg/about-us/School-Staff/durga_devi_v_jagarajan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>nasuha_rahmat</u></a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:nasuha_rahmat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nasuha_rahmat@moe.edu.sg</a>
 </p>
 </td>
 </tr>
