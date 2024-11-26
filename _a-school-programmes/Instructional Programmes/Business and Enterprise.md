@@ -98,15 +98,3 @@ For more information, please email:
 
 
 </div></li>
-	
-
-		
-   
-		
-  
-
-
-		
-	
-
-	
