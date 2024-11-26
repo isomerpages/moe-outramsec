@@ -95,12 +95,10 @@ third_nav_title: OSS Staff
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.outramsec.moe.edu.sg/about-us/School-Staff/durga_devi_v_jagarajan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>durga_devi_v_jagarajan</u></a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:durga_devi_v_jagarajan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">durga_devi_v_jagarajan@moe.edu.sg</a>
 </p>
 <p></p>
-<p><a href="https://www.outramsec.moe.edu.sg/about-us/School-Staff/durga_devi_v_jagarajan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>liu_pengcheng</u></a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:liu_pengcheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_pengcheng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -115,13 +113,11 @@ third_nav_title: OSS Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.outramsec.moe.edu.sg/about-us/School-Staff/durga_devi_v_jagarajan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>ismath_banu_mohamed_yaseen</u></a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p></p>
+<p><a href="mailto:ismath_banu_mohamed_yaseen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ismath_banu_mohamed_yaseen@moe.edu.sg</a>
 </p>
 <p></p>
-<p></p>
-<p><a href="https://www.outramsec.moe.edu.sg/about-us/School-Staff/durga_devi_v_jagarajan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank"><u>prathivmohan_chandramohan</u></a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
+<p><a href="mailto:prathivmohan_chandramohan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">prathivmohan_chandramohan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
