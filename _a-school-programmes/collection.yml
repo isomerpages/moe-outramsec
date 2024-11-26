@@ -2,6 +2,7 @@ collections:
   a-school-programmes:
     output: true
     order:
+      - Educational Career Guidance.md
       - Instructional Programmes/.keep
       - Instructional Programmes/Instructional Programmes.md
       - Instructional Programmes/English Language and Literature.md
