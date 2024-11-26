@@ -166,9 +166,9 @@ Students were engaged and enjoyed the gamification part on the SLS. The hands-on
 	
 
 
-</p></div>
+</p>
 
-</li>
+</div></li>
 	
 <li>
 
