@@ -29,7 +29,7 @@ This year, we embarked on a department wide learning framework. This learning fr
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 
-</p><p> <b>SEC 1 COURSEWORK</b><br><br>
+<b>SEC 1 COURSEWORK</b><br><br>
 	<b>Task</b><br>
 	Try and recall what you ate yesterday. Record the type and quantity of food consumed. Exchange your worksheet with a partner; check each other’s records against the recommended number of servings in the Healthy Diet Pyramid. What changes can you make to ensure a healthier diet?<br><br>
 	<b>SEC 2 COURSEWORK</b><br><br>
