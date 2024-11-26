@@ -37,7 +37,10 @@ through in-class lessons and enrichment activities.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;Members</p>
 <p></p>
 </blockquote>
-<table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
