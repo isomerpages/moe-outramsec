@@ -164,26 +164,9 @@ Students were engaged and enjoyed the gamification part on the SLS. The hands-on
 <p> 
 <img src="/images/Instructional%20Programmes/Mother%20Tongue%20Language/MTA01.jpg" style="width:70%;height:50%"><br><br>
 	
-<b>Archive</b>
-	
-<a href="/mtl-student-activities/2018/">2018</a><br>
-<a href="/mtl-student-activities/2017/">2017</a><br>
-	<a href="/mtl-student-activities/2016/">2016</a><br>
-<a href="/mtl-student-activities/2015/">2015</a><br>
-<a href="/mtl-student-activities/2014/">2014</a><br>
-<a href="/mtl-student-activities/2013/">2013</a><br>
-<a href="/mtl-student-activities/2012/">2012</a><br>
-<a href="/mtl-student-activities/2011/">2011</a><br>
-<a href="/mtl-student-activities/2010/">2010</a><br>
-<a href="/mtl-student-activities/2009/">2009</a><br>
-<a href="/mtl-student-activities/2008/">2008</a><br>
-<a href="/mtl-student-activities/2007/">2007</a><br>
-<a href="/mtl-student-activities/2006/">2006</a><br>
-<a href="/mtl-student-activities/2005/">2005</a><br>
 
-</p>
 
-</div>
+</p></div>
 
 </li>
 	
@@ -197,26 +180,8 @@ Students were engaged and enjoyed the gamification part on the SLS. The hands-on
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <img src="/images/Instructional%20Programmes/Mother%20Tongue%20Language/MTA02.jpg" style="width:70%;height:50%"><br><br>
 	
-<b>Archive</b><br>
-	<a href="/mtl-teachers-activities/2015/">2015</a><br>
-<a href="/mtl-teachers-activities/2014/">2014</a><br>
-<a href="/mtl-teachers-activities/2013/">2013</a><br>
-<a href="/mtl-teachers-activities/2012/">2012</a><br>
-	<a href="/mtl-teachers-activities/2011/">2011</a><br>
-	<a href="/mtl-teachers-activities/2010/">2010</a><br>
-	<a href="/mtl-teachers-activities/2009/">2009</a><br>
-	<a href="/mtl-teachers-activities/2008/">2008</a><br>
-	<a href="/mtl-teachers-activities/2007/">2007</a><br>
-	<a href="/mtl-teachers-activities/2006/">2006</a><br>
-	<a href="/mtl-teachers-activities/2005/">2005</a><br>
-	<a href="/mtl-teachers-activities/2004/">2004</a><br>
-	<a href="/mtl-teachers-activities/2003/">2003</a><br>
-	</p>
 
-</div>
+
+</p></div>
 
 </li>
-	
-	
-
-	
