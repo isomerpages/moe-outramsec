@@ -7,58 +7,7 @@ variant: markdown
 ---
 <center><iframe allowfullscreen="true" height="400" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSbZ-1o_jIds3BACANe5Izqh8jhAM6ZGM9UmEkryziawE7-y349xVOJXMc-s1bdSIkQCck2nRxjmhBX/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
 
-<ul class="jekyllcodex_accordion">
 
-&nbsp;&nbsp;<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion1">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion1">Members</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lyvw{color:#111;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-lyvw">Ms Serene Cheong<br>[Head of Department]</th>
-    <th class="tg-lyvw">Business Studies, Retail Operations &amp; POA</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-lyvw">Mr Kannan <br>[SH/Student Management]<br></td>
-    <td class="tg-lyvw">Business Studies, POA</td>
-  </tr>
-  <tr>
-    <td class="tg-lyvw">Mdm Chua YP</td>
-    <td class="tg-lyvw">Retail Operations</td>
-  </tr>
-  <tr>
-    <td class="tg-lyvw">Mrs Wendy Loi</td>
-    <td class="tg-lyvw">Principles of Accounts &amp; Business Studies</td>
-  </tr>
-  <tr>
-    <td class="tg-lyvw">Mdm Casey Lee</td>
-    <td class="tg-lyvw">Retail Operations &amp; Principles of Account</td>
-  </tr>
-  
-</tbody>
-</table> </p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
-</li>
-	<li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion2">
 
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Business Studies</label>
 
@@ -84,7 +33,7 @@ For more information, please email: <a href="cheong\_wenxin\_serene@moe.edu.sg">
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
-</li>
+
 	
 <li>
 
@@ -161,4 +110,3 @@ For more information, please email:
 	
 
 	
-</ul>
