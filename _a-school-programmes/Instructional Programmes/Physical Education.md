@@ -60,11 +60,10 @@ To instill the school values in every Outramian through PE and Sports
 
 
 	
-<li>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion3">
 
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion3">LLPLearning for Life Programme for Sports @ Outram</label>
+
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;<div>
 
@@ -79,11 +78,8 @@ The school believes that sport is a very good platform for values education &amp
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
-</li>
-	
-<li>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">
+	
 
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">PE SOW</label>
 
@@ -150,7 +146,7 @@ The school believes that sport is a very good platform for values education &amp
 
 &nbsp;&nbsp;&nbsp;&nbsp;</div>
 
-</li>
+
 	
 	
 
