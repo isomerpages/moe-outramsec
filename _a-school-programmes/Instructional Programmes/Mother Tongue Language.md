@@ -18,7 +18,7 @@ The Mother Tongue Language department strives to make learning fun and enriching
 
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Programmes</label>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
+
 
  <b>Mother Tongue Language Fortnight (MTL Fortnight)</b><br><br>
 
@@ -149,7 +149,7 @@ The activity required students to respond to various questions on SLS as well as
 Students were engaged and enjoyed the gamification part on the SLS. The hands-on activities planned by each culture group also provide opportunities for students to collaborate and communicate with one another. They enjoyed themselves and learnt more about other cultures.
 <p></p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 	
