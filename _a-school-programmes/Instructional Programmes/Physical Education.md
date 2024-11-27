@@ -16,7 +16,7 @@ To instill the school values in every Outramian through PE and Sports
 
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2"><b>Directions for 2022</b></label><b>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
+
 
 <p> 
 <style type="text/css">
@@ -56,7 +56,7 @@ To instill the school values in every Outramian through PE and Sports
 </tbody>
 </table> </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 	
@@ -65,7 +65,7 @@ To instill the school values in every Outramian through PE and Sports
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
+
 
 <p><b>Learning for Life Programme for Sports @ Outram</b><br><br>   
   
@@ -76,16 +76,16 @@ The school believes that sport is a very good platform for values education &amp
 *   promote psychological well-being, positive social-emotional development, and higher academic &amp; future occupational achievements, and<br>
 *   is a platform for school to engage students in an authentic setting to gain meaningful experiences, builds interest and motivates them to continue active healthy lifestyles. </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
 
 
 	
 
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">PE SOW</label>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <style type="text/css">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><p><b> <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -142,13 +142,12 @@ The school believes that sport is a very good platform for values education &amp
     <td class="tg-lr6o"></td>
   </tr>
 </tbody>
-</table> </p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
+</table> 
 
 
-	
-	
 
 	
-</b>
+	
+
+	
+</b></p>
