@@ -11,7 +11,7 @@ variant: markdown
 
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2"><b>Programmes</b></label>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
+
  <p> <img style="width:70%;height:50%" src="/images/Instructional%20Programmes/CCE/CCP01.jpg">
 			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/CCE/CCP02.jpg"><br><br>
 			
@@ -59,4 +59,3 @@ Sexuality Education (SEd) in schools is about enabling students to understand th
 	 
 </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
