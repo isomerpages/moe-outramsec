@@ -3,6 +3,7 @@ title: Physical Education
 permalink: /school-programmes/Instructional-Programmes/Physical-Education/
 description: ""
 third_nav_title: Instructional Programmes
+variant: markdown
 ---
 <center><iframe allowfullscreen="true" height="400" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ6M19CQ5zxVx1Tllza1sKIT1OmJuAgxp0oEqFUyYGH84CsZvjsWAStW1eDrbwIEJnETUgpUCBsdoEE/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
  
@@ -10,59 +11,12 @@ third_nav_title: Instructional Programmes
 
 To instill the school values in every Outramian through PE and Sports
 
-<ul class="jekyllcodex_accordion">
 
-  <li>
 
-    <input type="checkbox" id="accordion1">
 
-    <label for="accordion1">Members</label>
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2"><b>Directions for 2022</b></label><b>
 
-    <div>
 
-      <p> <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-lyvw{color:#111;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-lyvw">Mr Freddie Chan (Acting SH/PE &amp;CCA)</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-lyvw">Mr Damien Ho <br></td>
-  </tr>
-  <tr>
-    <td class="tg-lyvw">Mr Wee Teck Lee<br></td>
-  </tr>
-  <tr>
-    <td class="tg-lyvw">Mr Lim Teck Ming<br></td>
-  </tr>
-  <tr>
-    <td class="tg-lyvw">Ms Gloria Ng<br></td>
-  </tr>
-  <tr>
-    <td class="tg-lyvw">Mr Neo Sian Lee</td>
-  </tr>
-</tbody>
-</table> </p>
-
-    </div>
-
-</li>
-	<li>
-
-    <input type="checkbox" id="accordion2">
-
-    <label for="accordion2">Directions for 2022</label>
-
-    <div>
 
 <p> 
 <style type="text/css">
@@ -102,40 +56,36 @@ To instill the school values in every Outramian through PE and Sports
 </tbody>
 </table> </p>
 
-    </div>
+&nbsp;&nbsp;&nbsp;&nbsp;
 
-</li>
+
 	
-<li>
 
-    <input type="checkbox" id="accordion3">
 
-    <label for="accordion3">LLPLearning for Life Programme for Sports @ Outram</label>
 
-    <div>
+
+
+
 
 <p><b>Learning for Life Programme for Sports @ Outram</b><br><br>   
   
 
-The school believes that sport is a very good platform for values education & character development. Active involvement in Sports from an early age:<br><br>
+The school believes that sport is a very good platform for values education &amp; character development. Active involvement in Sports from an early age:<br><br>
 
 *   provide a conducive environment to inculcate good morals, values, social-emotional competencies and has the capacity to teach life skills,<br>
-*   promote psychological well-being, positive social-emotional development, and higher academic & future occupational achievements, and<br>
+*   promote psychological well-being, positive social-emotional development, and higher academic &amp; future occupational achievements, and<br>
 *   is a platform for school to engage students in an authentic setting to gain meaningful experiences, builds interest and motivates them to continue active healthy lifestyles. </p>
 
-    </div>
 
-</li>
+
+
 	
-<li>
 
-    <input type="checkbox" id="accordion4">
+&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">PE SOW</label>
 
-    <label for="accordion4">PE SOW</label>
 
-    <div>
 
-      <p> <style type="text/css">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><p><b> <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -192,13 +142,12 @@ The school believes that sport is a very good platform for values education & ch
     <td class="tg-lr6o"></td>
   </tr>
 </tbody>
-</table> </p>
+</table> 
 
-    </div>
 
-</li>
-	
-	
 
 	
-</ul>
+	
+
+	
+</b></p>

@@ -33,60 +33,6 @@ literates.</p>
 of emerging 21st Century Competencies, Social Emotional Learning and Values
 through in-class lessons and enrichment activities.</p>
 <p>&nbsp;&nbsp;</p>
-<blockquote>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;Members</p>
-<p></p>
-</blockquote>
-<table>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p>Ms Yong Li Zhuang Jolin (Covering HOD/Mathematics)</p>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ajmal Khan (HOD/21CC)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Hock Kwee Oliver (YH/Upper Secondary)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Chua Yi Ping</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Lee Suet Har Casey</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Teck Ming</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Ting Long</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Neo Sian Lee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Woo Kah Whye</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
 <p><strong>Programme</strong>
 </p>
 <p></p>
