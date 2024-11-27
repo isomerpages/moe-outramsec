@@ -11,7 +11,7 @@ variant: markdown
 
 &nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2">Business Studies</label>
 
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
+
 
 <p><b>Currently unique to Outram Secondary School, GCE ‘O’ Level Business Studies offers students the opportunity to do the following:</b><br><br>  
 
@@ -31,7 +31,7 @@ Business Studies is assessed through two written papers. It is offered to Upper 
 
 For more information, please email: <a href="cheong\_wenxin\_serene@moe.edu.sg">cheong_wenxin_serene@moe.edu.sg</a>&nbsp; </p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
+
 
 
 	
