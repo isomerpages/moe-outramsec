@@ -19,7 +19,7 @@ This year, we embarked on a department wide learning framework. This learning fr
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p> <style type="text/css">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
@@ -46,7 +46,7 @@ This year, we embarked on a department wide learning framework. This learning fr
 	Done by" Rena and Weihui
 	
 	
-</p>
+<p></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
