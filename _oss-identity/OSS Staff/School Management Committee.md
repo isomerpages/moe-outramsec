@@ -47,21 +47,6 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Guinieve Yeo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Vice Principal</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:guinieve_yeo@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">guinieve_yeo@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Elaine Toh-Tan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -74,6 +59,21 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p><a href="/files/Our_Personal_Statement__Elaine1_.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lai Chyh Jau</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal (Admin)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lai_chyh_jau@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lai_chyh_jau@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
