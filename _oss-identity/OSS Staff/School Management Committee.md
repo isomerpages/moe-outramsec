@@ -164,7 +164,7 @@ third_nav_title: OSS Staff
 <p>Mr Goh Keng Hock</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department/ CCE</p>
+<p>HOD/ CCE / Year Head (Secondary 4)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goh_keng_hock@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_keng_hock@moe.edu.sg</a>
@@ -274,7 +274,7 @@ third_nav_title: OSS Staff
 <p>Ms Yeo Yang Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>Assistant Year Head (Secondary 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeo_yang_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_yang_hong@moe.edu.sg</a>
