@@ -4,7 +4,7 @@ permalink: /the-outram-story/Students-Achievements/
 description: ""
 variant: markdown
 ---
-#### Achievements 2023
+
 
 
 ![](/images/Outram_Honour_Roll_2023_2024__1__Page_01.jpg)
@@ -90,4 +90,3 @@ variant: markdown
 ![](/images/Outram_Honour_Roll_2023_2024__1__Page_41.jpg)
 
 ![](/images/Outram_Honour_Roll_2023_2024__1__Page_42.jpg)
-
