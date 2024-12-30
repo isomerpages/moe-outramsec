@@ -161,22 +161,6 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Loh Peng Yeong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department/ Information Communication Technology &amp; Craft and
-Technology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:loh_peng_yeong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_peng_yeong@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Goh Keng Hock</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -258,7 +242,7 @@ Technology</p>
 <p>Mr Irwan Haerman Bin Tomin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department/Special Projects</p>
+<p>HOD/Special Projects / Covering HOD ICT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:irwan_haerman_tomin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">irwan_haerman_tomin@moe.edu.sg</a>
@@ -266,38 +250,6 @@ Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ajmal Khan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department/21CC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ajmal_khan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ajmal_khan@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Oliver Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head (Upper Sec)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:oliver_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">oliver_tan</a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Oliver.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
-</p>
 </td>
 </tr>
 <tr>
@@ -375,22 +327,6 @@ Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/aqilah.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Samuel Ng Aik Siong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head/Educational Support</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:samuel_ng_aik_siong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samuel_ng_aik_siong@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/samuel.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
 </td>
 </tr>
