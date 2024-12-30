@@ -112,7 +112,7 @@ third_nav_title: OSS Staff
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department/ English Language /Literature &amp; School Staff Developer&nbsp;</p>
+<p>School Staff Developer&nbsp;</p>
 <p></p>
 <p></p>
 <p></p>
