@@ -88,6 +88,14 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Rehan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Receptionist</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Saseekumar</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -116,14 +124,6 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Lab Technician</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Asimah</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Workshop Instructor</p>
 </td>
 </tr>
 <tr>
