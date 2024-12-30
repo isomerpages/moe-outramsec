@@ -382,7 +382,7 @@ third_nav_title: OSS Staff
 <p>Ms Shireen Shoba Stephen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher / Social Studies</p>
+<p>Lead Teacher / Educational Support</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="shireen_shoba_stephen@moe.edu.sg" rel="noopener nofollow" target="_blank">shireen_shoba_stephen@moe.edu.sg</a>
