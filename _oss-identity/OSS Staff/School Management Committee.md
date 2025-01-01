@@ -112,7 +112,7 @@ third_nav_title: OSS Staff
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department/ English Language /Literature &amp; School Staff Developer&nbsp;</p>
+<p>School Staff Developer&nbsp;</p>
 <p></p>
 <p></p>
 <p></p>
@@ -161,26 +161,10 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Loh Peng Yeong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department/ Information Communication Technology &amp; Craft and
-Technology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:loh_peng_yeong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_peng_yeong@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Goh Keng Hock</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department/ CCE</p>
+<p>HOD/ CCE / Year Head (Secondary 4)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goh_keng_hock@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_keng_hock@moe.edu.sg</a>
@@ -224,22 +208,6 @@ Technology</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Dawa T. Sherpa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department/Educational Support</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:dawa_tshering_sherpa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dawa_tshering_sherpa@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/dawa.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Chew Kia Sheng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -258,7 +226,7 @@ Technology</p>
 <p>Mr Irwan Haerman Bin Tomin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department/Special Projects</p>
+<p>HOD/Special Projects / Covering HOD ICT</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:irwan_haerman_tomin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">irwan_haerman_tomin@moe.edu.sg</a>
@@ -270,43 +238,10 @@ Technology</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ajmal Khan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department/21CC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ajmal_khan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ajmal_khan@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Oliver Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head (Upper Sec)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:oliver_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">oliver_tan</a>
-<a href="mailto:cheryl_lim_ming_yuh@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Oliver.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Faith Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Sec)</p>
-<p>Covering MTL Head</p>
+<p>Year Head (Secondary 3)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_ching_hun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_ching_hun@moe.edu.sg</a>
@@ -322,7 +257,7 @@ Technology</p>
 <p>Ms Yeo Yang Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
+<p>Assistant Year Head (Secondary 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeo_yang_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_yang_hong@moe.edu.sg</a>
@@ -380,26 +315,10 @@ Technology</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Samuel Ng Aik Siong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head/Educational Support</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:samuel_ng_aik_siong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">samuel_ng_aik_siong@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/samuel.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Nur Atikah Bte Kamsani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting Subject Head/ CCE</p>
+<p>Subject Head/MTL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_atikah_kamsani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_atikah_kamsani@moe.edu.sg</a>
@@ -412,26 +331,10 @@ Technology</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Norizan Md Nor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Acting Subject Head/ ML</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:norizan_mohamad_nor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">norizan_mohamad_nor@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Norizan.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Ismath Banu Mohamed Yaseen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting Level Head/ English Language/Literature</p>
+<p>Level Head/ English Language/Literature</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ismath_banu_mohamed_yaseen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ismath_banu_mohamed_yaseen@moe.edu.sg</a>
@@ -447,7 +350,7 @@ Technology</p>
 <p>Ms Durga Devi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting Level Head/ Craft &amp; Technology</p>
+<p>Acting Subject Head / Craft and Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:durga_devi_v_jagarajan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">durga_devi_v_jagarajan@moe.edu.sg</a>
@@ -468,6 +371,36 @@ Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_ting_long@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ting_long@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Shireen Shoba Stephen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher / Educational Support</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="shireen_shoba_stephen@moe.edu.sg" rel="noopener nofollow" target="_blank">shireen_shoba_stephen@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Abdul Rahman Bin Abdul Rahim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher / Social Studies</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">abdul_rahman_abdul_rahim_a@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
