@@ -48,6 +48,14 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Dilip</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Yeo Yang Hong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -61,14 +69,6 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>Year Head (Lower Sec)</p>
 <p>Covering MTL Head</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Irwan Haerman Bin Tomin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department/Special Projects</p>
 </td>
 </tr>
 <tr>
