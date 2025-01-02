@@ -26,26 +26,10 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Norizan Md Nor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Acting Subject Head/ ML</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Nur Atikah Bte Kamsani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Acting Subject Head/ CCE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Liu Pengcheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
 </td>
 </tr>
 <tr>
@@ -106,7 +90,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Shu Wen (FAJT)</p>
+<p>Ms Nasuha</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -114,7 +98,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nasuha</p>
+<p>Mr Liu Pengcheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
