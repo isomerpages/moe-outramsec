@@ -17,15 +17,6 @@ third_nav_title: OSS Staff
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Loh Peng Yeong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department/ Information Communication Technology &amp; Craft and
-Technology</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Ong Kok Heng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -38,14 +29,6 @@ Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Acting Level Head/ Craft &amp; Technology</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Haslinda</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
 </td>
 </tr>
 <tr>
