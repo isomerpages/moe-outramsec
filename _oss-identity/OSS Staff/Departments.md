@@ -64,7 +64,7 @@ third_nav_title: OSS Staff
 <p></p>
 <p></p>
 <blockquote>
-<p>Form Teachers 2024 (Lower Secondary)</p>
+<p>Form Teachers 2025 (Lower Secondary)</p>
 </blockquote>
 <table style="minWidth: 75px">
 <colgroup>
@@ -153,7 +153,7 @@ third_nav_title: OSS Staff
 <blockquote>
 <p></p>
 <p></p>
-<p>Form Teachers 2024 (Upper Secondary)</p>
+<p>Form Teachers 2025 (Upper Secondary)</p>
 </blockquote>
 <table style="minWidth: 75px">
 <colgroup>
