@@ -48,6 +48,14 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Dilip</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Yeo Yang Hong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -65,26 +73,10 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Irwan Haerman Bin Tomin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department/Special Projects</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Goh Keng Hock</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department/ CCE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Oliver Tan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head (Upper Sec)</p>
 </td>
 </tr>
 <tr>
@@ -113,14 +105,6 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Dawa T. Sherpa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department/Educational Support</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Kannan Kalidasan</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -137,18 +121,10 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Atikah Bte Kamsani</p>
+<p>Ms Shireen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting Subject Head/ CCE</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Samuel Ng Aik Siong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head/Educational Support</p>
+<p>Lead Teacher / Educational Support</p>
 </td>
 </tr>
 </tbody>

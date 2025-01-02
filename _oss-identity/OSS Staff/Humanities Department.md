@@ -34,14 +34,6 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Dawa T. Sherpa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Acting Subject Head/ Mathematics</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Aqilah Binte Juma'in</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -54,14 +46,6 @@ third_nav_title: OSS Staff
 <p></p>
 <p><a href="/files/abdul.pdf" rel="noopener noreferrer nofollow" target="_blank">View my Leadership Statement</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Prathivmohan S/O Chandramohan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>

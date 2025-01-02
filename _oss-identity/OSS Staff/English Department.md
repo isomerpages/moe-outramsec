@@ -33,34 +33,10 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Dawa T. Sherpa</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department/Educational Support</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Aqilah Binte Juma'in</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head/Student Leadership &amp; Well-Being</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Samuel Ng Aik Siong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head/Educational Support</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Abdul Rahman Bin Abdul Rahim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
 </td>
 </tr>
 <tr>
@@ -73,23 +49,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Grace Ng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Shireen Shoba Stephen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Prathivmohan S/O Chandramohan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
