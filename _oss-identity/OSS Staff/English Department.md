@@ -17,10 +17,26 @@ third_nav_title: OSS Staff
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Ismath Banu Mohamed Yaseen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head English Literature, Covering HOD EL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Cheryl Fan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department/ English Language /Literature &amp; School Staff Developer&nbsp;</p>
+<p>School Staff Developer&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Shireen Shoba Stephen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher</p>
 </td>
 </tr>
 <tr>
@@ -37,22 +53,6 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head/Student Leadership &amp; Well-Being</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Ismath Banu Mohamed Yaseen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Acting Level Head/ English Language/Literature</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Shireen Shoba Stephen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
 </td>
 </tr>
 <tr>
