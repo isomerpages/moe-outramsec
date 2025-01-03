@@ -62,7 +62,6 @@ third_nav_title: OSS Staff
 </tbody>
 </table>
 <p></p>
-<p></p>
 <blockquote>
 <p>Form Teachers 2025 (Lower Secondary)</p>
 </blockquote>
