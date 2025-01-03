@@ -48,7 +48,7 @@ third_nav_title: OSS Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>Senior Teacher</p>
 </td>
 </tr>
 <tr>
@@ -56,7 +56,7 @@ third_nav_title: OSS Staff
 <p>Ms Shireen Shoba Stephen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>Lead Teacher</p>
 </td>
 </tr>
 <tr>

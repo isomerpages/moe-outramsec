@@ -49,7 +49,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Lee Suet Har Casey</p>
+<p>Mr Sathi Kumar S/O Subramaniam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -57,7 +57,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Sathi Kumar S/O Subramaniam</p>
+<p>Ms Lee Suet Chow</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>

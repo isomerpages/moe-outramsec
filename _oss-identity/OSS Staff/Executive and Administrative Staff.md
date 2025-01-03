@@ -48,6 +48,14 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Marcus</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Chua Chiew Lian</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -60,14 +68,6 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Administration Executive</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Marcus</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
 </td>
 </tr>
 <tr>
