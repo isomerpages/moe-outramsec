@@ -38,6 +38,8 @@ variant: markdown
 
 
 ### **Student Handbook**
+[Student HandBook 2025](/files/2025_Student_Handbook.pdf)
+
 [Student Handbook 2024](/files/Parents%20and%20Students/Students/2024_Student_Handbook_2_Feb.pdf)
 
 [Student Handbook 2023](/files/Parents%20and%20Students/Students/2023%20Student%20Handbook_final.pdf)
