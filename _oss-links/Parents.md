@@ -59,6 +59,10 @@ variant: markdown
 
 ### **Letter to Parents**
 
+[2025 Term 1 Letter to Parents](/files/Letter_to_Parents__Term_1_2025__002_.pdf)
+
+[Onboarding instructions for PG](/files/Annex_A_One_Time_Onboarding__002_.pdf)
+
 [2024 Term 4 Letter to Parents](/files/Parents%20and%20Students/2024_Term_4_Letter_to_Parents_cleared.pdf)
 
 [2024 Student Management Policy Update ](/files/Student_Management_Policy_Update_pdf.pdf)
