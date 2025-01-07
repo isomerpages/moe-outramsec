@@ -163,7 +163,8 @@ third_nav_title: OSS Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Copy_of_2025_Sec_2_Subject_Teachers__2d__xlsx.pdf" rel="noopener nofollow" target="_blank">Click here</a>
+</p>
 </td>
 </tr>
 </tbody>
