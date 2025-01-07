@@ -249,7 +249,8 @@ third_nav_title: OSS Staff
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Copy_of_2025_Sec_3_Subject_Teachers_3c_.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -268,7 +269,8 @@ third_nav_title: OSS Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Copy_of_2025_Sec_2_Subject_Teachers__2aa_.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
 </td>
 </tr>
 <tr>
