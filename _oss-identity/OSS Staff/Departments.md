@@ -65,8 +65,9 @@ third_nav_title: OSS Staff
 <blockquote>
 <p>Form Teachers 2025 (Lower Secondary)</p>
 </blockquote>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -82,6 +83,9 @@ third_nav_title: OSS Staff
 <th rowspan="1" colspan="1">
 <p>Email</p>
 </th>
+<th rowspan="1" colspan="1">
+<p>Subject Teachers</p>
+</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -96,6 +100,10 @@ third_nav_title: OSS Staff
 <p><a href="durga_devi_v_jagarajan@moe.edu.sg" rel="noopener nofollow" target="_blank">durga_devi_v_jagarajan@moe.edu.sg</a>
 </p>
 <p><a href="liu_pengcheng@moe.edu.sg" rel="noopener nofollow" target="_blank">liu_pengcheng@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Copy_of_2025_Sec_2_Subject_Teachers__2a_.pdf" rel="noopener nofollow" target="_blank">Click here</a>
 </p>
 </td>
 </tr>
@@ -115,6 +123,10 @@ third_nav_title: OSS Staff
 <p><a href="mailto:shi_yanwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shi_yanwei@moe.edu.sg</a>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Copy_of_2025_Sec_2_Subject_Teachers__2b_.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -128,6 +140,10 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p><a href="mailto:subbu_suba_sakthidevi@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">subbu_suba_sakthidevi@schools.gov.sg</a> 
 <a href="mok_peck_yim@moe.edu.sg" rel="noopener nofollow" target="_blank">mok_peck_yim@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Copy_of_2025_Sec_2_Subject_Teachers__2c_.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
 </td>
 </tr>
@@ -145,6 +161,9 @@ third_nav_title: OSS Staff
 </p>
 <p><a href="sathi_kumar_subramaniam@moe.edu.sg" rel="noopener nofollow" target="_blank">sathi_kumar_subramaniam@moe.edu.sg</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
