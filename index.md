@@ -26,13 +26,13 @@ sections:
       alignment: right
       backgroundColor: gray
   - infobar:
-      title: N-Level Release of Results 2024
+      title: O-Level Release of Results 2024
       id: infobar
-      description: We congratulate all our students on receiving their N-Level
+      description: We congratulate all our students on receiving their O-Level
         Examination results today! Click here to access the resources shared
         during the session!
       button: Click here
-      url: https://sites.google.com/u/0/d/1DvtOrgazjN2fdu08G91rn4gkJ9Dvgmyo/p/1yrr5b96IN7FTK3PyGYo1TKCDX08lLGo8/preview?authuser=0
+      url: https://sites.google.com/moe.edu.sg/students-at-outram/for-o-level-results-release-ecg-bulletin?authuser=0
   - infopic:
       title: Learners for Life
       id: infopic
