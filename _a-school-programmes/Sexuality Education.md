@@ -52,5 +52,5 @@ The completed form is to be submitted by 10/02/2025.</p>
 <p>3. If you would like to withdraw your child out of the eTeens programme
 in 2025, please complete the Opt-out Form at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/oof-eteens-2025</a>.
 The completed form is to be submitted by 10/02/2025.</p>
-<p>4. Parents can contact the school at Tel: 6733 4077 and email to <a rel="noopener noreferrer nofollow" target="_blank">oss@moe.edu.sg</a> to
-seek clarification about the school’s Sexuality Education programme.</p>
+<p>4. Parents can contact the school at Tel: 6733 4077 and email to <a rel="noopener noreferrer nofollow" target="_blank">oss@moe.edu.sg</a> to seek clarification
+about the school’s Sexuality Education programme.</p>
