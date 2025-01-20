@@ -4,8 +4,7 @@ permalink: /school-programmes/Sexuality-Education/
 description: ""
 variant: tiptap
 ---
-<h4><strong>Moe Sexuality Education in Schools</strong></h4>
-<p></p><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Info_on_SEd__Outram_Secondary_Schools__Page_01.jpg"></a>
+<h3><strong>MOE Sexuality Education in Schools</strong></h3><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Info_on_SEd__Outram_Secondary_Schools__Page_01.jpg"></a>
 <a class="isomer-image-wrapper" href="https://go.gov.sg/moe-sexuality-education-scope">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_Info_on_SEd__Outram_Secondary_Schools__Page_02.jpg">
 </a>
