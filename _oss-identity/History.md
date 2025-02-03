@@ -88,4 +88,8 @@ O n 1st January 1954, Outram ceased to be a purely Primary School and was conver
 
 2019 - Outram Secondary School was proud to celebrate Bicentennial SG, which marked 200 years since Sir Stamford Raffles’ arrival in the nation as well as key historical events that have taken place since 1819.
 
+![](/images/Outram_1.png)
+
 2024 - Outram Secondary School 2025 Student Handbook 9 In January 2026, Outram Secondary School will embark on a significant chapter in its rich history with its relocation to a new campus in Sengkang to meet the growing demand for school places in Sengkang and Punggol. While retaining its heritage and name, students enrolled before the relocation will remain at the York Hill campus until the end of 2027, ensuring minimal disruption to their education. The final cohort at York Hill will be the 2024 Secondary 1 intake, with the campus ceasing operations after their graduation. From 2026, the school will welcome new Secondary 1 students at its state-of-the-art Sengkang campus. This relocation underscores Outram Secondary School’s commitment to nurturing lifelong learners and leaders of integrity while embracing new opportunities for growth and development. As the school moves forward, it remains committed to its mission of developing students who will make meaningful contributions to society, while continuing to honor the values and traditions that have defined its legacy.
+
+![](/images/Outram_2.png)
