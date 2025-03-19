@@ -13,7 +13,7 @@ sections:
           url: News-and-Announcements/News-and-Announcements/
         - title: OSS Recognitions
           description: Student & Staff Achievements
-          url: /OSS-Success-Stories/OSS-Success-Stories/
+          url: /the-outram-story/Staff-Achievements/
         - title: OSS Celebrations
           description: Recent Events
           url: /Achievements/Achievements/
