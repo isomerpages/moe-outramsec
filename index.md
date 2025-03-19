@@ -14,7 +14,7 @@ sections:
         - title: OSS Recognitions
           description: Student & Staff Achievements
           url: /the-outram-story/Staff-Achievements/
-        - title: OSS Celebrations
+        - title: OSS Spotlight
           description: Recent Events
           url: /Achievements/Achievements/
         - title: OutramSPIRIT❤️💛💙
