@@ -15,7 +15,9 @@ variant: tiptap
 <script src="//www.instagram.com/embed.js" async="true"></script>
 </div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p>[Outram Newsletter Term 3]<a href="/files/Parents and Students/Outram_Spotlight__3__updated.pdf" rel="noopener noreferrer nofollow" target="_blank">(/files/Parents%20and%20Students/Outram_Spotlight__3__updated.pdf)</a>
+<p><a href="/files/Parents and Students/Outram_Spotlight__3__updated.pdf" rel="noopener noreferrer nofollow" target="_blank">[Outram Newsletter Term 3]</a>
 </p>
-<p>[Outram Newsletter Term 2](/files/Parents%20and%20Students/Outram_Spotlight__2_final_compressed__1_.pdf)</p>
-<p>[Outram Newsletter Term 1](/files/Parents%20and%20Students/Parents/Outram_Newsletter_2024___lite.pdf)</p>
+<p><a href="/files/Parents%20and%20Students/Outram_Spotlight__2_final_compressed__1_.pdf" rel="noopener nofollow" target="_blank">[Outram Newsletter Term 2]</a>
+</p>
+<p><a href="/files/Parents and Students/Parents/Outram_Newsletter_2024___lite.pdf" rel="noopener noreferrer nofollow" target="_blank">[Outram Newsletter Term 1]</a>
+</p>
