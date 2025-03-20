@@ -2,7 +2,6 @@ collections:
   a-school-programmes:
     output: true
     order:
-      - Student Development Experience/.keep
       - Instructional Programmes/.keep
       - Instructional Programmes/Instructional Programmes.md
       - Instructional Programmes/English Language and Literature.md
@@ -15,6 +14,7 @@ collections:
       - Instructional Programmes/Physical Education.md
       - Instructional Programmes/CCEs.md
       - Instructional Programmes/Assessment in Outram.md
+      - Student Development Experience/.keep
       - Sexuality Education.md
       - Blended Learning/.keep
       - Blended Learning/Parents Information.md
