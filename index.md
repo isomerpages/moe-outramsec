@@ -16,7 +16,7 @@ sections:
           url: /the-outram-story/Staff-Achievements/
         - title: OSS Spotlight
           description: Recent Events
-          url: /Achievements/Achievements/
+          url: /ossspotlight/ossspotlight/
         - title: OutramSPIRIT❤️💛💙
           description: Our Instagram
           url: https://www.instagram.com/outramsecsch/
