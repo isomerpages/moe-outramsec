@@ -5,6 +5,19 @@ description: ""
 variant: tiptap
 ---
 <h2>Outram Newsletter</h2>
+<blockquote>
+<p>2025</p>
+<p></p>
+</blockquote>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/outramspotlight25" rel="noopener nofollow" target="_blank">Outram Newsletter Term 1</a>
+</p>
+</li>
+</ul>
+<blockquote>
+<p>2024</p>
+</blockquote>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
@@ -19,10 +32,6 @@ variant: tiptap
 <p><a href="/files/Parents and Students/Outram_Spotlight__3__updated.pdf" rel="noopener noreferrer nofollow" target="_blank">[Outram Newsletter Term 3]</a>
 </p>
 <p></p>
-</li>
-<li>
-<p><strong><a href="https://go.gov.sg/outramspotlight25" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/outramspotlight25</a></strong>
-</p>
 </li>
 </ul>
 <p></p>
