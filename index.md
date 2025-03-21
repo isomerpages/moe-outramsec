@@ -13,10 +13,10 @@ sections:
           url: News-and-Announcements/News-and-Announcements/
         - title: OSS Recognitions
           description: Student & Staff Achievements
-          url: /OSS-Success-Stories/OSS-Success-Stories/
-        - title: OSS Celebrations
+          url: /the-outram-story/Staff-Achievements/
+        - title: OSS Spotlight
           description: Recent Events
-          url: /Achievements/Achievements/
+          url: /ossspotlight/ossspotlight/
         - title: OutramSPIRIT❤️💛💙
           description: Our Instagram
           url: https://www.instagram.com/outramsecsch/
@@ -25,14 +25,6 @@ sections:
       size: sm
       alignment: right
       backgroundColor: gray
-  - infobar:
-      title: O-Level Release of Results 2024
-      id: infobar
-      description: We congratulate all our students on receiving their O-Level
-        Examination results today! Click here to access the resources shared
-        during the session!
-      button: Click here
-      url: https://sites.google.com/moe.edu.sg/students-at-outram/for-o-level-results-release-ecg-bulletin?authuser=0
   - infopic:
       title: Learners for Life
       id: infopic

@@ -2,7 +2,7 @@ collections:
   b-recent-events:
     output: true
     order:
-      - Achievements.md
+      - Oss Spotlight.md
       - Graduation Ceremony 2023.md
       - Live On Festival 2023.md
       - Sustainable Singapore Gallery.md
