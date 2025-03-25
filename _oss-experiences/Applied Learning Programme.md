@@ -27,13 +27,44 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025_V1__Applied_Learning_Programme_B_E_Page_06.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025_V1__Applied_Learning_Programme_B_E_Page_07.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025_V1__Applied_Learning_Programme_B_E_Page_12.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025_V1__Applied_Learning_Programme_B_E_Page_09.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025_V1__Applied_Learning_Programme_B_E_Page_10.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025_V1__Applied_Learning_Programme_B_E_Page_11.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025_V1__Applied_Learning_Programme_B_E_Page_12.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025_V1__Applied_Learning_Programme_B_E_Page_13.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025_V1__Applied_Learning_Programme_B_E_Page_15.jpg">
+</div>
 <p>
 <br>
 </p>
-<p>
-<br>
-<br>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025_V1__Applied_Learning_Programme_B_E_Page_14.jpg">
+</div>
 <p>
 <br>
 <br>
