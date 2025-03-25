@@ -42,4 +42,3 @@ variant: tiptap
 <br>
 <br>
 </p>
-<p></p>
