@@ -57,7 +57,9 @@ third_nav_title: OSS Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Our_Personal_Statement__Elaine1_.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+<p><a href="/files/Our_Personal_Statement__Elaine1_.pdf" rel="noopener nofollow" target="_blank">Click H</a>
+</p>
+<p><a href="/files/Our_Personal_Statement__Elaine1_.pdf" rel="noopener nofollow" target="_blank">ere</a>
 </p>
 </td>
 </tr>
@@ -171,7 +173,7 @@ third_nav_title: OSS Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Goh_Heng_kok.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+<p><a href="/files/Goh.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
 </td>
 </tr>
