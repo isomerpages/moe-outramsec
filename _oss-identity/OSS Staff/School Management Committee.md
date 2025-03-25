@@ -189,7 +189,8 @@ third_nav_title: OSS Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/zaiton.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -204,7 +205,7 @@ third_nav_title: OSS Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Serene.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+<p><a href="/files/serene.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
 </td>
 </tr>
@@ -220,7 +221,8 @@ third_nav_title: OSS Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/kia_sheng.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -235,7 +237,8 @@ third_nav_title: OSS Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/irwan.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -250,7 +253,7 @@ third_nav_title: OSS Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/faith_tan.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+<p><a href="/files/faith.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
 </td>
 </tr>
@@ -266,7 +269,8 @@ third_nav_title: OSS Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/yang_hong.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -281,7 +285,8 @@ third_nav_title: OSS Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/ong.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -327,7 +332,7 @@ third_nav_title: OSS Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/atikah.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+<p><a href="/files/athika.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
 </td>
 </tr>
@@ -343,7 +348,7 @@ third_nav_title: OSS Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/ismath.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+<p><a href="/files/ismath_1.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
 </td>
 </tr>
@@ -360,7 +365,7 @@ third_nav_title: OSS Staff
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/durga.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+<p><a href="/files/devi.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
 </td>
 </tr>
@@ -376,7 +381,8 @@ third_nav_title: OSS Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/ting_long.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -391,7 +397,8 @@ third_nav_title: OSS Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Shireen.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -406,7 +413,8 @@ third_nav_title: OSS Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/abdul_1.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
 </td>
 </tr>
 </tbody>
