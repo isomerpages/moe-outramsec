@@ -2,15 +2,44 @@
 title: Applied Learning Programme
 permalink: /distinctive-programmes/Applied-Learning-Programme/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-
-[https://online.fliphtml5.com/pkmoq/pkvy/](ALP Flipbook)
-
-![](/images/Picture1_copy.jpg)<br><br>
-![](/images/Picture2_copy.jpg)<br><br>
-![](/images/Picture3_copy.jpg)<br><br>
-![](/images/Picture4_copy.jpg)<br><br>
-![](/images/Picture5_copy.jpg)<br><br>
-![](/images/Picture6_copy.jpg)<br><br>
-![](/images/Picture7_copy.jpg)
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025_V1__Applied_Learning_Programme_B_E_Page_01.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025_V1__Applied_Learning_Programme_B_E_Page_02.jpg">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025_V1__Applied_Learning_Programme_B_E_Page_03.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025_V1__Applied_Learning_Programme_B_E_Page_04.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025_V1__Applied_Learning_Programme_B_E_Page_05.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2025_V1__Applied_Learning_Programme_B_E_Page_06.jpg">
+</div>
+<p>
+<br>
+</p>
+<p>
+<br>
+<br>
+</p>
+<p>
+<br>
+<br>
+</p>
+<p>
+<br>
+<br>
+</p>
+<p></p>
