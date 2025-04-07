@@ -29,8 +29,7 @@ variant: markdown
   <tbody><tr>
     <th class="tg-baqh"><span style="color:#323232">2024</span></th>
   </tr>
-
-	</tbody><tbody>
+</tbody><tbody>
   <tr>
     <td class="tg-baqh"><span style="font-weight:600;color:#484848">MOE Service Excellence Award (MSEA) 2024 Platinum and  Gold</span></td>
   </tr>
