@@ -4,8 +4,6 @@ permalink: /distinctive-programmes/Learning-for-Life-Programme/Learning-for-Life
 description: ""
 variant: markdown
 ---
-
- 
 ![](/images/LLP_Page_1.jpg)
 ![](/images/LLP_Page_2.jpg)
 ![](/images/LLP_Page_3.jpg)
