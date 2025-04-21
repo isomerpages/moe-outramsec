@@ -26,9 +26,9 @@ sections:
       alignment: right
       backgroundColor: gray
   - infobar:
-      title: Sec 2 Streaming Microsite
+      title: Secondary 2 Subject Combinations 2025
       id: infobar
-      button: Click here
+      button: Click here for more info
       url: https://go.gov.sg/2026osssubjcombinationsec3
   - infopic:
       title: Learners for Life
