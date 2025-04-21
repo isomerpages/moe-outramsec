@@ -25,6 +25,11 @@ sections:
       size: sm
       alignment: right
       backgroundColor: gray
+  - infobar:
+      title: Secondary 2 Subject Combinations 2025
+      id: infobar
+      button: Click here for more info
+      url: https://go.gov.sg/2026osssubjcombinationsec3
   - infopic:
       title: Learners for Life
       id: infopic
