@@ -27,6 +27,7 @@ variant: markdown
 
 [Outram Newsletter Term 1](/files/Parents%20and%20Students/Parents/Outram_Newsletter_2024___lite.pdf)
 
+
 ### **Sec 1 Orientation**
 [Full SBB sharing with Sec 1 parents ](/files/Full_SBB_sharing_with_Sec_1_parents__12_Jan_2024_.pdf)
 
