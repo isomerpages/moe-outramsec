@@ -25,6 +25,11 @@ sections:
       size: sm
       alignment: right
       backgroundColor: gray
+  - infobar:
+      title: Sec 2 Streaming Microsite
+      id: infobar
+      button: Click here
+      url: https://go.gov.sg/2026osssubjcombinationsec3
   - infopic:
       title: Learners for Life
       id: infopic
