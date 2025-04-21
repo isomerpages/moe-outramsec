@@ -26,7 +26,7 @@ sections:
       alignment: right
       backgroundColor: gray
   - infobar:
-      title: Secondary 2 Subject Combinations 2025
+      title: Secondary 3 Subject Combinations 2026
       id: infobar
       button: Click here for more info
       url: https://go.gov.sg/2026osssubjcombinationsec3
