@@ -141,7 +141,8 @@ third_nav_title: OSS Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/save_3.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -156,7 +157,8 @@ third_nav_title: OSS Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/Screenshot_2025_04_24_145236.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
 </td>
 </tr>
 <tr>
