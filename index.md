@@ -20,7 +20,7 @@ sections:
         - title: OutramSPIRIT❤️💛💙
           description: Our Instagram
           url: https://www.instagram.com/outramsecsch/
-      background: /images/Banner002b.jpg
+      background: /images/Banner002c.jpg
       variant: image
       size: sm
       alignment: right
@@ -35,7 +35,7 @@ sections:
       id: infopic
       description: "Where students pursue their interest, discover their talents, and
         develop a love for learning. #thisisOutram"
-      image: /images/DSC_0885.jpg
+      image: /images/learners1.jpg
       alt: Learners for Life
   - infopic:
       title: Leaders of Integrity
