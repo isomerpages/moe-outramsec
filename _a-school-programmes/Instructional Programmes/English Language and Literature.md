@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Instructional Programmes
 variant: tiptap
 ---
-<h3>&nbsp;<strong>💡 Skills Development</strong></h3>
+<h3><strong>💡 Skills Development</strong></h3>
 <p><strong>“Learning is a consequence of thinking.”</strong> – Ron Ritchhart</p>
 <p>In our EL and Literature classrooms, we embrace this belief by creating
 thinking classrooms where students are empowered to reflect on their own
