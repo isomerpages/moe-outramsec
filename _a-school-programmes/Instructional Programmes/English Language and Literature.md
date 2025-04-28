@@ -67,8 +67,13 @@ students authentic opportunities to showcase their learning.</p>
 <p>Students explore live theatre, author talks, and symposiums, connecting
 literature to real-world issues and deepening their appreciation for its
 ethical and aesthetic dimensions.</p>
-<p><strong>Captions for Images 1-5</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="fdgfdg" src="/images/Bringing_Stories_to_Life.jpg">
+</div>
+<p></p>
+<p></p>
+<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Confident Communicators at Work<br></strong>Students engage in
