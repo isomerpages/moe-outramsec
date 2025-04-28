@@ -128,4 +128,4 @@ Communicator module, students recreate tableau scenes of their choice,
 developing non-verbal expression and ensemble storytelling skills.</p>
 </li>
 </ol>
-<p>&nbsp;</p>
+<p></p>
