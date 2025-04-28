@@ -3,86 +3,133 @@ title: Craft and Technology
 permalink: /school-programmes/Instructional-Programmes/Craft-and-Technology/
 description: ""
 third_nav_title: Instructional Programmes
-variant: markdown
+variant: tiptap
 ---
-<center><iframe allowfullscreen="true" height="400" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTa-5k-_LHMKpXihmVSaOim9N9VkNz5RU3Jz-3LmqbKc4JH9JZ6j0Wjg9EgdpGlUltF2GrMV46NR5Kn/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
-
-This year, we embarked on a department wide learning framework. This learning framework encompasses the different processes taken in Food and Consumer Education, Design &amp; Technology, Art and Music. This is the building block behind the department mission.
-
-  
-
-The Craft and Technology department is a fusion of Art and Design, Music, Food and Consumer Education and Design and Technology. In this department, we encourage Outramians to experiment and think out-of-the-box to appreciate and apply strategies to generate creativity together with basic fundamentals. It provides opportunities for students to be innovative, dynamic and above all, daring. This website will showcase how design has evolved and is being integrated into our curriculum.
-
-  
-
-This year, we embarked on a department wide learning framework. This learning framework encompasses the different processes taken in Food and Consumer Education, Design &amp; Technology, Art and Music. This is the building block behind the department mission.
-
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-g3ny{color:#111;text-align:center;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-
-<b>SEC 1 COURSEWORK</b><br><br>
-	<b>Task</b><br>
-	Try and recall what you ate yesterday. Record the type and quantity of food consumed. Exchange your worksheet with a partner; check each other’s records against the recommended number of servings in the Healthy Diet Pyramid. What changes can you make to ensure a healthier diet?<br><br>
-	<b>SEC 2 COURSEWORK</b><br><br>
-	<b>Task</b><br>
-	You would like to buy the latest smartphone model for yourself but you have only $100 as savings. You need $300 more to buy the phone. You need to work through your income and expenses to buy the phone.<br><br>
-	<b>SECONDARY 1 STUDENTS' WORK</b><br><br>
-<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Craft%20and%20Technology/CTF01.jpg">
-	Done by: Sumayiah and Siti<br><br>
-	<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Craft%20and%20Technology/CTF02.jpg">
-	Done by: Kamil and David<br><br>
-	<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Craft%20and%20Technology/CTF03.jpg">
-	Done by: Yi Lin and Lily<br><br>
-	<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Craft%20and%20Technology/CTF04.jpg">
-	Done by" Rena and Weihui
-	
-	
+<h2>Skills Development</h2>
 <p></p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-	
+<blockquote>
+<h4>Key Competencies</h4>
+</blockquote>
+<p>Students develop critical thinking, creativity, and communication through
+exploration, self-expression, and hands-on problem-solving. Collaborative
+tasks across subjects foster teamwork and digital literacy.</p>
+<p></p>
+<blockquote>
+<h4>Learning Approaches</h4>
+</blockquote>
+<p></p>
+<ul data-tight="true" class="tight">
 <li>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<input type="checkbox" id="accordion4">
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">Art</label>
-
-&nbsp;&nbsp;&nbsp;&nbsp;<div>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-			
-<b>Artworks by Secondary 1 and 2 students: Active learning using technology to create art on students’ Personal Learning Device. The Artworks were inspired by Vincent Van Gogh.</b><br><br>
-			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Craft%20and%20Technology/CTA01.jpg"><br>
-			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Craft%20and%20Technology/CTA02.jpg"><br>
-			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Craft%20and%20Technology/CTA03.jpg"><br>
-			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Craft%20and%20Technology/CTA04.jpg"><br>
-			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Craft%20and%20Technology/CTA05.jpg"><br><br>
-				
-<b>An animation piece created by a Secondary 2 student using the Personal Learning Device</b><br><br>
-			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Craft%20and%20Technology/CTA06.gif"><br><br>
-				
-<b>ACHIEVEMENTS</b><br><br>
-			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Craft%20and%20Technology/CTA07.jpg"><br>
-			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Craft%20and%20Technology/CTA08.jpg"><br>
-			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Craft%20and%20Technology/CTA09.jpg"><br>
-			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Craft%20and%20Technology/CTA10.jpg"><br>
-			<img style="width:70%;height:50%" src="/images/Instructional%20Programmes/Craft%20and%20Technology/CTA11.jpg"><br>
-				
-				
-				
-<p></p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;</div>
-
+<p>Inquiry-based learning and real-world applications</p>
 </li>
+<li>
+<p>Idea development via sketching, prototyping, and composition (Art, D&amp;amp;T,
+Music)</p>
+</li>
+<li>
+<p>Pair or group work to experiment, co-create, and refine ideas (FCE, D&amp;amp;T,
+Music, Art)</p>
+</li>
+<li>
+<p>Use of digital platforms for research, design, and presentations</p>
+</li>
+</ul>
+<p></p>
+<blockquote>
+<p>Future Readiness</p>
+</blockquote>
+<p>Students build confidence in sharing ideas, develop resilience through
+feedback, and apply learning in authentic contexts—preparing them for lifelong
+adaptability and innovation.</p>
+<p></p>
+<blockquote>
+<p>Signature Programmes</p>
+</blockquote>
+<p>✨ Imagination, Innovation &amp;amp; Design Thinking</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Encourages experimentation, conceptualisation, and iteration:</p>
+</li>
+<li>
+<p>Art: Conceptual development, media exploration</p>
+</li>
+<li>
+<p>Music: Sound Exploration, Ensemble Playing, Reflective Composition</p>
+</li>
+<li>
+<p>FCE: Recipe modification, ingredient analysis</p>
+</li>
+<li>
+<p>D&amp;amp;T: Brainstorming, prototyping, iterative improvements</p>
+</li>
+</ul>
+<p></p>
+<p>✨ Teamwork, Communication &amp;amp; Real-World Application</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Builds collaboration and practical presentation skills:</p>
+</li>
+<li>
+<p>Art: Group projects, peer critique</p>
+</li>
+<li>
+<p>Music: Small group creative performance showcase</p>
+</li>
+<li>
+<p>FCE: Cooking in pairs with dish presentation</p>
+</li>
+<li>
+<p>D&amp;amp;T: Collaborative design, model-making, idea pitching</p>
+</li>
+</ul>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/IMG_1523.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/IMG_1456.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/IMG_1514.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 45%;" height="auto" width="100%" alt="45" src="/images/IMG_1510.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/IMG_1504.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/IMG_1495.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/IMG_1496.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/IMG_1492.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/IMG_1467.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/IMG_14661.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/IMG_14651.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/IMG_1461.jpg">
+</div>
+<p></p>
+<p></p>
