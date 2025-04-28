@@ -68,12 +68,26 @@ students authentic opportunities to showcase their learning.</p>
 literature to real-world issues and deepening their appreciation for its
 ethical and aesthetic dimensions.</p>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="fdgfdg" src="/images/Bringing_Stories_to_Life.jpg">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/EL1.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/EL2.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/EL3.jpg">
+</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/EL4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/el5.jpg">
+</div>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Confident Communicators at Work<br></strong>Students engage in
