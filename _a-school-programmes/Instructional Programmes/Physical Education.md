@@ -3,151 +3,33 @@ title: Physical Education
 permalink: /school-programmes/Instructional-Programmes/Physical-Education/
 description: ""
 third_nav_title: Instructional Programmes
-variant: markdown
+variant: tiptap
 ---
-<center><iframe allowfullscreen="true" height="400" width="640" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ6M19CQ5zxVx1Tllza1sKIT1OmJuAgxp0oEqFUyYGH84CsZvjsWAStW1eDrbwIEJnETUgpUCBsdoEE/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe></center>
- 
-#### Our Values
-
-To instill the school values in every Outramian through PE and Sports
-
-
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion2"><b>Directions for 2022</b></label><b>
-
-
-
-<p> 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-8zwo{font-style:italic;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-amwm">Goal</th>
-    <th class="tg-amwm">Action Plan</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-0lax">Healthy Outramian</td>
-    <td class="tg-8zwo">To reduce Obesity through<br>Modular PE lesson that cater to different fitness levels of student.<br>Healthy meal in canteen food<br></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Active &amp; Fit Outramian</td>
-    <td class="tg-8zwo">To increase the physical activity level of students through<br>Participation of various sport events in school such as Sports Carnival, Fitness Run, Swimming Carnival, Inter-house games<br>Booking of futsal court for CCA and students after school<br>Loan of sports equipment to students  during recess &amp; after school<br>Structured play during recess<br></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">  Engaged Outramian</td>
-    <td class="tg-8zwo">To perform and enjoy a variety of physical activities with understanding through<br>Incorporation of school values &amp; SEL into PE lessons<br>Harnessing segmented approach learning and use of ICT<br>PE assessment<br>Students’ survey on PE lesson<br></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Confident Outramian</td>
-    <td class="tg-8zwo">To develop water and height confidence in our students through<br>Swimming<br>Rock climbing<br>Outdoor education</td>
-  </tr>
-</tbody>
-</table> </p>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-	
-
-
-
-
-
-
-
-<p><b>Learning for Life Programme for Sports @ Outram</b><br><br>   
-  
-
-The school believes that sport is a very good platform for values education &amp; character development. Active involvement in Sports from an early age:<br><br>
-
-*   provide a conducive environment to inculcate good morals, values, social-emotional competencies and has the capacity to teach life skills,<br>
-*   promote psychological well-being, positive social-emotional development, and higher academic &amp; future occupational achievements, and<br>
-*   is a platform for school to engage students in an authentic setting to gain meaningful experiences, builds interest and motivates them to continue active healthy lifestyles. </p>
-
-
-
-
-	
-
-&nbsp;&nbsp;&nbsp;&nbsp;<label for="accordion4">PE SOW</label>
-
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><p><b> <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-wyh4{background-color:#E8EDFF;color:#0E1860;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-lr6o{background-color:#E8EDFF;color:#222;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-0lax"></th>
-    <th class="tg-0lax"></th>
-    <th class="tg-0lax"></th>
-    <th class="tg-0lax"></th>
-    <th class="tg-0lax"></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-wyh4">Sec 1</td>
-    <td class="tg-wyh4">Game 1 – Badminton</td>
-    <td class="tg-wyh4"></td>
-    <td class="tg-wyh4">For All</td>
-    <td class="tg-wyh4">Outdoor Education</td>
-  </tr>
-  <tr>
-    <td class="tg-wyh4"></td>
-    <td class="tg-wyh4">Game 2 – Basketball</td>
-    <td class="tg-wyh4"></td>
-    <td class="tg-wyh4"></td>
-    <td class="tg-wyh4">Rock climbing</td>
-  </tr>
-  <tr>
-    <td class="tg-wyh4">Sec 2</td>
-    <td class="tg-wyh4">Game 3 – Floorball</td>
-    <td class="tg-wyh4"></td>
-    <td class="tg-wyh4"></td>
-    <td class="tg-wyh4">Swimming</td>
-  </tr>
-  <tr>
-    <td class="tg-wyh4">Sec 3</td>
-    <td class="tg-wyh4">Game 4 – Volleyball</td>
-    <td class="tg-wyh4"></td>
-    <td class="tg-wyh4"></td>
-    <td class="tg-wyh4">Fitness &amp; Conditioning (weight training)</td>
-  </tr>
-  <tr>
-    <td class="tg-wyh4">Sec 4/5</td>
-    <td class="tg-wyh4">Sport Education Model</td>
-    <td class="tg-wyh4"></td>
-    <td class="tg-wyh4"></td>
-    <td class="tg-lr6o"></td>
-  </tr>
-</tbody>
-</table> 
-
-
-
-	
-	
-
-	
-</b></p>
+<h3><strong>Physical Education @ Outram</strong></h3>
+<p><strong><u>Desired Student Outcomes</u></strong>
+</p>
+<p><strong>Physically competent </strong>and <strong>confident</strong> individuals
+who enjoy a <strong>lifetime of active and healthy living</strong>, safely
+and responsibly.</p>
+<p><strong>&nbsp;<u>We aim to achieve our desired outcomes by ensuring that Outramians experience the following</u></strong>
+</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Movement Competence</strong> –
+participate in Sports &amp; Outdoor Activities</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Core Values</strong> – imbued
+with RI3CH values</p>
+<p>Respect, Responsibility, Resillience, Care &amp; Harmony</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Healthy Lifestyle Practices</strong> –
+Learn how to Stay Healthy</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Safety Mindset</strong> –
+Learn how to observe, evaluate and Stay Safe</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Enjoyment</strong> – To have
+fun doing it!</p>
+<p><strong><u>Outram PE Experience</u></strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/table.jpg">
+</div>
+<p><strong>&nbsp;</strong>
+</p>
+<p></p>
