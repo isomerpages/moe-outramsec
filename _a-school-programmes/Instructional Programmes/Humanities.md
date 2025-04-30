@@ -59,6 +59,13 @@ and oratorical abilities. These signature programmes collectively cultivate
 confident, informed, and globally aware learners.</p>
 <p>&nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_29_at_10_38_04_PM.jpg">
+</div>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_04_29_at_10_38_04_PM__1_.jpg">
+</div>
 <p></p>
