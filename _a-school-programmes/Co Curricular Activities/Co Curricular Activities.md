@@ -44,7 +44,9 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h3></h3>
+<p><a href="https://sites.google.com/moe.edu.sg/ossopenhouse/our-journey-forward/co-curricular-activities?authuser=0" rel="noopener nofollow" target="_blank">Click Here</a> to
+access our microsite for more information on CCAs offered in our Sengkang
+campus.</p>
 <p></p>
 <p></p>
 <p></p>
