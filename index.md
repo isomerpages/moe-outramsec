@@ -8,12 +8,12 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: OSS DSA APPLICATION 2026
+          description: at Sengkang Campus
+          url: /the-outram-story/Staff-Achievements/
         - title: OSS Announcements
           description: Hear Us
           url: News-and-Announcements/News-and-Announcements/
-        - title: OSS Recognitions
-          description: Student & Staff Achievements
-          url: /the-outram-story/Staff-Achievements/
         - title: OSS Spotlight
           description: Recent Events
           url: /ossspotlight/ossspotlight/
