@@ -50,7 +50,7 @@ knowledge but also in resilience, adaptability, and a lifelong learning
 mindset. Our aim is to nurture scientifically literate individuals who
 are curious, resourceful, and prepared to contribute meaningfully to society,
 both locally and globally.</p>
-<h4><strong>🚀 Signature Programmes [Max 3 programmes]</strong></h4>
+<h4><strong>🚀 Signature Programmes </strong></h4>
 <p><strong>Innovators in Action</strong> – Students take part in enrichment
 workshops (e.g., SIT-VJC Project Inspire) that focus on science, engineering,
 and innovation. These hands-on sessions expose them to emerging technologies
