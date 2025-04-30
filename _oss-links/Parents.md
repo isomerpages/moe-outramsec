@@ -21,7 +21,7 @@ variant: markdown
 
 ### **Secondary 3 Subject Combination**
 
-https://go.gov.sg/2026osssubjcombinationsec3
+[Secondary 3 Subject Combination](https://go.gov.sg/2026osssubjcombinationsec3)
 
 
 
