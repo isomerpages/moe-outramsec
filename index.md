@@ -29,7 +29,7 @@ sections:
       title: DSA Application 2026 at Sengkang Campus
       id: infobar
       button: Click here for more info
-      url: https://go.gov.sg/2026osssubjcombinationsec3
+      url: https://sites.google.com/moe.edu.sg/ossopenhouse/dsa-oss
   - infopic:
       title: Learners for Life
       id: infopic
