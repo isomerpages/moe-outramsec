@@ -19,6 +19,12 @@ variant: markdown
 
 [Parents Gateway](https://pg.moe.edu.sg/)
 
+### **Secondary 3 Subject Combination**
+
+https://go.gov.sg/2026osssubjcombinationsec3
+
+
+
 ### **Newsletter - Outram Spotlight**
 
 [Outram Newsletter Term 3](/files/Parents%20and%20Students/Outram_Spotlight__3__updated.pdf)
