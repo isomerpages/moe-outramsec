@@ -34,7 +34,7 @@ goes beyond the classroom—one that is joyful, enriching, and future-ready.
 Our students emerge not only as proficient users of their mother tongue
 but as dynamic individuals empowered to make meaningful contributions to
 society.</p>
-<h4>🚀 Signature Programmes </h4>
+<h4>🚀 Signature Programmes</h4>
 <p>✨ [Programme 1] – (Short 1-liner on how it enhances learning)
 <br>✨ [Programme 2] – (E.g., Competitions, learning journeys, special projects)
 <br>✨ [Programme 3] – (E.g., Hands-on workshops, industry collaborations)</p>
