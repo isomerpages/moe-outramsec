@@ -38,3 +38,11 @@ and engaged global citizens.</p>
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/IMG_20231106_WA0030.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/IMG20231108101850.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/IMG_0110.jpg">
+</div>
+<p></p>
