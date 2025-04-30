@@ -25,13 +25,13 @@ complex, and ambiguous environment.</p>
 <p>&nbsp;</p>
 <p><strong>Learning Approaches:</strong>
 </p>
-<p>&nbsp;We adopt an inquiry-based learning approach that anchors the study
-of Humanities in authentic, real-world contexts. This pedagogical method
-encourages students to take an active role in their learning by asking
-meaningful questions, formulating hypotheses, gathering and analysing data,
-and constructing evidence-based conclusions. Through hands-on and experiential
-learning opportunities, students explore complex societal issues and human
-behaviours, fostering deeper engagement and understanding.</p>
+<p>We adopt an inquiry-based learning approach that anchors the study of
+Humanities in authentic, real-world contexts. This pedagogical method encourages
+students to take an active role in their learning by asking meaningful
+questions, formulating hypotheses, gathering and analysing data, and constructing
+evidence-based conclusions. Through hands-on and experiential learning
+opportunities, students explore complex societal issues and human behaviours,
+fostering deeper engagement and understanding.</p>
 <p>Through these experiences, students learn to critically evaluate the credibility
 and relevance of information sources. They develop digital discernment
 and an ethical awareness of technology’s impact, learning to use such tools
