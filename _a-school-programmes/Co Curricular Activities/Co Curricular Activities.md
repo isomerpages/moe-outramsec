@@ -5,6 +5,57 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
+<h1><strong>CCAs @ Outram Sec (Sengkang Campus):</strong></h1>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>🏀 Physical Sports</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>🎖️ Uniformed Groups</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>🎼 Visual &amp; Performing Arts</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>🏀 Basketball&nbsp;</p>
+<p>🏊 Swimming</p>
+<p>🤽 Water Polo (Boys only)</p>
+<p>🏸 Badminton (New)</p>
+<p>🥏&nbsp; Frisbee (New)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>🎖️ National Cadet Corps (NCC)
+<br>🚓 National Police Cadet Corps (NPCC) (New)
+<br>🚒 National Civil Defence Cadet Corps (NCDCC (New)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>🎺 Concert Band
+<br>💃 Modern Dance</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><a href="https://sites.google.com/moe.edu.sg/ossopenhouse/our-journey-forward/co-curricular-activities?authuser=0" rel="noopener nofollow" target="_blank">Click Here</a> to
+access our microsite for more information on CCAs offered in our Sengkang
+campus.</p>
+<p></p>
+<p></p>
+<p></p>
+<h3></h3>
+<p></p>
+<h3></h3>
+<p></p>
+<p></p>
+<h1><strong>CCAs @ Outram Sec (York Hill Campus):</strong></h1>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -27,4 +78,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>

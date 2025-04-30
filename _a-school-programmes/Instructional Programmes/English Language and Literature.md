@@ -42,7 +42,7 @@ of learning.</p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Adaptable Communicators:</strong> Students
 learn to tailor their language to audience and purpose, across formal and
 informal contexts.</p>
-<h4><strong>🚀 Signature Programmes [Max 3 programmes]</strong></h4>
+<h4><strong>🚀 Signature Programmes</strong></h4>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
