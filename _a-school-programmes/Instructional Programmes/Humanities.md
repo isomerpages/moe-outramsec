@@ -48,10 +48,10 @@ Studies Investigations, where they conduct fieldwork, analyse sources,
 and explore contemporary issues through guided inquiry. These experiences
 help them apply academic concepts to real-world contexts and sharpen their
 critical thinking skills.</p>
-<p>&nbsp;Selected students also take on the role of <em>Humanities Ambassadors,</em> to
+<p>Selected students also take on the role of <em>Humanities Ambassadors,</em> to
 raise awareness on civic topics like the significance of elections, fostering
 a sense of social responsibility and active citizenship.</p>
-<p>&nbsp;Additionally, students have opportunities to showcase their knowledge
+<p>Additionally, students have opportunities to showcase their knowledge
 and communication skills through national-level competitions such as <em>What’s The News?</em> and
 the <em>Singapore Model United Nations</em>, where they engage in current
 affairs, policy discussions, and global issues, further honing their analytical
