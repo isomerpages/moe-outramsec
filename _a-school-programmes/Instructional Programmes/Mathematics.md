@@ -41,7 +41,7 @@ and metacognitive skills</p>
 <p>Students will develop into lifelong learners who approach problems with
 curiosity and perseverance, upholding honesty in their reasoning and solutions,
 and contribute to real-world issues that impact their communities.</p>
-<h4><strong>🚀 Signature Programmes </strong></h4>
+<h4><strong>🚀 Signature Programmes</strong></h4>
 <p>Mathematics Trail – Students extend their learning of Mathematics through
 activities, with the aim of appreciating Mathematics in the real-world
 context. They will learn and apply mathematical concepts, and develop metacognitive
