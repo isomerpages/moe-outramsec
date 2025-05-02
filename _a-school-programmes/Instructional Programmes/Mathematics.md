@@ -5,120 +5,72 @@ description: ""
 third_nav_title: Instructional Programmes
 variant: tiptap
 ---
-<p></p>
-<div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRip3FxvE3_B1GQlIXcgWBfs9BU2WxVfyUCj_c6HeYUF_WhkC6mP5G4S_H5goGjYkwm0dCA0Ct803JX/embed?start=true&amp;loop=true&amp;delayms=5000"></iframe>
-</div>
-<p><strong>Long-term Goal:</strong>
+<h4><strong>💡 Skills Development</strong></h4>
+<p><a rel="noopener noreferrer nofollow" target="_blank">The Mathematics department aims to nurture students to become confident problem-solvers and self-directed learners, through innovative teaching approaches and carefully curated learning experiences.</a>
 </p>
-<p>To develop students’ mathematical thinking and problem solving skills
-through 4 key domains.</p>
-<p><strong>4 Key Domains</strong>
-</p>
-<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Instructional Strategies:</strong>&nbsp;Anchoring
-on the philosophy of Differentiated Instruction to employ a repertoire
-of strategies that focuses on Inquiry-Based Learning. The use of Concrete-Pictorial-Abstract
-approach helps students to visualise and understand mathematical concepts.</p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Effective Assessment:</strong>&nbsp;Conducting
-alternative assessments and differentiated assessment (assessment for learning,
-assessment of learning and assessment as learning) to examine and inform
-students’ level of understanding. The regular feedback from such assessments
-provides students with many opportunities to improve learning.</p>
-<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Effective Use of ICT:</strong>&nbsp;ICT-based
-activities are designed to help students visualise, explore and investigate
-mathematical ideas and relationships that would enhance the understanding
-of abstract mathematical concepts and eventually groom students to be digital
-literates.</p>
-<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Character Development:</strong>&nbsp;Teaching
-of emerging 21st Century Competencies, Social Emotional Learning and Values
-through in-class lessons and enrichment activities.</p>
-<p>&nbsp;&nbsp;</p>
-<p><strong>Programme</strong>
-</p>
-<p></p>
-<p><strong>National Mathematics Challenge: Problems in Real World Contexts</strong>
-</p>
-<p><strong>&nbsp;</strong>In 2023, there were a total of 29 teams of Secondary
-3 students from different schools took part in a mathematics challenge
-organized by Outram Secondary School’s Mathematics Department. The challenge
-was designed to</p>
+<p>Our classrooms are learning spaces where students:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>stimulate greater interest and enrich students’ knowledge in Mathematics,</p>
+<p>Develop <strong>Critical and Inventive Thinking</strong> through collaborative
+problem-solving using authentic tasks. Students learn to approach complex
+mathematical challenges with creativity and analytical rigour.</p>
 </li>
 <li>
-<p>connect and appreciate the importance of Mathematics in the real world
-context,</p>
+<p>Strengthen <strong>Communication and Collaboration Skills</strong> via student-led
+discussions and peer instruction sessions. Students articulate their mathematical
+reasoning, engage in mathematical discourse, and learn to work effectively
+in teams.</p>
 </li>
 <li>
-<p>develop in students critical mathematical skills and emerging 21st century
-competencies including reasoning, communication and modelling,</p>
-</li>
-<li>
-<p>inculcate positive attitudes towards learning and application of Mathematics.</p>
+<p>Enhance their <strong>Digital Literacy</strong> through integration of technology,
+including GeoGebra and spreadsheets for mathematical exploration and data
+visualisation, and collaborative tools.</p>
 </li>
 </ul>
+<p>Our students will be able to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Apply mathematical concepts to real-world scenarios, developing their
+ability to connect classroom learning with practical applications</p>
+</li>
+<li>
+<p>Engage in reflection activities to deepen their mathematical thinking
+and metacognitive skills</p>
+</li>
+</ul>
+<p>Students will develop into lifelong learners who approach problems with
+curiosity and perseverance, upholding honesty in their reasoning and solutions,
+and contribute to real-world issues that impact their communities.</p>
+<h4><strong>🚀 Signature Programmes</strong></h4>
+<p>Mathematics Trail – Students extend their learning of Mathematics through
+activities, with the aim of appreciating Mathematics in the real-world
+context. They will learn and apply mathematical concepts, and develop metacognitive
+skills as they solve the hand on tasks in a team.</p>
+<p>Mathematical Olympiad Programme – Developing the student’s logical reasoning
+and communication skills through higher order mathematics, Outramians participate
+in Singapore Mathematical Olympiad (SMO) and Singapore and Asian Schools
+Math Olympiad (SASMO).</p>
+<p>Enrichment Programme – Students take part in external programmes (e.g.
+TP X VJC Data Science Hackathon) to appreciate the connections between
+Mathematics and the real world and discover their interests in different
+branches of Mathematics.</p>
+<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/mathchallenge2023.jpg">
+</div>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Instructional Programmes/Mathematics/maths.jpeg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_1934.jpg">
 </div>
 <p></p>
-<p>&nbsp;&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/Mathematics/MP01.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture3.jpg">
 </div>
-<p>
-<br>
-<br>
-</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/Mathematics/MP02.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_7147.jpg">
 </div>
-<p>
-<br>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/Mathematics/MP03.jpg">
-</div>
-<p>
-<br>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/Mathematics/MP04.jpg">
-</div>
-<p>
-<br>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:70%;height:50%" height="auto" width="100%" src="/images/Instructional%20Programmes/Mathematics/MP05.jpg">
-</div>
-<p>
-<br>
-</p>
-<p>
-<br>
-</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <p></p>
 <p></p>
 <p></p>
