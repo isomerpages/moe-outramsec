@@ -35,9 +35,6 @@ Our students emerge not only as proficient users of their mother tongue
 but as dynamic individuals empowered to make meaningful contributions to
 society.</p>
 <h4>🚀 Signature Programmes</h4>
-<p>✨ [Programme 1] – (Short 1-liner on how it enhances learning)
-<br>✨ [Programme 2] – (E.g., Competitions, learning journeys, special projects)
-<br>✨ [Programme 3] – (E.g., Hands-on workshops, industry collaborations)</p>
 <p>Mother Tongue Fortnight Activities/Camp</p>
 <p>The Mother Tongue Fortnight (MTLFN) and the Language and Cultural Camp
 (LCC) are signature programmes that bring our MTL curriculum to life. These
