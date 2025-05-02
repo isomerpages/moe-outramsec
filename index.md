@@ -8,12 +8,12 @@ notification: ""
 sections:
   - hero:
       key_highlights:
+        - title: OSS DSA APPLICATION 2026
+          description: at Sengkang Campus
+          url: https://sites.google.com/moe.edu.sg/ossopenhouse/dsa-oss
         - title: OSS Announcements
           description: Hear Us
           url: News-and-Announcements/News-and-Announcements/
-        - title: OSS Recognitions
-          description: Student & Staff Achievements
-          url: /the-outram-story/Staff-Achievements/
         - title: OSS Spotlight
           description: Recent Events
           url: /ossspotlight/ossspotlight/
@@ -26,10 +26,10 @@ sections:
       alignment: right
       backgroundColor: gray
   - infobar:
-      title: Secondary 3 Subject Combinations 2026
+      title: DSA Application 2026 at Sengkang Campus
       id: infobar
       button: Click here for more info
-      url: https://go.gov.sg/2026osssubjcombinationsec3
+      url: https://sites.google.com/moe.edu.sg/ossopenhouse/dsa-oss
   - infopic:
       title: Learners for Life
       id: infopic
