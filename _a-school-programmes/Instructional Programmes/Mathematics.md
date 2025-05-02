@@ -55,7 +55,6 @@ TP X VJC Data Science Hackathon) to appreciate the connections between
 Mathematics and the real world and discover their interests in different
 branches of Mathematics.</p>
 <p>&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/mathchallenge2023.jpg">
 </div>
