@@ -462,4 +462,5 @@ third_nav_title: OSS Staff
 </tr>
 </tbody>
 </table>
-<p></p>
+<p><a href="/files/Verine_ong.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
