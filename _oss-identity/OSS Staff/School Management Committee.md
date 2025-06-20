@@ -211,6 +211,67 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Nasuha Rahmat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Acting Subject Head Leadership</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nasuha_rahmat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nasuha_rahmat@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Verine Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Acting Assistant Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">yeo_yi_lin_verine@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Verine_ong.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chow Poh Boon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chow_poh_boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chow_poh_boon@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Mun Leong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_mun_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_mun_leong@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Chew Kia Sheng</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -230,7 +291,7 @@ third_nav_title: OSS Staff
 <p>Mr Irwan Haerman Bin Tomin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/Special Projects / Covering HOD ICT</p>
+<p>HOD/Special Projects</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:irwan_haerman_tomin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">irwan_haerman_tomin@moe.edu.sg</a>
@@ -366,22 +427,6 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/devi.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Lim Ting Long</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Acting Subject Head/ Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lim_ting_long@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_ting_long@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/ting_long.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
 </td>
 </tr>
