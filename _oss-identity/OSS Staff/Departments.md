@@ -113,14 +113,14 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Hazlan B Mohd Aris</p>
-<p>Ms Shi Yanwei</p>
+<p>Mrs Verine Ong</p>
 <p>&nbsp;</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:hazlan_mohd_aris@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hazlan_mohd_aris@moe.edu.sg</a>
 </p>
-<p><a href="mailto:shi_yanwei@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shi_yanwei@moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">yeo_yi_lin_verine@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
