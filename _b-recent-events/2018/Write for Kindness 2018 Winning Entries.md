@@ -3,6 +3,7 @@ title: Write for Kindness 2018 Winning Entries
 permalink: /events/2018/Write-for-Kindness-2018-Winning-Entries/
 description: ""
 third_nav_title: "2018"
+variant: markdown
 ---
 #### **Winning Entries**
 
@@ -16,10 +17,6 @@ Outram students wrote right for ‘Write for Kindness 2018’ and won!
 Imran Westerhout Hasan (Sec 2/4)                                                 
 
 Nur Aleeyah Binte Mohamed Rizal (Sec 2/4)     
-
-**Poetry-writing (3rd place team):** 
-
-Zaragoza Sabryne Kirsten Mendoza (Sec 2/3)
 
 Nguyen Ngoc Khanh Chi (Sec 2/3)
 
