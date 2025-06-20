@@ -248,7 +248,8 @@ third_nav_title: OSS Staff
 <p>HOD Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:chow_poh_boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chow_poh_boon@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
