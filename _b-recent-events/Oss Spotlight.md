@@ -14,6 +14,10 @@ variant: tiptap
 <p><a href="https://go.gov.sg/outramspotlight25" rel="noopener nofollow" target="_blank">Outram Newsletter Term 1</a>
 </p>
 </li>
+<li>
+<p><a href="https://go.gov.sg/t2newsletter" rel="noopener nofollow" target="_blank">Outram Newsletter Term 2</a>
+</p>
+</li>
 </ul>
 <blockquote>
 <p>2024</p>
