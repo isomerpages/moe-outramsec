@@ -73,7 +73,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lee Soo Njin</p>
+<p>Mr Lee Soo Njin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
