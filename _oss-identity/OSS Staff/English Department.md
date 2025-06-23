@@ -57,6 +57,14 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mrs Verine Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Acting Assistant Year Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Aqilah Binte Juma'in</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,14 +93,6 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Verine Ong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Acting Assistant Year Head</p>
 </td>
 </tr>
 <tr>
