@@ -83,7 +83,7 @@ third_nav_title: OSS Staff
 <p>Ms Zahira</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICT Associate</p>
+<p>ICT Manager</p>
 </td>
 </tr>
 <tr>
@@ -112,6 +112,14 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Yazid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STEM instructor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Nurhani Dikin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -123,7 +131,7 @@ third_nav_title: OSS Staff
 <p>Mr Mohamed Farhan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lab Technician</p>
+<p>STEM instructor</p>
 </td>
 </tr>
 <tr>
@@ -131,7 +139,7 @@ third_nav_title: OSS Staff
 <p>Ms Yohamban</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>OSO/Admin</p>
+<p>Kitchen Aide</p>
 </td>
 </tr>
 <tr>

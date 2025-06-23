@@ -49,10 +49,34 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Viji</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Siva Sankar S/O Sinnasamy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Yoga</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Kitchen Aide</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Yazid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Stem Instructor</p>
 </td>
 </tr>
 </tbody>

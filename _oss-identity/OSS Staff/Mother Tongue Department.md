@@ -20,8 +20,7 @@ third_nav_title: OSS Staff
 <p>Mrs Faith Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Sec)</p>
-<p>Covering MTL Head</p>
+<p>Year Head (Secondary 3), Covering Educational Support</p>
 </td>
 </tr>
 <tr>
@@ -29,7 +28,15 @@ third_nav_title: OSS Staff
 <p>Ms Nur Atikah Bte Kamsani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting Subject Head/ CCE</p>
+<p>Subject Head/ MTL</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nasuha</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Acting Subject Head/ Student Leadership and CCA</p>
 </td>
 </tr>
 <tr>
@@ -43,14 +50,6 @@ third_nav_title: OSS Staff
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Hazlan B Mohd Aris</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Shi Yan Wei</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -74,7 +73,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Wen Zhi Guang (FAJT)</p>
+<p>Mdm Yang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -82,15 +81,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chen Tat Kuang (FAJT)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nasuha</p>
+<p>Mdm He Jing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>

@@ -44,11 +44,18 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>Mr Abdul Rahman Bin Abdul Rahim</p>
 <p></p>
-<p><a href="/files/abdul.pdf" rel="noopener noreferrer nofollow" target="_blank">View my Leadership Statement</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Verine Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Acting Assistant Year Head</p>
 </td>
 </tr>
 <tr>
@@ -57,6 +64,22 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Samira Vinod Lai</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Wong Heng Yee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
