@@ -33,6 +33,30 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr John Cheong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Damien Ho</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lim Teck Ming</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Ong Kok Heng</p>
 </td>
 <td rowspan="1" colspan="1">
