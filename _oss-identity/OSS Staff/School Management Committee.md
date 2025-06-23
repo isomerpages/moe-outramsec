@@ -57,8 +57,7 @@ third_nav_title: OSS Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Our_Personal_Statement__Elaine1_.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -195,6 +194,22 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Chew Kia Sheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Head of Department/PE&amp;CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chew_kia_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_kia_sheng@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/kia_sheng.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Serene Cheong</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -206,6 +221,84 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/serene.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Irwan Haerman Bin Tomin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/Special Projects</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:irwan_haerman_tomin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">irwan_haerman_tomin@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/irwan.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ng Mun Leong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_mun_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_mun_leong@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chow Poh Boon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chow_poh_boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chow_poh_boon@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Aqilah Binte Juma'in</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head/Student Leadership &amp; Well-Being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="aqilah_jumain@moe.edu.sg" rel="noopener nofollow" target="_blank">aqilah_jumain@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/aqilahv.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nur Atikah Bte Kamsani</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head/MTL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nur_atikah_kamsani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_atikah_kamsani@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/athika.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
 </td>
 </tr>
@@ -242,72 +335,10 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chow Poh Boon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chow_poh_boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chow_poh_boon@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ng Mun Leong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD ICT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ng_mun_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_mun_leong@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chew Kia Sheng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Head of Department/PE&amp;CCA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chew_kia_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_kia_sheng@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/kia_sheng.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Irwan Haerman Bin Tomin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD/Special Projects</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:irwan_haerman_tomin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">irwan_haerman_tomin@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/irwan.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Faith Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Secondary 3)</p>
+<p>Year Head (Secondary 3) / Covering Educational Support</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_ching_hun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_ching_hun@moe.edu.sg</a>
@@ -363,38 +394,6 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Aqilah Binte Juma'in</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head/Student Leadership &amp; Well-Being</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="aqilah_jumain@moe.edu.sg" rel="noopener nofollow" target="_blank">aqilah_jumain@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/aqilahv.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nur Atikah Bte Kamsani</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head/MTL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nur_atikah_kamsani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_atikah_kamsani@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/athika.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
-</p>
 </td>
 </tr>
 <tr>
