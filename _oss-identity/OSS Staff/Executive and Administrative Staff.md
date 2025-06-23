@@ -115,7 +115,7 @@ third_nav_title: OSS Staff
 <p>Mr Yazid</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yazid (STEM instructor)</p>
+<p>STEM instructor</p>
 </td>
 </tr>
 <tr>
