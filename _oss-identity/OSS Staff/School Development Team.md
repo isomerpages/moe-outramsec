@@ -81,6 +81,30 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mrs Verine Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Acting Assistant Year Head</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Samson Wong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nasuha Rahmat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Acting Subject Head Student Leadership and CCA</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Aqilah Binte Juma'in</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -92,7 +116,7 @@ third_nav_title: OSS Staff
 <p>Ms Isabella Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>School Counsellor</p>
+<p>Senior School Counsellor</p>
 </td>
 </tr>
 <tr>
