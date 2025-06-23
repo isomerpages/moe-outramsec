@@ -83,7 +83,7 @@ third_nav_title: OSS Staff
 <p>Ms Zahira</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICT Associate</p>
+<p>ICT Manager</p>
 </td>
 </tr>
 <tr>
@@ -108,6 +108,14 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Desktop Engineer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Yazid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Yazid (STEM instructor)</p>
 </td>
 </tr>
 <tr>
