@@ -131,7 +131,7 @@ third_nav_title: OSS Staff
 <p>Mr Mohamed Farhan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lab Technician</p>
+<p>STEM instructor</p>
 </td>
 </tr>
 <tr>
@@ -139,7 +139,7 @@ third_nav_title: OSS Staff
 <p>Ms Yohamban</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>OSO/Admin</p>
+<p>Kitchen Aide</p>
 </td>
 </tr>
 <tr>
