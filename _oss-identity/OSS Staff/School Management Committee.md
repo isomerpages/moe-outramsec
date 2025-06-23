@@ -288,6 +288,37 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Kannan Kalidasan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head/Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kannan_kalidasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kannan_kalidasan@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ong Kok Heng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Subject Head/ Craft &amp; Technology</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ong_kok_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_kok_heng@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/ong.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Nur Atikah Bte Kamsani</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -363,37 +394,6 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p><a href="/files/yang_hong.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ong Kok Heng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head/ Craft &amp; Technology</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ong_kok_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_kok_heng@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/ong.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Kannan Kalidasan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head/Student Management</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:kannan_kalidasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kannan_kalidasan@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
