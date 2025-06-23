@@ -73,7 +73,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Wen Zhi Guang (FAJT)</p>
+<p>Mdm Yang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -81,7 +81,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chen Tat Kuang (FAJT)</p>
+<p>Mdm He Jing</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
