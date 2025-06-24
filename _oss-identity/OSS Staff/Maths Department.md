@@ -29,6 +29,17 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Goh Keng Hock</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/ CCE / Year Head (Secondary 4)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Lim Teck Ming</p>
 </td>
 <td rowspan="1" colspan="1">
