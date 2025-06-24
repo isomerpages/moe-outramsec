@@ -338,7 +338,7 @@ third_nav_title: OSS Staff
 <p>Mrs Faith Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Secondary 3) / Covering Educational Support</p>
+<p>Year Head (Secondary 3), Covering Educational Support</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_ching_hun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_ching_hun@moe.edu.sg</a>
