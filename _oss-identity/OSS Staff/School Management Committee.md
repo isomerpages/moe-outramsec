@@ -267,7 +267,8 @@ third_nav_title: OSS Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/poon_boon.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -335,41 +336,10 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nasuha Rahmat</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Acting Subject Head Leadership</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:nasuha_rahmat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nasuha_rahmat@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Verine Ong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Acting Assistant Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">yeo_yi_lin_verine@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Verine_ong.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mrs Faith Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Secondary 3) / Covering Educational Support</p>
+<p>Year Head (Secondary 3), Covering Educational Support</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_ching_hun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_ching_hun@moe.edu.sg</a>
@@ -409,6 +379,38 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/ismath_1.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nasuha Rahmat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Acting SH Student Leadership and CCA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nasuha_rahmat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nasuha_rahmat@schools.gov.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/NASUHA.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Verine Ong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Acting Assistant Year Head</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">yeo_yi_lin_verine@moe.edu.sg</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/Verine_ong.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
 </td>
 </tr>

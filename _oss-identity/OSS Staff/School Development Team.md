@@ -19,8 +19,7 @@ third_nav_title: OSS Staff
 <p>Mrs Faith Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Sec)</p>
-<p>Covering MTL Head</p>
+<p>Year Head (Secondary 3), Covering Educational Support</p>
 </td>
 </tr>
 <tr>
@@ -116,7 +115,7 @@ third_nav_title: OSS Staff
 <p>Ms Nasuha Rahmat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting Subject Head Student Leadership and CCA</p>
+<p>Acting SH Student Leadership and CCA</p>
 </td>
 </tr>
 <tr>
