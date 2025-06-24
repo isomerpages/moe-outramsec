@@ -386,7 +386,7 @@ third_nav_title: OSS Staff
 <p>Ms Nasuha Rahmat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting Subject Head Leadership</p>
+<p>Acting SH Student Leadership and CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nasuha_rahmat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nasuha_rahmat@schools.gov.sg</a>
