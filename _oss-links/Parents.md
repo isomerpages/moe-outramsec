@@ -66,6 +66,8 @@ variant: markdown
 
 ### **Letter to Parents**
 
+[2025 Letter to Parents Term 3](/files/Letter_to_Parents_Term_3_2025.pdf)
+
 [2025 Term 2 Letter to Parents](/files/Letter_to_Parents_Term_2_2025.pdf)
 
 [2025 Term 1 Letter to Parents](/files/Letter_to_Parents__Term_1_2025__002_.pdf)
