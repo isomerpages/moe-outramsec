@@ -131,7 +131,7 @@ third_nav_title: OSS Staff
 <p>Ms Isabella Lee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Senior School Counsellor</p>
+<p>School Counsellor</p>
 </td>
 </tr>
 <tr>
