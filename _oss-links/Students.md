@@ -30,7 +30,7 @@ variant: markdown
 
 
 
-### **Exam Timetable 2024**
+### **Exam Timetable **
 [2025 EOY Exam Timetable](/files/2025_EOY_Exam_Timetable_W.pdf)
 
 [2025 Prelim Exam Timetable](/files/2025_Prelim_Exam_Timetable_W.pdf)
