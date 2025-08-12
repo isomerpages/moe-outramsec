@@ -20,6 +20,15 @@ variant: markdown
 </thead>
 	<tbody>
   <tr>
+    <td class="tg-baqh"><span style="font-weight:600;color:#484848">National Day Award 2025 (The Long Service Medal) </span></td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">Mr Lim Teck Ming</td>
+  </tr>
+</tbody>
+  <tbody><tr>
+	</tr></tbody><tbody>
+  <tr>
     <td class="tg-baqh"><span style="font-weight:600;color:#484848">Certificate of Commendation - Providing Learning Support for Special Educational Needs (SEN) and Low Progress (LP) Students </span></td>
   </tr>
   <tr>
