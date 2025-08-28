@@ -30,6 +30,8 @@ sections:
       id: infopic
       image: /images/https___go_gov_sg_ossaward2025.png
       alt: Image alt text
+      url: /files/OSS_Student_Award_Nominations_2025_School_Website.pdf
+      button: click here to view
   - infopic:
       title: Learners for Life
       id: infopic
