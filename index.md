@@ -26,6 +26,11 @@ sections:
       alignment: right
       backgroundColor: gray
   - infopic:
+      title: OSS Student Award Nominations 2025
+      id: infopic
+      image: /images/https___go_gov_sg_ossaward2025.png
+      alt: Image alt text
+  - infopic:
       title: Learners for Life
       id: infopic
       description: "Where students pursue their interest, discover their talents, and
@@ -46,9 +51,4 @@ sections:
         and are inspired by Social Service Agencies. #thisisOutram"
       image: /images/DSC_0859b.jpg
       alt: Contributors with Compassion
-  - infopic:
-      title: OSS Student Award Nominations 2025
-      id: infopic
-      image: /images/https___go_gov_sg_ossaward2025.png
-      alt: Image alt text
 ---
