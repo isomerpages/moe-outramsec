@@ -25,11 +25,6 @@ sections:
       size: sm
       alignment: right
       backgroundColor: gray
-  - infobar:
-      title: DSA Application 2026 at Sengkang Campus
-      id: infobar
-      button: Click here for more info
-      url: https://sites.google.com/moe.edu.sg/ossopenhouse/dsa-oss
   - infopic:
       title: Learners for Life
       id: infopic
@@ -51,4 +46,9 @@ sections:
         and are inspired by Social Service Agencies. #thisisOutram"
       image: /images/DSC_0859b.jpg
       alt: Contributors with Compassion
+  - infopic:
+      title: OSS Student Award Nominations 2025
+      id: infopic
+      image: /images/https___go_gov_sg_ossaward2025.png
+      alt: Image alt text
 ---
