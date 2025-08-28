@@ -16,6 +16,7 @@ variant: markdown
 
 [Online Public Access Catalogue (OPAC)](https://schoolibrary.moe.edu.sg/outramsec/cgi-bin/spydus.exe/MSGTRN/WPAC/HOME)
 
+[OSS Student Award Nomination 2025](/files/OSS_Student_Award_Nominations_2025_School_Website.pdf)
 
 
 
