@@ -28,7 +28,7 @@ sections:
   - infopic:
       title: OSS Student Award Nominations 2025
       id: infopic
-      image: /images/https___go_gov_sg_ossaward2025.png
+      image: /images/https___go_gov_sg_ossaward2025__003_.png
       alt: Image alt text
       url: /files/OSS_Student_Award_Nominations_2025_School_Website.pdf
       button: click here to view
