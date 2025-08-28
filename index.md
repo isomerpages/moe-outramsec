@@ -33,7 +33,7 @@ sections:
       url: /files/OSS_Student_Award_Nominations_2025_School_Website.pdf
       button: click here to view
       description: Nominate yourself/ your friend/ your student/ your child or a
-        deserving student today
+        deserving student today!
   - infopic:
       title: Learners for Life
       id: infopic
