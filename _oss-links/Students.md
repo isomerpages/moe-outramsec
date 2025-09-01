@@ -34,7 +34,7 @@ variant: markdown
 ### **Exam Timetable **
 [2025 EOY Exam Timetable](/files/2025_EOY_Exam_Timetable_W.pdf)
 
-[2025 Prelim Exam Timetable](/files/2025_Prelim_Exam_Timetable_W.pdf)
+[2025 Prelim Exam Schedule ](/files/2025_Prelim_Exam_Schedule_4NT_4NA_4E_updated.pdf)
 
 
 ### **Student Handbook**
