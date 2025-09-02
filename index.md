@@ -25,6 +25,11 @@ sections:
       size: sm
       alignment: right
       backgroundColor: gray
+  - infobar:
+      title: School Disciplinary Measures for Vaping
+      id: infobar
+      button: Click here to view
+      url: ghjg
   - infopic:
       title: OSS Student Award Nominations 2025
       id: infopic
@@ -55,9 +60,4 @@ sections:
         and are inspired by Social Service Agencies. #thisisOutram"
       image: /images/DSC_0859b.jpg
       alt: Contributors with Compassion
-  - infobar:
-      title: School Disciplinary Measures for Vaping
-      id: infobar
-      button: Click here to view
-      url: ghjg
 ---
