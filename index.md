@@ -29,7 +29,7 @@ sections:
       title: School Disciplinary Measures for Vaping
       id: infobar
       button: Click here to view
-      url: ghjg
+      url: /files/Updated_School_Disciplinary_Measures_Vaping.pdf
   - infopic:
       title: OSS Student Award Nominations 2025
       id: infopic
