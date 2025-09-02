@@ -6,6 +6,8 @@ variant: markdown
 ---
 ### **Links**
 
+
+
 [Outram Newsletter 2024](/files/Parents%20and%20Students/Parents/Outram_Newsletter_2024___lite.pdf)
 
 [Self-Password Reset Guide For MIMS](/files/Parents%20and%20Students/Students/poster%20for%20mims.pdf)
@@ -39,7 +41,7 @@ variant: markdown
 
 ### **Student Handbook**
 
-[Student Handbook 2025](/files/2025_Student_Handbook1.pdf)
+[Student Handbook 2025](/files/2025_Student_Handbook1_2.pdf)
 
 [Student Handbook 2024](/files/Parents%20and%20Students/Students/2024_Student_Handbook_2_Feb.pdf)
 
