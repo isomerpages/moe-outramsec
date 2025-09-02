@@ -26,7 +26,7 @@ sections:
       alignment: right
       backgroundColor: gray
   - infobar:
-      title: School Disciplinary Measures for Vaping
+      title: Updated School Disciplinary Measures for Vaping
       id: infobar
       button: Click here to view
       url: /files/Updated_School_Disciplinary_Measures_Vaping.pdf
