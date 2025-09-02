@@ -25,6 +25,11 @@ sections:
       size: sm
       alignment: right
       backgroundColor: gray
+  - infobar:
+      title: Updated School Disciplinary Measures for Vaping
+      id: infobar
+      button: Click here to view
+      url: /files/Updated_School_Disciplinary_Measures_Vaping.pdf
   - infopic:
       title: OSS Student Award Nominations 2025
       id: infopic
