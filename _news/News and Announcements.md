@@ -6,6 +6,10 @@ variant: tiptap
 ---
 <ul>
 <li>
+<p><a href="/files/Announcment_on_Schoool_website_on_the_Central_Kitchen_Meal_Model_in_Outram_Secondary_School.pdf" rel="noopener nofollow" target="_blank">Central Kitchen Meal Model in Outram Secondary School</a>
+</p>
+</li>
+<li>
 <p><a href="/files/News%20&amp;%20Announcements/2024_ONLINE_PUBLICITY_INFO.pdf" rel="noopener noreferrer nofollow" target="_blank">Edusave Character Award (ECHA) Nomination 2024</a>
 </p>
 </li>
