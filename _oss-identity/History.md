@@ -27,7 +27,7 @@ Under the orders of the Education Department, Mr SG Mohamed Ghows, who was Outra
 <img style="width:30%;height:50%" src="/images/About%20us/History/H1NEW.gif">
 
 **Conversion into a Secondary School in 1954**  
-O n 1st January 1954, Outram ceased to be a purely Primary School and was converted to a four year Secondary Commercial School with a four year secondary school course leading to the School Certificate of Commercial Education of the London Chamber of Commerce. With the conversion, the school motto was changed from "ON TO SUCCESS" to "LABOR OMNIA VINCIT" – Labour Conquers All. The School's crest was also changed.
+On 1st January 1954, Outram ceased to be a purely Primary School and was converted to a four year Secondary Commercial School with a four year secondary school course leading to the School Certificate of Commercial Education of the London Chamber of Commerce. With the conversion, the school motto was changed from "ON TO SUCCESS" to "LABOR OMNIA VINCIT" – Labour Conquers All. The School's crest was also changed.
 
 <img style="width:30%;height:50%" src="/images/About%20us/History/H5NEW.jpg">
 
