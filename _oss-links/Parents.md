@@ -25,17 +25,6 @@ variant: markdown
 
 [Secondary 3 Subject Combination](https://go.gov.sg/2026osssubjcombinationsec3)
 
-
-
-### **Newsletter - Outram Spotlight**
-
-[Outram Newsletter Term 3](/files/Parents%20and%20Students/Outram_Spotlight__3__updated.pdf)
-
-[Outram Newsletter Term 2](/files/Parents%20and%20Students/Outram_Spotlight__2_final_compressed__1_.pdf)
-
-[Outram Newsletter Term 1](/files/Parents%20and%20Students/Parents/Outram_Newsletter_2024___lite.pdf)
-
-
 ### **Sec 1 Orientation**
 [Full SBB sharing with Sec 1 parents ](/files/Full_SBB_sharing_with_Sec_1_parents__12_Jan_2024_.pdf)
 
