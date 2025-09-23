@@ -8,8 +8,8 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: OSS DSA APPLICATION 2026
-          description: at Sengkang Campus
+        - title: OSS Seng Kang Campus Open House
+          description: ""
           url: https://sites.google.com/moe.edu.sg/ossopenhouse/dsa-oss
         - title: OSS Announcements
           description: Hear Us
