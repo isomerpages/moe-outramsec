@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: OSS Seng Kang Campus Open House
           description: ""
-          url: https://sites.google.com/moe.edu.sg/ossopenhouse/dsa-oss
+          url: /oss-poster/
         - title: OSS Announcements
           description: Hear Us
           url: News-and-Announcements/News-and-Announcements/
