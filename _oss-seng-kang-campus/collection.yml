@@ -1,0 +1,5 @@
+collections:
+  oss-seng-kang-campus:
+    output: true
+    order:
+      - SengKang Poster.md
