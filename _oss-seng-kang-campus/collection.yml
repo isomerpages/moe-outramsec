@@ -1,4 +1,5 @@
 collections:
   oss-seng-kang-campus:
     output: true
-    order: []
+    order:
+      - OSS Poster.md
