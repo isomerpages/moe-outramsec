@@ -1,5 +1,5 @@
 ---
-title: SengKang Poster
+title: OpenHouse
 permalink: /oss-poster/
 variant: tiptap
 description: ""
