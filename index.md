@@ -25,20 +25,16 @@ sections:
       size: sm
       alignment: right
       backgroundColor: gray
+  - infopic:
+      title: NEW CAMPUS OPEN HOUSE 2025
+      id: infopic
+      image: /images/All_3_EMarket_Final_Login_window.jpg
+      alt: Image alt text
   - infobar:
       title: Updated School Disciplinary Measures for Vaping
       id: infobar
       button: Click here to view
       url: /files/Updated_School_Disciplinary_Measures_Vaping.pdf
-  - infopic:
-      title: OSS Student Award Nominations 2025
-      id: infopic
-      image: /images/https___go_gov_sg_ossaward2025__003_.png
-      alt: Image alt text
-      url: /files/OSS_Student_Award_Nominations_2025_School_Website.pdf
-      button: click here to view
-      description: Nominate yourself/ your friend/ your student/ your child or a
-        deserving student today!
   - infopic:
       title: Learners for Life
       id: infopic
@@ -60,9 +56,4 @@ sections:
         and are inspired by Social Service Agencies. #thisisOutram"
       image: /images/DSC_0859b.jpg
       alt: Contributors with Compassion
-  - infopic:
-      title: NEW CAMPUS OPEN HOUSE 2025
-      id: infopic
-      image: /images/All_3_EMarket_Final_Login_window.jpg
-      alt: Image alt text
 ---
