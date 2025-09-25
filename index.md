@@ -60,4 +60,9 @@ sections:
         and are inspired by Social Service Agencies. #thisisOutram"
       image: /images/DSC_0859b.jpg
       alt: Contributors with Compassion
+  - infopic:
+      title: NEW CAMPUS OPEN HOUSE 2025
+      id: infopic
+      image: /images/All_3_EMarket_Final_Login_window.jpg
+      alt: Image alt text
 ---
