@@ -68,7 +68,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Samira Vinod Lai</p>
+<p>Ms Samira Vinod Lal</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
