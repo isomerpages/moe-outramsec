@@ -1,4 +1,5 @@
 collections:
   oss-sekngkang-campus:
     output: true
-    order: []
+    order:
+      - OSS Sengkang.md
