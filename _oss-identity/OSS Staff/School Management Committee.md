@@ -133,7 +133,7 @@ third_nav_title: OSS Staff
 <p>Ms Tan Boon Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department/ Humanities</p>
+<p>HOD/ Humanities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_boon_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_boon_hwee@moe.edu.sg</a>
@@ -149,7 +149,7 @@ third_nav_title: OSS Staff
 <p>Mr Koh Siak Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department/Science and Talent Development</p>
+<p>HOD/Science and Talent Development</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:koh_siak_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_siak_peng@moe.edu.sg</a>
@@ -181,7 +181,7 @@ third_nav_title: OSS Staff
 <p>Ms Zaiton</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department/ Student Management</p>
+<p>HOD/ Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:zaiton_mohamed_punither_basa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zaiton_mohamed_punither_basa@moe.edu.sg</a>
@@ -197,7 +197,7 @@ third_nav_title: OSS Staff
 <p>Mr Chew Kia Sheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department/PE&amp;CCA</p>
+<p>HOD/PE&amp;CCA</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chew_kia_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_kia_sheng@moe.edu.sg</a>
@@ -213,7 +213,7 @@ third_nav_title: OSS Staff
 <p>Ms Serene Cheong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department/ Business &amp; Enterprise &amp; Student Well-Being</p>
+<p>HOD/ Business &amp; Enterprise &amp; Student Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:cheong_wenxin_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_wenxin_serene@moe.edu.sg</a>
@@ -276,7 +276,7 @@ third_nav_title: OSS Staff
 <p>Ms Aqilah Binte Juma'in</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/Student Leadership &amp; Well-Being</p>
+<p>SH/Student Leadership &amp; Well-Being</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="aqilah_jumain@moe.edu.sg" rel="noopener nofollow" target="_blank">aqilah_jumain@moe.edu.sg</a>
@@ -292,7 +292,7 @@ third_nav_title: OSS Staff
 <p>Mr Kannan Kalidasan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/Student Management</p>
+<p>SH/Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:kannan_kalidasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kannan_kalidasan@moe.edu.sg</a>
@@ -307,7 +307,7 @@ third_nav_title: OSS Staff
 <p>Mr Ong Kok Heng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/ Craft &amp; Technology</p>
+<p>SH/ Craft &amp; Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_kok_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_kok_heng@moe.edu.sg</a>
@@ -323,7 +323,7 @@ third_nav_title: OSS Staff
 <p>Ms Nur Atikah Bte Kamsani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/MTL</p>
+<p>SH/MTL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:nur_atikah_kamsani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_atikah_kamsani@moe.edu.sg</a>
@@ -339,7 +339,7 @@ third_nav_title: OSS Staff
 <p>Mrs Faith Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Secondary 3), Covering Educational Support</p>
+<p>YH(Secondary 3), Covering Educational Support</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_ching_hun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_ching_hun@moe.edu.sg</a>
@@ -355,7 +355,7 @@ third_nav_title: OSS Staff
 <p>Ms Yeo Yang Hong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head (Secondary 2)</p>
+<p>Assistant YH (Secondary 2)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yeo_yang_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_yang_hong@moe.edu.sg</a>
@@ -371,7 +371,7 @@ third_nav_title: OSS Staff
 <p>Ms Ismath Banu Mohamed Yaseen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Level Head/ English Language/Literature</p>
+<p>LH/ English Language/Literature</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ismath_banu_mohamed_yaseen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ismath_banu_mohamed_yaseen@moe.edu.sg</a>
@@ -403,7 +403,7 @@ third_nav_title: OSS Staff
 <p>Mrs Verine Ong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting Assistant Year Head</p>
+<p>Acting Assistant YH</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">yeo_yi_lin_verine@moe.edu.sg</a>
@@ -419,7 +419,7 @@ third_nav_title: OSS Staff
 <p>Ms Durga Devi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting Subject Head / Craft and Technology</p>
+<p>Acting SH / Craft and Technology</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:durga_devi_v_jagarajan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">durga_devi_v_jagarajan@moe.edu.sg</a>
