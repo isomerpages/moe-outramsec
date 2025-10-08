@@ -2,5 +2,6 @@ collections:
   oss-sengkang-campus:
     output: true
     order:
+      - Our New Campus/Our New Campus.md
       - Our New Campus/.keep
       - OSS Sengkang Campus.md
