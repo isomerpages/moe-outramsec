@@ -2,5 +2,6 @@ collections:
   oss-sengkang-campus:
     output: true
     order:
+      - School Mock Up/Our New Campus.md
       - School Mock Up/.keep
       - OSS Sengkang Campus.md
