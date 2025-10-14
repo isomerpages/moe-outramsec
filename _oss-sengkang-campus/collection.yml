@@ -2,7 +2,6 @@ collections:
   oss-sengkang-campus:
     output: true
     order:
-      - Our School Leaders/Our Journey Forward.md
       - Our School Leaders/.keep
       - OSS Sengkang Campus.md
       - Our New Campus/.keep
