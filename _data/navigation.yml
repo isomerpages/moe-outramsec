@@ -15,14 +15,14 @@ links:
         url: /about-us/School-Song/
       - title: OSS Staff
         url: /departments/
+      - title: SengKang Campus
+        url: /oss-sengkang-campus/
       - title: Outram Community Network
         url: /about-us/Outram-Community-Network/
       - title: Outram Luminaries
         url: /about-us/Outram-Luminaries/
       - title: Contact Us
         url: /about-us/Contact-us/
-      - title: SengKang Campus
-        url: /oss-sengkang-campus/
   - title: OSS Stories
     url: /the-outram-story/the-outram-story
     sublinks:
