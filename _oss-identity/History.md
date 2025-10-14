@@ -58,7 +58,9 @@ On 1st January 1954, Outram ceased to be a purely Primary School and was convert
   
 1994 - Outram moved to its site at 10, Winstedt Road in June to make way for the redevelopment of a new premises at York Hill.  
   
-1996 - Outram celebrated its 90th anniversary 1998 - Outram moved back to the present site in June.
+1996 - Outram celebrated its 90th anniversary 
+
+1998 - Outram moved back to the present site in June.
 
 <img style="width:50%;height:50%" src="/images/About%20us/History/H6NEW.jpg">
 
