@@ -2,7 +2,6 @@ collections:
   oss-sengkang-campus:
     output: true
     order:
-      - Our Journey Forward.md
       - OSS Sengkang Campus.md
       - Our New Campus/.keep
       - Our New Campus/Our New Campus.md
@@ -11,3 +10,4 @@ collections:
       - Our New Campus/School Learning Spaces.md
       - Our New Campus/Our Outdoor Learning Spaces @ Outram Sec (Sengkang
         Campus).md
+      - Our Journey Forward.md
