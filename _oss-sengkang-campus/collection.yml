@@ -2,6 +2,7 @@ collections:
   oss-sengkang-campus:
     output: true
     order:
+      - Student Development Programme/Student Development Programme.md
       - Student Development Programme/.keep
       - OSS Sengkang Campus.md
       - Our New Campus/.keep
