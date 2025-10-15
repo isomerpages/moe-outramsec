@@ -2,6 +2,7 @@ collections:
   oss-sengkang-campus:
     output: true
     order:
+      - Learning for Life Programme/Learning for Life Programme.md
       - Learning for Life Programme/.keep
       - OSS Sengkang Campus.md
       - Our New Campus/.keep
