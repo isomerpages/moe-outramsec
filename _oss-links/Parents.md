@@ -51,7 +51,7 @@ variant: markdown
 
 ### **Booklist**
 
-[Booklist 2024](/files/2024%20booklist.pdf)
+[2026 Booklist](/files/2026_Booklist_as_of_27_Oct_2025.pdf)
 
 
 
