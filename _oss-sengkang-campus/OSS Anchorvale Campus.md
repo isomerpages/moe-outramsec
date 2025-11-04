@@ -1,6 +1,6 @@
 ---
-title: OSS Sengkang Campus
-permalink: /oss-sengkang-campus/
+title: OSS Anchorvale Campus
+permalink: /oss-anchorvale-campus/
 variant: tiptap
 description: ""
 ---
