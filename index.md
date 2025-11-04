@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: OSS Sengkang Campus Open House
+        - title: OSS Anchorvale Campus Open House
           description: ""
           url: /oss-poster/
         - title: OSS Announcements
