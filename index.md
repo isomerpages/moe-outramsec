@@ -30,8 +30,8 @@ sections:
       id: infopic
       image: /images/All_3_EMarket_Final_Login_window.jpg
       alt: Image alt text
-      description: To find out more about Outram Secondary School (Sengkang Campus),
-        you can visit our Sengkang Campus website to learn more about our new
+      description: To find out more about Outram Secondary School (Anchorvale Campus),
+        you can visit our Anchorvale Campus website to learn more about our new
         campus.
       url: https://sites.google.com/moe.edu.sg/ossopenhouse/open-house-2025
       button: Click here to view
