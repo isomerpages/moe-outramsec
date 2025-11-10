@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Co Curricular Activities
 variant: tiptap
 ---
-<h1><strong>CCAs @ Outram Sec (Sengkang Campus):</strong></h1>
+<h1><strong>CCAs @ Outram Sec (Anchorvale Campus):</strong></h1>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
