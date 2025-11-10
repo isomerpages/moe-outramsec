@@ -2,11 +2,15 @@
 title: Contact Us
 permalink: /about-us/Contact-us/
 description: ""
+variant: markdown
 ---
-Outram Secondary School 
+**Anchorvale Campus**
+![](/images/contact_us.jpg)
 
-  
 
+**Outram Secondary School **
+
+ 
 (Click [here](https://www.onemap.sg/main/v2/?lat=1.28651406161832&lng=103.83712733566) to  view on One Map)  
 
 (Click [here](https://moovitapp.com/?metroId=1678&to=Outram%20Secondary%20School&tll=1.286278_103.8372&t=1) to get directions from Moovit App)
