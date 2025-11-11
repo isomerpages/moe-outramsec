@@ -20,6 +20,20 @@ variant: markdown
 </thead>
 	<tbody>
   <tr>
+    <td class="tg-baqh"><span style="font-weight:600;color:#484848">MOE Service Excellence Award (MSEA) 2025 Gold </span></td>
+</tr></tbody></table><table class="tg">
+<thead>
+	  <tr>
+    <td class="tg-baqh">Diana Binte Othman<br> Durga Devi D/O V Jagarajan<br>Goh Ban Leng<br>Lee Jing Wen<br> Leo Chin Ho @ Sim Chin Ho<br>Manwinder Kaur D/O Harbhajan Singh<br> Nur Atikah Bte Kamsani<br> Siti Aisyah@Sugimah Bte Adanan<br> Zaiton Binte Mohamed Punither Basa</td>
+  </tr>
+</thead>
+	
+</table><table class="tg">
+<thead>
+	  
+</thead>
+	<tbody>
+  <tr>
     <td class="tg-baqh"><span style="font-weight:600;color:#484848">MOE Service Excellence Award (MSEA) 2025 Silver </span></td>
 
 </tr></tbody></table><table class="tg">
