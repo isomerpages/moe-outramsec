@@ -3,7 +3,7 @@ title: Our New Campus
 permalink: /our-new-campus/
 variant: tiptap
 description: ""
-third_nav_title: Our New Campus
+third_nav_title: Our Anchorvale Campus
 ---
 <p></p>
 <p></p>
