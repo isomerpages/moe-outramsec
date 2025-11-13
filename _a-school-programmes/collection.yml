@@ -2,7 +2,6 @@ collections:
   a-school-programmes:
     output: true
     order:
-      - Anchorvale Campus Learning Spaces.md
       - Instructional Programmes/.keep
       - Instructional Programmes/Instructional Programmes.md
       - Instructional Programmes/English Language and Literature.md
@@ -24,6 +23,7 @@ collections:
       - Student Development Experience/Education Career Guidance.md
       - Student Development Experience/PE & CCA.md
       - Student Development Experience/Educational Support.md
+      - Anchorvale Campus Learning Spaces.md
       - Sexuality Education.md
       - Blended Learning/.keep
       - Blended Learning/Parents Information.md
