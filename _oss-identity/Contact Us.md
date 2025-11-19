@@ -10,8 +10,10 @@ From Year 2026 onwards, as the school transitions to operating on dual campuses 
 
 
 Email: oss@moe.edu.sg
+
 Anchorvale Crescent 
 Address: 48 Anchorvale Crescent, Singapore 549936
+
 
 ![](/images/Screenshot_2025_11_18_153956.jpg)
 ![](/images/screeshot2.jpg)
