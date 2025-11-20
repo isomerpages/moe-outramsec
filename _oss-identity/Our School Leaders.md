@@ -49,7 +49,7 @@ description: ""
 </p>
 <p><strong>Mr Kevin Lim Hock Chye, Vice-Principal</strong>
 </p>
-<p>Mr Lai Chyh Jau, Vice-Principal (Administration)
+<p><strong>Mr Lai Chyh Jau, Vice-Principal (Administration) </strong>
 <br>
 </p>
 <p></p>
