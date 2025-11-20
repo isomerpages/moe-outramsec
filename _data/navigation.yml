@@ -5,6 +5,8 @@ links:
     sublinks:
       - title: Principal's Message
         url: /about-us/Principals-Message/
+      - title: School Leaders
+        url: /school-leaders-message/
       - title: History
         url: /about-us/History/
       - title: Vision Mission Values
@@ -21,8 +23,6 @@ links:
         url: /about-us/Outram-Luminaries/
       - title: Contact Us
         url: /about-us/Contact-us/
-      - title: School Leaders
-        url: /school-leaders-message/
   - title: OSS Stories
     url: /the-outram-story/the-outram-story
     sublinks:
