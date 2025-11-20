@@ -19,8 +19,7 @@ description: ""
 </p>
 <p><strong>In 2026, we will take a bold step forward as we relocate to our new Anchorvale Campus, while continuing to nurture our students at the York Hill Campus. For two years, we will flourish across both campuses, expanding our reach and deepening our impact. Like a tree thriving in new soil while remaining anchored in its roots, we will embrace this transition with resilience, unity, and purpose.</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><strong>As we stand on the threshold of an exciting new chapter in our school’s journey, we celebrate a remarkable milestone – our 120th anniversary in 2026. For over a century, Outram Secondary School has been a beacon of learning, integrity, and compassion, shaping generations of Outramians who continue to make a meaningful difference in the world. The Anchor campus as a School of the Future is perhaps the best gift Outram Secondary School receives as her birthday present!</strong>
 </p>
 <p><strong>&nbsp;</strong>
