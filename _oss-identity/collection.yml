@@ -2,7 +2,7 @@ collections:
   oss-identity:
     output: true
     order:
-      - School Leaders Message.md
+      - Our School Leaders.md
       - About Us.md
       - Principal's Message.md
       - History.md
