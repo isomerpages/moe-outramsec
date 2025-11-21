@@ -9,21 +9,12 @@ variant: markdown
 #### **DEAR OUTRAMIANS,**&nbsp;
 
 
-I stand in awe of the rich history and heritage that Outram Secondary School stands for since its inception in 1906.
 
-  
+As a **_School of the Future_**, we envision the Future of Learning to be anchored on the Future of Teaching. Learners and educators will come together as a community to leverage on the affordances of technology and intentionally shape the learning environment to spark joy and co-create rich learning experiences. Not only will this community take ownership of teaching and learning, they will also embody the science of it in a virtuous cycle to ignite curiosity and purposeful engagement with technological tools to enhance understanding and application in the real-world context. Our strategic student and staff outcomes will guide us in providing a student-centred, values-driven education for all Outramians, in alignment with MOE’s directions for 21st Century Competencies and Educational Technology Master Plan 2030.
 
-Paying tribute to educators, alumni, parents and partners past and present who make a positive and resounding difference in its enduring efforts to develop Learners for Life, Leaders of Integrity and Contributors with Compassion, I hope that all Outramians appreciate this goodwill and kindness, and commit ourselves to building on and propagating this benevolence for generations of Outramians to come.
+As we approach the school’s 120th anniversary, we stand on the cusp of phenomenal organisational transformation while getting the best birthday gift of a brand new campus. As the Principal, I am intensely grateful and very privileged to have the opportunity to create the next lap for Outram Secondary – for, in an alternate reality, it could have been another school taking over the Anchorvale campus, or we could have faced a school closure or merger. We should not take for granted what pioneering entails. I am humbled by the teamwork and tenacity of many dedicated personnel – from receiving well-wishes from hopeful stakeholders to partnering various agencies to overcome challenges and see the fruition of a new educational building.
 
-  
-
-In navigating through the secondary school experience, the School Leaders and teachers would like to espouse our shared beliefs that – we value every Outramian for each of us is unique with intrinsic worth, bringing with us our personal strengths, interests, passion and learning needs; we want every Outramian to succeed where each of us pursues our hopes and dreams and where our Outramian staff are committed to open vistas and find pathways to energise us to live a purposeful life; we believe all Outramians can learn and become self-directed and collaborative, digital and connected learners who exercise critical and inventive thinking, taking a leaf from our Outramian staff in role-modelling the desire to learn and the process of learning.&nbsp;
-
-  
-
-Opportunities abound within the rich and diverse Outramian school experience to explore, internalise and live out our Outram SPIRIT values: Sense of Belonging, Perseverance, Integrity, Responsibility, Innovative, Teamwork. As we embark on this uplifting expedition to discover our purpose and aspirations, we also want to assure all Outramians that we value strong positive teacher-student relationships and peer support culture in classes and student groups, and would like to entreat all of us to be an active contributor in cultivating healthy, inclusive and supportive relationships, and in sustaining a safe, vibrant and conducive learning environment.&nbsp;  
-
-As a Principal, our MOE Citizenship Dispositions resonate with me deeply, and it is my fervent wish that under the caring influence and guidance of our Outramian staff that each of us nurtures the Sense of Hope, the Sense of Belonging, the Sense of Reality, culminating in the Will to Act. And in developing these dispositions, I invite all of us to reflect how we can help each other
+Understanding that a campus does not make an educational institution, just as a house does not make a home, I am ever more mindful of the critical challenge of the operational realities of a dual campus and steering an evolving culture as student enrolment and staff strength expands. Hence, I am reminded that the heart of education lies in the fostering and celebration of human values, character, and holistic well-being in our Outramian staff, students and immediate stakeholders. It is thus my fervent wish that each of us nurtures a Sense of Hope, a Sense of Belonging, a Sense of Reality, culminating in the Will to Act. And in developing these dispositions, I invite all of us to reflect how we can help each other
 
 *   &nbsp;feel heard and belong in the school environment;
 *   &nbsp;appreciate diversity;
@@ -31,17 +22,12 @@ As a Principal, our MOE Citizenship Dispositions resonate with me deeply, and it
 *   &nbsp;support our well-being; and
 *   &nbsp;work together.
 
-Quoting from the late Mr Lee Kuan Yew,
+The closure of the York Hill campus at the end of 2027 may be imminent, but I have faith that the Outramian SPIRIT will live on. It will continue to empower us as we embark on a new era&nbsp; together to co-create new learning and development programmes which are enriched by technology, and supported by the thoughtfully designed learning spaces at the Anchorvale campus.
 
-&nbsp;**“To the young and to the not so old, I say, look at that horizon, follow that rainbow, go ride it”**&nbsp;
+_Labor Omnia Vincit_ – let us embrace the work before us to build an even more vibrant future for our school.
 
-and from Robert Frost in his poem titled&nbsp;“The Road Not Taken”
 
-&nbsp;**“Two roads diverged in a wood, and I— I took the one less travelled by, And that has made all the difference.”**
 
-I am proud to declare and will continue to establish Outram Secondary School as a place for growth and learning. Our desire is for every Outramian to step out of our comfort zone through resilience-building and responsible decision-making, and to step up to seize new opportunities and responsibilities to serve our peers, our school, our community and our nation.
-
-**Labor Omnia Vincit Labour Conquers All**
 
 **Mr Keith Tan,**  
 
