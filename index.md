@@ -26,7 +26,7 @@ sections:
       alignment: right
       backgroundColor: gray
   - infopic:
-      title: ANCHORVALE CAMPUS OPEN HOUSE
+      title: ANCHORVALE CAMPUS
       id: infopic
       image: /images/All_3_EMarket_Final_Login_window.jpg
       alt: Image alt text
