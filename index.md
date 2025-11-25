@@ -30,6 +30,9 @@ sections:
       id: infopic
       image: /images/All_3_EMarket_Final_Login_window.jpg
       alt: Image alt text
+      description: Visit our Anchorvale Campus microsite to explore more. You may also
+        watch our fly-through video and FAQ. Renovation works still ongoing no
+        tours available.
       url: https://sites.google.com/moe.edu.sg/ossopenhouse/open-house-2025
       button: Click here to view
   - infobar:
