@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: OSS Anchorvale Campus Open House
+        - title: OSS Anchorvale Campus
           description: ""
           url: /oss-poster/
         - title: OSS Announcements
@@ -25,6 +25,11 @@ sections:
       size: sm
       alignment: right
       backgroundColor: gray
+  - infobar:
+      title: Release of 2025 N-Level Results on 18 Dec 2025
+      id: infobar
+      button: Click Here
+      url: /release-of-2025-nlevel-results/
   - infopic:
       title: ANCHORVALE CAMPUS
       id: infopic
