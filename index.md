@@ -25,6 +25,11 @@ sections:
       size: sm
       alignment: right
       backgroundColor: gray
+  - infobar:
+      title: Release of 2025 N-Level Results on 18 Dec 2025
+      id: infobar
+      button: Click Here
+      url: /release-of-2025-nlevel-results/
   - infopic:
       title: ANCHORVALE CAMPUS
       id: infopic
@@ -60,9 +65,4 @@ sections:
         and are inspired by Social Service Agencies. #thisisOutram"
       image: /images/DSC_0859b.jpg
       alt: Contributors with Compassion
-  - infobar:
-      title: Release of 2025 N-Level Results on 18 Dec 2025
-      id: infobar
-      button: Click Here
-      url: /release-of-2025-nlevel-results/
 ---
