@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       key_highlights:
-        - title: OSS Anchorvale Campus Open House
+        - title: OSS Anchorvale Campus
           description: ""
           url: /oss-poster/
         - title: OSS Announcements
