@@ -64,5 +64,5 @@ sections:
       title: Release of 2025 N-Level Results on 18 Dec 2025
       id: infobar
       button: Click Here
-      url: Click Here
+      url: /release-of-2025-nlevel-results/
 ---
