@@ -28,8 +28,6 @@ description: ""
 </p>
 <p><strong>&nbsp;Mr Keith Tan, Principal</strong>
 </p>
-<p><strong>Mrs Elaine Toh-Tan, Vice-Principal</strong>
-</p>
 <p><strong>Mrs Cheryl Lo Ai Tee, Vice-Principal</strong>
 </p>
 <p><strong>Mr Kevin Lim Hock Chye, Vice-Principal</strong>
