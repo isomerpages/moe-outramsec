@@ -24,12 +24,7 @@ From Year 2026 onwards, as the school transitions to operating on dual campuses 
 
 
 
-**York Hill campus 
-Address: 3, York Hill, Singapore 168622 
-Tel: 6733 4077  
-Fax: 6235 2337
-Directions to York Hill campus 
-(Remain the same info now)**
+
 
 
 
