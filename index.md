@@ -28,8 +28,8 @@ sections:
   - infobar:
       title: Release of 2025 N-Level Results on 18 Dec 2025
       id: infobar
-      button: Click Here
-      url: /release-of-2025-nlevel-results/
+      button: Click here to view more info
+      url: https://sites.google.com/moe.edu.sg/students-at-outram/2025-release-of-n-level-examination-results
   - infopic:
       title: ANCHORVALE CAMPUS
       id: infopic
