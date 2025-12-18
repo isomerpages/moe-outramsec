@@ -28,12 +28,12 @@ sections:
   - infobar:
       title: 2026 Secondary 1 Registration
       id: infobar
-      button: PLEASE CLICK HER FOR MORE INFO
+      button: CLICK HERE TO VIEW
       url: https://go.gov.sg/oss2026s1registration
   - infobar:
       title: Release of 2025 N-Level Results on 18 Dec 2025
       id: infobar
-      button: Click here to view more info
+      button: Click here to view
       url: https://sites.google.com/moe.edu.sg/students-at-outram/2025-release-of-n-level-examination-results
   - infobar:
       title: Updated School Disciplinary Measures for Vaping
