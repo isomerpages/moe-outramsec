@@ -11,11 +11,7 @@ variant: markdown
 
 [Joint Admission Exercise (JAE) Administrative Informations](/files/Parents%20and%20Students/Website_2023_O_Level_Admin_for_students.pdf)
 
-
-
 [Parent Engagement Microsite ](https://sites.google.com/moe.edu.sg/parents-at-outram/home_1)
-
-[2023 GCE N(A)- and N(T)- Levels Administrative Information ](/files/2023_N_Level_Results_Admin_Briefg_website_updated_1_30pm.pdf)
 
 [MOE Instagram for Parents - @Parentingwith.moesg](https://www.instagram.com/parentingwith.moesg/)
 
