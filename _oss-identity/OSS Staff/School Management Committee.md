@@ -53,7 +53,8 @@ third_nav_title: OSS Staff
 <p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ng_ai_tee_cheryl@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ai_tee_cheryl@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -67,7 +68,8 @@ third_nav_title: OSS Staff
 <p>Vice-Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:Kevin_LIM@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kevin_LIM@schools.gov.sg</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
