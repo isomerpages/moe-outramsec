@@ -28,7 +28,7 @@ sections:
   - infobar:
       title: Release of 2025 N-Level Results on 18 Dec 2025
       id: infobar
-      button: Click Here
+      button: Click here to view more info
       url: /release-of-2025-nlevel-results/
   - infopic:
       title: ANCHORVALE CAMPUS
