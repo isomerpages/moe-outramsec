@@ -26,7 +26,7 @@ sections:
       alignment: right
       backgroundColor: gray
   - infobar:
-      title: OSS SEC 1 REGISTRATION
+      title: 2026 Secondary 1 Registration
       id: infobar
       button: PLEASE CLICK HER FOR MORE INFO
       url: https://go.gov.sg/oss2026s1registration
