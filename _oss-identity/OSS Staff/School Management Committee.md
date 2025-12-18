@@ -47,14 +47,27 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Elaine Toh-Tan</p>
+<p>Mrs Mrs Cheryl Lo Ai Tee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice Principal</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_yee_lin_elaine@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_yee_lin_elaine@schools.gov.sg</a>
-</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kevin Lim Hock Chye</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Vice-Principal</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
