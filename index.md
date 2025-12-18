@@ -26,19 +26,15 @@ sections:
       alignment: right
       backgroundColor: gray
   - infobar:
+      title: OSS SEC 1 REGISTRATION
+      id: infobar
+      button: PLEASE CLICK HER FOR MORE INFO
+      url: https://go.gov.sg/oss2026s1registration
+  - infobar:
       title: Release of 2025 N-Level Results on 18 Dec 2025
       id: infobar
       button: Click here to view more info
       url: https://sites.google.com/moe.edu.sg/students-at-outram/2025-release-of-n-level-examination-results
-  - infopic:
-      title: ANCHORVALE CAMPUS
-      id: infopic
-      image: /images/All_3_EMarket_Final_Login_window.jpg
-      alt: Image alt text
-      description: Visit our Anchorvale Campus microsite to explore more. You may also
-        watch our fly-through video and FAQ.
-      url: https://sites.google.com/moe.edu.sg/ossopenhouse/open-house-2025
-      button: Click here to view
   - infobar:
       title: Updated School Disciplinary Measures for Vaping
       id: infobar
