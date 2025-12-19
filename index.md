@@ -10,7 +10,7 @@ sections:
       key_highlights:
         - title: OSS Anchorvale Campus
           description: ""
-          url: /oss-poster/
+          url: https://sites.google.com/moe.edu.sg/ossopenhouse/home
         - title: OSS Announcements
           description: Hear Us
           url: News-and-Announcements/News-and-Announcements/
