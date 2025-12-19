@@ -11,11 +11,7 @@ variant: markdown
 
 [Joint Admission Exercise (JAE) Administrative Informations](/files/Parents%20and%20Students/Website_2023_O_Level_Admin_for_students.pdf)
 
-
-
 [Parent Engagement Microsite ](https://sites.google.com/moe.edu.sg/parents-at-outram/home_1)
-
-[2023 GCE N(A)- and N(T)- Levels Administrative Information ](/files/2023_N_Level_Results_Admin_Briefg_website_updated_1_30pm.pdf)
 
 [MOE Instagram for Parents - @Parentingwith.moesg](https://www.instagram.com/parentingwith.moesg/)
 
@@ -66,23 +62,6 @@ variant: markdown
 [2025 Term 1 Letter to Parents](/files/Letter_to_Parents__Term_1_2025__002_.pdf)
 
 [Onboarding instructions for PG](/files/Annex_A_One_Time_Onboarding__002_.pdf)
-
-[2024 Term 4 Letter to Parents](/files/Parents%20and%20Students/2024_Term_4_Letter_to_Parents_cleared.pdf)
-
-[2024 Student Management Policy Update ](/files/Student_Management_Policy_Update_pdf.pdf)
-
-[2024 Term 3 Letter to Parents](/files/Parents%20and%20Students/Parents/2024_Term_3_Letter_to_Parents___270624_vetted.pdf)
-
-[2024 Term 2 Letter to Parents](/files/Parents%20and%20Students/2024_Term_2_Letter_to_Parents_19_Mar_v1.pdf)
-
-[2024 Term 1 Letter to Parents](/files/Parents%20and%20Students/2024_Term_1_Letter_to_Parents_edited_31_Jan.pdf)
-
-[2023 Term 4 Letter to Parents](/files/Parents%20and%20Students/Parents/Letter%20to%20Parents%202023/2023%20term%204%20letter%20to%20parents%20final.pdf)
-
-
-
-
-
 
 
 ### **Personalised Digital Learning Programme (PDLP)**
