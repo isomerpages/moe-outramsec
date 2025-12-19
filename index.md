@@ -20,7 +20,7 @@ sections:
         - title: OutramSPIRIT❤️💛💙
           description: Our Instagram
           url: https://www.instagram.com/outramsecsch/
-      background: /images/Banner2006_1.jpg
+      background: /images/Banner003c.jpg
       variant: image
       size: sm
       alignment: right
