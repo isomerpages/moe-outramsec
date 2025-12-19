@@ -8,9 +8,8 @@ third_nav_title: OSS Staff
 <blockquote>
 <h4>School Leaders</h4>
 </blockquote>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -26,9 +25,6 @@ third_nav_title: OSS Staff
 <th rowspan="1" colspan="1">
 <p>Email</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>View our leadership statements</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -41,13 +37,10 @@ third_nav_title: OSS Staff
 <p><a href="mailto:keith_tan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">keith_tan@schools.gov.sg</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Mrs Cheryl Lo Ai Tee</p>
+<p>Mrs Cheryl Lo Ai Tee</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Vice Principal</p>
@@ -55,9 +48,6 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ng_ai_tee_cheryl@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_ai_tee_cheryl@schools.gov.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -71,9 +61,6 @@ third_nav_title: OSS Staff
 <p><a href="mailto:Kevin_LIM@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Kevin_LIM@schools.gov.sg</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -85,9 +72,6 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lai_chyh_jau@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lai_chyh_jau@schools.gov.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
