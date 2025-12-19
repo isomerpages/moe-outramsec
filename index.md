@@ -45,20 +45,20 @@ sections:
       id: infopic
       description: "Where students pursue their interest, discover their talents, and
         develop a love for learning. #thisisOutram"
-      image: /images/learners1.jpg
+      image: /images/Learners_for_Life_s.jpg
       alt: Learners for Life
   - infopic:
       title: Leaders of Integrity
       id: infopic
       description: "Where students inspire others through their actions, demonstrate
         moral courage, and are rooted in their school values. #thisisOutram"
-      image: /images/DSC_0910.jpg
+      image: /images/Leader_with_Integrity_s.jpg
       alt: Leaders of Integrity
   - infopic:
       title: Contributors with Compassion
       id: infopic
       description: "Where students initiate acts of kindness, practise inclusivity,
         and are inspired by Social Service Agencies. #thisisOutram"
-      image: /images/DSC_0859b.jpg
+      image: /images/Caring_Contributors_s.jpg
       alt: Contributors with Compassion
 ---
