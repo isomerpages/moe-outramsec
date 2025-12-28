@@ -17,79 +17,55 @@ third_nav_title: OSS Staff
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mdm Malar Vizhi d/o Anjappan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/Mother Tongue Languages</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Lin Zhengchang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/Chinese Language (Ag)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mrs Faith Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Secondary 3), Covering Educational Support</p>
+<p>Year Head (Upper Secondary)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Atikah Bte Kamsani</p>
+<p>Ms Nur Atikah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/ MTL</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nasuha</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Acting SH Student Leadership and CCA</p>
+<p>SH/Character and Citizenship Education</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Sathi Kumar S/O Subramaniam</p>
+<p>Ms Nasuha Rahmat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Hazlan B Mohd Aris</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>SH/Student Leadership and CCA (Ag)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Kim Choo</p>
+<p>Mdm Subbu Suba Sakthidevi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Sakthi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>Understudy Senior Teacher/Tamil Language</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Yang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm He Jing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Liu Pengcheng</p>
+<p>Mr Hazlan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
