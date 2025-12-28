@@ -20,15 +20,23 @@ third_nav_title: OSS Staff
 <p>Mr Chew Kia Sheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department/PE&amp;CCA</p>
+<p>HOD/Physical Education</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Irwan Haerman Bin Tomin</p>
+<p>Mr Irwan Haerman</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department/Special Projects</p>
+<p>HOD/Special Projects</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chong Yau Kwang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head (Lower Secondary)</p>
 </td>
 </tr>
 <tr>
@@ -36,15 +44,7 @@ third_nav_title: OSS Staff
 <p>Mr John Cheong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Damien Ho</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>Assistant Year Head (Upper Secondary) (Ag)</p>
 </td>
 </tr>
 <tr>
@@ -57,15 +57,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Kok Heng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head/ Craft &amp; Technology</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Gloria Ng</p>
+<p>Mr Ganesan S/o Selvarathnam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -73,7 +65,15 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Neo Sian Lee</p>
+<p>Ms Gloria Ng Yu Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Damien Ho</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
