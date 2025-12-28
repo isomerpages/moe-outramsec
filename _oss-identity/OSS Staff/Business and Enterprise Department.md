@@ -1,5 +1,5 @@
 ---
-title: Business and Enterprise
+title: Business and Enterprise Department
 permalink: /business-and-enterprise/
 variant: tiptap
 description: ""
@@ -20,7 +20,7 @@ third_nav_title: OSS Staff
 <p>Ms Serene Cheong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department/ Business &amp; Enterprise &amp; Student Well-Being</p>
+<p>Head of Department/ Business &amp; Enterprise</p>
 </td>
 </tr>
 <tr>

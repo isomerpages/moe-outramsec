@@ -1,13 +1,14 @@
 ---
-title: Executive and Administrative Staff
-permalink: /executive-and-administrative-staff/
+title: Mother Tongue Languages Department
+permalink: /mother-tongue-department/
 variant: tiptap
 description: ""
 third_nav_title: OSS Staff
 ---
 <blockquote>
-<h4>Executive and Administrative Staff</h4>
+<p>Mother Tongue Department</p>
 </blockquote>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -16,188 +17,151 @@ third_nav_title: OSS Staff
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Grace Tan</p>
+<p>Mdm Malar Vizhi d/o Anjappan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Admin Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Calvin Chew</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Admin Manager</p>
+<p>HOD/Mother Tongue Languages</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Selvaraja Rajoo</p>
+<p>Mr Lin Zhengchang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Marcus Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Manager</p>
+<p>SH/Chinese Language (Ag)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Sahurin</p>
+<p>Mrs Faith Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Operations Manager</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Chua Chiew Lian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Administration Executive</p>
+<p>Year Head (Upper Secondary)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Manwinder Kaur</p>
+<p>Ms Nur Atikah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Administration Executive</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Azmi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Administration Executive</p>
+<p>SH/Character and Citizenship Education</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Yuszita</p>
+<p>Ms Nasuha Rahmat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Corporate Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Zahira</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>ICT Manager</p>
+<p>SH/Student Leadership and CCA (Ag)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nadiah</p>
+<p>Mdm Subbu Suba Sakthidevi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ICT Manager</p>
+<p>Understudy Senior Teacher/Tamil Language</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Hazlan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Tan Kim Choo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Sathi Kumar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nurazilah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Liu Pengcheng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Norasikin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Zhang Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Zhong Qian</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Chua Pei Ci</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Yeoh You You</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Wen Zhi Guang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chen Tat Guang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
 </td>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Rehan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Receptionist</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Saseekumar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ghazzali</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nurhani Dikin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Librarian</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Yazid</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Mohamed Farhan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Desktop Engineer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Yohamban</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Kitchen Aide</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Santhi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Aisyah Adanan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Ong Wee Teck</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Vanitha</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
-</td>
-</tr>
-</tbody>
-</table>
+<p></p>
+<p></p>
+<p></p>
 <p>&nbsp;</p>

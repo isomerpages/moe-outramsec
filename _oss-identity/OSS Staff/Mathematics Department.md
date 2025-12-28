@@ -1,14 +1,14 @@
 ---
-title: Mother Tongue Department
-permalink: /mother-tongue-department/
+title: Mathematics Department
+permalink: /maths-department/
 variant: tiptap
 description: ""
 third_nav_title: OSS Staff
 ---
 <blockquote>
-<p>Mother Tongue Department</p>
-</blockquote>
+<p>Maths Department</p>
 <p></p>
+</blockquote>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -17,31 +17,39 @@ third_nav_title: OSS Staff
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Faith Tan</p>
+<p>Mr Chow Poh Boon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Secondary 3), Covering Educational Support</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Nur Atikah Bte Kamsani</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head/ MTL</p>
+<p>HOD/Mathematics</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nasuha</p>
+<p>Mr Teo Cheng Guan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting SH Student Leadership and CCA</p>
+<p>SH/Mathematics</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Sathi Kumar S/O Subramaniam</p>
+<p>Mr Goh Keng Hock</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/Character and Citizenship Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Catherine Tang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ST/Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Gloria Ng Yu Yan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -49,7 +57,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Hazlan B Mohd Aris</p>
+<p>Mdm Chua Yiping</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -57,7 +65,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Kim Choo</p>
+<p>Mr Lim Teck Ming</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -65,7 +73,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Sakthi</p>
+<p>Mdm Singaram Vijayalakshmi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -73,7 +81,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Yang</p>
+<p>Ms Lee Soo Ngin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -81,7 +89,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm He Jing</p>
+<p>Mr Edmund Chua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -89,7 +97,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Liu Pengcheng</p>
+<p>Mr Quek Beng Hong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>

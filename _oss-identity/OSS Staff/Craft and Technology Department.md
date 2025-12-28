@@ -1,5 +1,5 @@
 ---
-title: Craft and Technology
+title: Craft and Technology Department
 permalink: /craft-and-technology/
 variant: tiptap
 description: ""
@@ -17,10 +17,10 @@ third_nav_title: OSS Staff
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ong Kok Heng</p>
+<p>Mr Chua Chang Fong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head/ Craft &amp; Technology</p>
+<p>Subject Head / Craft and Technology</p>
 </td>
 </tr>
 <tr>
@@ -28,15 +28,15 @@ third_nav_title: OSS Staff
 <p>Ms Durga Devi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting Level Head/ Craft &amp; Technology</p>
+<p>LH Craft and Technology (Ag)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Mok Peck Yim</p>
+<p>Ms Eunice Chua</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>ST / Educational Support</p>
 </td>
 </tr>
 <tr>
@@ -49,7 +49,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Viji</p>
+<p>Ms Norhayati Bte Mohd Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -58,6 +58,14 @@ third_nav_title: OSS Staff
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mr Siva Sankar S/O Sinnasamy</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Ang Kah Tiong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>

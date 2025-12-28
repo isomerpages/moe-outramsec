@@ -1,12 +1,12 @@
 ---
-title: English Department
+title: English Language and Literature Department
 permalink: /english-department/
 variant: tiptap
 description: ""
 third_nav_title: OSS Staff
 ---
 <blockquote>
-<p>English Department</p>
+<p>English Language and Literature</p>
 </blockquote>
 <p></p>
 <table style="minWidth: 50px">
@@ -17,34 +17,18 @@ third_nav_title: OSS Staff
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ismath Banu Mohamed Yaseen</p>
+<p>Ms Leong Su Zhen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Subject Head English Literature, Covering HOD EL</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mrs Cheryl Fan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>School Staff Developer&nbsp;</p>
+<p>HOD/English Language and Literature</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Shireen Shoba Stephen</p>
+<p>Ms Ismath</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lead Teacher</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Abdul Rahman Bin Abdul Rahim</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Senior Teacher / Social Studies</p>
+<p>SH/English Language and Literature</p>
 </td>
 </tr>
 <tr>
@@ -52,28 +36,36 @@ third_nav_title: OSS Staff
 <p>Ms Zaiton</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department/ Student Management</p>
+<p>HOD/Student Management</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Verine Ong</p>
+<p>Ms Verine Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acting Assistant Year Head</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Aqilah Binte Juma'in</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Subject Head/Student Leadership &amp; Well-Being</p>
+<p>Assistant Year Head (Lower Secondary) (Ag)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ian</p>
+<p>Ms Shireen Stephen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lead Teacher/Educational Support</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Abdul Rahman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher/Social Studies</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Diana Othman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -81,7 +73,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Riti</p>
+<p>Ms Dorothy Tan Suan Sim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -89,7 +81,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jolene Ong Xuan Yi&nbsp;</p>
+<p>Ms Huang Liting Daphne</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -97,7 +89,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Diana Binte Othman</p>
+<p>Ms Faith</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
