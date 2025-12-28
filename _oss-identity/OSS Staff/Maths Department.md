@@ -9,9 +9,8 @@ third_nav_title: OSS Staff
 <p>Maths Department</p>
 <p></p>
 </blockquote>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -21,10 +20,15 @@ third_nav_title: OSS Staff
 <p>Mr Chow Poh Boon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD Mathematics</p>
+<p>HOD/Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Teo Cheng Guan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SH/Mathematics</p>
 </td>
 </tr>
 <tr>
@@ -32,10 +36,31 @@ third_nav_title: OSS Staff
 <p>Mr Goh Keng Hock</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ CCE / Year Head (Secondary 4)</p>
+<p>HOD/Character and Citizenship Education</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Catherine Tang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>ST/Mathematics</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Gloria Ng Yu Yan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Chua Yiping</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
@@ -45,41 +70,13 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jessie Chong</p>
+<p>Mdm Singaram Vijayalakshmi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Neo Sian Lee</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Chua Yi Ping</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -89,8 +86,21 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Edmund Chua</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Quek Beng Hong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
 </td>
 </tr>
 </tbody>
