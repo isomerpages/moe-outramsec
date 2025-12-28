@@ -471,6 +471,7 @@ third_nav_title: OSS Staff
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Shireen Shoba Stephen</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher / Education Support</p>
@@ -478,8 +479,6 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">shireen_shoba_stephen@moe.edu.sg</a>
 </p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
