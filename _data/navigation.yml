@@ -17,8 +17,6 @@ links:
         url: /about-us/School-Song/
       - title: OSS Staff
         url: /departments/
-      - title: Anchorvale Campus
-        url: /oss-anchorvale-campus/
       - title: Outram Luminaries
         url: /about-us/Outram-Luminaries/
       - title: Contact Us
@@ -51,7 +49,7 @@ links:
         url: /distinctive-programmes/Applied-Learning-Programme/
       - title: Learning for Life Programme
         url: /distinctive-programmes/Learning-for-Life-Programme/Learning-for-Life-Programme/
-  - title: OSS Links
+  - title: OSS Connects
     url: /parents-and-students/Parents
     sublinks:
       - title: Teachers
