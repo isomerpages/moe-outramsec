@@ -104,7 +104,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Cheryl Fan</p>
+<p>Mr Martin Lee Tze Chuen</p>
 <p></p>
 <p></p>
 <p></p>
@@ -116,12 +116,11 @@ third_nav_title: OSS Staff
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="cheryl_lim_ming_yuh@ moe.edu.sg" rel="noopener nofollow" target="_blank">cheryl_lim_ming_yuh@ moe.edu.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">martin_lee_tze_chuen@moe.edu.sg</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Cheryl_Lim_PS__002d_.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
-</p>
+<p></p>
 <p></p>
 <p></p>
 <p></p>
