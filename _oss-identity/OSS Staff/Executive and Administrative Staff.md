@@ -15,14 +15,6 @@ third_nav_title: OSS Staff
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Name</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Appointment</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ms Grace Tan</p>
 </td>
@@ -48,7 +40,15 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Marcus</p>
+<p>Mr Marcus Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Operations Manager</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Sahurin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Manager</p>
@@ -72,6 +72,14 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Azmi</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Executive</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Yuszita</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -86,6 +94,22 @@ third_nav_title: OSS Staff
 <p>ICT Manager</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nadiah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ICT Manager</p>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Rehan</p>
@@ -112,14 +136,6 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Yazid</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>STEM instructor</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Ms Nurhani Dikin</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -128,10 +144,18 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Yazid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Desktop Engineer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Mohamed Farhan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>STEM instructor</p>
+<p>Desktop Engineer</p>
 </td>
 </tr>
 <tr>
@@ -147,7 +171,7 @@ third_nav_title: OSS Staff
 <p>Mdm Santhi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>OSO</p>
+<p>Operations Support Officer</p>
 </td>
 </tr>
 <tr>
@@ -155,7 +179,7 @@ third_nav_title: OSS Staff
 <p>Ms Aisyah Adanan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>OSO</p>
+<p>Operations Support Officer</p>
 </td>
 </tr>
 <tr>
@@ -163,7 +187,7 @@ third_nav_title: OSS Staff
 <p>Mr Ong Wee Teck</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>OSO</p>
+<p>Operations Support Officer</p>
 </td>
 </tr>
 <tr>
@@ -171,9 +195,9 @@ third_nav_title: OSS Staff
 <p>Ms Vanitha</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>OSO</p>
+<p>Operations Support Officer</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>&nbsp;</p>
