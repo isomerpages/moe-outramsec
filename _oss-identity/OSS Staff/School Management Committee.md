@@ -80,9 +80,8 @@ third_nav_title: OSS Staff
 <p></p>
 <h4>HODs/Subject Heads</h4>
 </blockquote>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
@@ -97,9 +96,6 @@ third_nav_title: OSS Staff
 </th>
 <th rowspan="1" colspan="1">
 <p>Email</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>View our leadership statements</p>
 </th>
 </tr>
 <tr>
@@ -119,11 +115,65 @@ third_nav_title: OSS Staff
 <p><a rel="noopener noreferrer nofollow" target="_blank">martin_lee_tze_chuen@moe.edu.sg</a>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<p>Ms Leong Su Zhen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/English Language and Literature</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">Leong_su_zhen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Malar Vizhi d/o Anjappan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/Mother Tongue Languages</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">Malar_Vizhi_ANJAPPAN@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chow Poh Boon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank">chow_poh_boon@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Chow Poh Boon</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/Mathematics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chow_poh_boon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chow_poh_boon@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Tang Hue Sim Serene</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>HOD/Humanities</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>tang_hue_sim_serene@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -135,10 +185,6 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tan_boon_hwee@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_boon_hwee@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/save_3.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
 </td>
 </tr>
@@ -153,10 +199,6 @@ third_nav_title: OSS Staff
 <p><a href="mailto:koh_siak_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_siak_peng@moe.edu.sg</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Screenshot_2025_04_24_145236.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -167,10 +209,6 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:goh_keng_hock@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_keng_hock@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Goh_1.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
 </td>
 </tr>
@@ -185,10 +223,6 @@ third_nav_title: OSS Staff
 <p><a href="mailto:zaiton_mohamed_punither_basa@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">zaiton_mohamed_punither_basa@moe.edu.sg</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/zaiton.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -199,10 +233,6 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chew_kia_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_kia_sheng@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/kia_sheng.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
 </td>
 </tr>
@@ -217,10 +247,6 @@ third_nav_title: OSS Staff
 <p><a href="mailto:cheong_wenxin_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_wenxin_serene@moe.edu.sg</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/serene.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -231,10 +257,6 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:irwan_haerman_tomin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">irwan_haerman_tomin@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/irwan.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
 </td>
 </tr>
@@ -249,25 +271,6 @@ third_nav_title: OSS Staff
 <p><a href="mailto:ng_mun_leong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_mun_leong@schools.gov.sg</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chow Poh Boon</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>HOD Mathematics</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chow_poh_boon@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chow_poh_boon@schools.gov.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/poon_boon.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -278,10 +281,6 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="aqilah_jumain@moe.edu.sg" rel="noopener nofollow" target="_blank">aqilah_jumain@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/aqilahv.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
 </td>
 </tr>
@@ -296,9 +295,6 @@ third_nav_title: OSS Staff
 <p><a href="mailto:kannan_kalidasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kannan_kalidasan@moe.edu.sg</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -309,10 +305,6 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_kok_heng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_kok_heng@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/ong.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
 </td>
 </tr>
@@ -327,10 +319,6 @@ third_nav_title: OSS Staff
 <p><a href="mailto:nur_atikah_kamsani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_atikah_kamsani@moe.edu.sg</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/athika.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -341,10 +329,6 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wong_ching_hun@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_ching_hun@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/faith.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
 </td>
 </tr>
@@ -359,10 +343,6 @@ third_nav_title: OSS Staff
 <p><a href="mailto:yeo_yang_hong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_yang_hong@moe.edu.sg</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/yang_hong.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -373,10 +353,6 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ismath_banu_mohamed_yaseen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ismath_banu_mohamed_yaseen@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/ismath_1.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
 </td>
 </tr>
@@ -391,10 +367,6 @@ third_nav_title: OSS Staff
 <p><a href="mailto:nasuha_rahmat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nasuha_rahmat@schools.gov.sg</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/NASUHA.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -405,10 +377,6 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">yeo_yi_lin_verine@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Verine_ong.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
 </td>
 </tr>
@@ -424,10 +392,6 @@ third_nav_title: OSS Staff
 </p>
 <p></p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/devi.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -440,10 +404,6 @@ third_nav_title: OSS Staff
 <p><a href="shireen_shoba_stephen@moe.edu.sg" rel="noopener nofollow" target="_blank">shireen_shoba_stephen@moe.edu.sg</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Shireen_1.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -454,10 +414,6 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">abdul_rahman_abdul_rahim_a@moe.edu.sg</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/abdul_1.pdf" rel="noopener nofollow" target="_blank">Click Here</a>
 </p>
 </td>
 </tr>
