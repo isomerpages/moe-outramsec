@@ -96,4 +96,84 @@ third_nav_title: OSS Staff
 </tr>
 </tbody>
 </table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Verine Yeo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Lower Secondary) (Ag)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr John Cheong</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Assistant Year Head (Upper Secondary) (Ag)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Nasuha Rahmat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SH/Student Leadership and CCA (Ag)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Ban Leng</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Understudy Senior Teacher/Educational Support</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Isabella Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Geraldine Ang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Tong Xun Jie</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Educational Needs Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Leo Chin Ho</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Student Welfare Officer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Kenny Tan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Education Career Guidance Counsellor (ECGC)</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
