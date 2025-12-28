@@ -16,6 +16,8 @@ third_nav_title: OSS Staff
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<p></p>
 <p>Mr Chong Yau Kwang</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -94,14 +96,6 @@ third_nav_title: OSS Staff
 <p>SH/Student Management</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Verine Yeo</p>
