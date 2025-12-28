@@ -9,9 +9,8 @@ third_nav_title: OSS Staff
 <p>Science Department</p>
 </blockquote>
 <p></p>
-<table style="minWidth: 75px">
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
@@ -21,10 +20,23 @@ third_nav_title: OSS Staff
 <p>Mr Koh Siak Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department/Science and Talent Development</p>
+<p>HOD/Science and Talent Development</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Sarah Ang En Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>SH/Science</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mr Martin Lee Tze Chuen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Staff Developer</p>
 </td>
 </tr>
 <tr>
@@ -32,10 +44,7 @@ third_nav_title: OSS Staff
 <p>Mr Ng Mun Leong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD ICT</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>HOD/ICT</p>
 </td>
 </tr>
 <tr>
@@ -43,32 +52,15 @@ third_nav_title: OSS Staff
 <p>Mr Goh Keng Hock</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Head of Department/ CCE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>HOD/Character and Citizenship Education</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Yeo Yang Hong</p>
+<p>Ms Ng Hui Zhen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Assistant Year Head</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Jolene Ong Xuan Yi&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>SH/Student Well-Being</p>
 </td>
 </tr>
 <tr>
@@ -76,21 +68,7 @@ third_nav_title: OSS Staff
 <p>Mr John Cheong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Viji</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Assistant Year Head (Upper Secondary) (Ag)</p>
 </td>
 </tr>
 <tr>
@@ -98,10 +76,23 @@ third_nav_title: OSS Staff
 <p>Ms Goh Ban Leng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Teacher</p>
+<p>Understudy Senior Teacher/Educational Support</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Singaram Vijayalakshmi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Toh Gan Ying Angela</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
 </td>
 </tr>
 <tr>
@@ -110,31 +101,6 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Diana Binte Othman</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Farhan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>STEM instructor</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
