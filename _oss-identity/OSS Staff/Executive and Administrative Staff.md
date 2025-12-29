@@ -102,14 +102,6 @@ third_nav_title: OSS Staff
 <p>ICT Manager</p>
 </td>
 </tr>
-</tbody>
-</table>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Ms Rehan</p>
