@@ -337,5 +337,5 @@ third_nav_title: OSS Staff
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
 <p></p>
