@@ -12,7 +12,8 @@ From Year 2026 onwards, as the school transitions to operating on dual campuses 
 **Email: oss@moe.edu.sg**
 
 <h3>Anchorvale Campus Address:<br>
-48 Anchorvale Crescent, Singapore 549936</h3>
+48 Anchorvale Crescent, Singapore 549936<br>
+Tel: 62288200</h3>
 
 ![OSS Anchorvale Campus by Bus](/images/ct1.jpg)
 ![OSS Anchorvale Campus by MRT](/images/ct2.jpg)
@@ -20,7 +21,8 @@ From Year 2026 onwards, as the school transitions to operating on dual campuses 
 	
 
 <h3>York Hill Campus Address:<br>
-3 York Hill, Singapore 168622</h3>
+3 York Hill, Singapore 168622<br>
+Tel: 67334077</h3>
 
 
 ![](/images/About%20us/Contact%20us/By%20Bus.png)
