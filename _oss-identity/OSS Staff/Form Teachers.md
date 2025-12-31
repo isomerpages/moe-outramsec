@@ -184,7 +184,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1I</p>
+<p>1J</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Liu Pengcheng
@@ -197,7 +197,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1J</p>
+<p>1K</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Gary Pek Chi Hiong
