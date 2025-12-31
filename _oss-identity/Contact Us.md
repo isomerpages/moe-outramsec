@@ -21,7 +21,8 @@ Tel: 62288200</h3>
 ![Travel by Car](/images/AVC_Contact_TravelCar.png)
 
 <h3>York Hill Campus<br>
-Address: 3 York Hill, Singapore 168622<br>
+Address: 3 York Hill, <br>
+Singapore 168622<br>
 Tel: 67334077</h3>
 
 
