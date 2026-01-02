@@ -8,7 +8,7 @@ variant: markdown
 
  
 
- [ Transition to and Onboarding at Parents Gateway](/files/Transition_to_and_Onboarding_at_Parents_Gateway.pdf)
+[ Transition to and Onboarding at Parents Gateway](/files/Transition_to_and_Onboarding_at_Parents_Gateway.pdf)
 
 [Instructions to Parents Gateway Onboarding](/files/Annex_A_One_Time_Onboarding.pdf)
 
