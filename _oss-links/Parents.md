@@ -10,7 +10,7 @@ variant: markdown
 
 [Transtition to and Onboarding at Parents Gateway](/files/Transition_to_and_Onboarding_at_Parents_Gateway.pdf)
 
-[Instructions to Parents Gateway onboarding](/files/Annex_A_One_Time_Onboarding.pdf)
+[Instructions to Parents Gateway Onboarding](/files/Annex_A_One_Time_Onboarding.pdf)
 
 [School Disciplinary Measures for Vaping](/files/Updated_School_Disciplinary_Measures_Vaping.pdf)
 
