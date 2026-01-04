@@ -163,7 +163,7 @@ third_nav_title: OSS Staff
 <p>1G</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Chua Cheng Fong
+<p>Mr Chua Chang Fong
 <br>Ms Yeoh You You</p>
 </td>
 <td rowspan="1" colspan="1">
