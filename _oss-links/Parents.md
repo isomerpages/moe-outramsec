@@ -61,17 +61,10 @@ variant: markdown
 
 ### **Home-based Learning (HBL)**
 
-[Parent Kit - Supporting your Child During Full HBL](/files/Parents%20and%20Students/Parents/HBL/Parent%20Kit%20-%20Supporting%20your%20child%20during%20Full%20HBL.pdf)
-
-[Parent Kit - Bonding Over the Holidays](/files/Parents%20and%20Students/Parents/HBL/Parent%20Kit_Bonding%20Over%20the%20Holidays_.pdf)
 
 [HBL Tips for Parents](/files/Parents%20and%20Students/Parents/Resources%20for%20FHBL/FOR%20PARENTS_HBL%20Tips%20for%20Parents.pdf)
 
 [Setting Up for Success at Home](/files/Parents%20and%20Students/Parents/Resources%20for%20FHBL/FOR%20PARENTS_Setting%20up%20for%20Success%20at%20Home.pdf)
-
-[Standard Instructions for Blended Learning at Home](/files/Parents%20and%20Students/Parents/HBL/Standard%20Instructions%20for%20BLHome.pdf)
-
-[Arrangement for School Reopening in Term 3 for Secondary Schools](/files/Parents%20and%20Students/Parents/HBL/Arrangement%20for%20School%20Reopening%20in%20Term%203%20for%20Secondary%20Schools.pdf)
 
 [Student Device Information Kit (Acer Service Centre and Help Centre Information)](/files/Parents%20and%20Students/Parents/HBL/Appendix%201%20-%20Student%20Device%20Information%20Kit%20Acer%20Service%20Centre%20and%20HelpCentre%20Information.pdf)
 
