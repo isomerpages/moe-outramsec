@@ -18,6 +18,14 @@ variant: tiptap
 <p><a href="https://go.gov.sg/t2newsletter" rel="noopener nofollow" target="_blank">Outram Newsletter Term 2</a>
 </p>
 </li>
+<li>
+<p><a href="https://www.canva.com/design/DAGs7eohXTQ/7ZmX704WpZndmWWkX7qLQQ/view?utm_content=DAGs7eohXTQ&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=uniquelinks&amp;utlId=h7b950c42e3" rel="noopener noreferrer nofollow" target="_blank">Outram Newsletter Term 3</a>
+</p>
+</li>
+<li>
+<p><a rel="noopener noreferrer nofollow" target="_blank">Outram Newsletter Term 4</a>
+</p>
+</li>
 </ul>
 <blockquote>
 <p>2024</p>
