@@ -38,6 +38,12 @@ variant: markdown
 
 ### **Letter to Parents**
 
+[[For AVC] Letter to Parents Term 1 2026](/files/For_AVC__Letter_to_Parents_Term_1_2026.pdf)
+
+[[For YHC] Letter to Parents Term 1 2026](/files/For_YHC__Letter_to_Parents_Term_1_2026.pdf)
+
+[Parent User Guide for Absence Notification in PG app](/files/Parent_User_Guide_for_Absence_Notification_in_PG_app.pd)
+
 [2025 Letter to Parents Term 4](/files/Letter_to_Parents_Term_4_2025.pdf)
 
 [2025 Letter to Parents Term 3](/files/Letter_to_Parents_Term_3_2025.pdf)
