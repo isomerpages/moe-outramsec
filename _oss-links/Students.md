@@ -6,7 +6,8 @@ variant: markdown
 ---
 ### **Links**
 
-
+### **Student Handbook**
+[Student Handbook 2026 ](https://www.canva.com/design/DAG3LYm-QVg/7TpKUE27yHtzpAsLj-Yz0w/view?utm_content=DAG3LYm-QVg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbda83b38f6)
 
 
 [Self-Password Reset Guide For MIMS](/files/Parents%20and%20Students/Students/poster%20for%20mims.pdf)
