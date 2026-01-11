@@ -1,9 +1,0 @@
-collections:
-  b-announcements:
-    output: true
-    order:
-      - Release of 2025 NLevel Results.md
-      - Letter to Parents.md
-      - Booklists for 2022.md
-      - MOE FAS for Y2021 is open for application now.md
-      - Parents Gateway.md
