@@ -153,7 +153,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chen Tat Guang</p>
+<p>Mr Chen Tat Kwang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
