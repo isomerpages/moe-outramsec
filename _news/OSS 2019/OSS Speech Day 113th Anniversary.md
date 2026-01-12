@@ -1,9 +1,0 @@
----
-title: OSS Speech Day 113th Anniversary
-permalink: /news/OSS-2019/OSS-Speech-Day-113th-Anniversary/
-description: ""
-third_nav_title: OSS 2019
----
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRx9vGu-jay3U-d6lBb3FNv3ZbrvIgctv0mLsrfoTHKzx3n3sWzXj7qFPEERMkAvBd9TU94YGKrNmlB/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
-24th&nbsp;May 2019 marked the 113th&nbsp;commemoration of Outram Secondary School’s founding. Despite the many commitments packed in a hectic schedule, staff and students managed to help pull off a smooth and efficient Speech Day 2019. Held in the late afternoon till evening, Speech Day this year was witnessed by current and past Outramians as well as ex-staff – truly making this a warm and cosy family occasion. Welcomed by the combined uniformed group with crisp salutes, the school was privileged to have the Guest-of-Honor, Mr Chris Thomas (Assistant Director (Academic)) &amp; Programme Chair (Republic Polytechnic), grace the occasion. An alumnus himself, he provided an inspirational speech about his educational journey from Outram to the Polytechnic, that reinforced this year’s theme of&nbsp;_“Celebrating Lifelong Learning”_&nbsp;strongly. Speech Day also marked the celebration of outstanding Outramians like the all-rounded valedictorian, William of 4/4 (2018); the ever-persevering epitome of diligence, Balasuthan of 5/1 (2019); and the supremely resilient Adi of 4/2 (2019), who clinched a National swimming title. Last but not least, the audience was also treated to enthralling and efficiently choreographed dance routines, and impressive musical performances from the Concert Band and Guzheng Ensemble. All in all, we look forward to another rewarding and fulfilling Speech Day in 2020!

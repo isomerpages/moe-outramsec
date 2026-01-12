@@ -1,9 +1,0 @@
----
-title: Our Singapore Our Home & Nation
-permalink: /news/OSS-2019/Our-Singapore-Our-Home-Nation/
-description: ""
-third_nav_title: OSS 2019
----
-<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQRtEFWBN4L21-__hSms88JtqovDKaTVxNLyGHzm5hxHt39vHWOpo-netmfav6SefoDtnIe3CKbDcIP/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
-Our Singapore – today marked the school’s commemoration of the nation’s 54th&nbsp;birthday, which also occurred in the context of the&nbsp;BiCentennial&nbsp;2019, marking 200 years of the start of British-Singapore relations. The day’s proceedings&nbsp;started off&nbsp;with a uniformed group march-past and salute of the state flag. Once the national pledge&nbsp;was made&nbsp;and the anthem sung, there was the CCA Award Ceremony that rewarded outstanding&nbsp;Outramians&nbsp;in their respective fields of CCA endeavor. The different school levels had diverse but interesting types of activities. The Secondary 1s scampered around the school on the&nbsp;Outram&nbsp;Trail. The Secondary 2s&nbsp;were focused&nbsp;on a collar pin design contest. The upper secondary students had a National Day package and bonding session. By mid-morning, all classes gathered back in the hall for the fiesta of songs, dances and even a quiz, where brave teachers had to do a role reversal and withstand the scrutiny of student emcees questioning them! Dressed in a sea of red, waving flags of red and white, erupting vociferously into community songs and dance – today was surely a day to remember! Thank you&nbsp;Outramians&nbsp;in helping us make this a memorable occasion.
