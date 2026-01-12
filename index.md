@@ -45,6 +45,12 @@ sections:
             more information.
           link_text: Click Here to View
           link_url: https://go.gov.sg/oss2026s1registration
+        - title: Updated School Disciplinary Measures for Vaping
+          date: 01 December 2025
+          announcement: Dear Students, Parents/Guardian, please note the updated school
+            disciplinary measures for vaping.
+          link_text: Click Here to View
+          link_url: /files/Updated_School_Disciplinary_Measures_Vaping.pdf
   - infobar:
       title: 2026 Secondary 1 Registration
       id: infobar
