@@ -25,16 +25,31 @@ sections:
       size: sm
       alignment: right
       backgroundColor: gray
+  - announcements:
+      title: Announcements
+      id: announcements
+      subtitle: Add a list of announcements with dates
+      announcement_items:
+        - title: Release of 2025 Singapore-Cambridge GCE O-Level Examination Results
+          date: 12 January 2026
+          announcement: The 2025 Singapore-Cambridge GCE O-Level Examination Results will
+            be released on Wednesday, 14 January 2025.   Students are to report
+            to the school hall (York Hill Campus) at 1.30 p.m. to receive their
+            results and must be in full school uniform.
+          link_text: ""
+          link_url: ""
+        - title: Secondary 1 Registration
+          date: 19 December 2025
+          announcement: The Secondary One registration process is conducted entirely
+            online. Please refer to the Secondary 1 Registration microsite for
+            more information.
+          link_text: Click Here to View
+          link_url: https://go.gov.sg/oss2026s1registration
   - infobar:
       title: 2026 Secondary 1 Registration
       id: infobar
       button: CLICK HERE TO VIEW
       url: https://go.gov.sg/oss2026s1registration
-  - infobar:
-      title: Release of 2025 N-Level Results on 18 Dec 2025
-      id: infobar
-      button: Click here to view
-      url: https://sites.google.com/moe.edu.sg/students-at-outram/2025-release-of-n-level-examination-results
   - infobar:
       title: Updated School Disciplinary Measures for Vaping
       id: infobar
