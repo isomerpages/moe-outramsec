@@ -518,32 +518,6 @@ third_nav_title: OSS Staff
 <p>&nbsp;</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Goh Ban Leng</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Understudy Senior Teacher / Educational Support</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Goh_ban_leng@moe.edu.sg</a>
-</p>
-<p>&nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Subbu Suba Sakthidevi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Understudy Senior Teacher /Tamil Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">subbu_suba_sakthidevi@moe.edu.sg</a>
-</p>
-<p>&nbsp;</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
