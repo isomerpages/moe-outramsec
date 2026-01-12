@@ -36,8 +36,8 @@ sections:
             be released on Wednesday, 14 January 2025.   Students are to report
             to the school hall (York Hill Campus) at 1.30 p.m. to receive their
             results and must be in full school uniform.
-          link_text: ""
-          link_url: ""
+          link_text: Click Here to View
+          link_url: /release-of-2025-o-level-examination-results/
         - title: Secondary 1 Registration
           date: 19 December 2025
           announcement: The Secondary One registration process is conducted entirely
