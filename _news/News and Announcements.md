@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <ul>
 <li>
-<p><strong>Release of 2025 Singapore-Cambridge GCE O-Level Examination Results</strong>
+<p><a href="/release-of-2025-o-level-examination-results/" rel="noopener nofollow" target="_blank">Release of 2025 Singapore-Cambridge GCE O-Level Examination Results</a>
 </p>
 </li>
 <li>
