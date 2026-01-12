@@ -25,32 +25,11 @@ sections:
       size: sm
       alignment: right
       backgroundColor: gray
-  - announcements:
-      title: Announcements
-      id: announcements
-      subtitle: Add a list of announcements with dates
-      announcement_items:
-        - title: Release of 2025 Singapore-Cambridge GCE O-Level Examination Results
-          date: 12 January 2026
-          announcement: The 2025 Singapore-Cambridge GCE O-Level Examination Results will
-            be released on Wednesday, 14 January 2025.   Students are to report
-            to the school hall (York Hill Campus) at 1.30 p.m. to receive their
-            results and must be in full school uniform.
-          link_text: Click Here to View
-          link_url: /release-of-2025-o-level-examination-results/
-        - title: Secondary 1 Registration
-          date: 19 December 2025
-          announcement: The Secondary One registration process is conducted entirely
-            online. Please refer to the Secondary 1 Registration microsite for
-            more information.
-          link_text: Click Here to View
-          link_url: https://go.gov.sg/oss2026s1registration
-        - title: Updated School Disciplinary Measures for Vaping
-          date: 01 December 2025
-          announcement: Dear Students, Parents/Guardian, please note the updated school
-            disciplinary measures for vaping.
-          link_text: Click Here to View
-          link_url: /files/Updated_School_Disciplinary_Measures_Vaping.pdf
+  - infobar:
+      title: Release of GCE O-Level Results on 14 Jan 2026
+      id: infobar
+      button: Click Here to View
+      url: release-of-2025-o-level-examination-results/
   - infobar:
       title: 2026 Secondary 1 Registration
       id: infobar
