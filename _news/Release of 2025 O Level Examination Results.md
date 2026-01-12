@@ -4,3 +4,8 @@ permalink: /release-of-2025-o-level-examination-results/
 variant: tiptap
 description: ""
 ---
+<h4><strong>Release of GCE O-Level Examination Results</strong></h4>
+<p>The 2025 Singapore-Cambridge GCE O-Level Examination Results will be released
+on Wednesday, 14 January 2025.</p>
+<p>Students are to report to the school hall (York Hill Campus) at 1.30 p.m.
+to receive their results and must be in full school uniform.</p>
