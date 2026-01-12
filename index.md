@@ -26,15 +26,15 @@ sections:
       alignment: right
       backgroundColor: gray
   - infobar:
+      title: Release of GCE O-Level Results on 14 Jan 2026
+      id: infobar
+      button: Click Here to View
+      url: release-of-2025-o-level-examination-results/
+  - infobar:
       title: 2026 Secondary 1 Registration
       id: infobar
       button: CLICK HERE TO VIEW
       url: https://go.gov.sg/oss2026s1registration
-  - infobar:
-      title: Release of 2025 N-Level Results on 18 Dec 2025
-      id: infobar
-      button: Click here to view
-      url: https://sites.google.com/moe.edu.sg/students-at-outram/2025-release-of-n-level-examination-results
   - infobar:
       title: Updated School Disciplinary Measures for Vaping
       id: infobar
