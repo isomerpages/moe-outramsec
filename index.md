@@ -29,7 +29,7 @@ sections:
       title: Release of GCE O-Level Results on 14 Jan 2026
       id: infobar
       button: Click Here to View
-      url: https://sites.google.com/d/1DvtOrgazjN2fdu08G91rn4gkJ9D
+      url: https://sites.google.com/moe.edu.sg/students-at-outram/2025-release-of-o-level-results
   - infobar:
       title: 2026 Secondary 1 Registration
       id: infobar
