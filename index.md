@@ -29,7 +29,7 @@ sections:
       title: Release of GCE O-Level Results on 14 Jan 2026
       id: infobar
       button: Click Here to View
-      url: release-of-2025-o-level-examination-results/
+      url: https://sites.google.com/d/1DvtOrgazjN2fdu08G91rn4gkJ9D
   - infobar:
       title: 2026 Secondary 1 Registration
       id: infobar
