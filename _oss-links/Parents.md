@@ -8,6 +8,17 @@ variant: markdown
 
  
 
+
+[Parents Engagement Session on 7 January 2026](/files/2026_Principal_s_Address_to_Parents_7_Jan_2026__For_Parent_Information__compressed__1__compressed.pdf)
+
+
+
+
+ 
+ 
+ 
+ 
+
 [ Transition to and Onboarding at Parents Gateway](/files/Transition_to_and_Onboarding_at_Parents_Gateway.pdf)
 
 [Instructions to Parents Gateway Onboarding](/files/Annex_A_One_Time_Onboarding.pdf)
