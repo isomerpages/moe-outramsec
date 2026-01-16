@@ -265,7 +265,9 @@ third_nav_title: OSS Staff
 <p>Mr Chong Yau Kwang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Secondary)</p>
+<p>Year Head (Lower Secondary) and Student Management (Lower Secondary)</p>
+<p><strong>&nbsp;</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">chong_yau_kwang@moe.edu.sg</a>
