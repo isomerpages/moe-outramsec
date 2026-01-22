@@ -4,13 +4,10 @@ permalink: /school-programmes/Sexuality-Education/
 description: ""
 variant: tiptap
 ---
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1768965126503_b54aa6ae_c448_4dca_a887_1e5d0ea288d9_2.jpg">
-</div>
-<div class="isomer-image-wrapper">
+<p></p><a class="isomer-image-wrapper" href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/1768965126503_b54aa6ae_c448_4dca_a887_1e5d0ea288d9_2.jpg"></a>
+<a class="isomer-image-wrapper" href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1768965126503_b54aa6ae_c448_4dca_a887_1e5d0ea288d9_3.jpg">
-</div>
+</a>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1768965126503_b54aa6ae_c448_4dca_a887_1e5d0ea288d9_4.jpg">
 </div>
