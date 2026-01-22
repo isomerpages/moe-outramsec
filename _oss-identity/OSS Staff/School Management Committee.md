@@ -318,7 +318,7 @@ third_nav_title: OSS Staff
 <p>SH/Science</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">Sarah_ANG@moe.edu.sg</a>
+<p><a href="mailto:sarah_ang_en_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarah_ang_en_ling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
