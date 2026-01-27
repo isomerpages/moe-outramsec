@@ -4,9 +4,7 @@ permalink: /parents-and-students/Parents/
 description: ""
 variant: markdown
 ---
-
-
- ### **Assesment Matters**
+### **Assesment Matters**
 [Term 1 Class Test Topics (AVC)](/files/AVC__2026_Term_1_Class_Test_Topics_and_Format_27_Jan.pdf)
 
 ### **Links**
