@@ -6,8 +6,8 @@ variant: markdown
 ---
 ### **Links**
 
- 
-
+ ### **Assesment Matters**
+[Term 1 Class Test Topics (AVC)](/files/AVC__2026_Term_1_Class_Test_Topics_and_Format_27_Jan.pdf)
 
 [Parents Engagement Session on 7 January 2026](/files/2026_Principal_s_Address_to_Parents_7_Jan_2026__For_Parent_Information__compressed__1__compressed.pdf)
 
