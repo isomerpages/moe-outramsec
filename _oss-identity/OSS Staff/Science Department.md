@@ -89,6 +89,14 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ms Diana Binte Othman</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teacher</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Ms Toh Gan Ying Angela</p>
 </td>
 <td rowspan="1" colspan="1">
