@@ -139,6 +139,8 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">Malar_Vizhi_ANJAPPAN@moe.edu.sg</a>
 </p>
+<p><em><a href="/files/malar.pdf" rel="noopener nofollow" target="_blank">(Click her to view my educational philosophies)</a></em>
+</p>
 </td>
 </tr>
 <tr>
