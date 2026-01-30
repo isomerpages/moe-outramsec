@@ -109,7 +109,11 @@ third_nav_title: OSS Staff
 <p>School Staff Developer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">martin_lee_tze_chuen@moe.edu.sg</a>
+<p><strong><a rel="noopener noreferrer nofollow" target="_blank">martin_lee_tze_chuen@moe.edu.sgz</a></strong>
+</p>
+<p><strong>(Click her to view my educational </strong>
+</p>
+<p><strong>philosophies)</strong>
 </p>
 </td>
 </tr>
