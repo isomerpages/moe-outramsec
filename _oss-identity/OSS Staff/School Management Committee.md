@@ -111,7 +111,7 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p><strong><a rel="noopener noreferrer nofollow" target="_blank">martin_lee_tze_chuen@moe.edu.sgz</a></strong>
 </p>
-<p><strong>(Click her to view my educational </strong>
+<p><strong>(Click here to view my educational</strong>
 </p>
 <p><strong>philosophies)</strong>
 </p>
@@ -200,6 +200,9 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">goh_keng_hock@moe.edu.sg</a>
+</p>
+<p></p>
+<p><strong><a href="/files/Goh1.pdf" rel="noopener nofollow" target="_blank">(Click here to view my educational  philosophies</a></strong>
 </p>
 </td>
 </tr>
