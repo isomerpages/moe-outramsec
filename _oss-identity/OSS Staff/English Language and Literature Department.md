@@ -57,7 +57,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Abdul Rahman</p>
+<p><a href="/files/abdul1.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Abdul Rahman</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Senior Teacher/Social Studies</p>
