@@ -80,7 +80,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Tan Kim Choo</p>
+<p><a href="/files/tan_kim_choo2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Kim Choo</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -88,7 +89,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Sathi Kumar</p>
+<p><a href="/files/sakthi_kumar2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Sathi Kumar</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -96,7 +98,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nurazilah</p>
+<p><a href="/files/nurazilah2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Nurazilah</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -104,7 +107,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Liu Pengcheng</p>
+<p><a href="/files/liu_pencheng2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Liu Pengcheng</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
