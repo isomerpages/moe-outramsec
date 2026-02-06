@@ -17,7 +17,8 @@ third_nav_title: OSS Staff
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Koh Siak Peng</p>
+<p><a href="/files/siak_peng2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Koh Siak Peng</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Science and Talent Development</p>
@@ -25,7 +26,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sarah Ang En Ling</p>
+<p><a href="/files/sarah_eng_ling2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Sarah Ang En Ling</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Science</p>
@@ -33,7 +35,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Martin Lee Tze Chuen</p>
+<p><a href="/files/martin.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Martin Lee Tze Chuen</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
