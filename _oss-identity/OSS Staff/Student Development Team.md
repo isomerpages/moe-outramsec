@@ -160,7 +160,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Tong Xun Jie</p>
+<p><a href="/files/tong_xun_jie.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Tong Xun Jie</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer</p>
@@ -168,7 +169,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Leo Chin Ho</p>
+<p><a href="/files/leo_chin.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Leo Chin Ho</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Student Welfare Officer</p>
@@ -176,7 +178,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kenny Tan</p>
+<p><a href="/files/kenny_tan.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Kenny Tan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Education Career Guidance Counsellor (ECGC)</p>
