@@ -35,7 +35,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Faith Tan</p>
+<p><a href="/files/faith_wong2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mrs Faith Tan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head (Upper Secondary)</p>
@@ -43,7 +44,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Atikah</p>
+<p><a href="/files/athikah2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Atikah</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Character and Citizenship Education</p>
@@ -51,7 +53,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nasuha Rahmat</p>
+<p><a href="/files/nasuha2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Nasuha Rahmat</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Student Leadership and CCA (Ag)</p>
@@ -59,7 +62,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Subbu Suba Sakthidevi</p>
+<p><a href="/files/mdm_sakthi.pdf" rel="noopener noreferrer nofollow" target="_blank">Mdm Subbu Suba Sakthidevi</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Understudy Senior Teacher/Tamil Language</p>
@@ -67,7 +71,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Hazlan</p>
+<p><a href="/files/hazlan2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Hazlan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
