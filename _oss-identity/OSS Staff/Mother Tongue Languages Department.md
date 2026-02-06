@@ -17,7 +17,8 @@ third_nav_title: OSS Staff
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Malar Vizhi d/o Anjappan</p>
+<p><a href="/files/malar_vizhi2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mdm Malar Vizhi d/o Anjappan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Mother Tongue Languages</p>
@@ -25,7 +26,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Lin Zhengchang</p>
+<p><a href="/files/lin_zhengzheng2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Lin Zhengchang</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Chinese Language (Ag)</p>
