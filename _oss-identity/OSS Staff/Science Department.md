@@ -44,7 +44,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Ng Mun Leong</p>
+<p><a href="/files/mun_leong2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Ng Mun Leong</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/ICT</p>
@@ -52,7 +53,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Keng Hock</p>
+<p><a href="/files/Goh2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Goh Keng Hock</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Character and Citizenship Education</p>
@@ -60,7 +62,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Hui Zhen</p>
+<p><a href="/files/hui_zhen2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Hui Zhen</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Student Well-Being</p>
@@ -68,7 +71,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr John Cheong</p>
+<p><a href="/files/john_cheong2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr John Cheong</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (Upper Secondary) (Ag)</p>
@@ -76,7 +80,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Ban Leng</p>
+<p><a href="/files/ban_leng2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Goh Ban Leng</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Understudy Senior Teacher/Educational Support</p>
@@ -84,7 +89,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Singaram Vijayalakshmi</p>
+<p><a href="/files/viji2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mdm Singaram Vijayalakshmi</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -92,7 +98,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Diana Binte Othman</p>
+<p><a href="/files/diana2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Diana Binte Othman</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -100,7 +107,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Toh Gan Ying Angela</p>
+<p><a href="/files/angela2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Toh Gan Ying Angela</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
