@@ -161,7 +161,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Wen Zhi Guang</p>
+<p><a href="/files/wen_zhi.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Wen Zhi Guang</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -169,7 +170,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chen Tat Kwang</p>
+<p><a href="/files/chen_tat_kwang.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Chen Tat Kwang</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
