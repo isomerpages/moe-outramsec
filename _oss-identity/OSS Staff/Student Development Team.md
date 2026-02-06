@@ -133,7 +133,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Goh Ban Leng</p>
+<p><a href="/files/ban_leng2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Goh Ban Leng</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Understudy Senior Teacher/Educational Support</p>
@@ -141,7 +142,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Isabella Lee</p>
+<p><a href="/files/isabelle.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Isabella Lee</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
@@ -149,7 +151,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Geraldine Ang</p>
+<p><a href="/files/geraldine.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Geraldine Ang</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer</p>
