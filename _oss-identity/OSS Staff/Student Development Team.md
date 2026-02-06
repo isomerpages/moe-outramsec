@@ -16,9 +16,8 @@ third_nav_title: OSS Staff
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<p></p>
-<p>Mr Chong Yau Kwang</p>
+<p><a href="/files/yau_kwang2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Chong Yau Kwang</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head (Lower Secondary)</p>
@@ -26,7 +25,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Faith Tan</p>
+<p><a href="/files/faith_wong2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mrs Faith Tan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head (Upper Secondary)</p>
@@ -34,7 +34,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Zaiton</p>
+<p><a href="/files/zaiton2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Zaiton</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Student Management</p>
@@ -42,7 +43,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Keng Hock</p>
+<p><a href="/files/Goh1.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Goh Keng Hock</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Character and Citizenship Education</p>
@@ -50,7 +52,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Serene Cheong</p>
+<p><a href="/files/Serene_cheong2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Serene Cheong</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Business &amp; Enterprise &amp; Student Well-Being</p>
@@ -58,7 +61,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chew Kia Sheng</p>
+<p><a href="/files/kia_sheng2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Chew Kia Sheng</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Physical Education</p>
@@ -66,7 +70,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Shireen Stephen</p>
+<p><a href="/files/shirren2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Shireen Stephen</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Lead Teacher/Educational Support</p>
@@ -74,7 +79,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nur Atikah</p>
+<p><a href="/files/athikah2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Atikah</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Character and Citizenship Education</p>
@@ -82,7 +88,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Hui Zhen</p>
+<p><a href="/files/hui_zhen2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Hui Zhen</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Student Well-Being</p>
@@ -90,7 +97,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Kannan Kalidasan</p>
+<p><a href="/files/kannan2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Kannan Kalidasan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Student Management</p>
@@ -98,7 +106,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Verine Yeo</p>
+<p><a href="/files/verine2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Verine Yeo</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (Lower Secondary) (Ag)</p>
@@ -106,7 +115,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr John Cheong</p>
+<p><a href="/files/john_cheong2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr John Cheong</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (Upper Secondary) (Ag)</p>
@@ -114,7 +124,8 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Nasuha Rahmat</p>
+<p><a href="/files/nasuha2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Nasuha Rahmat</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Student Leadership and CCA (Ag)</p>
