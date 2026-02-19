@@ -111,8 +111,7 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">martin_lee_tze_chuen@moe.edu.sg</a>
 </p>
-<p><em><a href="/files/martin.pdf" rel="noopener noreferrer nofollow" target="_blank">(Click here to view my educational philosophies)</a></em>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -125,8 +124,7 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">Leong_su_zhen@moe.edu.sg</a>
 </p>
-<p><strong>&nbsp;</strong><em><a href="/files/su_zhen.pdf" rel="noopener nofollow" target="_blank">(Click here to view my educational philosophies)</a></em>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -139,8 +137,7 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">Malar_Vizhi_ANJAPPAN@moe.edu.sg</a>
 </p>
-<p><em><a href="/files/malar.pdf" rel="noopener nofollow" target="_blank">(Click her to view my educational philosophies)</a></em>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -203,8 +200,7 @@ third_nav_title: OSS Staff
 <p><a rel="noopener noreferrer nofollow" target="_blank">goh_keng_hock@moe.edu.sg</a>
 </p>
 <p></p>
-<p><strong><a href="/files/Goh1.pdf" rel="noopener nofollow" target="_blank">(Click here to view my educational philosophies</a></strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
