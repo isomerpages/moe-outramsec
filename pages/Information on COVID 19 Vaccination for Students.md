@@ -2,8 +2,8 @@
 title: Information on COVID 19 Vaccination for Students
 permalink: /Information-on-COVID-19-Vaccination-for-Students/
 description: ""
+variant: markdown
 ---
-
 Click on the links below to find out more about the nationwide vaccination drive for students.  
   
 
