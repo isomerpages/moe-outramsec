@@ -152,7 +152,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Carol</p>
+<p>Ms Carol</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Receptionist</p>
@@ -160,7 +160,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Qamarul Huda binte Abdul Rahim</p>
+<p>Ms Qamarul Huda binte Abdul Rahim</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>STEM Instructor (Lab)</p>
@@ -172,14 +172,6 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Kitchen Aide</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Santhi</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Operations Support Officer</p>
 </td>
 </tr>
 <tr>
@@ -208,7 +200,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Salina Binte Junid</p>
+<p>Ms Salina Binte Junid</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -216,7 +208,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Phad Wongchai</p>
+<p>Mdm Phad Wongchai</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>
@@ -232,7 +224,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Muji Rahayu</p>
+<p>Ms Muji Rahayu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Operations Support Officer</p>

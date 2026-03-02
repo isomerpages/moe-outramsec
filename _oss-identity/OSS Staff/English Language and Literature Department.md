@@ -96,15 +96,6 @@ third_nav_title: OSS Staff
 <p>Teacher</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/files/faith_wong2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Faith</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Teacher</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
