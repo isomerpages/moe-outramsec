@@ -107,7 +107,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/angela2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Toh Gan Ying Angela</a>
+<p><a href="/files/OSS_Teaching_Philosophy__For_School_Website___13__compressed.pdf" rel="noopener nofollow" target="_blank">Ms Toh Gan Ying Angela</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
