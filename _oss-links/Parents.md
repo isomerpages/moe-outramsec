@@ -48,7 +48,13 @@ variant: markdown
 
 ### **Letter to Parents**
 
+[AVC Letter to Parents Term 2 2026](/files/For_AVC__Letter_to_Parents_Term_2_2026.pdf)
+
+[YHC Letter to Parents Term 2 2026](/files/For_YHC__Letter_to_Parents_Term_2_2026.pdf)
+
 [ AVC Letter to Parents Term 1 2026](/files/For_AVC__Letter_to_Parents_Term_1_2026.pdf)
+
+[Annex A Traffic Management at Outram Sec (YHC & AVC)](/files/Annex_A__Traffic_Management_at_Outram_Sec__YHC___AVC_.pdf)
 
 [ YHC Letter to Parents Term 1 2026](/files/For_YHC__Revised_Letter_to_Parents_Term_1_2026_Updated_6_Jan.pdf)
 
