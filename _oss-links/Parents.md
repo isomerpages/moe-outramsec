@@ -5,6 +5,8 @@ description: ""
 variant: markdown
 ---
 ### **Assesment Matters**
+[Term 2 Class Test Topics (AVC)](/files/Term_2_Class_Test_Topics__AVC_.pdf)
+
 [Term 1 Class Test Topics (AVC)](/files/AVC__2026_Term_1_Class_Test_Topics_and_Format_27_Jan.pdf)
 
 ### **Links**
