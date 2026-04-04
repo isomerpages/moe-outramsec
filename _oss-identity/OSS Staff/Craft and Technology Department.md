@@ -17,8 +17,7 @@ third_nav_title: OSS Staff
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/chang_fong2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Chua Chang Fong</a>
-</p>
+<p>Mr Chua Chang Fong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head / Craft and Technology</p>
@@ -26,8 +25,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/durga2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Durga Devi</a>
-</p>
+<p>Ms Durga Devi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>LH Craft and Technology (Ag)</p>
@@ -35,8 +33,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/eunice2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Eunice Chua</a>
-</p>
+<p>Ms Eunice Chua</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST / Educational Support</p>
@@ -44,8 +41,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/serene_wong2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Serene Wong Ai Fung</a>
-</p>
+<p>Ms Serene Wong Ai Fung</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -53,8 +49,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/norhayati2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Norhayati Bte Mohd Ismail</a>
-</p>
+<p>Ms Norhayati Bte Mohd Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -62,8 +57,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/siva_shankar2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Siva Sankar S/O Sinnasamy</a>
-</p>
+<p>Mr Siva Sankar S/O Sinnasamy</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -71,8 +65,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/ang_ka_tiong2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Ang Kah Tiong</a>
-</p>
+<p>Mr Ang Kah Tiong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>

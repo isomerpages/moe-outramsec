@@ -17,8 +17,7 @@ third_nav_title: OSS Staff
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/malar_vizhi2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mdm Malar Vizhi d/o Anjappan</a>
-</p>
+<p>Mdm Malar Vizhi D/O Anjappan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Mother Tongue Languages</p>
@@ -26,8 +25,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/lin_zhengzheng2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Lin Zhengchang</a>
-</p>
+<p>Mr Lin Zhengchang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Chinese Language (Ag)</p>
@@ -35,8 +33,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/faith_wong2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mrs Faith Tan</a>
-</p>
+<p>Mrs Faith Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head (Upper Secondary)</p>
@@ -44,8 +41,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/athikah2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Nur Atikah</a>
-</p>
+<p>Ms Nur Atikah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Character and Citizenship Education</p>
@@ -53,8 +49,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/nasuha2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Nasuha Rahmat</a>
-</p>
+<p>Ms Nasuha Rahmat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Student Leadership and CCA (Ag)</p>
@@ -62,8 +57,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/mdm_sakthi.pdf" rel="noopener noreferrer nofollow" target="_blank">Mdm Subbu Suba Sakthidevi</a>
-</p>
+<p>Mdm Subbu Suba Sakthidevi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Understudy Senior Teacher/Tamil Language</p>
@@ -71,8 +65,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/hazlan2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Hazlan</a>
-</p>
+<p>Mr Hazlan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -80,8 +73,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/tan_kim_choo2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mdm Tan Kim Choo</a>
-</p>
+<p>Mdm Tan Kim Choo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -89,8 +81,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/sakthi_kumar2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Sathi Kumar</a>
-</p>
+<p>Mr Sathi Kumar</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -98,8 +89,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/nurazilah2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Nurazilah</a>
-</p>
+<p>Ms Nurazilah</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -107,8 +97,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/liu_pencheng2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Liu Pengcheng</a>
-</p>
+<p>Mr Liu Pengcheng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -116,8 +105,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/norashikin2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Norasikin</a>
-</p>
+<p>Ms Norasikin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -125,8 +113,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/zhang_hong2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Zhang Hong</a>
-</p>
+<p>Ms Zhang Hong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -134,8 +121,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/zhong_qian2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Zhong Qian</a>
-</p>
+<p>Ms Zhong Qian</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -143,8 +129,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/chua_pei_chi.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Chua Pei Ci</a>
-</p>
+<p>Ms Chua Pei Qi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -152,8 +137,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/yeow_you_you.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Yeoh You You</a>
-</p>
+<p>Ms Yeoh You You</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -161,8 +145,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/wen_zhi.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Wen Zhi Guang</a>
-</p>
+<p>Mr Wen Zhi Guang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -170,8 +153,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/chen_tat_kwang.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Chen Tat Kwang</a>
-</p>
+<p>Mr Chen Tat Kwang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
