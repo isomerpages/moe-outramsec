@@ -17,8 +17,7 @@ third_nav_title: OSS Staff
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/chow_boon2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Chow Poh Boon</a>
-</p>
+<p>Mr Chow Poh Boon</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Mathematics</p>
@@ -26,8 +25,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/cheng_guan2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Teo Cheng Guan</a>
-</p>
+<p>Mr Teo Cheng Guan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Mathematics</p>
@@ -35,8 +33,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Goh2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Goh Keng Hock</a>
-</p>
+<p>Mr Goh Keng Hock</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Character and Citizenship Education</p>
@@ -44,8 +41,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/catherine2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Catherine Tang</a>
-</p>
+<p>Ms Catherine Tang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>ST/Mathematics</p>
@@ -53,8 +49,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/gloria2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Gloria Ng Yu Yan</a>
-</p>
+<p>Ms Gloria Ng Yu Yan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -62,8 +57,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/yi_ping2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Yiping</a>
-</p>
+<p>Mdm Chua Yiping</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -71,8 +65,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/teck_ming2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Lim Teck Ming</a>
-</p>
+<p>Mr Lim Teck Ming</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -80,8 +73,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/viji2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mdm Singaram Vijayalakshmi</a>
-</p>
+<p>Mdm Singaram Vijayalakshmi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
