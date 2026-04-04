@@ -17,8 +17,7 @@ third_nav_title: OSS Staff
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/siak_peng2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Koh Siak Peng</a>
-</p>
+<p>Mr Koh Siak Peng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Science and Talent Development</p>
@@ -26,8 +25,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/sarah_eng_ling2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Sarah Ang En Ling</a>
-</p>
+<p>Ms Sarah Ang En Ling</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Science</p>
@@ -35,8 +33,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/martin.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Martin Lee Tze Chuen</a>
-</p>
+<p>Mr Martin Lee Tze Chuen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
@@ -44,8 +41,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/mun_leong2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Ng Mun Leong</a>
-</p>
+<p>Mr Ng Mun Leong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/ICT</p>
@@ -53,8 +49,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Goh2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Goh Keng Hock</a>
-</p>
+<p>Mr Goh Keng Hock</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Character and Citizenship Education</p>
@@ -62,8 +57,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/hui_zhen2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Ng Hui Zhen</a>
-</p>
+<p>Ms Ng Hui Zhen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Student Well-Being</p>
@@ -71,8 +65,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/john_cheong2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr John Cheong</a>
-</p>
+<p>Mr John Cheong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (Upper Secondary) (Ag)</p>
@@ -80,8 +73,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/ban_leng2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Goh Ban Leng</a>
-</p>
+<p>Ms Goh Ban Leng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Understudy Senior Teacher/Educational Support</p>
@@ -89,8 +81,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/viji2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mdm Singaram Vijayalakshmi</a>
-</p>
+<p>Mdm Singaram Vijayalakshmi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -98,8 +89,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/diana2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Diana Binte Othman</a>
-</p>
+<p>Ms Diana Binte Othman</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -107,8 +97,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/OSS_Teaching_Philosophy__For_School_Website___13__compressed.pdf" rel="noopener nofollow" target="_blank">Ms Toh Gan Ying Angela</a>
-</p>
+<p>Ms Toh Gan Ying Angela</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
