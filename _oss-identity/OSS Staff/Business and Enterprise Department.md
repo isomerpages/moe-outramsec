@@ -17,8 +17,7 @@ third_nav_title: OSS Staff
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Serene_cheong2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Serene Cheong</a>
-</p>
+<p>Ms Serene Cheong</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Head of Department/ Business &amp; Enterprise</p>
@@ -26,8 +25,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/kannan2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Kannan Kalidasan</a>
-</p>
+<p>Mr Kannan Kalidasan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Subject Head/Student Management</p>
@@ -35,8 +33,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/yi_ping2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mdm Chua Yi Ping</a>
-</p>
+<p>Md Chua Yi Ping</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -44,8 +41,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/wendy_loi_2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Chong Moh Ching (Wendy)</a>
-</p>
+<p>Ms Chong Moh Ching (Wendy)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -53,8 +49,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/sakthi_kumar2.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Sathi Kumar S/O Subramaniam</a>
-</p>
+<p>Mr Sathi Kumar S/O Subramaniam</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
@@ -62,8 +57,7 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/lee_suet_chow2.pdf" rel="noopener noreferrer nofollow" target="_blank">Ms Lee Suet Chow</a>
-</p>
+<p>Ms Lee Suet Chow</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
