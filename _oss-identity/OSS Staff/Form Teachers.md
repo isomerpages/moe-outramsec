@@ -201,7 +201,7 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Gary Pek Chi Hiong
-<br>Ms Zhong Xiaomei</p>
+<br>Ms Catherine Tan</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tang Hue Sim Serene</p>
