@@ -170,7 +170,7 @@ third_nav_title: OSS Staff
 <p>Ms Tan Boon Hwee</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/E21CC</p>
+<p>HOD 21CC</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a rel="noopener noreferrer nofollow" target="_blank">tan_boon_hwee@moe.edu.sg</a>
