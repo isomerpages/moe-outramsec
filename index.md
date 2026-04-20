@@ -26,10 +26,10 @@ sections:
       alignment: right
       backgroundColor: gray
   - infobar:
-      title: Release of GCE O-Level Results on 14 Jan 2026
+      title: Direct School Admission Exercise 2026
       id: infobar
-      button: Click Here to View
-      url: https://sites.google.com/moe.edu.sg/students-at-outram/2025-release-of-o-level-results
+      button: Click here to view
+      url: https://sites.google.com/moe.edu.sg/ossopenhouse/dsa-oss
   - infobar:
       title: 2026 Secondary 1 Registration
       id: infobar
