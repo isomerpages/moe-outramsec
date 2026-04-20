@@ -26,11 +26,6 @@ sections:
       alignment: right
       backgroundColor: gray
   - infobar:
-      title: Release of GCE O-Level Results on 14 Jan 2026
-      id: infobar
-      button: Click Here to View
-      url: https://sites.google.com/moe.edu.sg/students-at-outram/2025-release-of-o-level-results
-  - infobar:
       title: 2026 Secondary 1 Registration
       id: infobar
       button: CLICK HERE TO VIEW
@@ -61,4 +56,9 @@ sections:
         and are inspired by Social Service Agencies. #thisisOutram"
       image: /images/Caring_Contributors_s.jpg
       alt: Contributors with Compassion
+  - infobar:
+      title: Direct School Admission Exercise 2026
+      id: infobar
+      button: Click here to view
+      url: https://sites.google.com/moe.edu.sg/ossopenhouse/dsa-oss
 ---
