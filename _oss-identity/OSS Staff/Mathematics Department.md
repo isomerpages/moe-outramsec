@@ -33,6 +33,14 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Chong Yau Kwang</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Year Head (Lower Secondary) and Student Management (Lower Secondary)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mr Goh Keng Hock</p>
 </td>
 <td rowspan="1" colspan="1">
