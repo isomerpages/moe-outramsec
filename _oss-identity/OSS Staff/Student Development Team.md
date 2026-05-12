@@ -8,8 +8,9 @@ third_nav_title: OSS Staff
 <blockquote>
 <h4>Student Development Team</h4>
 </blockquote>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -21,6 +22,10 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>Year Head (Lower Secondary)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chong_yau_kwang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chong_yau_kwang@moe.edu.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -28,6 +33,10 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head (Upper Secondary)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:wong_ching_hun@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_ching_hun@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -37,6 +46,9 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>HOD/Student Management</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -44,6 +56,9 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Character and Citizenship Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -53,6 +68,9 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>HOD/Business &amp; Enterprise &amp; Student Well-Being</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -60,6 +78,9 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/Physical Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -69,6 +90,9 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>Lead Teacher/Educational Support</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -76,6 +100,9 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Character and Citizenship Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -85,6 +112,9 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>SH/Student Well-Being</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -92,6 +122,9 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Student Management</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -101,6 +134,9 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (Lower Secondary) (Ag)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -108,6 +144,9 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (Upper Secondary) (Ag)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -117,6 +156,9 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>SH/Student Leadership and CCA (Ag)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -124,6 +166,9 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Understudy Senior Teacher/Educational Support</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -133,6 +178,9 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>School Counsellor</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -140,6 +188,9 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -149,6 +200,9 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>Special Educational Needs Officer</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -157,6 +211,9 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>Student Welfare Officer</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -164,6 +221,9 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Education Career Guidance Counsellor (ECGC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
