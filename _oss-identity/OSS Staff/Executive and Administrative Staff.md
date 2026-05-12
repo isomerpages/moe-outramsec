@@ -80,6 +80,14 @@ third_nav_title: OSS Staff
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mr Fredrik Lee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Administration Executive</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Mdm Yuszita</p>
 </td>
 <td rowspan="1" colspan="1">
