@@ -244,18 +244,6 @@ third_nav_title: OSS Staff
 </p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mr Chong Yau Kwang</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Year Head (Lower Secondary)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chong_yau_kwang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_yau_kwang@moe.edu.sg</a>
-</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p>
