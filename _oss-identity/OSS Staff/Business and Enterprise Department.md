@@ -9,8 +9,9 @@ third_nav_title: OSS Staff
 <p>Business and Enterprise</p>
 </blockquote>
 <p></p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -22,6 +23,10 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>Head of Department/ Business &amp; Enterprise</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheong_wenxin_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_wenxin_serene@moe.edu.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -30,13 +35,21 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>Subject Head/Student Management</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:kannan_kalidasan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">kannan_kalidasan@moe.edu.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Md Chua Yi Ping</p>
+<p>Mdm Chua Yi Ping</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chua_yi_ping@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_yi_ping@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -46,6 +59,10 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:chong_moh_ching@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chong_moh_ching@moe.edu.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -54,6 +71,10 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sathi_kumar_subramaniam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sathi_kumar_subramaniam@moe.edu.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -61,6 +82,10 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lee_suet_chow_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_suet_chow_a@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>

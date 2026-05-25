@@ -8,9 +8,9 @@ third_nav_title: OSS Staff
 <blockquote>
 <p>Science Department</p>
 </blockquote>
-<p></p>
-<table style="minWidth: 50px">
+<table style="minWidth: 75px">
 <colgroup>
+<col>
 <col>
 <col>
 </colgroup>
@@ -22,6 +22,10 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>HOD/Science and Talent Development</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:koh_siak_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">koh_siak_peng@moe.edu.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -29,6 +33,10 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:sarah_ang_en_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarah_ang_en_ling@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -38,6 +46,10 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>School Staff Developer</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:martin_lee_tze_chuen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">martin_lee_tze_chuen@moe.edu.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -45,6 +57,10 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>HOD/ICT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:ng_mun_leong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_mun_leong@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -54,6 +70,10 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>HOD/Character and Citizenship Education</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_keng_hock@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_keng_hock@moe.edu.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -61,6 +81,10 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>SH/Student Well-Being</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Ng_Hui_Zhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ng_Hui_Zhen@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -70,6 +94,10 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>Assistant Year Head (Upper Secondary) (Ag)</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:cheong_hong_bin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">cheong_hong_bin@moe.edu.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -77,6 +105,10 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Understudy Senior Teacher/Educational Support</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:goh_ban_leng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_ban_leng@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -86,6 +118,10 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:singaram_vijayalakshmi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">singaram_vijayalakshmi@moe.edu.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -93,6 +129,10 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:diana_othman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">diana_othman@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -102,6 +142,10 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:toh_gan_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">toh_gan_ying@moe.edu.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -109,6 +153,10 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Teacher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Mr_Gunaseelan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr_Gunaseelan@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
