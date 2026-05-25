@@ -107,7 +107,7 @@ third_nav_title: OSS Staff
 <p>Teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:tan_kim_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kim_choo@moe.edu.sg</a>
+<p><a href="mailto:tan_kim_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_kim_choo_b@moe.edu.sg</a>
 </p>
 </td>
 </tr>
