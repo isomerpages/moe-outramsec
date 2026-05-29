@@ -260,7 +260,7 @@ third_nav_title: OSS Staff
 <p>HOD/ICT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank"><u>ng_mun_leong@schools.gov.sg</u></a>
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>ng_mun_leong@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
