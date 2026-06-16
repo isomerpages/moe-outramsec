@@ -167,7 +167,12 @@ third_nav_title: OSS Staff
 <p>Mr Teo Cheng Guan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:sathi_kumar_subramaniam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sathi_kumar_subramaniam@schools.gov.sg</a>
+</p>
+<p><a href="mailto:Zhong_Qian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Zhong_Qian@schools.gov.sg</a>
+</p>
+<p><a href="mailto:Teo_Cheng_Guan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Teo_Cheng_Guan@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -182,6 +187,12 @@ third_nav_title: OSS Staff
 <p>Ms Aqilah Jumain</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:ganesan_selvarathnam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ganesan_selvarathnam@schools.gov.sg</a>
+</p>
+<p><a href="mailto:wong_ai_fung_serene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_ai_fung_serene@schools.gov.sg</a>
+</p>
+<p><a href="mailto:aqilah_jumain@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aqilah_jumain@schools.gov.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
