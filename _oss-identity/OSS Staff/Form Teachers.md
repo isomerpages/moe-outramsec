@@ -296,7 +296,12 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-<p></p>
+<p><a href="mailto:pek_chi_hiong_gary@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pek_chi_hiong_gary@schools.gov.sg</a>
+</p>
+<p><a href="mailto:tan_meow_tang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_meow_tang@moe.edu.sg</a>
+</p>
+<p><a href="mailto:tang_hue_sim_serene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tang_hue_sim_serene@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
