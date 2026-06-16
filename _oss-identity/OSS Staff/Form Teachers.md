@@ -87,7 +87,7 @@ third_nav_title: OSS Staff
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Email </strong>
+<p><strong>Email</strong>
 </p>
 </td>
 </tr>
