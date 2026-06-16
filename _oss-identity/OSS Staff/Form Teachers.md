@@ -65,8 +65,9 @@ third_nav_title: OSS Staff
 <p><strong>Form Teachers</strong>
 </p>
 </blockquote>
-<table style="minWidth: 75px">
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -85,6 +86,10 @@ third_nav_title: OSS Staff
 <p><strong>Key Personnel Support</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>Email </strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -96,6 +101,18 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Malar Vizhi d/o Anjappan</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:nasuha_rahmat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nasuha_rahmat@schools.gov.sg</a>
+</p>
+<p></p>
+<p><a href="mailto:tan_suan_sim_dorothy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_suan_sim_dorothy@schools.gov.sg</a>
+</p>
+<p></p>
+<p><a href="mailto:Malar_Vizhi_Anjappan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Malar_Vizhi_Anjappan@schools.gov.sg</a>
+</p>
+<p></p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -109,6 +126,14 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>Ms Ng Hui Zhen</p>
 </td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:lim_teck_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_teck_ming@schools.gov.sg</a>
+</p>
+<p><a href="mailto:nanthini_gunasekaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nanthini_gunasekaran@schools.gov.sg</a>
+</p>
+<p><a href="mailto:Ng_Hui_Zhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ng_Hui_Zhen@schools.gov.sg</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -120,6 +145,14 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sarah Ang En Ling</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:Norhayati_Mohd_Ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Norhayati_Mohd_Ismail@schools.gov.sg</a>
+</p>
+<p><a href="mailto:lin_zhengchang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_zhengchang@schools.gov.sg</a>
+</p>
+<p><a href="mailto:sarah_ang_en_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sarah_ang_en_ling@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -133,6 +166,9 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>Mr Teo Cheng Guan</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -144,6 +180,9 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Aqilah Jumain</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -157,6 +196,9 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>Ms Nur Atikah</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -169,6 +211,9 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>Mr Irwan Haerman Tomin</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -180,6 +225,9 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Martin Lee Tze Chuen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -194,6 +242,9 @@ third_nav_title: OSS Staff
 <p>Ms Leong Su Zhen
 <br>Mr Chew Kia Sheng</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -205,6 +256,9 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tang Hue Sim Serene</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
