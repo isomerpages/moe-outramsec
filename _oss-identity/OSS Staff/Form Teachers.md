@@ -228,6 +228,12 @@ third_nav_title: OSS Staff
 <p>Mr Irwan Haerman Tomin</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:chua_chang_fong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_chang_fong@schools.gov.sg</a>
+</p>
+<p><a href="mailto:Yeoh_You_You@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Yeoh_You_You@schools.gov.sg</a>
+</p>
+<p><a href="mailto:irwan_haerman_tomin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">irwan_haerman_tomin@schools.gov.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
@@ -243,6 +249,12 @@ third_nav_title: OSS Staff
 <p>Mr Martin Lee Tze Chuen</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:durga_devi_v_jagarajan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">durga_devi_v_jagarajan@schools.gov.sg</a>
+</p>
+<p><a href="mailto:huang_liting_daphne@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">huang_liting_daphne@schools.gov.sg</a>
+</p>
+<p><a href="mailto:martin_lee_tze_chuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">martin_lee_tze_chuen@schools.gov.sg</a>
+</p>
 <p></p>
 </td>
 </tr>
@@ -259,7 +271,16 @@ third_nav_title: OSS Staff
 <br>Mr Chew Kia Sheng</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="mailto:liu_pengcheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_pengcheng@schools.gov.sg</a>
+</p>
+<p><a href="mailto:nurazilah_mohamed_shukor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurazilah_mohamed_shukor@schools.gov.sg</a>
+</p>
 <p></p>
+<p><a href="mailto:leong_su_zhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_su_zhen@schools.gov.sg</a>
+</p>
+<p></p>
+<p><a href="mailto:chew_kia_sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_kia_sheng@schools.gov.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -274,6 +295,7 @@ third_nav_title: OSS Staff
 <p>Ms Tang Hue Sim Serene</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <p></p>
 </td>
 </tr>
