@@ -296,7 +296,7 @@ third_nav_title: OSS Staff
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+<p></p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
