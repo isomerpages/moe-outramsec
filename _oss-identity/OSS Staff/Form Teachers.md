@@ -103,16 +103,12 @@ third_nav_title: OSS Staff
 <p>Mdm Malar Vizhi d/o Anjappan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:nasuha_rahmat@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nasuha_rahmat@schools.gov.sg</a>
+<p><a href="mailto:nasuha_rahmat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nasuha_rahmat@moe.edu.sg</a>
 </p>
-<p></p>
-<p><a href="mailto:tan_suan_sim_dorothy@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tan_suan_sim_dorothy@schools.gov.sg</a>
+<p><a href="mailto:tan_suan_sim_dorothy@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_suan_sim_dorothy@moe.edu.sg</a>
 </p>
-<p></p>
-<p><a href="mailto:Malar_Vizhi_Anjappan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Malar_Vizhi_Anjappan@schools.gov.sg</a>
+<p><a href="mailto:Malar_Vizhi_Anjappan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Malar_Vizhi_Anjappan@moe.edu.sg</a>
 </p>
-<p></p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -127,11 +123,11 @@ third_nav_title: OSS Staff
 <p>Ms Ng Hui Zhen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:lim_teck_ming@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lim_teck_ming@schools.gov.sg</a>
+<p><a href="mailto:lim_teck_ming@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_teck_ming@moe.edu.sg</a>
 </p>
-<p><a href="mailto:nanthini_gunasekaran@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nanthini_gunasekaran@schools.gov.sg</a>
+<p><a href="mailto:nanthini_gunasekaran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nanthini_gunasekaran@moe.edu.sg</a>
 </p>
-<p><a href="mailto:Ng_Hui_Zhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Ng_Hui_Zhen@schools.gov.sg</a>
+<p><a href="mailto:Ng_Hui_Zhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ng_Hui_Zhen@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -147,11 +143,11 @@ third_nav_title: OSS Staff
 <p>Ms Sarah Ang En Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:Norhayati_Mohd_Ismail@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Norhayati_Mohd_Ismail@schools.gov.sg</a>
+<p><a href="mailto:Norhayati_Mohd_Ismail@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Norhayati_Mohd_Ismail@moe.edu.sg</a>
 </p>
-<p><a href="mailto:lin_zhengchang@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">lin_zhengchang@schools.gov.sg</a>
+<p><a href="mailto:lin_zhengchang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_zhengchang@moe.edu.sg</a>
 </p>
-<p><a href="mailto:sarah_ang_en_ling@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sarah_ang_en_ling@schools.gov.sg</a>
+<p><a href="mailto:sarah_ang_en_ling@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarah_ang_en_ling@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -167,11 +163,11 @@ third_nav_title: OSS Staff
 <p>Mr Teo Cheng Guan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sathi_kumar_subramaniam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">sathi_kumar_subramaniam@schools.gov.sg</a>
+<p><a href="mailto:sathi_kumar_subramaniam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sathi_kumar_subramaniam@moe.edu.sg</a>
 </p>
-<p><a href="mailto:Zhong_Qian@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Zhong_Qian@schools.gov.sg</a>
+<p><a href="mailto:Zhong_Qian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Zhong_Qian@moe.edu.sg</a>
 </p>
-<p><a href="mailto:Teo_Cheng_Guan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Teo_Cheng_Guan@schools.gov.sg</a>
+<p><a href="mailto:Teo_Cheng_Guan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Teo_Cheng_Guan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -187,13 +183,12 @@ third_nav_title: OSS Staff
 <p>Ms Aqilah Jumain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:ganesan_selvarathnam@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ganesan_selvarathnam@schools.gov.sg</a>
+<p><a href="mailto:ganesan_selvarathnam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ganesan_selvarathnam@moe.edu.sg</a>
 </p>
-<p><a href="mailto:wong_ai_fung_serene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">wong_ai_fung_serene@schools.gov.sg</a>
+<p><a href="mailto:wong_ai_fung_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_ai_fung_serene@moe.edu.sg</a>
 </p>
-<p><a href="mailto:aqilah_jumain@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">aqilah_jumain@schools.gov.sg</a>
+<p><a href="mailto:aqilah_jumain@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">aqilah_jumain@moe.edu.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -208,11 +203,11 @@ third_nav_title: OSS Staff
 <p>Ms Nur Atikah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_chang_fong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_chang_fong@schools.gov.sg</a>
+<p><a href="mailto:chua_chang_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_chang_fong@moe.edu.sg</a>
 </p>
-<p><a href="mailto:Chua_Pei_Ci@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Chua_Pei_Ci@schools.gov.sg</a>
+<p><a href="mailto:Chua_Pei_Ci@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Chua_Pei_Ci@moe.edu.sg</a>
 </p>
-<p><a href="mailto:nur_atikah_kamsani@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nur_atikah_kamsani@schools.gov.sg</a>
+<p><a href="mailto:nur_atikah_kamsani@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_atikah_kamsani@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -228,13 +223,12 @@ third_nav_title: OSS Staff
 <p>Mr Irwan Haerman Tomin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:chua_chang_fong@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chua_chang_fong@schools.gov.sg</a>
+<p><a href="mailto:chua_chang_fong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_chang_fong@moe.edu.sg</a>
 </p>
-<p><a href="mailto:Yeoh_You_You@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Yeoh_You_You@schools.gov.sg</a>
+<p><a href="mailto:Yeoh_You_You@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Yeoh_You_You@moe.edu.sg</a>
 </p>
-<p><a href="mailto:irwan_haerman_tomin@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">irwan_haerman_tomin@schools.gov.sg</a>
+<p><a href="mailto:irwan_haerman_tomin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">irwan_haerman_tomin@moe.edu.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -249,13 +243,12 @@ third_nav_title: OSS Staff
 <p>Mr Martin Lee Tze Chuen</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:durga_devi_v_jagarajan@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">durga_devi_v_jagarajan@schools.gov.sg</a>
+<p><a href="mailto:durga_devi_v_jagarajan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">durga_devi_v_jagarajan@moe.edu.sg</a>
 </p>
-<p><a href="mailto:huang_liting_daphne@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">huang_liting_daphne@schools.gov.sg</a>
+<p><a href="mailto:huang_liting_daphne@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">huang_liting_daphne@moe.edu.sg</a>
 </p>
-<p><a href="mailto:martin_lee_tze_chuen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">martin_lee_tze_chuen@schools.gov.sg</a>
+<p><a href="mailto:martin_lee_tze_chuen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">martin_lee_tze_chuen@moe.edu.sg</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -271,15 +264,13 @@ third_nav_title: OSS Staff
 <br>Mr Chew Kia Sheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:liu_pengcheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">liu_pengcheng@schools.gov.sg</a>
+<p><a href="mailto:liu_pengcheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_pengcheng@moe.edu.sg</a>
 </p>
-<p><a href="mailto:nurazilah_mohamed_shukor@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">nurazilah_mohamed_shukor@schools.gov.sg</a>
+<p><a href="mailto:nurazilah_mohamed_shukor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurazilah_mohamed_shukor@moe.edu.sg</a>
 </p>
-<p></p>
-<p><a href="mailto:leong_su_zhen@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">leong_su_zhen@schools.gov.sg</a>
+<p><a href="mailto:leong_su_zhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">leong_su_zhen@moe.edu.sg</a>
 </p>
-<p></p>
-<p><a href="mailto:chew_kia_sheng@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">chew_kia_sheng@schools.gov.sg</a>
+<p><a href="mailto:chew_kia_sheng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_kia_sheng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -295,19 +286,20 @@ third_nav_title: OSS Staff
 <p>Ms Tang Hue Sim Serene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-<p><a href="mailto:pek_chi_hiong_gary@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">pek_chi_hiong_gary@schools.gov.sg</a>
+<p><a href="mailto:pek_chi_hiong_gary@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">pek_chi_hiong_gary@moe.edu.sg</a>
 </p>
 <p><a href="mailto:tan_meow_tang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_meow_tang@moe.edu.sg</a>
 </p>
-<p><a href="mailto:tang_hue_sim_serene@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">tang_hue_sim_serene@schools.gov.sg</a>
+<p><a href="mailto:tang_hue_sim_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tang_hue_sim_serene@moe.edu.sg</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<table style="minWidth: 75px">
+<p>&nbsp;</p>
+<table style="minWidth: 100px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -326,6 +318,10 @@ third_nav_title: OSS Staff
 <p><strong>Key Personnel Support</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>Email</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -337,6 +333,9 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Boon Hwee</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -350,6 +349,9 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>Ms Ismath</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -362,6 +364,9 @@ third_nav_title: OSS Staff
 <td rowspan="1" colspan="1">
 <p>Ms Shireen Stephen</p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -373,6 +378,9 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Goh Keng Hock</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -389,6 +397,9 @@ third_nav_title: OSS Staff
 <br>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -400,6 +411,9 @@ third_nav_title: OSS Staff
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Zaiton Mohamed Punither Basa</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -416,6 +430,9 @@ third_nav_title: OSS Staff
 <br>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -430,6 +447,9 @@ third_nav_title: OSS Staff
 <br>
 <br>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
