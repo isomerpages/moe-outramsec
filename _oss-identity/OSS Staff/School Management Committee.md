@@ -496,7 +496,7 @@ third_nav_title: OSS Staff
 <p>Senior Teacher / Social Studies</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">abdul_rahman_abdul_rahim_a@schools.gov.sg</a>
+<p><a href="mailto:abdul_rahman_abdul_rahim_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">abdul_rahman_abdul_rahim_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -508,7 +508,7 @@ third_nav_title: OSS Staff
 <p>Senior Teacher /Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a rel="noopener noreferrer nofollow" target="_blank">TAN_Meow_Tang@moe.gov.sg</a>
+<p><a rel="noopener noreferrer nofollow" target="_blank">TAN_Meow_Tang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
