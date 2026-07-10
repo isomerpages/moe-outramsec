@@ -5,6 +5,9 @@ description: ""
 variant: markdown
 ---
 ### **Assesment Matters**
+
+[WA3 Sec 1 Parents Letter and ClassTestTopics 2026](/files/2026_WA3_Sec_1_Parents_Letter_and_Class_Test_Topics.pdf)
+
 [Term 2 Class Test Topics (AVC)](/files/Term_2_Class_Test_Topics__AVC_.pdf)
 
 [Term 1 Class Test Topics (AVC)](/files/AVC__2026_Term_1_Class_Test_Topics_and_Format_27_Jan.pdf)
