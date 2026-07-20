@@ -8,6 +8,12 @@ variant: markdown
 
 [WA3 Sec 1 Parents Letter and ClassTestTopics 2026](/files/2026_WA3_Sec_1_Parents_Letter_and_Class_Test_Topics.pdf)
 
+[2026 WA3 Sec 1 Class Test Schedule ABC](/files/2026_WA3_Sec_1_Class_Test_Schedule_ABC_Final.pdf)
+
+[2026 WA3 Sec 1 Class Test Schedule DEF](/files/2026_WA3_Sec_1_Class_Test_Schedule_DEF_Final.pdf)
+
+[2026 WA3 Sec 1 Class Test Schedule GHJK](/files/2026_WA3_Sec_1_Class_Test_Schedule_GHJK_Final.pdf)
+
 [Term 2 Class Test Topics (AVC)](/files/Term_2_Class_Test_Topics__AVC_.pdf)
 
 [Term 1 Class Test Topics (AVC)](/files/AVC__2026_Term_1_Class_Test_Topics_and_Format_27_Jan.pdf)
