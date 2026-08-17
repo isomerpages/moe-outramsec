@@ -32,6 +32,6 @@ variant: markdown
 ### **Resources for HBL**
 [Student Device Information Kit Acer Centre and Help Centre Information](/files/Parents%20and%20Students/Students/Appendix%201%20-%20Student%20Device%20Information%20Kit%20Acer%20Service%20Centre%20and%20HelpCentre%20Information.pdf)
 
-[Blended Learning@Home Instructions to Students](/files/Parents%20and%20Students/Students/Standard%20Instructions%20for%20BLHome.pdf)
+
 
 [Resources for Full HBL](/Resources-for-FHBL/)
