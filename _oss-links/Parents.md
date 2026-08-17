@@ -6,6 +6,8 @@ variant: markdown
 ---
 ### **Assesment Matters**
 
+[EOY S1 Exam Timetable 2026](/files/2026_EOY_S1_Exam_Timetable.pdf)
+
 [Prelim Exam Schedule 2026](/files/2026_Prelim_Exam_Schedule_Final.pdf)
 
 [WA3 Sec 1 Parents Letter and ClassTestTopics 2026](/files/2026_WA3_Sec_1_Parents_Letter_and_Class_Test_Topics.pdf)
@@ -62,9 +64,9 @@ variant: markdown
 ### **Letter to Parents**
 [ANNEX A Traffic Management at Outram Sec YHC and AVC](/files/ANNEX_A__Traffic_Management_at_Outram_Sec__YHC___AVC___1_.pdf)
 
-[AVC Letter to Parents Term 3 2026](/files/For_AVC__Letter_to_Parents_Term_3_2026__1_.pdf)
+[AVC Letter to Parents Term 3 2026](/files/For_AVC__Updated_Letter_to_Parents_Term_3_2026.pdf)
 
-[YHC Letter to Parents Term 3 2026](/files/For_YHC__Letter_to_Parents_Term_3_2026.pdf)
+[YHC Letter to Parents Term 3 2026](/files/For_YHC__Updated_Letter_to_Parents_Term_3_2026.pdf)
 
 [AVC Letter to Parents Term 2 2026](/files/For_AVC__Letter_to_Parents_Term_2_2026.pdf)
 
