@@ -9,7 +9,7 @@ variant: markdown
 
 [EOY S1 Exam Timetable 2026](/files/2026_EOY_S1_Exam_Timetable.pdf)
 
-[Prelim Exam Schedule 2026](/files/2026_Prelim_Exam_Schedule_Final.pdf)
+[Prelim Exam 2026](/files/2026_Prelim_Exam__Final_.pdf)
 
 [WA3 Sec 1 Parents Letter and ClassTestTopics 2026](/files/2026_WA3_Sec_1_Parents_Letter_and_Class_Test_Topics.pdf)
 
