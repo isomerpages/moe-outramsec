@@ -31,6 +31,7 @@ sections:
       button: Click here to view
       url: https://nominations-for-outramian-character-award-and-outramian-e21cc-award/
       image: /images/Picture1__002_.png
+      subtitle: m
   - infobar:
       title: 2026 Secondary 1 Registration
       id: infobar
