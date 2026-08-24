@@ -62,5 +62,5 @@ sections:
       button: Click her for more info
       url: https://
       image: /images/Picture1__002_.png
-      alt: Image alt text
+      alt: ""
 ---
