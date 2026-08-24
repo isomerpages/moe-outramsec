@@ -26,10 +26,10 @@ sections:
       alignment: right
       backgroundColor: gray
   - infobar:
-      title: Direct School Admission Exercise 2026
       id: infobar
       button: Click here to view
       url: https://sites.google.com/moe.edu.sg/ossopenhouse/dsa-oss
+      description: Nominations for Outramian Character Award & Outramian E21CC Award.
   - infobar:
       title: 2026 Secondary 1 Registration
       id: infobar
