@@ -25,6 +25,12 @@ sections:
       size: sm
       alignment: right
       backgroundColor: gray
+  - infopic:
+      id: infopic
+      description: Nominations for Outramian Character Award & Outramian E21CC Award.
+      button: Click for more info
+      url: https://nominations-for-outramian-character-award-and-outramian-e21cc-award/
+      image: /images/Picture1__002_.png
   - infobar:
       title: 2026 Secondary 1 Registration
       id: infobar
@@ -56,10 +62,4 @@ sections:
         and are inspired by Social Service Agencies. #thisisOutram"
       image: /images/Caring_Contributors_s.jpg
       alt: Contributors with Compassion
-  - infopic:
-      id: infopic
-      description: Nominations for Outramian Character Award & Outramian E21CC Award.
-      button: Click her for more info
-      url: https://nominations-for-outramian-character-award-and-outramian-e21cc-award/
-      image: /images/Picture1__002_.png
 ---
