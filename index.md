@@ -28,7 +28,7 @@ sections:
   - infobar:
       id: infobar
       button: Click here to view
-      url: /files/
+      url: /files/OSS_Student_Award_Nominations_2026
       description: Nominations for Outramian Character Award & Outramian E21CC Award.
   - infobar:
       title: 2026 Secondary 1 Registration
