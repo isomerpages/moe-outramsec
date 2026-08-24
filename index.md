@@ -30,7 +30,7 @@ sections:
       description: Nominations for Outramian Character Award & Outramian E21CC Award.
       button: Click here to view
       url: https://nominations-for-outramian-character-award-and-outramian-e21cc-award/
-      image: /images/Picture1__002_.png
+      image: /images/Picture1__002_.jpg
   - infobar:
       title: 2026 Secondary 1 Registration
       id: infobar
