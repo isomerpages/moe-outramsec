@@ -7,3 +7,11 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Link: <a href="https://go.gov.sg/ossaward2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ossaward2026</a>
+</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Slide1.jpg">
+</div>
+<p></p>
