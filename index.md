@@ -26,11 +26,6 @@ sections:
       alignment: right
       backgroundColor: gray
   - infobar:
-      id: infobar
-      button: Click here to view
-      url: /files/OSS_Student_Award_Nominations_2026
-      description: Nominations for Outramian Character Award & Outramian E21CC Award.
-  - infobar:
       title: 2026 Secondary 1 Registration
       id: infobar
       button: CLICK HERE TO VIEW
@@ -61,4 +56,11 @@ sections:
         and are inspired by Social Service Agencies. #thisisOutram"
       image: /images/Caring_Contributors_s.jpg
       alt: Contributors with Compassion
+  - infopic:
+      id: infopic
+      description: Nominations for Outramian Character Award & Outramian E21CC Award.
+      button: Click her for more info
+      url: https://
+      image: /images/Picture1__002_.png
+      alt: Image alt text
 ---
