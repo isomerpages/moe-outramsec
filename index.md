@@ -28,7 +28,7 @@ sections:
   - infopic:
       id: infopic
       description: Nominations for Outramian Character Award & Outramian E21CC Award.
-      button: Click for more info
+      button: Click here to view
       url: https://nominations-for-outramian-character-award-and-outramian-e21cc-award/
       image: /images/Picture1__002_.png
   - infobar:
