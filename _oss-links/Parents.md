@@ -6,6 +6,7 @@ variant: markdown
 ---
 ### **Assesment Matters**
 
+[2026 Sec 3 EOY Exam Schedule](/files/2026_EOY_S3_Exam_Timetable__Final_.pdf)
 
 [EOY S1 Exam Timetable 2026](/files/2026_EOY_S1_Exam_Timetable.pdf)
 
